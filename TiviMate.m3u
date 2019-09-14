@@ -3,6 +3,7 @@ x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
 x-tvg-url="http://195.154.221.171/epg/guidespain.xml.gz"
 x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
 ##USA Channels##

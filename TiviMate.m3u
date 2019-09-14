@@ -5,105 +5,105 @@
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA", CBS HD
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-name="KCBSDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCBSDT.png" group-title="local", CBS
+#EXTINF:-1 tvg-name="KCBSDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCBSDT.png" group-title="local", CBS
 https://api.locastnet.org/api/watch/stream/1075/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA", ABC (PST)
 http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA", ABC (EST)
 http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ABC HD New York-US" tvg-shift="2" tvg-name="KABC" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KABC.png" group-title="local", ABC
+#EXTINF:-1 tvg-id="ABC HD New York-US" tvg-name="KABC" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KABC.png" group-title="local", ABC
 https://api.locastnet.org/api/watch/stream/1089/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-id="NBC HD New York-US" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA", NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-name="KNBCDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT.png" group-title="local", NBC
+#EXTINF:-1 tvg-name="KNBCDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT.png" group-title="local", NBC
 https://api.locastnet.org/api/watch/stream/1077/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KTTVDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTTVDT.png" group-title="local", FOX
+#EXTINF:-1 tvg-name="KTTVDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTTVDT.png" group-title="local", FOX
 https://api.locastnet.org/api/watch/stream/1109/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KLCSDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT.png" group-title="local", PBS
+#EXTINF:-1 tvg-name="KLCSDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT.png" group-title="local", PBS
 https://api.locastnet.org/api/watch/stream/1243/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KNBCDT2" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT2.png" group-title="local", COZI
+#EXTINF:-1 tvg-name="KNBCDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT2.png" group-title="local", COZI
 https://api.locastnet.org/api/watch/stream/1078/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA", CW (WTOG) (EST)
 http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="KTLADT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT.png" group-title="local", CW
+#EXTINF:-1 tvg-name="KTLADT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT.png" group-title="local", CW
 https://api.locastnet.org/api/watch/stream/1079/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KTLADT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT2.png" group-title="local", Antenna
+#EXTINF:-1 tvg-name="KTLADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT2.png" group-title="local", Antenna
 https://api.locastnet.org/api/watch/stream/1080/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KTLADT3" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT3.png" group-title="local", ThisTV
+#EXTINF:-1 tvg-name="KTLADT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT3.png" group-title="local", ThisTV
 https://api.locastnet.org/api/watch/stream/1081/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="LAFF" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/LAFF.png" group-title="local", LAFF
+#EXTINF:-1 tvg-name="LAFF" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/LAFF.png" group-title="local", LAFF
 https://api.locastnet.org/api/watch/stream/1091/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KFLA" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFLA.png" group-title="local", NewsNet
+#EXTINF:-1 tvg-name="KFLA" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFLA.png" group-title="local", NewsNet
 https://api.locastnet.org/api/watch/stream/1092/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="AMG" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/AMG.png" group-title="local", AMG
+#EXTINF:-1 tvg-name="AMG" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/AMG.png" group-title="local", AMG
 https://api.locastnet.org/api/watch/stream/1094/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCALDT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCALDT.png" group-title="local", KCAL
+#EXTINF:-1 tvg-name="KCALDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCALDT.png" group-title="local", KCAL
 https://api.locastnet.org/api/watch/stream/1101/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCOPDT3" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT3.png" group-title="local", Buzzr
+#EXTINF:-1 tvg-name="KCOPDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT3.png" group-title="local", Buzzr
 https://api.locastnet.org/api/watch/stream/1115/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCOPDT4" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT4.png" group-title="local", Movies
+#EXTINF:-1 tvg-name="KCOPDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT4.png" group-title="local", Movies
 https://api.locastnet.org/api/watch/stream/1116/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCOPDT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT2.png" group-title="local", Heroes
+#EXTINF:-1 tvg-name="KCOPDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT2.png" group-title="local", Heroes
 https://api.locastnet.org/api/watch/stream/1117/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCETDT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT.png" group-title="local", KCET
+#EXTINF:-1 tvg-name="KCETDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT.png" group-title="local", KCET
 https://api.locastnet.org/api/watch/stream/1150/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KCETDT3" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT3.png" group-title="local", NHK World
+#EXTINF:-1 tvg-name="KCETDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT3.png" group-title="local", NHK World
 https://api.locastnet.org/api/watch/stream/1152/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KMEXDT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT.png" group-title="local", Univision
+#EXTINF:-1 tvg-name="KMEXDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT.png" group-title="local", Univision
 https://api.locastnet.org/api/watch/stream/1173/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name"KMEXDT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT2.png" group-title="local", Unimas
+#EXTINF:-1 tvg-name"KMEXDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT2.png" group-title="local", Unimas
 https://api.locastnet.org/api/watch/stream/1174/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KFTRDT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT2.png" group-title="local", GetTV
+#EXTINF:-1 tvg-name="KFTRDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT2.png" group-title="local", GetTV
 https://api.locastnet.org/api/watch/stream/1209/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KFTRDT3" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT3.png" group-title="local", ESCAPE
+#EXTINF:-1 tvg-name="KFTRDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT3.png" group-title="local", ESCAPE
 https://api.locastnet.org/api/watch/stream/1210/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KFTRDT4" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT4.png" group-title="local", GRIT
+#EXTINF:-1 tvg-name="KFTRDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT4.png" group-title="local", GRIT
 https://api.locastnet.org/api/watch/stream/1211/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-id="" tvg-name="KVEADT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT.png" group-title="local", Telemundo
+#EXTINF:-1 tvg-id="Telemundo" tvg-name="KVEADT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT.png" group-title="local", Telemundo
 https://api.locastnet.org/api/watch/stream/1218/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-id="" tvg-name="KVEADT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT2.png" group-title="local", TelXtos
+#EXTINF:-1 tvg-id="" tvg-name="KVEADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT2.png" group-title="local", TelXtos
 https://api.locastnet.org/api/watch/stream/1219/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KAZADT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT.png" group-title="local", MeTV
+#EXTINF:-1 tvg-name="KAZADT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT.png" group-title="local", MeTV
 https://api.locastnet.org/api/watch/stream/1221/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KAZADT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT2.png" group-title="local", Decades
+#EXTINF:-1 tvg-name="KAZADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT2.png" group-title="local", Decades
 https://api.locastnet.org/api/watch/stream/1222/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KDOCDT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT.png" group-title="local", KDOC
+#EXTINF:-1 tvg-name="KDOCDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT.png" group-title="local", KDOC
 https://api.locastnet.org/api/watch/stream/1225/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KDOCDT4" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT4.png" group-title="local", Comet
+#EXTINF:-1 tvg-name="KDOCDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT4.png" group-title="local", Comet
 https://api.locastnet.org/api/watch/stream/1228/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KLCSDT3" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT3.png" group-title="local", Create
+#EXTINF:-1 tvg-name="KLCSDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT3.png" group-title="local", Create
 https://api.locastnet.org/api/watch/stream/1245/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="Estrella TV" tvg-shift="-7" tvg-logo="http://fans.tmsimg.com/assets/s65064_ll_h3_aa.png" group-title="local", Estrella
+#EXTINF:-1 tvg-name="Estrella TV" tvg-logo="http://fans.tmsimg.com/assets/s65064_ll_h3_aa.png" group-title="local", Estrella
 https://api.locastnet.org/api/watch/stream/271/33/-97/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="USA", Fuse (Opt-1)

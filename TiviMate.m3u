@@ -5,28 +5,28 @@
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-id="CBS HD New York-US" tvg-name="CBS HD New York-US" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA", CBS HD
 http://161.0.157.5/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 tvg-name="KCBSDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCBSDT.png" group-title="local", CBS
+#EXTINF:-1 tvg-name="KCBSDT" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCBSDT.png" group-title="local", CBS
 https://api.locastnet.org/api/watch/stream/1075/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA", ABC (PST)
 http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA", ABC (EST)
 http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ABC HD New York-US" tvg-shift="2" tvg-name="KABC" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KABC.png" group-title="local", ABC
+#EXTINF:-1 tvg-id="ABC HD New York-US" tvg-shift="-1" tvg-name="KABC" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KABC.png" group-title="local", ABC
 https://api.locastnet.org/api/watch/stream/1089/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-id="NBC HD New York-US" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA", NBC
 http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 tvg-name="KNBCDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT.png" group-title="local", NBC
+#EXTINF:-1 tvg-name="KNBCDT" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT.png" group-title="local", NBC
 https://api.locastnet.org/api/watch/stream/1077/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KTTVDT" tvg-shift="2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTTVDT.png" group-title="local", FOX
+#EXTINF:-1 tvg-name="KTTVDT" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTTVDT.png" group-title="local", FOX
 https://api.locastnet.org/api/watch/stream/1109/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KLCSDT" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT.png" group-title="local", PBS
+#EXTINF:-1 tvg-name="KLCSDT" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT.png" group-title="local", PBS
 https://api.locastnet.org/api/watch/stream/1243/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
-#EXTINF:-1 tvg-name="KNBCDT2" tvg-shift="-7" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT2.png" group-title="local", COZI
+#EXTINF:-1 tvg-name="KNBCDT2" tvg-shift="-1" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT2.png" group-title="local", COZI
 https://api.locastnet.org/api/watch/stream/1078/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA", CW (WTOG) (EST)

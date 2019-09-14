@@ -1,4 +1,9 @@
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+#EXTM3U
+x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
+x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
+x-tvg-url="http://195.154.221.171/epg/guidespain.xml.gz"
+x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+
 
 ##USA Channels##
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA", CBS

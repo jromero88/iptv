@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://deluxeplay.live:8080/images/yeo1M09xbPX5utKk7wc9IjDKW3a_small.jpg" tvg-name="(2018) Mortal Engines"  group-title="Películas Ultra HD (4K)",(2018) Mortal Engines
 http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/19268.mkv
@@ -1790,9 +1790,6 @@ http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/6764.mkv
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzdlNDk0YTMtNWJjOS00NzhlLThiOTAtZDUyOWNkNDQ2NmU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-name="(1983) Videodrome"  group-title="Películas Ciencia Ficción",(1983) Videodrome
 http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/16131.mkv
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-name="(1999) The Matrix"  group-title="Películas Ciencia Ficción",(1999) The Matrix
-http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/11545.mkv
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://iptv.wtf:25461/images/jFaEZy8sHuP51iVWQ3g95mBejFz_small.jpg" tvg-name="(2017) Attraction"  group-title="Películas Ciencia Ficción",(2017) Attraction
 http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/12840.mkv
@@ -6872,4 +6869,3 @@ http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/20196.mkv
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Title N/A"  group-title="Películas",Title N/A
 http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/16121.mkv
-

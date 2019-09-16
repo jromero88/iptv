@@ -226,24 +226,6 @@ http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="MOVIES", Movies4men [OFF AIR]
 #https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES", Fox Premium Action
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/747
-
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES", Fox Premium Cinema HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/748
-
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES", Fox Premium Classics HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/749
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES", Fox Premium Comedy
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/750
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES", Fox Premium Family
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/751
-
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES", Fox Premium Movies
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/752
-
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11520.m3u8
 
@@ -262,21 +244,50 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11513.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", Ultra Mex
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11512.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="MOVIES", MOREMAX
-http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES", HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES", HBO ZONE
-http://185.246.209.109:8080/HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/636px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIES", SHOWCASE
-http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
-
-
 
 ##Movies VIP##
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10717.m3u8
+
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10716.m3u8
+
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10715.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10714.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10713.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD [Dual Audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10712.m3u8
+
+#EXTINF:-1 group-title="MOVIES VIP",HBO Full HD [Dual audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10705.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP",HBO 2 Full HD [Dual audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10707.m3u8
+
+#EXTINF:-1 group-title="MOVIES VIP",HBO Plus Full HD [Dual audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10704.m3u8
+
+#EXTINF:-1 group-title="MOVIES VIP",HBO Family Full HD [Dual audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10706.m3u8
+
+#EXTINF:-1 group-title="MOVIES VIP",HBO Signature Full HD [Dual audio]
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10703.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="MOVIES VIP", MOREMAX
+http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/636px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIES VIP", SHOWCASE
+http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png" group-title="MOVIES VIP", SKY Atlantic HD
 #http://www.sansat.net:25461/jean1/jean1/8178
 
@@ -337,7 +348,79 @@ http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37022
 #EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600---M-CINEDOCANDROLL.png" group-title="MOVIES VIP", Movistar CineDoc&Roll
 http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37028
 
-
+##PPV Latino##
+#EXTINF:-1 group-title="PPV Latino",Cinema 01 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8552.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 02 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8551.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 03 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8550.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 04 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8549.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 05 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8548.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 06 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8547.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 07 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8546.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 08 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8545.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 09 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8544.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 10 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8543.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 11 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8542.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 12 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8541.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 13 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8540.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 14 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8539.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 15 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8538.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 16 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8537.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 17 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8536.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 18 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8535.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 19 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8534.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 20 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8533.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 21 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8532.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 22 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8531.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 23 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8530.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 24 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8529.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 25 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8528.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 26 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8527.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 27 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8526.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 28 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8525.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 29 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8524.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 30 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8523.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 31 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8522.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 32 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8521.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 33 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8520.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 34 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8519.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 35 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8518.m3u8
+#EXTINF:-1 group-title="PPV Latino",Cinema 36 PPV FHD (ES)
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/8517.m3u8
 
 
 
@@ -435,123 +518,30 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17167.m3u8
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17157.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Az Cinema FULL HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11252.m3u8
-#EXTINF:-1,Az Cinema Full HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17163.m3u8
-#EXTINF:-1,Az Clic FULL HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11251.m3u8
-#EXTINF:-1,Az Clic Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17162
-#EXTINF:-1,Az Corazón FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11250
-#EXTINF:-1,Az Corazon Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17161
-#EXTINF:-1,Az Mundo Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17160
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11248
-#EXTINF:-1,Azteca 13 Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17159
-#EXTINF:-1,Azteca Internacional FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11166
-
-#EXTINF:-1,México | Canal 5
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16828
-#EXTINF:-1,México | Canal 5 Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17154
-#EXTINF:-1,México | Canal 5 FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11244
-#EXTINF:-1,México | Canal 5 HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11406
-#EXTINF:-1,México | Canal 50 Juarez HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11332
-#EXTINF:-1,México | Canal 8
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16827
-#EXTINF:-1,México | Canal del Congreso FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11243
-#EXTINF:-1,México | Canal Judicial FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11242
-#EXTINF:-1,México | Canal Judicial HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11314
-#EXTINF:-1,México | Canal Once
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16826
-#EXTINF:-1,México | Canal Once HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11284
-#EXTINF:-1,México | Canal Once TV Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17153
-#EXTINF:-1,México | Estrella TV
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/14724
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11213
-#EXTINF:-1,México | Mexiquense Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17103
-#EXTINF:-1,México | Mexiquense FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11211
-#EXTINF:-1,México | Mexiquense HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11280
-#EXTINF:-1,México | Milenio TV
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16817
-#EXTINF:-1,México | Milenio TV FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11210
-#EXTINF:-1,México | Milenio TV Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17102
-#EXTINF:-1,México | Milenio TV HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11393
-#EXTINF:-1,México | Televisa MTY FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11190
-#EXTINF:-1,México | Televisa MTY HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11398
-#EXTINF:-1,México | Televisa Puebla Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17069
-#EXTINF:-1,México | Televisa Puebla FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11189
-#EXTINF:-1,México | Televisa Puebla HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11267
-#EXTINF:-1,México | TVC
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16813
-#EXTINF:-1,México | TVC Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17063
-#EXTINF:-1,México | TVC FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11184
-#EXTINF:-1,México | TVC HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11291
-#EXTINF:-1,México | Unicable
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16812
-#EXTINF:-1,México | Unicable FULL HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11182
-#EXTINF:-1,México | Unicable Full HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17062
-#EXTINF:-1,México | Unicable HQ
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11316
-
-
-
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Azteca Cinema
-http://cdn.miip.tv:80/samuel/123456/17422
-
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 HD
-http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17159
-
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17159.m3u8
+#EXTINF:-1 group-title="MEXICO",Azteca Internacional FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11166.m3u8
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png" group-title="MEXICO", Canal Mundo+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once TV Full HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", De Pelicula
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/703
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11213.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11210.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", De Película Plus FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17148.m3u8
 
 
 
@@ -684,19 +674,22 @@ http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
 
 ##Spain##
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
-http://cdn.miip.tv:80/samuel/123456/3859
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17232.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/La2HD.png/revision/latest/scale-to-width-down/185?cb=20190108003447" group-title="SPAIN", La 2 HD
-http://cdn.miip.tv:80/samuel/123456/3860
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17230.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3 HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/26210
+#http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11254.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPAIN", A3series HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17249.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/1000?cb=20121227195336" group-title="SPAIN", Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="SPAIN", Cuatro HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/26358
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17242.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
@@ -711,7 +704,7 @@ http://cdn.miip.tv:80/samuel/123456/476
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SPAIN", Calle 13
-http://cdn.miip.tv:80/samuel/123456/498
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17290.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-1)
 http://cdn.miip.tv:80/samuel/123456/470

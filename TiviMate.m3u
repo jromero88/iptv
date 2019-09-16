@@ -892,6 +892,9 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11459.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="http://universosaintseiya.com/wp-content/uploads/2015/09/cropped-LOGO-USS-valido.png" group-title="Canales 24/7",Caballeros del zodiaco |Saint Seiya|
 http://tv.ultraiptv.org:80//live/kdntoukw/Y80iOjah19/11458.m3u8
 
+#EXTINF:-1 group-title="Canales 24/7",24/7 Candy Candy
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11457.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cat-Dog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Catdog_logo.png" group-title="Canales 24/7",Cat-Dog
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11456.m3u8
 

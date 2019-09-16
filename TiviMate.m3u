@@ -270,10 +270,10 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10713.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10712.m3u8
 
-#EXTINF:-1 group-title="MOVIES VIP",HBO Full HD [Dual audio]
+#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO Full HD [Dual audio]
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10705.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP",HBO 2 Full HD [Dual audio]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 Full HD [Dual audio]
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10707.m3u8
 
 #EXTINF:-1 group-title="MOVIES VIP",HBO Plus Full HD [Dual audio]

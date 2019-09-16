@@ -36,9 +36,9 @@ Below you can find a manually selected list of such applications for different p
 
 If your application does not support nested playlists, you can instead use one of these playlists:
 
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.full.m3u` (grouped by country and content)
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.country.m3u` (grouped by country)
-- `https://raw.githubusercontent.com/freearhey/iptv/master/index.content.m3u` (grouped by content)
+- `https://raw.githubusercontent.com/jromero88/iptv/master/index.full.m3u` (grouped by country and content)
+- `https://raw.githubusercontent.com/jromero88/iptv/master/index.country.m3u` (grouped by country)
+- `https://raw.githubusercontent.com/jromero88/iptv/master/index.content.m3u` (grouped by content)
 
 Or select one of the playlists from the list below.
 
@@ -72,26 +72,26 @@ Or select one of the playlists from the list below.
 
 | Country                | Channels | Playlist | EPG
 | :--------------------- | -------: | :------- | :--
-| Argentina              | 86       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/ar.m3u` |
-| Australia              | 15       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/au.m3u` | `http://i.mjh.nz/nzau/epg.xml.gz`
-| Bolivia                | 10       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/bo.m3u` |
-| Canada                 | 40       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/ca.m3u` | `http://epg.streamstv.me/epg/guide-canada.xml.gz`
-| Chile                  | 73       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/cl.m3u` |
-| Colombia               | 33       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/co.m3u` |
-| Costa Rica             | 12       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/cr.m3u` |
-| El Salvador            | 2        | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/sv.m3u` |
-| Guatemala              | 4        | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/gt.m3u` |
-| Honduras               | 34       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/hn.m3u` |
-| Mexico                 | 59       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/mx.m3u` |
-| New Zealand            | 10       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/nz.m3u` | `http://i.mjh.nz/nzau/epg.xml.gz`
-| Nicaragua              | 10       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/ni.m3u` |
-| Panama                 | 2        | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/pa.m3u` |
-| Peru                   | 29       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/pe.m3u` |
-| Spain                  | 162      | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/es.m3u` | `http://195.154.221.171/epg/guidespain.xml.gz`
-| United Kingdom         | 40       | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/uk.m3u` | `http://195.154.221.171/epg/guideuk.xml.gz`
-| United States          | 560      | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/us.m3u` | `http://epg.streamstv.me/epg/guide-usa.xml.gz`
-| Venezuela              | 8        | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/ve.m3u` |
-| International          | 408      | `https://raw.githubusercontent.com/freearhey/iptv/master/channels/int.m3u`|
+| Argentina              | 86       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/ar.m3u` |
+| Australia              | 15       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/au.m3u` | `http://i.mjh.nz/nzau/epg.xml.gz`
+| Bolivia                | 10       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/bo.m3u` |
+| Canada                 | 40       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/ca.m3u` | `http://epg.streamstv.me/epg/guide-canada.xml.gz`
+| Chile                  | 73       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/cl.m3u` |
+| Colombia               | 33       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/co.m3u` |
+| Costa Rica             | 12       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/cr.m3u` |
+| El Salvador            | 2        | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/sv.m3u` |
+| Guatemala              | 4        | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/gt.m3u` |
+| Honduras               | 34       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/hn.m3u` |
+| Mexico                 | 59       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/mx.m3u` |
+| New Zealand            | 10       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/nz.m3u` | `http://i.mjh.nz/nzau/epg.xml.gz`
+| Nicaragua              | 10       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/ni.m3u` |
+| Panama                 | 2        | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/pa.m3u` |
+| Peru                   | 29       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/pe.m3u` |
+| Spain                  | 162      | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/es.m3u` | `http://195.154.221.171/epg/guidespain.xml.gz`
+| United Kingdom         | 40       | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/uk.m3u` | `http://195.154.221.171/epg/guideuk.xml.gz`
+| United States          | 560      | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/us.m3u` | `http://epg.streamstv.me/epg/guide-usa.xml.gz`
+| Venezuela              | 8        | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/ve.m3u` |
+| International          | 408      | `https://raw.githubusercontent.com/jromero88/iptv/master/channels/int.m3u`|
 
 
 ## Contribution

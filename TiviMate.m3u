@@ -507,6 +507,9 @@ http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="HONDURAS", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/VTV_Honduras.png" group-title="HONDURAS", VTV
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY4Njk2MDQ4LCJzZXNzaW9uIjoiNzYuMTc1LjE5NC4zNiIsIndoaXRlbGlzdCI6WyI3Ni4xNzUuMTk0LjM2Il19LCJzaWduYXR1cmUiOiJjMzdkNGM4Mzc5YmQ2NjI5YjRjMzg1ZThmODNmN2NiNGQ5ZmY0MTBkIn0=
+
 
 
 

@@ -196,6 +196,12 @@ http://185.246.209.109:8080/TCM/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Canal_TCM_ES.png" group-title="MOVIES", TCM ES
 http://cdn.miip.tv:80/samuel/123456/2376
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MOVIES", Az Cinema FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11252.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MOVIES", De Película Plus FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17148.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="MOVIES", Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
 
@@ -516,14 +522,10 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11403.m3u8
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17157.m3u8
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Az Cinema FULL HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11252.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 FULL HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17159.m3u8
-#EXTINF:-1 group-title="MEXICO",Azteca Internacional FULL HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11166.m3u8
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png" group-title="MEXICO", Canal Mundo+
@@ -540,8 +542,6 @@ http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11213.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV FULL HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11210.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", De Película Plus FULL HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17148.m3u8
 
 
 

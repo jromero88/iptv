@@ -488,8 +488,8 @@ http://cdn.miip.tv:80/samuel/123456/2370
 ##Mexico##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HQ
-http://cdn.miip.tv:80/samuel/123456/17388
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 Local
+http://server.stablechannels.tv:8080/Jxv5VBjzX/yT209Sxj4s/17167
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17167.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno Full HD

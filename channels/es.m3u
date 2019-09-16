@@ -1,0 +1,85 @@
+#EXTM3U x-tvg-url="http://195.154.221.171/epg/guidespain.xml.gz"
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
+http://cdn.miip.tv:80/samuel/123456/3859
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/La2HD.png/revision/latest/scale-to-width-down/185?cb=20190108003447" group-title="SPAIN", La 2 HD
+http://cdn.miip.tv:80/samuel/123456/3860
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3
+http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37097
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/1000?cb=20121227195336" group-title="SPAIN", Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="SPAIN", Cuatro HD
+http://cdn.miip.tv:80/samuel/123456/3856
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco HD
+http://cdn.miip.tv:80/samuel/123456/3866
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-1)
+http://cdn.miip.tv:80/samuel/123456/476
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-2)
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SPAIN", Calle 13
+http://cdn.miip.tv:80/samuel/123456/498
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-1)
+http://cdn.miip.tv:80/samuel/123456/470
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-2)
+http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES
+http://cdn.miip.tv:80/samuel/123456/2375
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES HD
+http://cdn.miip.tv:80/samuel/123456/3853
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/225px-DMax_Espa%C3%B1a.svg.png" group-title="SPAIN", DMax
+http://cdn.miip.tv:80/samuel/123456/486
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="SPAIN", Hollywood
+http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37071
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1920px-MEGA.svg.png" group-title="SPAIN", MEGA
+http://cdn.miip.tv:80/samuel/123456/2373
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/120px-Neox.svg.png" group-title="SPAIN", Neox
+http://cdn.miip.tv:80/samuel/123456/3864
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png" group-title="SPAIN", ODISEA
+http://cdn.miip.tv:80/samuel/123456/2374
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Syfy_Universal.png/120px-Syfy_Universal.png" group-title="SPAIN", Syfy Universal
+http://cdn.miip.tv:80/samuel/123456/468
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES
+http://cdn.miip.tv:80/samuel/123456/2371
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES HD
+http://cdn.miip.tv:80/samuel/123456/3867
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN", Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+
+#EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN", Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-1)
+http://cdn.miip.tv:80/samuel/123456/2246
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-2)
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Arag%C3%B3n_TV_logo_2009.png" group-title="SPAIN", Aragon TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="SPAIN", La Voz 24h
+https://pull12.atresmedia.com/lavoz/master.m3u8

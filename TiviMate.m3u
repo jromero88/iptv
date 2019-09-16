@@ -180,56 +180,94 @@ http://80.80.160.168/live/9/live.m3u8
 ##Film Channels##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="MOVIES", American Horrors (Opt-1)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="MOVIES", American Horrors (Opt-2)
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/SFO/KTVUDT3.png" group-title="MOVIES", Movies!
-https://api.locastnet.org/api/watch/stream/1116/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="MOVIES", The Film Detective
 https://distro.akamaized.net/indexfd_1280x720.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="MOVIES", TCM
 http://185.246.209.109:8080/TCM/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Canal_TCM_ES.png" group-title="MOVIES", TCM ES
 http://cdn.miip.tv:80/samuel/123456/2376
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="MOVIES", Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="MOVIES", Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="MOVIES", Filmrise Family
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES", Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="MOVIES", SYFY
 http://185.246.209.109:8080/SYFY/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/1280px-IFC_2014_logo.svg.png" group-title="MOVIES", IFC (Opt-1)
 http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/375px-IFC_2014_logo.svg.png" group-title="MOVIES", IFC (Opt-2)
 http://185.246.209.109:8080/IFC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Cl4Fln.png" group-title="MOVIES", Sundance TV
 http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/horrorchannel.png" group-title="MOVIES", Horror Channel [OFF AIR]
-https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
+#https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
+
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="MOVIES", Movies4men [OFF AIR]
-https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/De_pelicula_logo.png/330px-De_pelicula_logo.png" group-title="MOVIES", De Película
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
+#https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES", Fox Premium Action
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/747
+
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES", Fox Premium Cinema HD
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/748
+
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES", Fox Premium Classics HD
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/749
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES", Fox Premium Comedy
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/750
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES", Fox Premium Family
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/751
+
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES", Fox Premium Movies
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/752
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11520.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="MOVIES", Ultra Clasico
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11519.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Documentales" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="MOVIES", Ultra Docu
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11518.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="MOVIES", Ultra Luna
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11514.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="MOVIES", Ultra Macho
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11513.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", Ultra Mex
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11512.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="MOVIES", MOREMAX
 http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES", HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES", HBO ZONE
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/636px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIES", SHOWCASE
 http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 
@@ -237,29 +275,29 @@ http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 
 ##USUALLY OFF-AIR Channels##
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png" group-title="MOVIES VIP", SKY Atlantic HD
-http://www.sansat.net:25461/jean1/jean1/8178
+#http://www.sansat.net:25461/jean1/jean1/8178
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action HD
-http://www.sansat.net:25461/jean1/jean1/8177
+#http://www.sansat.net:25461/jean1/jean1/8177
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy HD
-http://www.sansat.net:25461/jean1/jean1/8175
+#http://www.sansat.net:25461/jean1/jean1/8175
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney HD
-http://www.sansat.net:25461/jean1/jean1/8174
+#http://www.sansat.net:25461/jean1/jean1/8174
 #EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES VIP", SKY Cinema Drama Romance HD
-http://www.sansat.net:25461/jean1/jean1/8173
+#http://www.sansat.net:25461/jean1/jean1/8173
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family HD
-http://www.sansat.net:25461/jean1/jean1/8172
+#http://www.sansat.net:25461/jean1/jean1/8172
 #EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats HD
-http://www.sansat.net:25461/jean1/jean1/8171
+#http://www.sansat.net:25461/jean1/jean1/8171
 #EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits HD
-http://www.sansat.net:25461/jean1/jean1/8170
+#http://www.sansat.net:25461/jean1/jean1/8170
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere HD
-http://www.sansat.net:25461/jean1/jean1/8169
+#http://www.sansat.net:25461/jean1/jean1/8169
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror HD
-http://www.sansat.net:25461/jean1/jean1/8168
+#http://www.sansat.net:25461/jean1/jean1/8168
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select HD
-http://www.sansat.net:25461/jean1/jean1/8167
+#http://www.sansat.net:25461/jean1/jean1/8167
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller HD
-http://www.sansat.net:25461/jean1/jean1/8165
+#http://www.sansat.net:25461/jean1/jean1/8165
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
 http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37037
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES VIP", Movistar Comedia
@@ -320,17 +358,17 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11484.m3u8
 
 ##Kids Channels##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="KIDS", Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="KIDS", Cbeebies [OFF AIR]
-https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
+#https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS", Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="KIDS", CBBC [OFF AIR]
-https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
+#https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="KIDS", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-1)
@@ -354,11 +392,14 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno HD
 http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/655
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11248.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 HD
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/656
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Azteca-houston.png" group-title="MEXICO", Azteca America 51
 https://api.locastnet.org/api/watch/stream/444/29.5/-95.5/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas HD
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/793
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Azteca Cinema
 http://cdn.miip.tv:80/samuel/123456/17422
@@ -384,8 +425,8 @@ http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="MEXICO", Canal de las Estrellas [OFF AIR]
-#http://iptv-line.com:6969/live:deejayxma_1/emkPZhvL47/6792
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", De Pelicula
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/703
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
@@ -428,7 +469,7 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 
 
-##UK Channels##
+##UK##
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guideuk.xml.gz"
 #EXTINF:-1 tvg-id="BBC ALBA UK" tvg-name="BBC ALBA UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/bbcalba.png" group-title="UK", BBC Alba HD [OFF-AIR]
 ##http://tv.bestiptv-shop.com:7000/873974867/439074973/1398
@@ -517,7 +558,7 @@ http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
 
 
 
-##SPAIN Channels##
+##Spain##
 #EXTM3U x-tvg-url="http://195.154.221.171/epg/guidespain.xml.gz"
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
@@ -526,14 +567,14 @@ http://cdn.miip.tv:80/samuel/123456/3859
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/La2HD.png/revision/latest/scale-to-width-down/185?cb=20190108003447" group-title="SPAIN", La 2 HD
 http://cdn.miip.tv:80/samuel/123456/3860
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37097
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3 HD
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/26210
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/1000?cb=20121227195336" group-title="SPAIN", Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="SPAIN", Cuatro HD
-http://cdn.miip.tv:80/samuel/123456/3856
+http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/26358
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8

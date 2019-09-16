@@ -428,31 +428,109 @@ http://cdn.miip.tv:80/samuel/123456/2370
 
 ##Mexico##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
-http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11403.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 Full HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno Full HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17157.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Az Cinema FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11252.m3u8
+#EXTINF:-1,Az Cinema Full HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17163.m3u8
+#EXTINF:-1,Az Clic FULL HD
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11251.m3u8
+#EXTINF:-1,Az Clic Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17162
+#EXTINF:-1,Az Corazón FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11250
+#EXTINF:-1,Az Corazon Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17161
+#EXTINF:-1,Az Mundo Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17160
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11248
+#EXTINF:-1,Azteca 13 Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17159
+#EXTINF:-1,Azteca Internacional FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11166
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
-http://tv.ultraiptv.org:80/wohrnncd/2BF444tvmv/11256
+#EXTINF:-1,México | Canal 5
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16828
+#EXTINF:-1,México | Canal 5 Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17154
+#EXTINF:-1,México | Canal 5 FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11244
+#EXTINF:-1,México | Canal 5 HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11406
+#EXTINF:-1,México | Canal 50 Juarez HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11332
+#EXTINF:-1,México | Canal 8
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16827
+#EXTINF:-1,México | Canal del Congreso FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11243
+#EXTINF:-1,México | Canal Judicial FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11242
+#EXTINF:-1,México | Canal Judicial HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11314
+#EXTINF:-1,México | Canal Once
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16826
+#EXTINF:-1,México | Canal Once HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11284
+#EXTINF:-1,México | Canal Once TV Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17153
+#EXTINF:-1,México | Estrella TV
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/14724
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11213
+#EXTINF:-1,México | Mexiquense Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17103
+#EXTINF:-1,México | Mexiquense FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11211
+#EXTINF:-1,México | Mexiquense HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11280
+#EXTINF:-1,México | Milenio TV
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16817
+#EXTINF:-1,México | Milenio TV FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11210
+#EXTINF:-1,México | Milenio TV Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17102
+#EXTINF:-1,México | Milenio TV HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11393
+#EXTINF:-1,México | Televisa MTY FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11190
+#EXTINF:-1,México | Televisa MTY HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11398
+#EXTINF:-1,México | Televisa Puebla Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17069
+#EXTINF:-1,México | Televisa Puebla FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11189
+#EXTINF:-1,México | Televisa Puebla HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11267
+#EXTINF:-1,México | TVC
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16813
+#EXTINF:-1,México | TVC Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17063
+#EXTINF:-1,México | TVC FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11184
+#EXTINF:-1,México | TVC HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11291
+#EXTINF:-1,México | Unicable
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/16812
+#EXTINF:-1,México | Unicable FULL HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11182
+#EXTINF:-1,México | Unicable Full HD
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17062
+#EXTINF:-1,México | Unicable HQ
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/11316
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/655
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/656
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/28/Azteca-houston.png" group-title="MEXICO", Azteca America 51
-https://api.locastnet.org/api/watch/stream/444/29.5/-95.5/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas HD
-http://app.magisapk.com:2052/uCPQOI/glbuhfba4552/793
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MEXICO", Azteca Cinema
 http://cdn.miip.tv:80/samuel/123456/17422
 
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 HD
-http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17159.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MEXICO", Azteca Corazón
-http://cdn.miip.tv:80/samuel/123456/17353
+http://tv.ultraiptv.org:80/inztybzt/ea6s2Fc0S5/17159
 
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
@@ -825,188 +903,193 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 4K Infantil" tvg-logo="https://caribbeancinemas.com/RD/cinekids/img/logo.png" group-title="Canales 24/7",4K Infantil
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17420
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17420.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 50 ClÃ¡sicos Disney HQ" tvg-logo="https://blogbagatela.files.wordpress.com/2016/08/clasicosdisney.png" group-title="Canales 24/7",50 Clásicos Disney HQ
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17419
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17419.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://fliprwayr.com/wp-content/uploads/ALF-LOGO.png" group-title="Canales 24/7",ALF
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/4844
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/4844.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Aang" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: La leyenda de Aang |Avatar: The Last Airbender|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6035
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/6035.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Korra" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: la leyenda de Korra |Avatar: The Leyend of Korra|
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/7905.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Batman" tvg-logo="https://vignette.wikia.nocookie.net/batman/images/0/0e/AnimatedLogo.png" group-title="Canales 24/7",Batman
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11462
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11462.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="https://www.logolynx.com/images/logolynx/73/7363863282b9d9e4e676c5b0c4e4229a.png" group-title="Canales 24/7",Hechizada |Bewitched|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11460
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11460.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.cdn.tbs.com/assets/images/2017/03/BobsBurgers-Logo-900x360.png" group-title="Canales 24/7",24/7 Bobs Burgers
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11459.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="http://universosaintseiya.com/wp-content/uploads/2015/09/cropped-LOGO-USS-valido.png" group-title="Canales 24/7",Caballeros del zodiaco |Saint Seiya|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11458
+http://tv.ultraiptv.org:80//live/kdntoukw/Y80iOjah19/11458.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cat-Dog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Catdog_logo.png" group-title="Canales 24/7",Cat-Dog
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11456
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="Canales 24/7",Chespirito
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17417
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17417.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje" tvg-logo="https://i2.wp.com/cineswag.com/wp-content/uploads/2018/02/Coraje-Perro-Cobarde_logo.png" group-title="Canales 24/7",Coraje el perro cobarde |Courage the Cowardly Dog|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11455
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11455.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="http://www.sclance.com/pngs/death-note-logo-png/death_note_logo_png_374151.png" group-title="Canales 24/7",Death Note
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17416
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="https://i.pinimg.com/originals/ca/5b/a7/ca5ba7d121989a03a9e22518a3ccaab1.png" group-title="Canales 24/7",Digimon Adventure
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11452
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11452.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios" tvg-logo="https://i.pinimg.com/originals/fe/ca/52/feca52455e80971db39873cf63fb2a40.png" group-title="Canales 24/7",Dinosaurios |Dinosaurs|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17415
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17415.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_fr_Dr_House.png" group-title="Canales 24/7",Dr. House
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6039
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6039.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Canales 24/7",Dragon Ball
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17412
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17412.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super C.67" tvg-logo="https://vignette.wikia.nocookie.net/transcripts/images/5/57/Dragon_Ball_Super_Logo.png" group-title="Canales 24/7",Dragon Ball Super C.67
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17411
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17411.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg" group-title="Canales 24/7",Dragon Ball Super HD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/5763
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/5763.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD *" tvg-logo="https://vignette.wikia.nocookie.net/transcripts/images/5/57/Dragon_Ball_Super_Logo.png" group-title="Canales 24/7",Dragon Ball Super HD *
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/16459
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/16459.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/14/67/f6/1467f60684669f5925ab83dcb6ffc4f8.png" group-title="Canales 24/7",Dragon Ball Z
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17410
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17410.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Ed Edd y Eddy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/EENE.png" group-title="Canales 24/7",Ed Edd n Eddy
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11451
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11451.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado" tvg-logo="https://animaestudios.com/assets/themes/abo-anima/resources/images/ESPANOL/ENG_CHP.png" group-title="Canales 24/7",El Chapulin Colorado
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11450
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11450.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="http://logosiptv.ultraiptv.cl/247_chavo.png" group-title="Canales 24/7",El chavo del 8
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/4848
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/4848.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El coche fantastico" tvg-logo="http://www.minimatedatabase.com/img/line/kr.png" group-title="Canales 24/7",El coche fantástico |Knight Rider|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11448
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11448.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="https://teacordas.altervista.org/wp-content/uploads/2018/08/correcaminos-y-coyote.png" group-title="Canales 24/7",El Coyote y el Correcaminos |Wile E. Coyote and the Road Runner|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11447
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11447.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El laboratorio de Dexter" tvg-logo="https://fanart.tv/fanart/tv/77992/hdclearart/dexters-laboratory-521545b3dad8c.png" group-title="Canales 24/7",El laboratorio de Dexter |Dexter's Laboratory|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11446
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11446.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco" tvg-logo="http://revistadc.com/sites/default/files/inline-images/logotipo%20EPL_fina-c7d564ab8e2fc314d9c65acd4f9179fd1428587954.png" group-title="Canales 24/7",El Pájaro Loco |Woody Woodpecker|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11445
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11445.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El PrÃ­ncipe del Rap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="Canales 24/7",El Príncipe del Rap |The Fresh Prince of Bel-Air|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/7907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe del Rap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="Canales 24/7",El Príncipe del Rap |The Fresh Prince of Bel-Air|
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/7907.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El tunel del tiempo" tvg-logo="https://4.bp.blogspot.com/-DhAfo28qpzA/WG0vmb25psI/AAAAAAAAJ2E/p9ir_oWe3GUe0XChxO9PLtnO53qRGpYSgCLcB/s640/Time-Tunnel-TV%2B3.jpg" group-title="Canales 24/7",El tunel del tiempo |The Time Tunnel|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11444
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11444.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Fantasias animadas de ayer y hoy" tvg-logo="https://vignette.wikia.nocookie.net/looneytunes/images/c/c8/MMSeriesCard1962.png" group-title="Canales 24/7",Fantasias animadas de ayer y hoy |Merrie Melodies|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11443
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11443.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Canales 24/7",Futurama HD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6032
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6032.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1200px-Garfield_the_Cat.svg.png" group-title="Canales 24/7",Garfield
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17404
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17404.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls" tvg-logo="https://i.pinimg.com/originals/5b/0a/1f/5b0a1f10015ab91958c6a048d5bc5511.png" group-title="Canales 24/7",Gravity Falls
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17403
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17403.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls HD" tvg-logo="https://i.pinimg.com/originals/5b/0a/1f/5b0a1f10015ab91958c6a048d5bc5511.png" group-title="Canales 24/7",Gravity Falls HD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6031
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6031.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Halcones Galacticos" tvg-logo="https://i.pinimg.com/originals/1a/e6/20/1ae6200cb33c29d7766f3f08acacc020.png" group-title="Canales 24/7",Halcones Galacticos |SilverHawks|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11442
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11442.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://i.pinimg.com/originals/a1/e2/a0/a1e2a0ad6040d94956adc3125b09886e.png" group-title="Canales 24/7",Hey Arnold
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11441
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11441.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hora De Aventura" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-hora-de-aventura-png-4.png" group-title="Canales 24/7",Hora De Aventura |Adventure Time|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17400
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17400.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Johnny_Bravo_series_logo.png" group-title="Canales 24/7",Johnny Bravo
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11439
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11439.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Munsters_title_card.png" group-title="Canales 24/7",La Familia Monster |The Munsters|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11437
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11437.m3u8
 
 #EXTINF:-1 tvg-id="https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/5e0byrbbfBPBmtxyXMpKqMuqOQY/AAAABYlID1ygv5uZG3KfsD_0A_3-qd7wzbWKTH5qC3ul1taXuoyw3gV6P9mPn_-YW8qLY1Two5O2_AZnnY75E_OOvvT9JckrMLXQHQgUtuma4g.png" tvg-name="24/7 Familia peluche" tvg-logo="" group-title="Canales 24/7",La Familia P. Luche
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17405
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17405.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La niÃ±era |The Nanny|" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Nannylogo.PNG" group-title="Canales 24/7",La niñera |The Nanny|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17398
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17398.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="https://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png" group-title="Canales 24/7",La pantera rosa |The Pink Panther|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6037
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6037.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito" tvg-logo="https://i.pinimg.com/originals/f0/14/a4/f014a4f4e986be1812daa64a2ccaa31f.png" group-title="Canales 24/7",La vaca y el pollito |Cow and Chicken|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11434
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11434.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados" tvg-logo="https://vignette.wikia.nocookie.net/the3stooges/images/1/1a/300px-Stoogelogo.png" group-title="Canales 24/7",Los 3 Chiflados |The Three Stooges|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/19330
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/19330.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Jovenes Titanes en acción HD" tvg-logo="https://vignette.wikia.nocookie.net/losjvenestitanesenaccion/images/a/a0/J%C3%B3venes-Titanes-Fig%C3%BArate-Logo.png" group-title="Canales 24/7",Los Jovenes Titanes en acción |Teen Titans Go!| HD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17395
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17395.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Addams_gomez5.png/250px-Addams_gomez5.png" group-title="Canales 24/7",Los locos Addams |The Addams Family|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17394
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17394.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://seeklogo.com/images/P/Padrinos_magicos-logo-C4F6732F30-seeklogo.com.png" group-title="Canales 24/7",Los padrinos mágicos |The Fairly OddParents|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17393
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17393.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/los-picapiedra-png-2.png" group-title="Canales 24/7",Los Picapiedra |The Flintstones|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/20191
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/20191.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="https://seeklogo.com/images/S/smurf-logo-3EC21B8204-seeklogo.com.png" group-title="Canales 24/7",Los Pitufos |The Smurfs|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11432
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11432.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Canales 24/7",Los Simpson HD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/5571
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/5571.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Super Campeones" tvg-logo="http://www.primotv.com/images/bios/captain-tsubasa/oozora-tsubasa/oozora-tsubasa-1.png" group-title="Canales 24/7",Los Super Campeones |Captain Tsubasa|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17392
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17392.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="https://2.bp.blogspot.com/-lqw1-XcwyY4/TgBIPPw8usI/AAAAAAAABJk/ZxbwrQpeUYQ/s400/Los+Supersonicos.png" group-title="Canales 24/7",Los Supersonicos |The Jetsons|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11431
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11431.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Clásicos" tvg-logo="http://www.paseodegracia.com/wp-content/uploads/2012/08/cineclasico-hexagono.png" group-title="Canales 24/7",Movies Clásicos
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17421
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17421.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Canales 24/7",Pinky y Cerebro |Pinky and the Brain|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/11428
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11428.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Series animados SD" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2016/07/mejores-series-animacion-adultos.jpg" group-title="Canales 24/7",Series animados SD
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17390
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17390.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/south-park-logo-png-transparent.png" group-title="Canales 24/7",South Park
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17388
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17388.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tesoros Disney" tvg-logo="http://4.bp.blogspot.com/_8GSnE-STkvY/Ss5D4eKm1BI/AAAAAAAAAYA/W6mDAPWVt_M/s1600/WaltDisneyTreasures.png" group-title="Canales 24/7",Tesoros Disney |Walt Disney Treasures|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17386
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17386.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The X Files" tvg-logo="https://vignette.wikia.nocookie.net/fictionalcrossover/images/d/dc/A_X-Files_logo.png" group-title="Canales 24/7",The X Files
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17384
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17384.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="https://i.pinimg.com/originals/32/72/54/3272540f13fbe303b93891538611643e.png" group-title="Canales 24/7",Thundercats
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/6036
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6036.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="https://i.dlpng.com/static/png/335030_preview.png" group-title="Canales 24/7",Tom & Jerry
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/7908
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/7908.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tres por Tres | FULL HOUSE |" tvg-logo="https://data.whicdn.com/images/50677702/large.png" group-title="Canales 24/7",Tres por Tres |FULL HOUSE|
-http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17383
+http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17383.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Videos Remix" tvg-logo="https://www.videohits.tv/uploads/custom-logo.png" group-title="Canales 24/7",Videos Remix
 http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17379
-
 
 
 

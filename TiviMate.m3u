@@ -270,7 +270,7 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10713.m3u8
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10712.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO Full HD [Dual audio]
+#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10705.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 Full HD [Dual audio]
@@ -331,28 +331,20 @@ http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 #http://www.sansat.net:25461/jean1/jean1/8165
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37037
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17308.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES VIP", Movistar Comedia
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37033
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17305.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="MOVIES VIP", Movistar Drama
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37031
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17303.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/220px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="MOVIES VIP", Movistar Cine Ñ
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37029
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17306.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png" group-title="MOVIES VIP", Movistar Estrenos
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37041
+http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/17300.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/175px-Movistar_Series.svg.png" group-title="MOVIES VIP", Movistar Series
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37025
-
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.com/at/llistat-canals/canals/21-m-seriesmania.png" group-title="MOVIES VIP", Movistar Seriesmania
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37022
-
-#EXTINF:-1 tvg-logo="https://www.andorratelecom.ad/documents/33347/112493/600x600---M-CINEDOCANDROLL.png" group-title="MOVIES VIP", Movistar CineDoc&Roll
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37028
 
 ##PPV Latino##
 #EXTINF:-1 group-title="PPV Latino",Cinema 01 PPV FHD (ES)

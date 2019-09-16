@@ -252,22 +252,22 @@ http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/11512.m3u8
 
 
 ##Movies VIP##
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10717.m3u8
 
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10716.m3u8
 
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10715.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10714.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10713.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD [Dual Audio]
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD
 http://tv.ultraiptv.org:80/live/inztybzt/ea6s2Fc0S5/10712.m3u8
 
 #EXTINF:-1 group-title="MOVIES VIP",HBO Full HD [Dual audio]

@@ -295,13 +295,13 @@ http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
 http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png" group-title="MOVIES VIP", SKY Atlantic HD
-#http://www.sansat.net:25461/jean1/jean1/8178
+http://p5.giffy.be:8080/JenO/JenO/85659
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action HD
-#http://www.sansat.net:25461/jean1/jean1/8177
+http://p5.giffy.be:8080/JenO/JenO/85658
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy HD
-#http://www.sansat.net:25461/jean1/jean1/8175
+http://p5.giffy.be:8080/JenO/JenO/85657
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney HD
 #http://www.sansat.net:25461/jean1/jean1/8174
@@ -310,7 +310,7 @@ http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 #http://www.sansat.net:25461/jean1/jean1/8173
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family HD
-#http://www.sansat.net:25461/jean1/jean1/8172
+http://p5.giffy.be:8080/JenO/JenO/85654
 
 #EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats HD
 #http://www.sansat.net:25461/jean1/jean1/8171
@@ -319,7 +319,7 @@ http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 #http://www.sansat.net:25461/jean1/jean1/8170
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere HD
-#http://www.sansat.net:25461/jean1/jean1/8169
+http://p5.giffy.be:8080/JenO/JenO/85651
 
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror HD
 #http://www.sansat.net:25461/jean1/jean1/8168

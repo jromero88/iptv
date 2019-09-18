@@ -488,10 +488,10 @@ http://cdn.miip.tv:80/samuel/123456/2370
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 Full HD
 http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11256.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17157.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7 FULL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7
+http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
 http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17159.m3u8
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
@@ -546,8 +546,18 @@ http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="HONDURAS", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/VTV_Honduras.png" group-title="HONDURAS", VTV
-https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTY4Njk2MDQ4LCJzZXNzaW9uIjoiNzYuMTc1LjE5NC4zNiIsIndoaXRlbGlzdCI6WyI3Ni4xNzUuMTk0LjM2Il19LCJzaWduYXR1cmUiOiJjMzdkNGM4Mzc5YmQ2NjI5YjRjMzg1ZThmODNmN2NiNGQ5ZmY0MTBkIn0=
+##El Salvador##
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="EL SALVADOR",TVES
+http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="EL SALVADOR",TVO Canal 23 (Opt-1)
+http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="EL SALVADOR",TVO Canal 23 (Opt-2)
+https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lUYKEDE.png" group-title="EL SALVADOR",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 

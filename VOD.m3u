@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-name="(2019) Spider-Man: Far from Home"  group-title="~Subidas Recientemente~",(2019) Spider-Man: Far from Home
+http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/20659.mkv
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_UX182_CR0,0,182,268_AL_.jpg" tvg-name="(2019) Yesterday"  group-title="~Subidas Recientemente~",(2019) Yesterday
 http://tv.ultraiptv.org:80/movie/kdntoukw/Y80iOjah19/20601.mkv
 

@@ -194,13 +194,13 @@ https://distro.akamaized.net/indexfd_1280x720.m3u8
 http://185.246.209.109:8080/TCM/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Canal_TCM_ES.png" group-title="MOVIES", TCM ES
-http://cdn.miip.tv:80/samuel/123456/2376
+#http://cdn.miip.tv:80/samuel/123456/2376
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MOVIES", Az Cinema FULL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11252.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11252.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MOVIES", De Película Plus FULL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17148.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17148.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="MOVIES", Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
@@ -233,57 +233,57 @@ http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
 #https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11520.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11520.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="MOVIES", Ultra Clasico
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11519.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11519.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Documentales" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="MOVIES", Ultra Docu
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11518.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11518.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="MOVIES", Ultra Luna
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11514.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11514.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="MOVIES", Ultra Macho
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11513.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11513.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", Ultra Mex
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11512.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11512.m3u8
 
 
 ##Movies VIP##
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10717.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10717.m3u8
 
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10716.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10716.m3u8
 
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10715.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10715.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10714.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10714.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10713.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10713.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10712.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10712.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10705.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10705.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 Full HD [Dual audio]
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10707.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10707.m3u8
 
 #EXTINF:-1 group-title="MOVIES VIP",HBO Plus Full HD [Dual audio]
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10704.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10704.m3u8
 
 #EXTINF:-1 group-title="MOVIES VIP",HBO Family Full HD [Dual audio]
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10706.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10706.m3u8
 
 #EXTINF:-1 group-title="MOVIES VIP",HBO Signature Full HD [Dual audio]
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10703.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10703.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE
 http://185.246.209.109:8080/HBO_ZONE/index.m3u8
@@ -331,119 +331,119 @@ http://p5.giffy.be:8080/JenO/JenO/85649
 #http://www.sansat.net:25461/jean1/jean1/8165
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17308.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17308.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES VIP", Movistar Comedia
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17305.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17305.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="MOVIES VIP", Movistar Drama
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17303.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17303.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/220px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="MOVIES VIP", Movistar Cine Ñ
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17306.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17306.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png" group-title="MOVIES VIP", Movistar Estrenos
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17300.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17300.m3u8
 
 
 ##PPV Latino##
 #EXTINF:-1 group-title="PPV Latino",Cinema 03 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8550.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8550.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 04 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8549.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8549.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 06 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8547.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8547.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 07 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8546.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8546.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 08 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8545.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8545.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 10 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8543.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8543.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 12 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8541.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8541.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 13 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8540.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8540.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 15 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8538.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8538.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 16 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8537.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8537.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 17 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8536.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8536.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 18 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8535.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8535.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 19 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8534.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8534.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 20 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8533.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8533.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 21 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8532.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8532.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 25 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8528.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8528.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 26 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8527.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8527.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 27 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8526.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8526.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 28 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8525.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8525.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 29 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8524.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8524.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 30 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8523.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8523.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 31 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8522.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8522.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 33 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8520.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8520.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 36 PPV FHD (ES)
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8517.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8517.m3u8
 
 
 
 
 ##Latino##
 #EXTINF:-1 tvg-id="FOX LIFE CO" tvg-name="Fox Life Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png" group-title="LATINO", FOX LIFE HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10718.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10718.m3u8
 
 #EXTINF:-1 tvg-id="SONY HD CO" tvg-name="Sony HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Channel_Logo.png" group-title="LATINO", SONY HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11468.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11468.m3u8
 
 #EXTINF:-1 tvg-id="COMEDY CENTRAL CO" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/logos/int/comedycentralhd.png" group-title="LATINO", COMEDY CENTRAL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10726.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10726.m3u8
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL CO" tvg-name="Warner Channel Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png" group-title="LATINO", WARNER CHANNEL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10690.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10690.m3u8
 
 #EXTINF:-1 tvg-id="DISNEY CHANNEL CO" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/discovery.png" group-title="LATINO", Discovery Channel HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10725.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10725.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY HOME y HEALTH CO" tvg-name="Discovery Home & Health Full HD [Dual audio]" tvg-logo="" group-title="LATINO", Discovery Home & Health HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10724.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10724.m3u8
 
 #EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY CO" tvg-name="Discovery Investigation Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATINO", Discovery Investigation HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10723.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10723.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY THEATER HD CO" tvg-name="Discovery Theater Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO", Discovery Theater HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10721.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10721.m3u8
 
 #EXTINF:-1 tvg-id="TLC CO" tvg-name="Discovery TLC Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/TLCDiscovery2015.png" group-title="LATINO", Discovery TLC HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10720.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10720.m3u8
 
 #EXTINF:-1 tvg-id="DISCOVERY WORLD HD CO" tvg-name="Discovery World Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATINO", Discovery World HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10719.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10719.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY CHANNEL CO" tvg-name="History Channel Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/history.png" group-title="LATINO", History Channel HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10702.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10702.m3u8
 
 #EXTINF:-1 tvg-id="TNT SERIES CO" tvg-name="TNT Series Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="LATINO", TNT Series HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10692.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10692.m3u8
 
 #EXTINF:-1 tvg-id="TRU TV CO" tvg-name="Trutv Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO", Trutv HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10691.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10691.m3u8
 
 #EXTINF:-1 tvg-id="AyE HD CO" tvg-name="A&E Mundo HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/ae.png" group-title="LATINO", A&E Mundo HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11485.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11485.m3u8
 
 #EXTINF:-1 tvg-id="AXN CO" tvg-name="AXN HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/axn.png" group-title="LATINO", AXN HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11484.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11484.m3u8
 
 
 
@@ -470,15 +470,15 @@ https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?e
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-1)
-http://cdn.miip.tv:80/samuel/123456/495
+#http://cdn.miip.tv:80/samuel/123456/495
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-2)
-http://cdn.miip.tv:80/samuel/123456/3857
+#http://cdn.miip.tv:80/samuel/123456/3857
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-3)
-http://cdn.miip.tv:80/samuel/123456/2240
+#http://cdn.miip.tv:80/samuel/123456/2240
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/a8/a7/f8/a8a7f86247f8dfed300fa62bda462cdb.png" group-title="KIDS", Nick Jr
-http://cdn.miip.tv:80/samuel/123456/471
+#http://cdn.miip.tv:80/samuel/123456/471
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/47/TVEClan_logo.png" group-title="KIDS", Clan TVE
-http://cdn.miip.tv:80/samuel/123456/2370
+#http://cdn.miip.tv:80/samuel/123456/2370
 
 
 
@@ -486,14 +486,14 @@ http://cdn.miip.tv:80/samuel/123456/2370
 ##Mexico##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 [New]
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-#title="MEXICO", ADN 40 Full HD
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11256.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17159.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17159.m3u8
 #EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
 http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png" group-title="MEXICO", Canal Mundo+
@@ -501,15 +501,15 @@ http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once TV Full HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17153.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11213.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11213.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV FULL HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11210.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11210.m3u8
 
 
 
@@ -652,73 +652,73 @@ http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
 
 ##Spain##
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17232.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17232.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/La2HD.png/revision/latest/scale-to-width-down/185?cb=20190108003447" group-title="SPAIN", La 2 HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17230.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17230.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3 HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11254.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPAIN", A3series HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17249.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17249.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/1000?cb=20121227195336" group-title="SPAIN", Cuatro
 https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="SPAIN", Cuatro HD
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17242.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17242.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco HD
-http://cdn.miip.tv:80/samuel/123456/3866
+#http://cdn.miip.tv:80/samuel/123456/3866
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-1)
-http://cdn.miip.tv:80/samuel/123456/476
+#http://cdn.miip.tv:80/samuel/123456/476
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-2)
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SPAIN", Calle 13
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17290.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17290.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-1)
-http://cdn.miip.tv:80/samuel/123456/470
+#http://cdn.miip.tv:80/samuel/123456/470
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-2)
 http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES
-http://cdn.miip.tv:80/samuel/123456/2375
+#http://cdn.miip.tv:80/samuel/123456/2375
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES HD
-http://cdn.miip.tv:80/samuel/123456/3853
+#http://cdn.miip.tv:80/samuel/123456/3853
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/225px-DMax_Espa%C3%B1a.svg.png" group-title="SPAIN", DMax
-http://cdn.miip.tv:80/samuel/123456/486
+#http://cdn.miip.tv:80/samuel/123456/486
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="SPAIN", Hollywood
 http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37071
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1920px-MEGA.svg.png" group-title="SPAIN", MEGA
-http://cdn.miip.tv:80/samuel/123456/2373
+#http://cdn.miip.tv:80/samuel/123456/2373
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/120px-Neox.svg.png" group-title="SPAIN", Neox
-http://cdn.miip.tv:80/samuel/123456/3864
+#http://cdn.miip.tv:80/samuel/123456/3864
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png" group-title="SPAIN", ODISEA
-http://cdn.miip.tv:80/samuel/123456/2374
+#http://cdn.miip.tv:80/samuel/123456/2374
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Syfy_Universal.png/120px-Syfy_Universal.png" group-title="SPAIN", Syfy Universal
-http://cdn.miip.tv:80/samuel/123456/468
+#http://cdn.miip.tv:80/samuel/123456/468
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES
-http://cdn.miip.tv:80/samuel/123456/2371
+#http://cdn.miip.tv:80/samuel/123456/2371
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES HD
-http://cdn.miip.tv:80/samuel/123456/3867
+#http://cdn.miip.tv:80/samuel/123456/3867
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN", Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
@@ -727,7 +727,7 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-1)
-http://cdn.miip.tv:80/samuel/123456/2246
+#http://cdn.miip.tv:80/samuel/123456/2246
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-2)
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
@@ -874,19 +874,19 @@ http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 4K Infantil" tvg-logo="https://caribbeancinemas.com/RD/cinekids/img/logo.png" group-title="Canales 24/7",4K Infantil
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17420.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17420.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 50 ClÃ¡sicos Disney HQ" tvg-logo="https://blogbagatela.files.wordpress.com/2016/08/clasicosdisney.png" group-title="Canales 24/7",50 Clásicos Disney HQ
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17419.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17419.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://fliprwayr.com/wp-content/uploads/ALF-LOGO.png" group-title="Canales 24/7",ALF
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/4844.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/4844.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Aang" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: La leyenda de Aang |Avatar: The Last Airbender|
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/6035.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/6035.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Korra" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: la leyenda de Korra |Avatar: The Leyend of Korra|
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/7905.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/7905.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Batman" tvg-logo="https://vignette.wikia.nocookie.net/batman/images/0/0e/AnimatedLogo.png" group-title="Canales 24/7",Batman
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11462.m3u8
@@ -895,13 +895,13 @@ http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11462.m3u8
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11460.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.cdn.tbs.com/assets/images/2017/03/BobsBurgers-Logo-900x360.png" group-title="Canales 24/7",24/7 Bobs Burgers
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11459.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11459.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="http://universosaintseiya.com/wp-content/uploads/2015/09/cropped-LOGO-USS-valido.png" group-title="Canales 24/7",Caballeros del zodiaco |Saint Seiya|
 http://tv.ultraiptv.org:80//live/kdntoukw/Y80iOjah19/11458.m3u8
 
 #EXTINF:-1 group-title="Canales 24/7",24/7 Candy Candy
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11457.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11457.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cat-Dog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Catdog_logo.png" group-title="Canales 24/7",Cat-Dog
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11456.m3u8
@@ -1051,7 +1051,7 @@ http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17388.m3u8
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17386.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 The X Files" tvg-logo="https://vignette.wikia.nocookie.net/fictionalcrossover/images/d/dc/A_X-Files_logo.png" group-title="Canales 24/7",The X Files
-http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17384.m3u8
+#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17384.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="https://i.pinimg.com/originals/32/72/54/3272540f13fbe303b93891538611643e.png" group-title="Canales 24/7",Thundercats
 http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6036.m3u8
@@ -1070,28 +1070,28 @@ http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17379
 
 ##Sports##
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPORTS,Toros TV
-http://cdn.miip.tv:80/samuel/123456/17268
+#http://cdn.miip.tv:80/samuel/123456/17268
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", GOL TV ES
-http://cdn.miip.tv:80/samuel/123456/2223
+#http://cdn.miip.tv:80/samuel/123456/2223
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="SPORTS", GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/5/2/20/imgbin-bein-sports-france-ligue-1-la-liga-television-channel-american-football-rgLiZcm2N8hpwvTqZvanJCqQu.jpg" group-title="SPORTS", beIN La Liga
-http://cdn.miip.tv:80/samuel/123456/500
+#http://cdn.miip.tv:80/samuel/123456/500
 
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png" group-title="SPORTS", beIN Sports
-http://cdn.miip.tv:80/samuel/123456/499
+#http://cdn.miip.tv:80/samuel/123456/499
 
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPORTS", FIGHT TIME
-http://cdn.miip.tv:80/samuel/123456/17281
+#http://cdn.miip.tv:80/samuel/123456/17281
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="SPORTS", Teledeportes
-http://cdn.miip.tv:80/samuel/123456/467
+#http://cdn.miip.tv:80/samuel/123456/467
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-1)
-http://cdn.miip.tv:80/samuel/123456/469
+#http://cdn.miip.tv:80/samuel/123456/469
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-2)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
@@ -1100,22 +1100,22 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;r
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="SPORTS", La Liga TV HD
-http://cdn.miip.tv:80/samuel/123456/3862
+#http://cdn.miip.tv:80/samuel/123456/3862
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="SPORTS", Eurosport 1
-http://cdn.miip.tv:80/samuel/123456/482
+#http://cdn.miip.tv:80/samuel/123456/482
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/04/73/68/4909504213821687304_1.png" group-title="SPORTS", Eurosport 2
-http://cdn.miip.tv:80/samuel/123456/3858
+#http://cdn.miip.tv:80/samuel/123456/3858
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png" group-title="SPORTS", Movistar F1
-http://cdn.miip.tv:80/samuel/123456/475
+#http://cdn.miip.tv:80/samuel/123456/475
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="SPORTS", Movistar Deportes 1
-http://cdn.miip.tv:80/samuel/123456/488
+#http://cdn.miip.tv:80/samuel/123456/488
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="SPORTS", Movistar Deportes 2
-http://cdn.miip.tv:80/samuel/123456/487
+#http://cdn.miip.tv:80/samuel/123456/487
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oqOwaeF.png" group-title="SPORTS", ESPN
 http://80.80.160.168/live/6/live.m3u8

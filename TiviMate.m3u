@@ -1069,11 +1069,12 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 
 
 ##Sports##
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DeN1MoY.png" group-title="SPORTS,Toros TV
-#http://cdn.miip.tv:80/samuel/123456/17268
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", GOL TV ES
 #http://cdn.miip.tv:80/samuel/123456/2223
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="SPORTS",BT Sport 2
+https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="SPORTS", GOL TV
 http://185.246.209.109:8080/GOL_TV/index.m3u8
@@ -1087,6 +1088,12 @@ http://185.246.209.109:8080/GOL_TV/index.m3u8
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPORTS", FIGHT TIME
 #http://cdn.miip.tv:80/samuel/123456/17281
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS",Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS",Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="SPORTS", Teledeportes
 #http://cdn.miip.tv:80/samuel/123456/467
 
@@ -1094,10 +1101,10 @@ http://185.246.209.109:8080/GOL_TV/index.m3u8
 #http://cdn.miip.tv:80/samuel/123456/469
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-2)
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+#http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-3)
-http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="SPORTS", La Liga TV HD
 #http://cdn.miip.tv:80/samuel/123456/3862
@@ -1146,6 +1153,9 @@ http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://platform-static-files.s3.amazonaws.com/ecb/photo/2017/12/06/6c378f78-4018-47a1-a2e9-b97fa2749e2b/SKY_SPORTS_CRICKET_WITH_KEYLINE_RGB-copy.png" group-title="SPORTS", Sky Sports Cricket HD
 #http://www.sansat.net:25461/jean1/jean1/8162
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQNLp5y.png" group-title="SPORTS",SuperSoccer TV
+http://210.210.155.35/uq2663/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/BT-Sports-1.png" group-title="SPORTS", BT Sport 1 HD
 http://pn2.strong-livetv.com:8000/alinhotfc/fsBNTnePZw/3104

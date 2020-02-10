@@ -176,59 +176,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #http://80.80.160.168/live/9/live.m3u8
 
 
-##Movies [OFF-AIR]##
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="MOVIES", American Horrors (Opt-1)
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" group-title="MOVIES", American Horrors (Opt-2)
-http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" group-title="MOVIES", The Film Detective
-https://distro.akamaized.net/indexfd_1280x720.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="MOVIES", TCM
-http://185.246.209.109:8080/TCM/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ee/Canal_TCM_ES.png" group-title="MOVIES", TCM ES
-#http://cdn.miip.tv:80/samuel/123456/2376
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://vignette.wikia.nocookie.net/logopedia/images/6/67/Azcinema.png" group-title="MOVIES", Az Cinema FULL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11252.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MOVIES", De Película Plus FULL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17148.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="MOVIES", Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="MOVIES", Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypQRBrH.png" group-title="MOVIES", Filmrise Family
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="MOVIES", Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/Syfy.mx.png" group-title="MOVIES", SYFY
-http://185.246.209.109:8080/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/1280px-IFC_2014_logo.svg.png" group-title="MOVIES", IFC (Opt-1)
-http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/375px-IFC_2014_logo.svg.png" group-title="MOVIES", IFC (Opt-2)
-http://185.246.209.109:8080/IFC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9Cl4Fln.png" group-title="MOVIES", Sundance TV
-http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/horrorchannel.png" group-title="MOVIES", Horror Channel [OFF AIR]
-#https://live2.hoolatv.com/live/horrorchannel_hi/chunks.m3u8?__fvd__
-
-#EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="MOVIES", Movies4men [OFF AIR]
-#https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
-
-
+##Movies##
 ##Ultra##
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8181.m3u8
@@ -310,7 +258,7 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29345.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE FHD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29347.m3u8
 
-
+##OTHER##
 #EXTINF:-1 group-title="MOVIES VIP",INDIE PLEX
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8142.m3u8
 #EXTINF:-1 group-title="MOVIES VIP",MORE MAX HD
@@ -355,7 +303,6 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8137.m3u8
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8133.m3u8
 #EXTINF:-1 group-title="MOVIES VIP",STARZ WESTERN HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8134.m3u8
-
 
 ##SKY Cinema##
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men HD
@@ -455,7 +402,6 @@ http://siptv.vip:27373/b10664/nhzefw/20117
 http://siptv.vip:27373/b10664/nhzefw/20113
 
 
-
 ##Movistar##
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3142.m3u8
@@ -473,7 +419,7 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/6026.m3u8
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 
 
-##PPV Latino##
+##PPV Latino [OFF-AIR]##
 #EXTINF:-1 group-title="PPV Latino",Cinema 03 PPV FHD (ES)
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8550.m3u8
 #EXTINF:-1 group-title="PPV Latino",Cinema 04 PPV FHD (ES)
@@ -527,7 +473,7 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 
 
 
-##Kids##
+##Kids [OFF-AIR]##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
 #http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
@@ -850,7 +796,7 @@ http://siptv.vip:27373/b10664/nhzefw/25190
 
 
 
-##Spain##
+##Spain [OFF-AIR]##
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17232.m3u8
 
@@ -940,7 +886,7 @@ https://pull12.atresmedia.com/lavoz/master.m3u8
 
 
 
-##News##
+##News [OFF-AIR]##
 #EXTINF:-1, tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/au/images/tv.101002210220.png" tvg-name="ABC News"  group-title="NEWS",ABC News
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 
@@ -1066,7 +1012,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
 
 
-##24/7##
+##24/7 [OFF-AIR]##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="Canales 24/7", Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
@@ -1268,7 +1214,7 @@ http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b192800
 
 
 
-##Sports##
+##Sports [OFF-AIR]##
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", GOL TV ES
 #http://cdn.miip.tv:80/samuel/123456/2223

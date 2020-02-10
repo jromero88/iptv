@@ -176,7 +176,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
 #http://80.80.160.168/live/9/live.m3u8
 
 
-##Movies##
+##Movies [OFF-AIR]##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" group-title="MOVIES", American Horrors (Opt-1)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
@@ -228,121 +228,249 @@ http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/movies4men.png" group-title="MOVIES", Movies4men [OFF AIR]
 #https://live2.hoolatv.com/live/movies4men_hi/chunks.m3u8?__fvd__
 
+
+##Ultra##
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11520.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8181.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="MOVIES", Ultra Clasico
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11519.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8179.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Documentales" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="MOVIES", Ultra Docu
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11518.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8182.m3u8
+
+#EXTINF:-1 group-title="MOVIES", Ultra Film
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8178.m3u8
+
+#EXTINF:-1 group-title="MOVIES", Ultra Kids
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8177.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="MOVIES", Ultra Luna
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11514.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8176.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="MOVIES", Ultra Macho
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11513.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8175.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", Ultra Mex
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11512.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8174.m3u8
 
 
 ##Movies VIP##
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10717.m3u8
+##FOX Premium##
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES VIP", Fox Premium Action FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4019.m3u8
 
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10716.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES VIP", Fox Premium Cinema FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8238.m3u8
 
-#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10715.m3u8
+#EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES VIP"", Fox Premium Classics FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8237.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10714.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES VIP", Fox Premium Comedy FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8234.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10713.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES VIP", Fox Premium Family FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4084.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10712.m3u8
+#EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES VIP", Fox Premium Movies FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4023.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10705.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 Full HD [Dual audio]
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10707.m3u8
+##HBO##
+#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO FHD Latino
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4112.m3u8
 
-#EXTINF:-1 group-title="MOVIES VIP",HBO Plus Full HD [Dual audio]
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10704.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8210.m3u8
 
-#EXTINF:-1 group-title="MOVIES VIP",HBO Family Full HD [Dual audio]
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10706.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 FHD Latino
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4095.m3u8
 
-#EXTINF:-1 group-title="MOVIES VIP",HBO Signature Full HD [Dual audio]
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10703.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8222.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE
-http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Comedy.png" group-title="MOVIES VIP", HBO COMEDY FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/18769.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/292.png" group-title="MOVIES VIP", MOREMAX
-http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",HBO Plus FHD Latino
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4109.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/636px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIES VIP", SHOWCASE
-http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",HBO Family FHD Latino
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3211.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png" group-title="MOVIES VIP", SKY Atlantic HD
-http://p5.giffy.be:8080/JenO/JenO/85659
+#EXTINF:-1 group-title="MOVIES VIP",HBO Family FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8216.m3u8
 
+#EXTINF:-1 group-title="MOVIES VIP",HBO Signature Latino
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3197.m3u8
+
+#EXTINF:-1 group-title="MOVIES VIP",HBO Signature FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29345.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE FHD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29347.m3u8
+
+
+#EXTINF:-1 group-title="MOVIES VIP",INDIE PLEX
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8142.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",MORE MAX HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8143.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",MOVIE MAX
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8144.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",MOVIEPLEX
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8145.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",OUTERMAX HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8146.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",RETROPLEX HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8147.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",SHOTIME WEST HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8141.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",SHOW TIME HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8138.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME BEYOND HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8139.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME EAST
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8140.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ CINEMA HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8136.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ COMEDY HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8135.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE ACTION HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8128.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE BLACK
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8127.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE FAMILY HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8129.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8126.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE SUSPENSE
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8130.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ FAMILY HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8131.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8132.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ IN BLACK
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8137.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ KIDS & FAMILY
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8133.m3u8
+#EXTINF:-1 group-title="MOVIES VIP",STARZ WESTERN HD
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8134.m3u8
+
+
+##SKY Cinema##
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men HD
+http://siptv.vip:27373/b10664/nhzefw/20090
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men FHD
 http://siptv.vip:27373/b10664/nhzefw/27532
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Women HD
+http://siptv.vip:27373/b10664/nhzefw/28544
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Women FHD
 http://siptv.vip:27373/b10664/nhzefw/28543
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy HD
-http://p5.giffy.be:8080/JenO/JenO/85657
+http://siptv.vip:27373/b10664/nhzefw/20092
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy FHD
+http://siptv.vip:27373/b10664/nhzefw/27533
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney HD
-http://p5.giffy.be:8080/JenO/JenO/85656
+http://siptv.vip:27373/b10664/nhzefw/20094
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney FHD
+http://siptv.vip:27373/b10664/nhzefw/27530
 
 #EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES VIP", SKY Cinema Drama Romance HD
-http://p5.giffy.be:8080/JenO/JenO/85655
+http://siptv.vip:27373/b10664/nhzefw/20096
+
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES VIP", SKY Cinema Drama Romance FHD
+http://siptv.vip:27373/b10664/nhzefw/27535
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family HD
-http://p5.giffy.be:8080/JenO/JenO/85654
+http://siptv.vip:27373/b10664/nhzefw/20098
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family FHD
+http://siptv.vip:27373/b10664/nhzefw/27531
 
 #EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats HD
-#http://www.sansat.net:25461/jean1/jean1/8171
+http://siptv.vip:27373/b10664/nhzefw/27539
+
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats FHD
+http://siptv.vip:27373/b10664/nhzefw/27529
 
 #EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits HD
+http://siptv.vip:27373/b10664/nhzefw/20100
+
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits FHD
 http://siptv.vip:27373/b10664/nhzefw/27528
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere HD
-http://p5.giffy.be:8080/JenO/JenO/85651
+http://siptv.vip:27373/b10664/nhzefw/20104
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere FHD
+http://siptv.vip:27373/b10664/nhzefw/27527
 
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror HD
+http://siptv.vip:27373/b10664/nhzefw/20106
+
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror FHD
 http://siptv.vip:27373/b10664/nhzefw/27536
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select HD
+http://siptv.vip:27373/b10664/nhzefw/20108
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select FHD
 http://siptv.vip:27373/b10664/nhzefw/27537
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller HD
+http://siptv.vip:27373/b10664/nhzefw/20111
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller FHD
 http://siptv.vip:27373/b10664/nhzefw/27534
 
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Sony Action" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action.png" group-title="MOVIES VIP",Sony Action
+http://siptv.vip:27373/b10664/nhzefw/25207
+
+#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Action +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action_Plus_1.png" group-title="MOVIES VIP",Sony Action +1
+http://siptv.vip:27373/b10664/nhzefw/25206
+
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Christmas.png" group-title="MOVIES VIP",Sony Christmas
+http://siptv.vip:27373/b10664/nhzefw/20119
+
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas +1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/true_movies1.jpg" group-title="MOVIES VIP",Sony Christmas +1
+http://siptv.vip:27373/b10664/nhzefw/25205
+
+#EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime" tvg-logo="http://vtpi.best/chanicons/UK/SONYCRIMECHANNEL.png" group-title="MOVIES VIP",Sony Crime
+http://siptv.vip:27373/b10664/nhzefw/20112
+
+#EXTINF:-1 tvg-id="SonyCrimeChannelPlus1.uk" tvg-name="Sony Crime +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Crime_Channel_Plus_1.png" group-title="MOVIES VIP",Sony Crime +1
+http://siptv.vip:27373/b10664/nhzefw/20115
+
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies.png" group-title="MOVIES VIP",Sony Movies
+http://siptv.vip:27373/b10664/nhzefw/20117
+
+#EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movies +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Plus_1.png" group-title="MOVIES VIP",Sony Movies +1
+http://siptv.vip:27373/b10664/nhzefw/20113
+
+
+
+##Movistar##
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17308.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3142.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES VIP", Movistar Comedia
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17305.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3143.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="MOVIES VIP", Movistar Drama
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17303.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/220px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="MOVIES VIP", Movistar Cine Ñ
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17306.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/6026.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png" group-title="MOVIES VIP", Movistar Estrenos
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17300.m3u8
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 
 
 ##PPV Latino##
@@ -398,53 +526,6 @@ http://siptv.vip:27373/b10664/nhzefw/27534
 
 
 
-##Latino##
-#EXTINF:-1 tvg-id="FOX LIFE CO" tvg-name="Fox Life Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png" group-title="LATINO", FOX LIFE HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10718.m3u8
-
-#EXTINF:-1 tvg-id="SONY HD CO" tvg-name="Sony HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Channel_Logo.png" group-title="LATINO", SONY HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11468.m3u8
-
-#EXTINF:-1 tvg-id="COMEDY CENTRAL CO" tvg-name="Comedy Central Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/logos/int/comedycentralhd.png" group-title="LATINO", COMEDY CENTRAL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10726.m3u8
-
-#EXTINF:-1 tvg-id="WARNER CHANNEL CO" tvg-name="Warner Channel Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Warner2018LA.png" group-title="LATINO", WARNER CHANNEL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10690.m3u8
-
-#EXTINF:-1 tvg-id="DISNEY CHANNEL CO" tvg-name="Discovery Channel Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/discovery.png" group-title="LATINO", Discovery Channel HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10725.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY HOME y HEALTH CO" tvg-name="Discovery Home & Health Full HD [Dual audio]" tvg-logo="" group-title="LATINO", Discovery Home & Health HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10724.m3u8
-
-#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY CO" tvg-name="Discovery Investigation Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="LATINO", Discovery Investigation HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10723.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY THEATER HD CO" tvg-name="Discovery Theater Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="LATINO", Discovery Theater HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10721.m3u8
-
-#EXTINF:-1 tvg-id="TLC CO" tvg-name="Discovery TLC Full HD [Dual audio]" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a1/TLCDiscovery2015.png" group-title="LATINO", Discovery TLC HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10720.m3u8
-
-#EXTINF:-1 tvg-id="DISCOVERY WORLD HD CO" tvg-name="Discovery World Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="LATINO", Discovery World HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10719.m3u8
-
-#EXTINF:-1 tvg-id="HISTORY CHANNEL CO" tvg-name="History Channel Full HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/history.png" group-title="LATINO", History Channel HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10702.m3u8
-
-#EXTINF:-1 tvg-id="TNT SERIES CO" tvg-name="TNT Series Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/640px-TNT_Series.png" group-title="LATINO", TNT Series HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10692.m3u8
-
-#EXTINF:-1 tvg-id="TRU TV CO" tvg-name="Trutv Full HD [Dual audio]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="LATINO", Trutv HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/10691.m3u8
-
-#EXTINF:-1 tvg-id="AyE HD CO" tvg-name="A&E Mundo HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/ae.png" group-title="LATINO", A&E Mundo HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11485.m3u8
-
-#EXTINF:-1 tvg-id="AXN CO" tvg-name="AXN HD [Dual audio]" tvg-logo="http://logos.iptv.wtf/iptv/axn.png" group-title="LATINO", AXN HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11484.m3u8
-
-
 
 ##Kids##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
@@ -483,32 +564,36 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
 
 ##Mexico##
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 [New]
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-#title="MEXICO", ADN 40 Full HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-#title="MEXICO", ADN 40 FHD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11256.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17159.m3u8
-#EXTINF:-1 tvg-logo="http://esae.ilceinternacional.org/canales/CANAL_18/logo.png" group-title="MEXICO", Canal Iberoamericano
-http://200.57.164.179:1935/canaliberoamericano1/mp4:live.mp4/chunklist_w1287962499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.mundomas.tv/wp-content/uploads/2017/03/logo1.png" group-title="MEXICO", Canal Mundo+
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once TV Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Nacional
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdabQI7.png" group-title="MEXICO", Canal Once Internacional
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once Internacional
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11213.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV FULL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11210.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV HD
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
 
 
@@ -527,23 +612,23 @@ https://5d00db0e0fcd5.streamlock.net/7202/7202/chunklist_w1126895649.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ImxGqTN.jpg" group-title="HONDURAS", Q'hubo
 http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mIMat1y.jpg" group-title="HONDURAS", Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/trzcUdT.png" group-title="HONDURAS", Si TV
-http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
+http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIcvdMQ.jpg" group-title="HONDURAS", Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS", TEN Canal 10 (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS", TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="HONDURAS", TEN Canal 10 (Opt-2)
-http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="HONDURAS", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+
 
 ##El Salvador##
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="EL SALVADOR",TVES
@@ -568,89 +653,199 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 ##United Kingdom##
-#EXTINF:-1 tvg-id="BBC ALBA UK" tvg-name="BBC ALBA UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/bbcalba.png" group-title="UK", BBC Alba HD [OFF-AIR]
-##http://tv.bestiptv-shop.com:7000/873974867/439074973/1398
+
+#EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/4seven_HD.png" group-title="UK", 4Seven
+http://siptv.vip:27373/b10664/nhzefw/20002
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star HD
+http://siptv.vip:27373/b10664/nhzefw/20003
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star +1 HD
+http://siptv.vip:27373/b10664/nhzefw/20004
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA HD
+http://siptv.vip:27373/b10664/nhzefw/20005
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA +1 HD
+http://siptv.vip:27373/b10664/nhzefw/20006
+
+#EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi" tvg-logo="http://vtpi.best/chanicons/UK2/Alibi_HD.png" group-title="UK",Alibi
+http://siptv.vip:27373/b10664/nhzefw/20007
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-http://190.2.154.164/TV2812
+http://siptv.vip:27373/b10664/nhzefw/20013
 
 #EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One HD
-#http://www.sansat.net:25461/jean1/jean1/8230
+http://siptv.vip:27373/b10664/nhzefw/20014
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
-http://190.2.154.164/TV2813
+http://siptv.vip:27373/b10664/nhzefw/20019
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
-http://redtv.cf:8080/glennd87333/glennd87333/5256
+http://siptv.vip:27373/b10664/nhzefw/20011
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four HD
+http://siptv.vip:27373/b10664/nhzefw/20012
+
+#EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="http://vtpi.best/chanicons/UK/CBSACTION.png" group-title="UK",CBS Action
+http://siptv.vip:27373/b10664/nhzefw/20025
+
+#EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama" tvg-logo="http://vtpi.best/chanicons/UK/CBSDRAMA.png" group-title="UK",CBS Drama
+http://siptv.vip:27373/b10664/nhzefw/20026
+
+#EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="CBS Reality" tvg-logo="http://vtpi.best/chanicons/UK/CBSREALITY.png" group-title="UK",CBS Reality
+http://siptv.vip:27373/b10664/nhzefw/20027
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-challenge/tracks-v1a1/mono.m3u8
+http://siptv.vip:27373/b10664/nhzefw/20028
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge +1
+http://siptv.vip:27373/b10664/nhzefw/26129
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL4.png" group-title="UK",Channel 4
+http://siptv.vip:27373/b10664/nhzefw/20029
+
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_HD.png" group-title="UK",Channel 4 HD
+http://siptv.vip:27373/b10664/nhzefw/20031
+
+#EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel 4 +1*" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_Plus_1.png" group-title="UK",Channel 4 +1*
+http://siptv.vip:27373/b10664/nhzefw/20030
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL5.png" group-title="UK",Channel 5
+http://siptv.vip:27373/b10664/nhzefw/20032
+
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://vtpi.best/chanicons/UK2/Channel_5_HD.png" group-title="UK",Channel 5 HD
+http://siptv.vip:27373/b10664/nhzefw/20033
 
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-dave/tracks-v1a1/mono.m3u8
+http://siptv.vip:27373/b10664/nhzefw/20038
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png" group-title="UK", ITV
-#https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://vtpi.best/chanicons/UK/E4.png" group-title="UK",E4
+http://siptv.vip:27373/b10664/nhzefw/20041
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV2.uk.png" group-title="UK", ITV 2
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="More4Plus1.uk" tvg-name="E4 +1" tvg-logo="http://vtpi.best/chanicons/UK2/E4_Plus_1.png" group-title="UK",E4 +1
+http://siptv.vip:27373/b10664/nhzefw/20042
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV3.uk.png" group-title="UK", ITV 3
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FX.uk" tvg-name="Fox UK" tvg-logo="http://vtpi.best/chanicons/UK/FOX.png" group-title="UK",Fox UK
+http://siptv.vip:27373/b10664/nhzefw/20043
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITV4.uk.png" group-title="UK", ITV 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-itv4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="http://vtpi.best/chanicons/UK/GOLD.png" group-title="UK",Gold
+http://siptv.vip:27373/b10664/nhzefw/20044
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/ITVBe.uk.png" group-title="UK", ITV BE
-#http://www.sansat.net:25461/jean1/jean1/8232
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://vtpi.best/chanicons/UK2/Gold_HD.png" group-title="UK",Gold HD
+http://siptv.vip:27373/b10664/nhzefw/24851
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel4.uk.png" group-title="UK", Channel 4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV" tvg-logo="http://vtpi.best/chanicons/UK/ITV.png" group-title="UK",ITV
+http://siptv.vip:27373/b10664/nhzefw/20045
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/E4.uk.png" group-title="UK", E4
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-e4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV_HD.png" group-title="UK",ITV HD
+http://siptv.vip:27373/b10664/nhzefw/20054
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/More4.uk.png" group-title="UK", More 4
-#http://www.sansat.net:25461/jean1/jean1/8191
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2.png" group-title="UK",ITV 2
+http://siptv.vip:27373/b10664/nhzefw/20046
 
-#EXTINF:-1 tvg-id="4Music UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/4music.png" group-title="UK", 4Music HD [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1428
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2_HD.png" group-title="UK",ITV 2 HD
+http://siptv.vip:27373/b10664/nhzefw/20047
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Channel5.uk.png" group-title="UK", Channel 5
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-channel5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://vtpi.best/chanicons/UK/ITV3.png" group-title="UK",ITV 3
+http://siptv.vip:27373/b10664/nhzefw/20048
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA HD [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1430
+#EXTINF:-1 tvg-id="" tvg-name="ITV 3 HD" tvg-logo="" group-title="UK",ITV 3 HD
+http://siptv.vip:27373/b10664/nhzefw/24807
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star HD [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1432
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://vtpi.best/chanicons/UK/ITV4.png" group-title="UK",ITV 4
+http://siptv.vip:27373/b10664/nhzefw/20049
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Pick%27s_new_logo.png" group-title="UK", Pick
-https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pick/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV4_HD.png" group-title="UK",ITV 4 HD
+http://siptv.vip:27373/b10664/nhzefw/20050
 
-#EXTINF:-1 tvg-id="S4C UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/s4c.png" group-title="UK", S4C HD [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1119
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be" tvg-logo="http://vtpi.best/chanicons/UK/ITVBE.png" group-title="UK",ITV Be
+http://siptv.vip:27373/b10664/nhzefw/20051
 
-#EXTINF:-1 tvg-id="TG4 UK" tvg-logo="https://static.iptv-epg.com/ie/TG4.ie.png" group-title="UK", TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD" tvg-logo="" group-title="UK",ITV Be FHD
+http://siptv.vip:27373/b10664/nhzefw/27543
 
-#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="https://static.iptv-epg.com/gb/Quest.uk.png" group-title="UK", Quest HD [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1140
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV Central" tvg-logo="http://vtpi.best/chansicons/itvcentral.png" group-title="UK",ITV Central
+http://siptv.vip:27373/b10664/nhzefw/20052
 
-#EXTINF:-1 tvg-id="QUEST RED UK" tvg-logo="http://hoolatv.com/sites/default/files/channels/questred.png" group-title="UK", Quest Red [OFF-AIR]
-#http://tv.bestiptv-shop.com:7000/873974867/439074973/1139
+#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime HD" tvg-logo="http://vtpi.best/chanicons/UK2/Lifetime_HD.png" group-title="UK",Lifetime HD
+http://siptv.vip:27373/b10664/nhzefw/20055
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="UK", History HD
-http://185.246.209.109:8080/HISTORY2/index.m3u8
+#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-logo="http://vtpi.best/chanicons/UK2/London_Live.png" group-title="UK",London Live
+http://siptv.vip:27373/b10664/nhzefw/20056
 
-#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK", Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://vtpi.best/chanicons/UK/MORE_4.png" group-title="UK",More 4
+http://siptv.vip:27373/b10664/nhzefw/20057
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK", Sky News (Opt-1)
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="" group-title="UK Sky",Paramount Network FHD
+http://siptv.vip:27373/b10664/nhzefw/27544
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK", Sky News (Opt-2)
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8
+#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://vtpi.best/chanicons/UK/PICKTV.png" group-title="UK",Pick
+http://siptv.vip:27373/b10664/nhzefw/20058
+
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://vtpi.best/chanicons/UK2/Really.png" group-title="UK",Really
+http://siptv.vip:27373/b10664/nhzefw/20060
+
+#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="RTE One" tvg-logo="http://vtpi.best/chanicons/UK/RTEONE.png" group-title="UK",RTE One
+http://siptv.vip:27373/b10664/nhzefw/20061
+
+#EXTINF:-1 tvg-id="" tvg-name="RTE One HD" tvg-logo="http://vtpi.best/chanicons/UK2/RTE_ONE_HD.png" group-title="UK",RTE One HD
+http://siptv.vip:27373/b10664/nhzefw/25183
+
+#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTE Two" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two
+http://siptv.vip:27373/b10664/nhzefw/20063
+
+#EXTINF:-1 tvg-id="" tvg-name="RTE Two HD" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two HD
+http://siptv.vip:27373/b10664/nhzefw/25184
+
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://vtpi.best/chanicons/UK2/S4C.png" group-title="UK",S4C
+http://siptv.vip:27373/b10664/nhzefw/20065
+
+##UK Satellite##
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One.png" group-title="UK Sky&Virgin",Sky One
+http://siptv.vip:27373/b10664/nhzefw/20066
+
+#EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One_HD.png" group-title="UK Sky&Virgin",Sky One HD
+http://siptv.vip:27373/b10664/nhzefw/20067
+
+#EXTINF:-1 tvg-id="Sky2.uk" tvg-name="Sky 2" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Two.png" group-title="UK Sky&Virgin",Sky 2
+http://siptv.vip:27373/b10664/nhzefw/20068
+
+#EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Arts.png" group-title="UK Sky&Virgin",Sky Arts
+http://siptv.vip:27373/b10664/nhzefw/20069
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Atlantic_HD.png" group-title="UK Sky&Virgin",Sky Atlantic
+http://siptv.vip:27373/b10664/nhzefw/20070
+
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://vtpi.best/chanicons/UK/SKYATLANTIC.png" group-title="UK Sky&Virgin",Sky Atlantic HD
+http://siptv.vip:27373/b10664/nhzefw/24844
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="UK Sky&Virgin",Sky Atlantic FHD
+http://siptv.vip:27373/b10664/nhzefw/27542
+
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Living/Witness
+http://siptv.vip:27373/b10664/nhzefw/20071
+
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness_HD.png" group-title="UK Sky&Virgin",Sky Living/Witness HD
+http://siptv.vip:27373/b10664/nhzefw/20072
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One.png" group-title="UK Sky&Virgin",Virgin Media One
+http://siptv.vip:27373/b10664/nhzefw/25186
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One_HD.png" group-title="UK Sky&Virgin",Virgin Media One HD
+http://siptv.vip:27373/b10664/nhzefw/25192
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two.png" group-title="UK Sky&Virgin",Virgin Media Two
+http://siptv.vip:27373/b10664/nhzefw/25187
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two_HD.png" group-title="UK Sky&Virgin",Virgin Media Two HD
+http://siptv.vip:27373/b10664/nhzefw/25189
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three
+http://siptv.vip:27373/b10664/nhzefw/25188
+
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three HD
+http://siptv.vip:27373/b10664/nhzefw/25190
 
 
 

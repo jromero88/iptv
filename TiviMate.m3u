@@ -293,8 +293,11 @@ http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Sky_Atlantic_%28HD%29.png" group-title="MOVIES VIP", SKY Atlantic HD
 http://p5.giffy.be:8080/JenO/JenO/85659
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action HD
-http://p5.giffy.be:8080/JenO/JenO/85658
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men HD
+http://siptv.vip:27373/b10664/nhzefw/27532
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Women HD
+http://siptv.vip:27373/b10664/nhzefw/28543
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy HD
 http://p5.giffy.be:8080/JenO/JenO/85657
@@ -312,19 +315,19 @@ http://p5.giffy.be:8080/JenO/JenO/85654
 #http://www.sansat.net:25461/jean1/jean1/8171
 
 #EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits HD
-http://p5.giffy.be:8080/JenO/JenO/85652
+http://siptv.vip:27373/b10664/nhzefw/27528
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere HD
 http://p5.giffy.be:8080/JenO/JenO/85651
 
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror HD
-http://p5.giffy.be:8080/JenO/JenO/85650
+http://siptv.vip:27373/b10664/nhzefw/27536
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select HD
-http://p5.giffy.be:8080/JenO/JenO/85649
+http://siptv.vip:27373/b10664/nhzefw/27537
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller HD
-#http://www.sansat.net:25461/jean1/jean1/8165
+http://siptv.vip:27373/b10664/nhzefw/27534
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17308.m3u8

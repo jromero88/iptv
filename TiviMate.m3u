@@ -386,49 +386,49 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8134.m3u8
 ##Movies FHD##
 #EXTINF:-1 group-title="MOVIES Full HD",AXN HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4038
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - CINECANAL
+#EXTINF:-1 group-title="MOVIES Full HD",CINECANAL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4068
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - CINEMAX
+#EXTINF:-1 group-title="MOVIES Full HD",CINEMAX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4110
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM ACTION
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM ACTION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4019
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM CINEMA
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM CINEMA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8238
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM CLASSICS
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM CLASSICS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8237
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM COMEDY
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM COMEDY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8234
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM FAMILY
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM FAMILY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4084
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM MOVIES
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM MOVIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4023
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM SERIES
+#EXTINF:-1 group-title="MOVIES Full HD",FOX PREMIUM SERIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4020
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - FX HD
+#EXTINF:-1 group-title="MOVIES Full HD",FX HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4044
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - GOLDEN PLUS
+#EXTINF:-1 group-title="MOVIES Full HD",GOLDEN PLUS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8255
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - GOLDEN PREMIERE
+#EXTINF:-1 group-title="MOVIES Full HD",GOLDEN PREMIERE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4091
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES Full HD",FHD - HBO 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES Full HD",HBO 2
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4095
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO FAMILY
+#EXTINF:-1 group-title="MOVIES Full HD",HBO FAMILY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3211
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO HD
+#EXTINF:-1 group-title="MOVIES Full HD",HBO HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4112
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO PLUS
+#EXTINF:-1 group-title="MOVIES Full HD",HBO PLUS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4109
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - PARAMOUNT
+#EXTINF:-1 group-title="MOVIES Full HD",PARAMOUNT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4065
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - SONY
+#EXTINF:-1 group-title="MOVIES Full HD",SONY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4048
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - SPACE HD
+#EXTINF:-1 group-title="MOVIES Full HD",SPACE HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4099
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - STUDIO UNIVERSAL
+#EXTINF:-1 group-title="MOVIES Full HD",STUDIO UNIVERSAL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4100
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - UNIVERSAL CHANNEL
+#EXTINF:-1 group-title="MOVIES Full HD",UNIVERSAL CHANNEL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4054
-#EXTINF:-1 group-title="MOVIES Full HD",FHD - WARNER
+#EXTINF:-1 group-title="MOVIES Full HD",WARNER
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4053
 
 
@@ -516,16 +516,6 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 
 ##PPV##
 
-#EXTINF:-1 group-title="PPV", CINE INFANTIL 01
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29413
-#EXTINF:-1 group-title="PPV", CINE INFANTIL 02
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29414
-#EXTINF:-1 group-title="PPV", CINE INFANTIL 03
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29415
-#EXTINF:-1 group-title="PPV", CINE INFANTIL 04
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29416
-#EXTINF:-1 group-title="PPV", CINE INFANTIL 05
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29417
 #EXTINF:-1 group-title="PPV", CINEMA 01 FHD (ES)
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7964
 #EXTINF:-1 group-title="PPV", CINEMA 02 FHD (ES)

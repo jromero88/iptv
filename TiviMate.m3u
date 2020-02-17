@@ -620,11 +620,11 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7977
 
 #EXTINF:-1 group-title="MEXICO", 52 MX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 OPT-2
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 OPT-2
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4025
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3185

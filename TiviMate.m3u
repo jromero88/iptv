@@ -625,6 +625,8 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO" ADN 40 FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3185
 #EXTINF:-1 group-title="MEXICO", AFIZZIONADOS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8248
 #EXTINF:-1 group-title="MEXICO", AZ CINEMA
@@ -655,8 +657,10 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4087
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3244
 #EXTINF:-1 group-title="MEXICO", CANAL 5 FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4028
-#EXTINF:-1 group-title="MEXICO", CANAL DE LAS ESTRELLAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", CANAL DE LAS ESTRELLAS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3243
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", CANAL DE LAS ESTRELLAS HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4030
 #EXTINF:-1 group-title="MEXICO", CANAL JUDICIAL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33361
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", CANAL ONCE
@@ -665,12 +669,12 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3269
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", CANAL ONCE INTERNACIONAL
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="MEXICO", ONCE TV FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4035
 #EXTINF:-1 group-title="MEXICO", CONGRESO DE LA UNION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33369
 #EXTINF:-1 group-title="MEXICO", DISTRITO COMEDIA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3209
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", EL CANAL DE LAS ESTRELLAS HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4030
 #EXTINF:-1 group-title="MEXICO", EL FINANCIERO BLOOMBERG
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3080
 #EXTINF:-1 group-title="MEXICO", FORO TV
@@ -695,10 +699,6 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4125
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4033
 #EXTINF:-1 group-title="MEXICO", MULTIMEDIOS MONTERREY PLUS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4034
-#EXTINF:-1 group-title="MEXICO", ONCE TV FHD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4035
-#EXTINF:-1 group-title="MEXICO", PROYECTO 40 FHD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3185
 #EXTINF:-1 group-title="MEXICO", SURES TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33366
 #EXTINF:-1 group-title="MEXICO", TDN HD

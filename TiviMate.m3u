@@ -3,204 +3,287 @@ x-tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz"
 x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 
 
+
+#EXTINF:-1,US.FM - A&E
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3761
+#EXTINF:-1,US.FM - AMC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3357
+#EXTINF:-1,US.FM - BET
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17416
+#EXTINF:-1,US.FM - CHILLER
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3763
+#EXTINF:-1,US.FM - CINE SONY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3704
+#EXTINF:-1,US.FM - EL REY NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3765
+#EXTINF:-1,US.FM - FANTASY ZONE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3695
+#EXTINF:-1,US.FM - FOX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29349
+#EXTINF:-1,US.FM - FOX LIFE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3766
+#EXTINF:-1,US.FM - FUBO SPORTS NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3699
+#EXTINF:-1,US.FM - FUSE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3767
+#EXTINF:-1,US.FM - FX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3768
+#EXTINF:-1,US.FM - FXM
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3769
+#EXTINF:-1,US.FM - FXX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3770
+#EXTINF:-1,US.FM - FYI
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3771
+#EXTINF:-1,US.FM - HALLMARK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3781
+#EXTINF:-1,US.FM - HALLMARK MOVIES & MISTERIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3782
+#EXTINF:-1,US.FM - HBO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8210
+#EXTINF:-1,US.FM - HBO 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8222
+#EXTINF:-1,US.FM - HBO COMEDY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18769
+#EXTINF:-1,US.FM - HBO EAST
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18768
+#EXTINF:-1,US.FM - HBO EAST
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29344
+#EXTINF:-1,US.FM - HBO FAMILY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8216
+#EXTINF:-1,US.FM - HBO SIGNATURE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29345
+#EXTINF:-1,US.FM - HBO ZONE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29347
+#EXTINF:-1,US.FM - I-SAT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29342
+#EXTINF:-1,US.FM - ION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17417
+#EXTINF:-1,US.FM - LIFETIME
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3783
+#EXTINF:-1,US.FM - LIFETIME MOVIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17175
+#EXTINF:-1,US.FM - MOVIEPLEX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29341
+#EXTINF:-1,US.FM - REVOLT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3777
+#EXTINF:-1,US.FM - SHOWCASE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22380
+#EXTINF:-1,US.FM - SPIKE TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22374
+#EXTINF:-1,US.FM - TBS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29353
+#EXTINF:-1,US.FM - TELEXITOS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3701
+#EXTINF:-1,US.FM - TNT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18767
+#EXTINF:-1,US.FM - USA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3780
+#EXTINF:-1,US.FM - VICELAND
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3792
+#EXTINF:-1,US.FM - ZONE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22381
+#EXTINF:-1,US.FM - YES TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22382
+#EXTINF:-1,US.FM - NBC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3687
+#EXTINF:-1,US.FM - BRAVO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3762
+#EXTINF:-1,US.FM - WC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/38325
+#EXTINF:-1,US.EN - COMEDY CENTRAL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17178
+#EXTINF:-1,US.EN - DISCOVERY TURBO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17179
+#EXTINF:-1,US.EN - DISCOVERY VELOCITY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22375
+#EXTINF:-1,US.EN - DIY NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17414
+#EXTINF:-1,US.EN - E! ENTERTAINMENT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3764
+#EXTINF:-1,US.EN - FASHION TELEVISION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22373
+#EXTINF:-1,US.EN - FIGHT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3693
+#EXTINF:-1,US.EN - FOOD NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17413
+#EXTINF:-1,US.EN - HGTV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8340
+#EXTINF:-1,US.WC - MSNBC HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35310
+#EXTINF:-1,US.EN - O.W.N (oprah winfrey network)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22383
+#EXTINF:-1,US.EN - OUTDOOR TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22379
+#EXTINF:-1,US.EN - TRU TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17177
+#EXTINF:-1,US.EN - VH1
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17415
+#EXTINF:-1,US.WC - ABC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3788
+#EXTINF:-1,US.WC - ABC MIAMI
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29078
+#EXTINF:-1,US.WC - ANIMAL PLANET
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18771
+#EXTINF:-1,US.WC - CBS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3367
+#EXTINF:-1,US.WC - CNBC WORLD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3365
+#EXTINF:-1,US.WC - CNN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3967
+#EXTINF:-1,US.WC - CNN INTERNACIONAL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3377
+#EXTINF:-1,US.WC - DISCOVERY ID
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22376
+#EXTINF:-1,US.WC - DISCOVERY SCIENCIE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18770
+#EXTINF:-1,US.WC - FOX 5
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3624
+#EXTINF:-1,US.WC - FOX NEWS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29350
+#EXTINF:-1,US.WC - HISTORY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3772
+#EXTINF:-1,US.WC - NATGEO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3773
+#EXTINF:-1,US.WC - NATGEO WILD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3775
+#EXTINF:-1,US.WC - TLC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29352
+#EXTINF:-1,US.WC - THE WEATHER CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3790
+#EXTINF:-1,US.CH - BOOMERANG
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29147
+#EXTINF:-1,US.CH - CARTOON NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29145
+#EXTINF:-1,US.CH - DISNEY CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29142
+#EXTINF:-1,US.CH - DISNEY XD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29144
+#EXTINF:-1,US.CH - NICKTOONS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29146
+#EXTINF:-1,US.CH - PBS KIDS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22378
+#EXTINF:-1,US.CH - DISNEY JR
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29143
+
+
 ##United States##
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
-
 #EXTINF:-1 tvg-id="US: CBS HD" tvg-name="CBS HD Los Angeles-US" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="USA", CBS HD
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="local", ABC Los Angeles
 https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA", ABC (EST)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-
 #EXTINF:-1 tvg-id="ABC HD Los Angeles-US" tvg-name="KABC" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KABC.png" group-title="local", ABC
 #https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-
 #EXTINF:-1 tvg-id="NBC HD New York-US" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA", NBC (EST)
 http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
-
 #EXTINF:-1 tvg-id="NBC HD New York-US" tvg-logo="https://i.imgur.com/zGUrIlJ.png" group-title="USA", NBC (EST) HD
 http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
-
 #EXTINF:-1 tvg-id="FOX 40 Sacramento CA" tvg-name="KTXL" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTTVDT.png" group-title="USA", FOX 
 http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
-
 #EXTINF:-1 tvg-name="KLCSDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT.png" group-title="USA", PBS Miami
 http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-name="KNBCDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KNBCDT2.png" group-title="USA", COZI
 https://v-pi.mybtv.net/event/10.2/768x432?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA", The CW (EST)
 http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-name="KTLADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT2.png" group-title="local", Antenna
 https://v-pi.mybtv.net/event/17.2/640x480?start_time=2019-12-11T20%3A45%3A00.000Z&end_time=2033&env=prd&uid=29375
-
 #EXTINF:-1 tvg-name="KTLADT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KTLADT3.png" group-title="local", ThisTV
 #https://api.locastnet.org/api/watch/stream/1081/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="LAFF" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/LAFF.png" group-title="local", LAFF
 #https://api.locastnet.org/api/watch/stream/1091/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KFLA" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFLA.png" group-title="USA", NewsNet (EST)
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-
 #EXTINF:-1 tvg-name="AMG" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/AMG.png" group-title="local", AMG
 #https://api.locastnet.org/api/watch/stream/1094/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KCALDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCALDT.png" group-title="local", KCAL
 #https://api.locastnet.org/api/watch/stream/1101/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KCOPDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT3.png" group-title="USA", Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls.m3u8
-
 #EXTINF:-1 tvg-name="KCOPDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT4.png" group-title="local", Movies
 #https://api.locastnet.org/api/watch/stream/1116/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KCOPDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCOPDT2.png" group-title="local", Heroes
 #https://api.locastnet.org/api/watch/stream/1117/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KCETDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT.png" group-title="local", KCET
 #https://api.locastnet.org/api/watch/stream/1150/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KCETDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KCETDT3.png" group-title="local", NHK World
 #https://api.locastnet.org/api/watch/stream/1152/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KMEXDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT.png" group-title="local", Univision
 #http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1099/index.m3u
-
 #EXTINF:-1 tvg-name"KMEXDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KMEXDT2.png" group-title="local", Unimas
 #http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1100/index.m3u
-
 #EXTINF:-1 tvg-name="KFTRDT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT2.png" group-title="local", GetTV
 https://v-pi.mybtv.net/event/28.2/640x480?start_time=2019-12-17T20%3A15%3A00.000Z&end_time=8089&env=prd&uid=29375
-
 #EXTINF:-1 tvg-name="KFTRDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT3.png" group-title="local", ESCAPE
 #https://api.locastnet.org/api/watch/stream/1210/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KFTRDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KFTRDT4.png" group-title="local", GRIT
 #https://api.locastnet.org/api/watch/stream/1211/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="USA: TBS WEST" tvg-logo="http://tpkshield.net/icon/us/TBS.us.png" group-title="USA",TBS WEST
 #http://thepk.co:2086/73589916051/2450245834/15420
-
 #EXTINF:-1 tvg-id="tbs.us" tvg-name="USA: TBS" tvg-logo="http://tpkshield.net/icon/us/TBS.us.png" group-title="USA",TBS
 #http://b66dc3b9.kartoshkaka.ru/iptv/3DMC7MXCRNNYSA/1103/index.m3u
-
 #EXTINF:-1 tvg-id="Telemundo" tvg-name="KVEADT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT.png" group-title="USA", Telemundo (EST)
 #https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="KVEADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KVEADT2.png" group-title="local", TelXtos
 #https://api.locastnet.org/api/watch/stream/1219/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KAZADT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT.png" group-title="local", MeTV
 #https://api.locastnet.org/api/watch/stream/1221/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KAZADT2" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KAZADT2.png" group-title="local", Decades
 #https://api.locastnet.org/api/watch/stream/1222/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KDOCDT" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT.png" group-title="local", KDOC
 https://v-la.mybtv.net/event/6.0/1280x720?start_time=2019-12-12T11%3A45%3A00.000Z&end_time=2028&env=prd&uid=24610
-
 #EXTINF:-1 tvg-name="KDOCDT4" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KDOCDT4.png" group-title="local", Comet
 #https://api.locastnet.org/api/watch/stream/1228/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="KLCSDT3" tvg-logo="https://s3.us-east-2.amazonaws.com/static.locastnet.org/logo/LA/KLCSDT3.png" group-title="local", Create
 #https://api.locastnet.org/api/watch/stream/1245/34/-118/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU
-
 #EXTINF:-1 tvg-name="Estrella TV" tvg-logo="http://fans.tmsimg.com/assets/s65064_ll_h3_aa.png" group-title="local", Estrella
 #https://api.locastnet.org/api/watch/stream/271/33/-97/?token=eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkdWRlc2VrLnBldGVyQGdtYWlsLmNvbSIsInJvbGUiOjEsImV4cCI6MTU4OTEyNjI3OH0.UmdOQBwiO5JjceZ-WpWKYXZy2v6aooUi1808NTolbIo&fbclid=IwAR3EW3T_ZSm_BwKxzpTSlethc322oxJ_Z5JYgPOkD4SSB08yvxqmsbM_zTU 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freeform.svg/1280px-Freeform.svg.png" group-title="USA", FREEFORM HD
 #http://185.246.209.109:8080/FREEFORM/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="USA", Fuse
 #http://185.246.209.109:8080/FUSE/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fusion.png" group-title="USA", Fusion
 #http://185.246.209.109:8080/FUSION/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xPmRZ19.png" group-title="USA", Pop
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gk4DyUO.png" group-title="USA", Revolt
 #http://185.246.209.109:8080/REVOLT/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WjxWAE2.png" group-title="USA", Syfy
 #http://185.246.209.109:8080/SYFY/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wzBD6fy.png" group-title="USA", TMZ
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="USA", VH1
 http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1506453010727-3K82IMBN91KM2UKQW3TX/ke17ZwdGBToddI8pDm48kOM2qwkR-cf5qXtSAWeLGOhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIZeXmzoGjKE4oMSj9e6HmNLnUcnI4hIKnTIbUto0uUoE/smithsonian-channel.png" group-title="USA", Smithsonian Channel
 #http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/FX_HD_2013.png" group-title="USA", FXM HD
 #http://185.246.209.109:8080/FXM/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://limerock.com/limerock/images/Fox-tv-logo-500.jpg" group-title="USA", FOXX HD
 #http://185.246.209.109:8080/FXX/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VX4uHSO.png" group-title="USA", NASA TV (Opt-1)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="USA", H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/planet_green.png.300x300_q85.png" group-title="USA", Planet Green
 #http://80.80.160.168/live/4/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="USA", Nat Geo
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA", Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="USA", Discovery ID
 #http://80.80.160.168/live/5/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1krUCU8.png" group-title="USA", Discovery Channel
 #http://80.80.160.168/live/8/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KdGgt5L.png" group-title="USA", Discovery Science
 #http://80.80.160.168/live/9/live.m3u8
 
 
 ##Movies##
-##Ultra##
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", Ultra Cine
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8181.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="MOVIES", Ultra Clasico
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8179.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Documentales" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="MOVIES", Ultra Docu
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8182.m3u8
-
-#EXTINF:-1 group-title="MOVIES", Ultra Film
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8178.m3u8
-
-#EXTINF:-1 group-title="MOVIES", Ultra Kids
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8177.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="MOVIES", Ultra Luna
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8176.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="MOVIES", Ultra Macho
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8175.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", Ultra Mex
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8174.m3u8
 
 #EXTINF:-1 group-title="MOVIES",A&E
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3246
@@ -226,28 +309,20 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33359
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4121
 #EXTINF:-1 group-title="MOVIES",FOX LIFE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3203
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="MOVIES",FOX PREMIUM ACTION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3263
-
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023527492/FOX_Cinema_HD.png" group-title="MOVIES",FOX PREMIUM CINEMA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3264
-
 #EXTINF:-1 tvg-logo="https://help.foxplay.com/hc/article_attachments/360023561771/FOX_Classics_HD.png" group-title="MOVIES",FOX PREMIUM CLASSICS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3077
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="MOVIES",FOX PREMIUM COMEDY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3102
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="MOVIES",FOX PREMIUM FAMILY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4032
-
 #EXTINF:-1 tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="MOVIES",FOX PREMIUM MOVIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3266
-
 #EXTINF:-1 group-title="MOVIES",FOX PREMIUM SERIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3262
-
 #EXTINF:-1 group-title="MOVIES",FX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3201
 #EXTINF:-1 group-title="MOVIES",FXM
@@ -292,249 +367,274 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4010
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3218
 #EXTINF:-1 group-title="MOVIES",UNIVERSAL CHANNEL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3068
-
 #EXTINF:-1 group-title="MOVIES",WARNER
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3228
 
 
-##Movies VIP##
-
-
-
-##HBO##
-#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO FHD Latino
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4112.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES VIP", HBO FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8210.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 FHD Latino
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4095.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES VIP", HBO 2 FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8222.m3u8
-
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:HBO_Comedy.png" group-title="MOVIES VIP", HBO COMEDY FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/18769.m3u8
-
-#EXTINF:-1 group-title="MOVIES VIP",HBO Plus FHD Latino
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/4109.m3u8
-
-#EXTINF:-1 group-title="MOVIES VIP",HBO Family FHD Latino
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3211.m3u8
-
-#EXTINF:-1 group-title="MOVIES VIP",HBO Family FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8216.m3u8
-
-#EXTINF:-1 group-title="MOVIES VIP",HBO Signature Latino
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3197.m3u8
-
-#EXTINF:-1 group-title="MOVIES VIP",HBO Signature FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29345.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIES VIP", HBO ZONE FHD
-http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/29347.m3u8
+##Ultra##
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Cine" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraCineLogoBlack.png" group-title="MOVIES", ULTRA CINE
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8181.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Clasico" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraClasicoLogoBlack.png" group-title="MOVIES", ULTRA CLASICO
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Documentales" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraDocuLogoBlack.png" group-title="MOVIES", ULTRA DOCU
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8182.m3u8
+#EXTINF:-1 group-title="MOVIES", ULTRA FILM
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8178.m3u8
+#EXTINF:-1 group-title="MOVIES", ULTRA KIDS
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8177.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Luna" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraLunaLogoBlack.png" group-title="MOVIES", ULTRA LUNA
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Macho" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMachoLogoBlack.png" group-title="MOVIES", ULTRA MACHO
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Mex" tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/UltraMexLogoBlack.png" group-title="MOVIES", ULTRA MEX
+http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8174.m3u8
+#EXTINF:-1 group-title="MOVIES", ULTRA TAINMENT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8180
 
 ##OTHER##
-#EXTINF:-1 group-title="MOVIES VIP",INDIE PLEX
+#EXTINF:-1 group-title="MOVIES",INDIE PLEX
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8142.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",MOVIEPLEX
+#EXTINF:-1 group-title="MOVIES",MOVIEPLEX
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8145.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",RETROPLEX HD
+#EXTINF:-1 group-title="MOVIES",RETROPLEX HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8147.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME WEST HD
+#EXTINF:-1 group-title="MOVIES",SHOWTIME WEST HD
 #http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8141.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME HD
+#EXTINF:-1 group-title="MOVIES",SHOWTIME HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8138.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME BEYOND HD
+#EXTINF:-1 group-title="MOVIES",SHOWTIME BEYOND HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8139.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",SHOWTIME EAST
+#EXTINF:-1 group-title="MOVIES",SHOWTIME EAST
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8140.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ COMEDY HD
+#EXTINF:-1 group-title="MOVIES",STARZ COMEDY HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8135.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE BLACK
+#EXTINF:-1 group-title="MOVIES",STARZ ENCORE BLACK
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8127.m3u8
-#EXTINF:-1 group-title="MOVIES VIP", Hallmark Channel
+#EXTINF:-1 group-title="MOVIES", Hallmark Channel
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8129.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE HD
+#EXTINF:-1 group-title="MOVIES",STARZ ENCORE HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8126.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ ENCORE SUSPENSE
+#EXTINF:-1 group-title="MOVIES",STARZ ENCORE SUSPENSE
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8130.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ FAMILY HD
+#EXTINF:-1 group-title="MOVIES",STARZ FAMILY HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8131.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ HD
+#EXTINF:-1 group-title="MOVIES",STARZ HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8132.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ IN BLACK
+#EXTINF:-1 group-title="MOVIES",STARZ IN BLACK
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8137.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ KIDS & FAMILY
+#EXTINF:-1 group-title="MOVIES",STARZ KIDS & FAMILY
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8133.m3u8
-#EXTINF:-1 group-title="MOVIES VIP",STARZ WESTERN HD
+#EXTINF:-1 group-title="MOVIES",STARZ WESTERN HD
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/8134.m3u8
 
-##SKY Cinema##
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men HD
+
+##Movies FHD##
+#EXTINF:-1 group-title="MOVIES Full HD",AXN HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4038
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - CINECANAL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4068
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - CINEMAX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4110
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM ACTION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4019
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM CINEMA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8238
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM CLASSICS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8237
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM COMEDY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8234
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM FAMILY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4084
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM MOVIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4023
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FOX PREMIUM SERIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4020
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - FX HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4044
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - GOLDEN PLUS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8255
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - GOLDEN PREMIERE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4091
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES Full HD",FHD - HBO 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4095
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO FAMILY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3211
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4112
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - HBO PLUS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4109
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - PARAMOUNT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4065
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - SONY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4048
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - SPACE HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4099
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - STUDIO UNIVERSAL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4100
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - UNIVERSAL CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4054
+#EXTINF:-1 group-title="MOVIES Full HD",FHD - WARNER
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4053
+
+
+
+
+##SKY Cinema OFF-AIR##
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men HD
 http://siptv.vip:27373/b10664/nhzefw/20090
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Men FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men FHD
 http://siptv.vip:27373/b10664/nhzefw/27532
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Women HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women HD
 http://siptv.vip:27373/b10664/nhzefw/28544
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES VIP", SKY Cinema Action Women FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women FHD
 http://siptv.vip:27373/b10664/nhzefw/28543
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy HD
 http://siptv.vip:27373/b10664/nhzefw/20092
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES VIP", SKY Cinema Comedy FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy FHD
 http://siptv.vip:27373/b10664/nhzefw/27533
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney HD
 http://siptv.vip:27373/b10664/nhzefw/20094
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES VIP", SKY Cinema Disney FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney FHD
 http://siptv.vip:27373/b10664/nhzefw/27530
-
-#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES VIP", SKY Cinema Drama Romance HD
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance HD
 http://siptv.vip:27373/b10664/nhzefw/20096
-
-#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES VIP", SKY Cinema Drama Romance FHD
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance FHD
 http://siptv.vip:27373/b10664/nhzefw/27535
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family HD
 http://siptv.vip:27373/b10664/nhzefw/20098
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES VIP", SKY Cinema Family FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family FHD
 http://siptv.vip:27373/b10664/nhzefw/27531
-
-#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats HD
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats HD
 http://siptv.vip:27373/b10664/nhzefw/27539
-
-#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES VIP", SKY Cinema Greats FHD
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats FHD
 http://siptv.vip:27373/b10664/nhzefw/27529
-
-#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits HD
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits HD
 http://siptv.vip:27373/b10664/nhzefw/20100
-
-#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES VIP", SKY Cinema Hits FHD
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits FHD
 http://siptv.vip:27373/b10664/nhzefw/27528
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere HD
 http://siptv.vip:27373/b10664/nhzefw/20104
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES VIP", SKY Cinema Premiere FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere FHD
 http://siptv.vip:27373/b10664/nhzefw/27527
-
-#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror HD
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror HD
 http://siptv.vip:27373/b10664/nhzefw/20106
-
-#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES VIP", Sky Cinema SciFi Horror FHD
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror FHD
 http://siptv.vip:27373/b10664/nhzefw/27536
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select HD
 http://siptv.vip:27373/b10664/nhzefw/20108
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES VIP", SKY Cinema Select FHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select FHD
 http://siptv.vip:27373/b10664/nhzefw/27537
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES OFF-AIR", SKY Cinema Thriller HD
 http://siptv.vip:27373/b10664/nhzefw/20111
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES VIP", SKY Cinema Thriller FHD
+#EXTINF:-1 tvg-id=" OFF-AIR" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES", SKY Cinema Thriller FHD
 http://siptv.vip:27373/b10664/nhzefw/27534
-
-#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Sony Action" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action.png" group-title="MOVIES VIP",Sony Action
+#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Sony Action" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action.png" group-title="MOVIES OFF-AIR",Sony Action
 http://siptv.vip:27373/b10664/nhzefw/25207
-
-#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Action +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action_Plus_1.png" group-title="MOVIES VIP",Sony Action +1
+#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Action +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Action +1
 http://siptv.vip:27373/b10664/nhzefw/25206
-
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Christmas.png" group-title="MOVIES VIP",Sony Christmas
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Christmas.png" group-title="MOVIES OFF-AIR",Sony Christmas
 http://siptv.vip:27373/b10664/nhzefw/20119
-
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas +1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/true_movies1.jpg" group-title="MOVIES VIP",Sony Christmas +1
+#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas +1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/true_movies1.jpg" group-title="MOVIES OFF-AIR",Sony Christmas +1
 http://siptv.vip:27373/b10664/nhzefw/25205
-
-#EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime" tvg-logo="http://vtpi.best/chanicons/UK/SONYCRIMECHANNEL.png" group-title="MOVIES VIP",Sony Crime
+#EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime" tvg-logo="http://vtpi.best/chanicons/UK/SONYCRIMECHANNEL.png" group-title="MOVIES OFF-AIR",Sony Crime
 http://siptv.vip:27373/b10664/nhzefw/20112
-
-#EXTINF:-1 tvg-id="SonyCrimeChannelPlus1.uk" tvg-name="Sony Crime +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Crime_Channel_Plus_1.png" group-title="MOVIES VIP",Sony Crime +1
+#EXTINF:-1 tvg-id="SonyCrimeChannelPlus1.uk" tvg-name="Sony Crime +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Crime_Channel_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Crime +1
 http://siptv.vip:27373/b10664/nhzefw/20115
-
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies.png" group-title="MOVIES VIP",Sony Movies
+#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies.png" group-title="MOVIES OFF-AIR",Sony Movies
 http://siptv.vip:27373/b10664/nhzefw/20117
-
-#EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movies +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Plus_1.png" group-title="MOVIES VIP",Sony Movies +1
+#EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movies +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Movies +1
 http://siptv.vip:27373/b10664/nhzefw/20113
 
 
 ##Movistar##
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES VIP", Movistar Accion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/175px-Movistar_Acci%C3%B3n.svg.png" group-title="MOVIES OFF-AIR", Movistar Accion
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3142.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES VIP", Movistar Comedia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/175px-Movistar_Comedia.svg.png" group-title="MOVIES OFF-AIR", Movistar Comedia
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3143.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="MOVIES VIP", Movistar Drama
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Movistar_Drama.svg/1200px-Movistar_Drama.svg.png" group-title="MOVIES OFF-AIR", Movistar Drama
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17303.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/220px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="MOVIES VIP", Movistar Cine Ñ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/220px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="MOVIES OFF-AIR", Movistar Cine Ñ
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/6026.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png" group-title="MOVIES VIP", Movistar Estrenos
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Estrenos.svg/175px-Movistar_Estrenos.svg.png" group-title="MOVIES OFF-AIR", Movistar Estrenos
 http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 
 
-##PPV Latino [OFF-AIR]##
-#EXTINF:-1 group-title="PPV Latino",Cinema 03 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8550.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 04 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8549.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 06 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8547.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 07 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8546.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 08 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8545.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 10 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8543.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 12 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8541.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 13 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8540.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 15 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8538.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 16 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8537.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 17 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8536.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 18 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8535.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 19 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8534.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 20 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8533.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 21 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8532.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 25 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8528.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 26 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8527.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 27 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8526.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 28 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8525.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 29 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8524.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 30 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8523.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 31 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8522.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 33 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8520.m3u8
-#EXTINF:-1 group-title="PPV Latino",Cinema 36 PPV FHD (ES)
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/8517.m3u8
+##PPV##
+
+#EXTINF:-1 group-title="PPV", CINE INFANTIL 01
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29413
+#EXTINF:-1 group-title="PPV", CINE INFANTIL 02
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29414
+#EXTINF:-1 group-title="PPV", CINE INFANTIL 03
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29415
+#EXTINF:-1 group-title="PPV", CINE INFANTIL 04
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29416
+#EXTINF:-1 group-title="PPV", CINE INFANTIL 05
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29417
+#EXTINF:-1 group-title="PPV", CINEMA 01 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7964
+#EXTINF:-1 group-title="PPV", CINEMA 02 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7965
+#EXTINF:-1 group-title="PPV", CINEMA 03 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8007
+#EXTINF:-1 group-title="PPV", CINEMA 04 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8006
+#EXTINF:-1 group-title="PPV", CINEMA 05 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8005
+#EXTINF:-1 group-title="PPV", CINEMA 06 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8004
+#EXTINF:-1 group-title="PPV", CINEMA 07 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8003
+#EXTINF:-1 group-title="PPV", CINEMA 08 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8002
+#EXTINF:-1 group-title="PPV", CINEMA 09 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8001
+#EXTINF:-1 group-title="PPV", CINEMA 10 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8000
+#EXTINF:-1 group-title="PPV", CINEMA 11 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7999
+#EXTINF:-1 group-title="PPV", CINEMA 12 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7998
+#EXTINF:-1 group-title="PPV", CINEMA 13 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7997
+#EXTINF:-1 group-title="PPV", CINEMA 14 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7996
+#EXTINF:-1 group-title="PPV", CINEMA 15 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7995
+#EXTINF:-1 group-title="PPV", CINEMA 16 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7994
+#EXTINF:-1 group-title="PPV", CINEMA 17 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7993
+#EXTINF:-1 group-title="PPV", CINEMA 18 FHD (ES)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7992
+#EXTINF:-1 group-title="PPV", CINEMA 19 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7991
+#EXTINF:-1 group-title="PPV", CINEMA 20 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7990
+#EXTINF:-1 group-title="PPV", CINEMA 21 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7989
+#EXTINF:-1 group-title="PPV", CINEMA 22 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7988
+#EXTINF:-1 group-title="PPV", CINEMA 23 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7987
+#EXTINF:-1 group-title="PPV", CINEMA 24 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7986
+#EXTINF:-1 group-title="PPV", CINEMA 25 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7985
+#EXTINF:-1 group-title="PPV", CINEMA 26 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7984
+#EXTINF:-1 group-title="PPV", CINEMA 27 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7983
+#EXTINF:-1 group-title="PPV", CINEMA 28 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7982
+#EXTINF:-1 group-title="PPV", CINEMA 29 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7981
+#EXTINF:-1 group-title="PPV", CINEMA 30 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7980
+#EXTINF:-1 group-title="PPV", CINEMA 31 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7979
+#EXTINF:-1 group-title="PPV", CINEMA 32 FHD (ES).
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7977
 
 
 
@@ -543,25 +643,18 @@ http://tv.nousiptv.com:25462/live/Bonifacio/Bonifacio/3147.m3u8
 ##Kids [OFF-AIR]##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
 #http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="KIDS", Cachipum
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
 http://185.246.209.109:8080/BOOMERANG/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="KIDS", Cbeebies [OFF AIR]
 #https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS", Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-
 #EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="KIDS", CBBC [OFF AIR]
 #https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="KIDS", Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/495
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-2)
@@ -576,68 +669,135 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 
 
 
+
 ##Mexico##
 
+#EXTINF:-1 group-title="MEXICO", 52 MX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33368
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 OPT-2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-#title="MEXICO", ADN 40 FHD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11256.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", Azteca Uno
-http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", Azteca 7
+#EXTINF:-1 group-title="MEXICO", AFIZZIONADOS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8248
+#EXTINF:-1 group-title="MEXICO", AZ CINEMA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2954
+#EXTINF:-1 group-title="MEXICO", AZ CINEMA FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4086
+#EXTINF:-1 group-title="MEXICO", AZ CLICK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3245
+#EXTINF:-1 group-title="MEXICO", AZ CORAZON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4026
+#EXTINF:-1 group-title="MEXICO", AZ MUNDO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3087
+#EXTINF:-1 group-title="MEXICO", AZ MUNDO FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4055
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO", AZTECA 7
 http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Azteca 13 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Azteca_Trece_2016-1.png" group-title="MEXICO", Azteca 13 Full HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17159.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once Nacional
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",AZTECA 7 OPT-2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3215
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4kX1baN.png" group-title="MEXICO",AZTECA 7 FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", AZTECA UNO
+http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", AZTECA UNO OPT-2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3784389_logo_azteca_uno.png" group-title="MEXICO", AZTECA UNO HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4087
+#EXTINF:-1 group-title="MEXICO", CANAL 5
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3244
+#EXTINF:-1 group-title="MEXICO", CANAL 5 FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4028
+#EXTINF:-1 group-title="MEXICO", CANAL DE LAS ESTRELLAS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3243
+#EXTINF:-1 group-title="MEXICO", CANAL JUDICIAL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33361
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", CANAL ONCE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3269
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", CANAL ONCE NACIONAL
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", Canal Once Internacional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/mx/CanalOnce.mx.png" group-title="MEXICO", CANAL ONCE INTERNACIONAL
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", Las Estrellas FULL HD
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11213.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", Milenio TV HD
+#EXTINF:-1 group-title="MEXICO", CONGRESO DE LA UNION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33369
+#EXTINF:-1 group-title="MEXICO", DISTRITO COMEDIA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3209
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO", EL CANAL DE LAS ESTRELLAS HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4030
+#EXTINF:-1 group-title="MEXICO", EL FINANCIERO BLOOMBERG
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3080
+#EXTINF:-1 group-title="MEXICO", FORO TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4029
+#EXTINF:-1 group-title="MEXICO", GALA TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4031
+#EXTINF:-1 group-title="MEXICO", HAVOC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33362
+#EXTINF:-1 group-title="MEXICO", IMAGEN TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4149
+#EXTINF:-1 group-title="MEXICO", INGENIO TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33358
+#EXTINF:-1 group-title="MEXICO", MEXIQUENSE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3182
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", MILENIO TV HD
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="MEXICO", MILENIO TV OPT-2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3233
+#EXTINF:-1 group-title="MEXICO", MULTIMEDIOS MONTERREY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4125
+#EXTINF:-1 group-title="MEXICO", MULTIMEDIOS MONTERREY FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4033
+#EXTINF:-1 group-title="MEXICO", MULTIMEDIOS MONTERREY PLUS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4034
+#EXTINF:-1 group-title="MEXICO", ONCE TV FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4035
+#EXTINF:-1 group-title="MEXICO", PROYECTO 40 FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3185
+#EXTINF:-1 group-title="MEXICO", SURES TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33366
+#EXTINF:-1 group-title="MEXICO", TDN HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3397
+#EXTINF:-1 group-title="MEXICO", TELEFORMULA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4129
+#EXTINF:-1 group-title="MEXICO", TELEFORMULA FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4036
+#EXTINF:-1 group-title="MEXICO", TELENOVELAS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4130
+#EXTINF:-1 group-title="MEXICO", TELEVISA MTY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4066
+#EXTINF:-1 group-title="MEXICO", TV4
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33367
+#EXTINF:-1 group-title="MEXICO", TVC
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4105
+#EXTINF:-1 group-title="MEXICO", TVMAS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33365
+#EXTINF:-1 group-title="MEXICO", UNICABLE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3230
+#EXTINF:-1 group-title="MEXICO", UNICABLE FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4052
 
 
 
 ##Honduras##
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="HONDURAS", Canal 5 El Lider
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="HONDURAS", Cholusat Sur 36
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tzqCSrl.png" group-title="HONDURAS", Hondured Canal 13
 http://stream.innovandote.com:1935/hondured/hondured/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/afXNqMb.png" group-title="HONDURAS", Maya TV
 https://5d00db0e0fcd5.streamlock.net/7202/7202/chunklist_w1126895649.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ImxGqTN.jpg" group-title="HONDURAS", Q'hubo
 http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mIMat1y.jpg" group-title="HONDURAS", Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/trzcUdT.png" group-title="HONDURAS", Si TV
 http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIcvdMQ.jpg" group-title="HONDURAS", Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS", TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="HONDURAS", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
@@ -646,221 +806,352 @@ https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 ##El Salvador##
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r6Pfj33.png" group-title="EL SALVADOR",TVES
 http://streamingcws20.com:1935/tves/videotves/chunklist_w1550894734.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="EL SALVADOR",TVO Canal 23 (Opt-1)
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xJoLadg.png" group-title="EL SALVADOR",TVO Canal 23 (Opt-2)
 https://59dc4c699f574.streamlock.net/canal23/canal23/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AonXAXu.png" group-title="EL SALVADOR",Elim TV
 http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qIf2Ipu.png" group-title="EL SALVADOR",TV CRET (SV)
 http://radiocret.net:1935/live/tvcret.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lUYKEDE.png" group-title="EL SALVADOR",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 
 
+##LATINO##
+#EXTINF:-1 group-title="LATINO", AMERICA TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17603
+#EXTINF:-1 group-title="LATINO", ByN  Ñ.
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3601
+#EXTINF:-1 group-title="LATINO", CNN EN ESPAÑOL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4014
+#EXTINF:-1 group-title="LATINO", CNN USA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/33360
+#EXTINF:-1 group-title="LATINO", FIGHTING SPORTS NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2962
+#EXTINF:-1 group-title="LATINO", GALAVISION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3793
+#EXTINF:-1 group-title="LATINO", PASIONES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/20148
+#EXTINF:-1 group-title="LATINO", RT NOTICIAS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4113
+#EXTINF:-1 group-title="LATINO", TELEMUNDO 47
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3785
+#EXTINF:-1 group-title="LATINO", TELEMUNDO 51
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3202
+#EXTINF:-1 group-title="LATINO", TELEMUNDO BOSTON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3794
+#EXTINF:-1 group-title="LATINO", UNIMAS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3795
+#EXTINF:-1 group-title="LATINO", UNIVERSO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3757
+#EXTINF:-1 group-title="LATINO", UNIVISION HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3796
+#EXTINF:-1 group-title="LATINO", UNIVISION MIAMI
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3177
+#EXTINF:-1 group-title="LATINO", UNIVISION NEW YORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2021
+#EXTINF:-1 group-title="LATINO", ESTRELLA TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/41188
+
+
+
 
 ##United Kingdom##
-
 #EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/4seven_HD.png" group-title="UK", 4Seven
 http://siptv.vip:27373/b10664/nhzefw/20002
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star HD
 http://siptv.vip:27373/b10664/nhzefw/20003
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star +1 HD
 http://siptv.vip:27373/b10664/nhzefw/20004
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA HD
 http://siptv.vip:27373/b10664/nhzefw/20005
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA +1 HD
 http://siptv.vip:27373/b10664/nhzefw/20006
-
 #EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi" tvg-logo="http://vtpi.best/chanicons/UK2/Alibi_HD.png" group-title="UK",Alibi
 http://siptv.vip:27373/b10664/nhzefw/20007
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
 http://siptv.vip:27373/b10664/nhzefw/20013
-
 #EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One HD
 http://siptv.vip:27373/b10664/nhzefw/20014
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
 http://siptv.vip:27373/b10664/nhzefw/20019
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
 http://siptv.vip:27373/b10664/nhzefw/20011
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four HD
 http://siptv.vip:27373/b10664/nhzefw/20012
-
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="http://vtpi.best/chanicons/UK/CBSACTION.png" group-title="UK",CBS Action
 http://siptv.vip:27373/b10664/nhzefw/20025
-
 #EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama" tvg-logo="http://vtpi.best/chanicons/UK/CBSDRAMA.png" group-title="UK",CBS Drama
 http://siptv.vip:27373/b10664/nhzefw/20026
-
 #EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="CBS Reality" tvg-logo="http://vtpi.best/chanicons/UK/CBSREALITY.png" group-title="UK",CBS Reality
 http://siptv.vip:27373/b10664/nhzefw/20027
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge
 http://siptv.vip:27373/b10664/nhzefw/20028
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge +1
 http://siptv.vip:27373/b10664/nhzefw/26129
-
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL4.png" group-title="UK",Channel 4
 http://siptv.vip:27373/b10664/nhzefw/20029
-
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_HD.png" group-title="UK",Channel 4 HD
 http://siptv.vip:27373/b10664/nhzefw/20031
-
 #EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel 4 +1*" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_Plus_1.png" group-title="UK",Channel 4 +1*
 http://siptv.vip:27373/b10664/nhzefw/20030
-
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL5.png" group-title="UK",Channel 5
 http://siptv.vip:27373/b10664/nhzefw/20032
-
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://vtpi.best/chanicons/UK2/Channel_5_HD.png" group-title="UK",Channel 5 HD
 http://siptv.vip:27373/b10664/nhzefw/20033
-
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
 http://siptv.vip:27373/b10664/nhzefw/20038
-
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://vtpi.best/chanicons/UK/E4.png" group-title="UK",E4
 http://siptv.vip:27373/b10664/nhzefw/20041
-
 #EXTINF:-1 tvg-id="More4Plus1.uk" tvg-name="E4 +1" tvg-logo="http://vtpi.best/chanicons/UK2/E4_Plus_1.png" group-title="UK",E4 +1
 http://siptv.vip:27373/b10664/nhzefw/20042
-
 #EXTINF:-1 tvg-id="FX.uk" tvg-name="Fox UK" tvg-logo="http://vtpi.best/chanicons/UK/FOX.png" group-title="UK",Fox UK
 http://siptv.vip:27373/b10664/nhzefw/20043
-
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="http://vtpi.best/chanicons/UK/GOLD.png" group-title="UK",Gold
 http://siptv.vip:27373/b10664/nhzefw/20044
-
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://vtpi.best/chanicons/UK2/Gold_HD.png" group-title="UK",Gold HD
 http://siptv.vip:27373/b10664/nhzefw/24851
-
 #EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV" tvg-logo="http://vtpi.best/chanicons/UK/ITV.png" group-title="UK",ITV
 http://siptv.vip:27373/b10664/nhzefw/20045
-
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV_HD.png" group-title="UK",ITV HD
 http://siptv.vip:27373/b10664/nhzefw/20054
-
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2.png" group-title="UK",ITV 2
 http://siptv.vip:27373/b10664/nhzefw/20046
-
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2_HD.png" group-title="UK",ITV 2 HD
 http://siptv.vip:27373/b10664/nhzefw/20047
-
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://vtpi.best/chanicons/UK/ITV3.png" group-title="UK",ITV 3
 http://siptv.vip:27373/b10664/nhzefw/20048
-
 #EXTINF:-1 tvg-id="" tvg-name="ITV 3 HD" tvg-logo="" group-title="UK",ITV 3 HD
 http://siptv.vip:27373/b10664/nhzefw/24807
-
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://vtpi.best/chanicons/UK/ITV4.png" group-title="UK",ITV 4
 http://siptv.vip:27373/b10664/nhzefw/20049
-
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV4_HD.png" group-title="UK",ITV 4 HD
 http://siptv.vip:27373/b10664/nhzefw/20050
-
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be" tvg-logo="http://vtpi.best/chanicons/UK/ITVBE.png" group-title="UK",ITV Be
 http://siptv.vip:27373/b10664/nhzefw/20051
-
 #EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD" tvg-logo="" group-title="UK",ITV Be FHD
 http://siptv.vip:27373/b10664/nhzefw/27543
-
 #EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV Central" tvg-logo="http://vtpi.best/chansicons/itvcentral.png" group-title="UK",ITV Central
 http://siptv.vip:27373/b10664/nhzefw/20052
-
 #EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime HD" tvg-logo="http://vtpi.best/chanicons/UK2/Lifetime_HD.png" group-title="UK",Lifetime HD
 http://siptv.vip:27373/b10664/nhzefw/20055
-
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-logo="http://vtpi.best/chanicons/UK2/London_Live.png" group-title="UK",London Live
 http://siptv.vip:27373/b10664/nhzefw/20056
-
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://vtpi.best/chanicons/UK/MORE_4.png" group-title="UK",More 4
 http://siptv.vip:27373/b10664/nhzefw/20057
-
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="" group-title="UK Sky",Paramount Network FHD
 http://siptv.vip:27373/b10664/nhzefw/27544
-
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://vtpi.best/chanicons/UK/PICKTV.png" group-title="UK",Pick
 http://siptv.vip:27373/b10664/nhzefw/20058
-
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://vtpi.best/chanicons/UK2/Really.png" group-title="UK",Really
 http://siptv.vip:27373/b10664/nhzefw/20060
-
 #EXTINF:-1 tvg-id="RTE1.ie" tvg-name="RTE One" tvg-logo="http://vtpi.best/chanicons/UK/RTEONE.png" group-title="UK",RTE One
 http://siptv.vip:27373/b10664/nhzefw/20061
-
 #EXTINF:-1 tvg-id="" tvg-name="RTE One HD" tvg-logo="http://vtpi.best/chanicons/UK2/RTE_ONE_HD.png" group-title="UK",RTE One HD
 http://siptv.vip:27373/b10664/nhzefw/25183
-
 #EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTE Two" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two
 http://siptv.vip:27373/b10664/nhzefw/20063
-
 #EXTINF:-1 tvg-id="" tvg-name="RTE Two HD" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two HD
 http://siptv.vip:27373/b10664/nhzefw/25184
-
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://vtpi.best/chanicons/UK2/S4C.png" group-title="UK",S4C
 http://siptv.vip:27373/b10664/nhzefw/20065
+
+
 
 ##UK Satellite##
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One.png" group-title="UK Sky&Virgin",Sky One
 http://siptv.vip:27373/b10664/nhzefw/20066
-
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One_HD.png" group-title="UK Sky&Virgin",Sky One HD
 http://siptv.vip:27373/b10664/nhzefw/20067
-
 #EXTINF:-1 tvg-id="Sky2.uk" tvg-name="Sky 2" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Two.png" group-title="UK Sky&Virgin",Sky 2
 http://siptv.vip:27373/b10664/nhzefw/20068
-
 #EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Arts.png" group-title="UK Sky&Virgin",Sky Arts
 http://siptv.vip:27373/b10664/nhzefw/20069
-
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Atlantic_HD.png" group-title="UK Sky&Virgin",Sky Atlantic
 http://siptv.vip:27373/b10664/nhzefw/20070
-
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://vtpi.best/chanicons/UK/SKYATLANTIC.png" group-title="UK Sky&Virgin",Sky Atlantic HD
 http://siptv.vip:27373/b10664/nhzefw/24844
-
 #EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="UK Sky&Virgin",Sky Atlantic FHD
 http://siptv.vip:27373/b10664/nhzefw/27542
-
 #EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Living/Witness
 http://siptv.vip:27373/b10664/nhzefw/20071
-
 #EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness_HD.png" group-title="UK Sky&Virgin",Sky Living/Witness HD
 http://siptv.vip:27373/b10664/nhzefw/20072
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media One" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One.png" group-title="UK Sky&Virgin",Virgin Media One
 http://siptv.vip:27373/b10664/nhzefw/25186
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One_HD.png" group-title="UK Sky&Virgin",Virgin Media One HD
 http://siptv.vip:27373/b10664/nhzefw/25192
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two.png" group-title="UK Sky&Virgin",Virgin Media Two
 http://siptv.vip:27373/b10664/nhzefw/25187
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two_HD.png" group-title="UK Sky&Virgin",Virgin Media Two HD
 http://siptv.vip:27373/b10664/nhzefw/25189
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three
 http://siptv.vip:27373/b10664/nhzefw/25188
-
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three HD
 http://siptv.vip:27373/b10664/nhzefw/25190
 
 
+
+
+
+###ESPAÑA##
+
+#EXTINF:-1,ES - #0 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3113
+#EXTINF:-1,ES - A3 SERIES INT.
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3961
+#EXTINF:-1,ES - A3 SERIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35495
+#EXTINF:-1,ES - ANTENA 3 INT.
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4108
+#EXTINF:-1,ES - ANTENA 3
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35494
+#EXTINF:-1,ES - ANDALUCIA TURISMO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3610
+#EXTINF:-1,ES - B LA LIGA HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3117
+#EXTINF:-1,ES - B LA LIGA HQ
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3092
+#EXTINF:-1,ES - BABY TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3090
+#EXTINF:-1,ES - BAR TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3131
+#EXTINF:-1,ES - BARÇA TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3104
+#EXTINF:-1,ES - BOING
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3119
+#EXTINF:-1,ES - BEINS SPORTS ESPAÑA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3118
+#EXTINF:-1,ES - CALLE 13 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17192
+#EXTINF:-1,ES - CANAL COCINA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3120
+#EXTINF:-1,ES - CANAL DE CASA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3121
+#EXTINF:-1,ES - CANAL GOLF HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3149
+#EXTINF:-1,ES - CAZA Y PESCA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3123
+#EXTINF:-1,ES - CLAN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4131
+#EXTINF:-1,ES - CLAN TVE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3124
+#EXTINF:-1,ES - COMEDY CENTRAL HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3103
+#EXTINF:-1,ES - COSMO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4177
+#EXTINF:-1,ES - DIVINITY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3126
+#EXTINF:-1,ES - ENERGY
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3109
+#EXTINF:-1,ES - FDF
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3169
+#EXTINF:-1,ES - FOX HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3161
+#EXTINF:-1,ES - FOX LIFE HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3162
+#EXTINF:-1,ES - GOL TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3128
+#EXTINF:-1,ES - HISTORIA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3163
+#EXTINF:-1,ES - HOLLYWOOD HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3164
+#EXTINF:-1,ES - IBERALIA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3152
+#EXTINF:-1,ES - LA 1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3165
+#EXTINF:-1,ES - LA 2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3130
+#EXTINF:-1,ES - LA CUATRO
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17191
+#EXTINF:-1,ES - LA SEXTA HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3166
+#EXTINF:-1,ES - LIGA 123
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3091
+#EXTINF:-1,ES - LIGA DE CAMPEONES  FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16717
+#EXTINF:-1,ES - LIGA DE CAMPEONES 2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16718
+#EXTINF:-1,ES - LIGA DE CAMPEONES 3
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16719
+#EXTINF:-1,ES - LIGA DE CAMPEONES 4
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16720
+#EXTINF:-1,ES - LIGA DE CAMPEONES 5
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16721
+#EXTINF:-1,ES - LIGA DE CAMPEONES 6
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16722
+#EXTINF:-1,ES - MEGA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3167
+#EXTINF:-1,ES - MEZZO LIVE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4178
+#EXTINF:-1,ES - MOVISTAR  ACTION
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3142
+#EXTINF:-1,ES - MOVISTAR COMEDIA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3143
+#EXTINF:-1,ES - MOVISTAR CINE Ñ
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/6026
+#EXTINF:-1,ES - MOVISTAR DEPORTE 1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3146
+#EXTINF:-1,ES - MOVISTAR ESTRENOS HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3147
+#EXTINF:-1,ES - MOVISTAR F1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3093
+#EXTINF:-1,ES - MOVISTAR FORMULA 1
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3094
+#EXTINF:-1,ES - MOVISTAR FUTBOL FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3129
+#EXTINF:-1,ES - MOVISTAR FUTBOL HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3148
+#EXTINF:-1,ES - MOVISTAR LALIGA FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32365
+#EXTINF:-1,ES - MOVISTAR MOTO GP FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3096
+#EXTINF:-1,ES - MOVISTAR MOTO GP HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3145
+#EXTINF:-1,ES - MOVISTAR SERIES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/6027
+#EXTINF:-1,ES - MOVISTAR TOROS TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3153
+#EXTINF:-1,ES - MOVISTAR XTRA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3154
+#EXTINF:-1,ES - NEOX
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3132
+#EXTINF:-1,ES - NOVA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3108
+#EXTINF:-1,ES - ODISEA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3135
+#EXTINF:-1,ES - PANDA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3136
+#EXTINF:-1,ES - PARTIDAZO (live event)
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3151
+#EXTINF:-1,ES - REAL MADRID TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3689
+#EXTINF:-1,ES - TAQUILLA 1
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3097
+#EXTINF:-1,ES - TAQUILLA 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3107
+#EXTINF:-1,ES - TAQUILLA 3
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3106
+#EXTINF:-1,ES - TCM HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3171
+#EXTINF:-1,ES - TELECINCO HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3172
+#EXTINF:-1,ES - TELEDEPORTE FHD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3173
+#EXTINF:-1,ES - TNT
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3138
+#EXTINF:-1,ES - BE MAD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32619
+#EXTINF:-1,ES - TOROS HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2061
+#EXTINF:-1,ES - TVE
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32620
+#EXTINF:-1,ES - TVE STAR
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32621
+#EXTINF:-1,ES - VIAJAR HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3174
 
 
 ##Spain [OFF-AIR]##
@@ -950,6 +1241,81 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="SPAIN", La Voz 24h
 https://pull12.atresmedia.com/lavoz/master.m3u8
+
+
+
+#EXTINF:-1,US.SP - CYCLING
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3691
+#EXTINF:-1,US.SP - ELEVEN SPORTS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3758
+#EXTINF:-1,US.SP - ESPN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3371
+#EXTINF:-1,US.SP - ESPN 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3372
+#EXTINF:-1,US.SP - FIGHT CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3380
+#EXTINF:-1,US.SP - FIGHT NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3378
+#EXTINF:-1,US.SP - FIGHT NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3427
+#EXTINF:-1,US.SP - FOOTBALL REPORTS TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3760
+#EXTINF:-1,US.SP - FOX SOCCER PLUS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3754
+#EXTINF:-1,US.SP - FOX SPORTS 1
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2048
+#EXTINF:-1,US.SP - FOX SPORTS 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2044
+#EXTINF:-1,US.SP - FOX SPORTS SUN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3707
+#EXTINF:-1,US.SP - FS1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17418
+#EXTINF:-1,US.SP -  FS2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17419
+#EXTINF:-1,US.SP - GOL TV ENGLISH
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3756
+#EXTINF:-1,US.SP - NBC GOLF
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3752
+#EXTINF:-1,US.SP - NFL HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3376
+#EXTINF:-1,US.SP - PAC 12 ARIZONA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3799
+#EXTINF:-1,US.SP - PAC 12 BAY AREA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3368
+#EXTINF:-1,US.SP - PAC 12 LOS ANGELES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3364
+#EXTINF:-1,US.SP - PAC 12 MOUNTAIN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3369
+#EXTINF:-1,US.SP - PAC 12 NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3375
+#EXTINF:-1,US.SP - PAC 12 OREGON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3374
+#EXTINF:-1,US.SP - PAC 12 WASHINGTON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3373
+#EXTINF:-1,US.SP - TBS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17891
+#EXTINF:-1,US.SP - TENNIS CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3791
+#EXTINF:-1,US.SP - TSN SPORT 1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3363
+#EXTINF:-1,US.SP - TSN SPORT 2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3362
+#EXTINF:-1,US.SP - TSN SPORT 4 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3360
+#EXTINF:-1,US.SP - VIP GOLF CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17602
+#EXTINF:-1,US.SP - WWE HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3426
+#EXTINF:-1,US.SP - NBC SPORTS NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3709
+#EXTINF:-1,US.SP - BS US
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3379
+#EXTINF:-1,US.SP - BTN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3750
+#EXTINF:-1,US.SP - TSN SPORT 3 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3361
+#EXTINF:-1,US.SP - TVG
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/36759
 
 
 

@@ -4,119 +4,119 @@ x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
 
 
 
-#EXTINF:-1,US.FM - A&E
+#EXTINF:-1 group-title="USA", A&E
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3761
-#EXTINF:-1,US.FM - AMC
+#EXTINF:-1 group-title="USA", AMC
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3357
-#EXTINF:-1,US.FM - BET
+#EXTINF:-1 group-title="USA", BET
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17416
-#EXTINF:-1,US.FM - CHILLER
+#EXTINF:-1 group-title="USA", CHILLER
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3763
-#EXTINF:-1,US.FM - CINE SONY
+#EXTINF:-1 group-title="USA", CINE SONY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3704
-#EXTINF:-1,US.FM - EL REY NETWORK
+#EXTINF:-1 group-title="USA", EL REY NETWORK
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3765
-#EXTINF:-1,US.FM - FANTASY ZONE
+#EXTINF:-1 group-title="USA", FANTASY ZONE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3695
-#EXTINF:-1,US.FM - FOX
+#EXTINF:-1 group-title="USA", FOX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29349
-#EXTINF:-1,US.FM - FOX LIFE
+#EXTINF:-1 group-title="USA", FOX LIFE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3766
-#EXTINF:-1,US.FM - FUBO SPORTS NETWORK
+#EXTINF:-1 group-title="USA", FUBO SPORTS NETWORK
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3699
-#EXTINF:-1,US.FM - FUSE
+#EXTINF:-1 group-title="USA", FUSE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3767
-#EXTINF:-1,US.FM - FX
+#EXTINF:-1 group-title="USA", FX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3768
-#EXTINF:-1,US.FM - FXM
+#EXTINF:-1 group-title="USA", FXM
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3769
-#EXTINF:-1,US.FM - FXX
+#EXTINF:-1 group-title="USA", FXX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3770
-#EXTINF:-1,US.FM - FYI
+#EXTINF:-1 group-title="USA", FYI
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3771
-#EXTINF:-1,US.FM - HALLMARK
+#EXTINF:-1 group-title="USA", HALLMARK
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3781
-#EXTINF:-1,US.FM - HALLMARK MOVIES & MISTERIES
+#EXTINF:-1 group-title="USA", HALLMARK MOVIES & MISTERIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3782
-#EXTINF:-1,US.FM - HBO
+#EXTINF:-1 group-title="USA", HBO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8210
-#EXTINF:-1,US.FM - HBO 2
+#EXTINF:-1 group-title="USA", HBO 2
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8222
-#EXTINF:-1,US.FM - HBO COMEDY
+#EXTINF:-1 group-title="USA", HBO COMEDY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18769
-#EXTINF:-1,US.FM - HBO EAST
+#EXTINF:-1 group-title="USA", HBO EAST
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18768
-#EXTINF:-1,US.FM - HBO EAST
+#EXTINF:-1 group-title="USA", HBO EAST
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29344
-#EXTINF:-1,US.FM - HBO FAMILY
+#EXTINF:-1 group-title="USA", HBO FAMILY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8216
-#EXTINF:-1,US.FM - HBO SIGNATURE
+#EXTINF:-1 group-title="USA", HBO SIGNATURE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29345
-#EXTINF:-1,US.FM - HBO ZONE
+#EXTINF:-1 group-title="USA", HBO ZONE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29347
-#EXTINF:-1,US.FM - I-SAT
+#EXTINF:-1 group-title="USA", I-SAT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29342
-#EXTINF:-1,US.FM - ION
+#EXTINF:-1 group-title="USA", ION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17417
-#EXTINF:-1,US.FM - LIFETIME
+#EXTINF:-1 group-title="USA", LIFETIME
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3783
-#EXTINF:-1,US.FM - LIFETIME MOVIES
+#EXTINF:-1 group-title="USA", LIFETIME MOVIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17175
-#EXTINF:-1,US.FM - MOVIEPLEX
+#EXTINF:-1 group-title="USA", MOVIEPLEX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29341
-#EXTINF:-1,US.FM - REVOLT
+#EXTINF:-1 group-title="USA", REVOLT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3777
-#EXTINF:-1,US.FM - SHOWCASE
+#EXTINF:-1 group-title="USA", SHOWCASE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22380
-#EXTINF:-1,US.FM - SPIKE TV
+#EXTINF:-1 group-title="USA", SPIKE TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22374
-#EXTINF:-1,US.FM - TBS
+#EXTINF:-1 group-title="USA", TBS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/29353
-#EXTINF:-1,US.FM - TELEXITOS
+#EXTINF:-1 group-title="USA", TELEXITOS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3701
-#EXTINF:-1,US.FM - TNT
+#EXTINF:-1 group-title="USA", TNT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/18767
-#EXTINF:-1,US.FM - USA
+#EXTINF:-1 group-title="USA", USA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3780
-#EXTINF:-1,US.FM - VICELAND
+#EXTINF:-1 group-title="USA", VICELAND
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3792
-#EXTINF:-1,US.FM - ZONE
+#EXTINF:-1 group-title="USA", ZONE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22381
-#EXTINF:-1,US.FM - YES TV
+#EXTINF:-1 group-title="USA", YES TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22382
-#EXTINF:-1,US.FM - NBC
+#EXTINF:-1 group-title="USA", NBC
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3687
-#EXTINF:-1,US.FM - BRAVO
+#EXTINF:-1 group-title="USA", BRAVO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3762
-#EXTINF:-1,US.FM - WC
+#EXTINF:-1 group-title="USA", WC
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/38325
-#EXTINF:-1,US.EN - COMEDY CENTRAL
+
+
+#EXTINF:-1 group-title="USA", COMEDY CENTRAL
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17178
-#EXTINF:-1,US.EN - DISCOVERY TURBO
+#EXTINF:-1 group-title="USA", DISCOVERY TURBO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17179
-#EXTINF:-1,US.EN - DISCOVERY VELOCITY
+#EXTINF:-1 group-title="USA", DISCOVERY VELOCITY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22375
-#EXTINF:-1,US.EN - DIY NETWORK
+#EXTINF:-1, group-title="USA", DIY NETWORK
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17414
-#EXTINF:-1,US.EN - E! ENTERTAINMENT
+#EXTINF:-1 group-title="USA", E! ENTERTAINMENT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3764
-#EXTINF:-1,US.EN - FASHION TELEVISION
+#EXTINF:-1 group-title="USA", FASHION TELEVISION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22373
-#EXTINF:-1,US.EN - FIGHT
+#EXTINF:-1 group-title="USA", FIGHT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3693
-#EXTINF:-1,US.EN - FOOD NETWORK
+#EXTINF:-1 group-title="USA", FOOD NETWORK
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17413
-#EXTINF:-1,US.EN - HGTV
+#EXTINF:-1 group-title="USA", HGTV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8340
-#EXTINF:-1,US.WC - MSNBC HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35310
-#EXTINF:-1,US.EN - O.W.N (oprah winfrey network)
+#EXTINF:-1 group-title="USA", O.W.N (oprah winfrey network)
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22383
-#EXTINF:-1,US.EN - OUTDOOR TV
+#EXTINF:-1 group-title="USA", OUTDOOR TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/22379
-#EXTINF:-1,US.EN - TRU TV
+#EXTINF:-1 group-title="USA", TRU TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17177
-#EXTINF:-1,US.EN - VH1
+#EXTINF:-1 group-title="USA", VH1
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17415
 
 
@@ -436,69 +436,69 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4053
 
 ##SKY Cinema OFF-AIR##
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men HD
-http://siptv.vip:27373/b10664/nhzefw/20090
+#http://siptv.vip:27373/b10664/nhzefw/20090
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men FHD
-http://siptv.vip:27373/b10664/nhzefw/27532
+#http://siptv.vip:27373/b10664/nhzefw/27532
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women HD
-http://siptv.vip:27373/b10664/nhzefw/28544
+#http://siptv.vip:27373/b10664/nhzefw/28544
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women FHD
-http://siptv.vip:27373/b10664/nhzefw/28543
+#http://siptv.vip:27373/b10664/nhzefw/28543
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy HD
-http://siptv.vip:27373/b10664/nhzefw/20092
+#http://siptv.vip:27373/b10664/nhzefw/20092
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy FHD
-http://siptv.vip:27373/b10664/nhzefw/27533
+#http://siptv.vip:27373/b10664/nhzefw/27533
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney HD
-http://siptv.vip:27373/b10664/nhzefw/20094
+#http://siptv.vip:27373/b10664/nhzefw/20094
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney FHD
-http://siptv.vip:27373/b10664/nhzefw/27530
+#http://siptv.vip:27373/b10664/nhzefw/27530
 #EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance HD
-http://siptv.vip:27373/b10664/nhzefw/20096
+#http://siptv.vip:27373/b10664/nhzefw/20096
 #EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance FHD
-http://siptv.vip:27373/b10664/nhzefw/27535
+#http://siptv.vip:27373/b10664/nhzefw/27535
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family HD
-http://siptv.vip:27373/b10664/nhzefw/20098
+#http://siptv.vip:27373/b10664/nhzefw/20098
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family FHD
-http://siptv.vip:27373/b10664/nhzefw/27531
+#http://siptv.vip:27373/b10664/nhzefw/27531
 #EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats HD
-http://siptv.vip:27373/b10664/nhzefw/27539
+#http://siptv.vip:27373/b10664/nhzefw/27539
 #EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats FHD
-http://siptv.vip:27373/b10664/nhzefw/27529
+#http://siptv.vip:27373/b10664/nhzefw/27529
 #EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits HD
-http://siptv.vip:27373/b10664/nhzefw/20100
+#http://siptv.vip:27373/b10664/nhzefw/20100
 #EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits FHD
-http://siptv.vip:27373/b10664/nhzefw/27528
+#http://siptv.vip:27373/b10664/nhzefw/27528
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere HD
-http://siptv.vip:27373/b10664/nhzefw/20104
+#http://siptv.vip:27373/b10664/nhzefw/20104
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere FHD
-http://siptv.vip:27373/b10664/nhzefw/27527
+#http://siptv.vip:27373/b10664/nhzefw/27527
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror HD
-http://siptv.vip:27373/b10664/nhzefw/20106
+#http://siptv.vip:27373/b10664/nhzefw/20106
 #EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror FHD
-http://siptv.vip:27373/b10664/nhzefw/27536
+#http://siptv.vip:27373/b10664/nhzefw/27536
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select HD
-http://siptv.vip:27373/b10664/nhzefw/20108
+#http://siptv.vip:27373/b10664/nhzefw/20108
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select FHD
-http://siptv.vip:27373/b10664/nhzefw/27537
+#http://siptv.vip:27373/b10664/nhzefw/27537
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES OFF-AIR", SKY Cinema Thriller HD
-http://siptv.vip:27373/b10664/nhzefw/20111
+#http://siptv.vip:27373/b10664/nhzefw/20111
 #EXTINF:-1 tvg-id=" OFF-AIR" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES", SKY Cinema Thriller FHD
-http://siptv.vip:27373/b10664/nhzefw/27534
+#http://siptv.vip:27373/b10664/nhzefw/27534
 #EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Sony Action" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action.png" group-title="MOVIES OFF-AIR",Sony Action
-http://siptv.vip:27373/b10664/nhzefw/25207
+#http://siptv.vip:27373/b10664/nhzefw/25207
 #EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Action +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Action +1
-http://siptv.vip:27373/b10664/nhzefw/25206
+#http://siptv.vip:27373/b10664/nhzefw/25206
 #EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Christmas.png" group-title="MOVIES OFF-AIR",Sony Christmas
-http://siptv.vip:27373/b10664/nhzefw/20119
+#http://siptv.vip:27373/b10664/nhzefw/20119
 #EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas +1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/true_movies1.jpg" group-title="MOVIES OFF-AIR",Sony Christmas +1
-http://siptv.vip:27373/b10664/nhzefw/25205
+#http://siptv.vip:27373/b10664/nhzefw/25205
 #EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime" tvg-logo="http://vtpi.best/chanicons/UK/SONYCRIMECHANNEL.png" group-title="MOVIES OFF-AIR",Sony Crime
-http://siptv.vip:27373/b10664/nhzefw/20112
+#http://siptv.vip:27373/b10664/nhzefw/20112
 #EXTINF:-1 tvg-id="SonyCrimeChannelPlus1.uk" tvg-name="Sony Crime +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Crime_Channel_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Crime +1
-http://siptv.vip:27373/b10664/nhzefw/20115
+#http://siptv.vip:27373/b10664/nhzefw/20115
 #EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies.png" group-title="MOVIES OFF-AIR",Sony Movies
-http://siptv.vip:27373/b10664/nhzefw/20117
+#http://siptv.vip:27373/b10664/nhzefw/20117
 #EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movies +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Movies +1
-http://siptv.vip:27373/b10664/nhzefw/20113
+#http://siptv.vip:27373/b10664/nhzefw/20113
 
 
 ##Movistar##
@@ -599,17 +599,17 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/7977
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="KIDS", Animax
 #http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S0OCpjV.png" group-title="KIDS", Cachipum
-http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
+#http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1056888968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" group-title="KIDS", Boomerang
-http://185.246.209.109:8080/BOOMERANG/index.m3u8
+#http://185.246.209.109:8080/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/cbeebies.png" group-title="KIDS", Cbeebies [OFF AIR]
 #https://live2.hoolatv.com/live/cbeebies_hi/chunks.m3u8?__fvd__
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="KIDS", Disney Junior
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-id="CBBC HD UK" tvg-name="CBBC HD UK" tvg-logo="https://static.iptv-epg.com/gb/CBBC.uk.png" group-title="KIDS", CBBC [OFF AIR]
 #https://live2.hoolatv.com/live/cbbc_hi/chunks.m3u8
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/1024px-Boing.svg.png" group-title="KIDS", Boing
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/495
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/disney-channel-png-logo/disney-channel-logo-png-symbol-2.png" group-title="KIDS", Disney Channel (Opt-2)
@@ -815,137 +815,137 @@ http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/41188
 
 ##United Kingdom##
 #EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/4seven_HD.png" group-title="UK", 4Seven
-http://siptv.vip:27373/b10664/nhzefw/20002
+#http://siptv.vip:27373/b10664/nhzefw/20002
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star HD
-http://siptv.vip:27373/b10664/nhzefw/20003
+#http://siptv.vip:27373/b10664/nhzefw/20003
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star +1 HD
-http://siptv.vip:27373/b10664/nhzefw/20004
+#http://siptv.vip:27373/b10664/nhzefw/20004
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA HD
-http://siptv.vip:27373/b10664/nhzefw/20005
+#http://siptv.vip:27373/b10664/nhzefw/20005
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA +1 HD
-http://siptv.vip:27373/b10664/nhzefw/20006
+#http://siptv.vip:27373/b10664/nhzefw/20006
 #EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi" tvg-logo="http://vtpi.best/chanicons/UK2/Alibi_HD.png" group-title="UK",Alibi
-http://siptv.vip:27373/b10664/nhzefw/20007
+#http://siptv.vip:27373/b10664/nhzefw/20007
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-http://siptv.vip:27373/b10664/nhzefw/20013
+#http://siptv.vip:27373/b10664/nhzefw/20013
 #EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One HD
-http://siptv.vip:27373/b10664/nhzefw/20014
+#http://siptv.vip:27373/b10664/nhzefw/20014
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
-http://siptv.vip:27373/b10664/nhzefw/20019
+#http://siptv.vip:27373/b10664/nhzefw/20019
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
-http://siptv.vip:27373/b10664/nhzefw/20011
+#http://siptv.vip:27373/b10664/nhzefw/20011
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four HD
-http://siptv.vip:27373/b10664/nhzefw/20012
+#http://siptv.vip:27373/b10664/nhzefw/20012
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="http://vtpi.best/chanicons/UK/CBSACTION.png" group-title="UK",CBS Action
-http://siptv.vip:27373/b10664/nhzefw/20025
+#http://siptv.vip:27373/b10664/nhzefw/20025
 #EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama" tvg-logo="http://vtpi.best/chanicons/UK/CBSDRAMA.png" group-title="UK",CBS Drama
-http://siptv.vip:27373/b10664/nhzefw/20026
+#http://siptv.vip:27373/b10664/nhzefw/20026
 #EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="CBS Reality" tvg-logo="http://vtpi.best/chanicons/UK/CBSREALITY.png" group-title="UK",CBS Reality
-http://siptv.vip:27373/b10664/nhzefw/20027
+#http://siptv.vip:27373/b10664/nhzefw/20027
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge
-http://siptv.vip:27373/b10664/nhzefw/20028
+#http://siptv.vip:27373/b10664/nhzefw/20028
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge +1
-http://siptv.vip:27373/b10664/nhzefw/26129
+#http://siptv.vip:27373/b10664/nhzefw/26129
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL4.png" group-title="UK",Channel 4
-http://siptv.vip:27373/b10664/nhzefw/20029
+#http://siptv.vip:27373/b10664/nhzefw/20029
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_HD.png" group-title="UK",Channel 4 HD
-http://siptv.vip:27373/b10664/nhzefw/20031
+#http://siptv.vip:27373/b10664/nhzefw/20031
 #EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel 4 +1*" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_Plus_1.png" group-title="UK",Channel 4 +1*
-http://siptv.vip:27373/b10664/nhzefw/20030
+#http://siptv.vip:27373/b10664/nhzefw/20030
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL5.png" group-title="UK",Channel 5
-http://siptv.vip:27373/b10664/nhzefw/20032
+#http://siptv.vip:27373/b10664/nhzefw/20032
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://vtpi.best/chanicons/UK2/Channel_5_HD.png" group-title="UK",Channel 5 HD
-http://siptv.vip:27373/b10664/nhzefw/20033
+#http://siptv.vip:27373/b10664/nhzefw/20033
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
-http://siptv.vip:27373/b10664/nhzefw/20038
+#http://siptv.vip:27373/b10664/nhzefw/20038
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://vtpi.best/chanicons/UK/E4.png" group-title="UK",E4
-http://siptv.vip:27373/b10664/nhzefw/20041
+#http://siptv.vip:27373/b10664/nhzefw/20041
 #EXTINF:-1 tvg-id="More4Plus1.uk" tvg-name="E4 +1" tvg-logo="http://vtpi.best/chanicons/UK2/E4_Plus_1.png" group-title="UK",E4 +1
-http://siptv.vip:27373/b10664/nhzefw/20042
+#http://siptv.vip:27373/b10664/nhzefw/20042
 #EXTINF:-1 tvg-id="FX.uk" tvg-name="Fox UK" tvg-logo="http://vtpi.best/chanicons/UK/FOX.png" group-title="UK",Fox UK
-http://siptv.vip:27373/b10664/nhzefw/20043
+#http://siptv.vip:27373/b10664/nhzefw/20043
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="http://vtpi.best/chanicons/UK/GOLD.png" group-title="UK",Gold
-http://siptv.vip:27373/b10664/nhzefw/20044
+#http://siptv.vip:27373/b10664/nhzefw/20044
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://vtpi.best/chanicons/UK2/Gold_HD.png" group-title="UK",Gold HD
-http://siptv.vip:27373/b10664/nhzefw/24851
+#http://siptv.vip:27373/b10664/nhzefw/24851
 #EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV" tvg-logo="http://vtpi.best/chanicons/UK/ITV.png" group-title="UK",ITV
-http://siptv.vip:27373/b10664/nhzefw/20045
+#http://siptv.vip:27373/b10664/nhzefw/20045
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV_HD.png" group-title="UK",ITV HD
-http://siptv.vip:27373/b10664/nhzefw/20054
+#http://siptv.vip:27373/b10664/nhzefw/20054
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2.png" group-title="UK",ITV 2
-http://siptv.vip:27373/b10664/nhzefw/20046
+#http://siptv.vip:27373/b10664/nhzefw/20046
 #EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2_HD.png" group-title="UK",ITV 2 HD
-http://siptv.vip:27373/b10664/nhzefw/20047
+#http://siptv.vip:27373/b10664/nhzefw/20047
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://vtpi.best/chanicons/UK/ITV3.png" group-title="UK",ITV 3
-http://siptv.vip:27373/b10664/nhzefw/20048
+#http://siptv.vip:27373/b10664/nhzefw/20048
 #EXTINF:-1 tvg-id="" tvg-name="ITV 3 HD" tvg-logo="" group-title="UK",ITV 3 HD
-http://siptv.vip:27373/b10664/nhzefw/24807
+#http://siptv.vip:27373/b10664/nhzefw/24807
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://vtpi.best/chanicons/UK/ITV4.png" group-title="UK",ITV 4
-http://siptv.vip:27373/b10664/nhzefw/20049
+#http://siptv.vip:27373/b10664/nhzefw/20049
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV4_HD.png" group-title="UK",ITV 4 HD
-http://siptv.vip:27373/b10664/nhzefw/20050
+#http://siptv.vip:27373/b10664/nhzefw/20050
 #EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be" tvg-logo="http://vtpi.best/chanicons/UK/ITVBE.png" group-title="UK",ITV Be
-http://siptv.vip:27373/b10664/nhzefw/20051
+#http://siptv.vip:27373/b10664/nhzefw/20051
 #EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD" tvg-logo="" group-title="UK",ITV Be FHD
-http://siptv.vip:27373/b10664/nhzefw/27543
+#http://siptv.vip:27373/b10664/nhzefw/27543
 #EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV Central" tvg-logo="http://vtpi.best/chansicons/itvcentral.png" group-title="UK",ITV Central
-http://siptv.vip:27373/b10664/nhzefw/20052
+#http://siptv.vip:27373/b10664/nhzefw/20052
 #EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime HD" tvg-logo="http://vtpi.best/chanicons/UK2/Lifetime_HD.png" group-title="UK",Lifetime HD
-http://siptv.vip:27373/b10664/nhzefw/20055
+#http://siptv.vip:27373/b10664/nhzefw/20055
 #EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-logo="http://vtpi.best/chanicons/UK2/London_Live.png" group-title="UK",London Live
-http://siptv.vip:27373/b10664/nhzefw/20056
+#http://siptv.vip:27373/b10664/nhzefw/20056
 #EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://vtpi.best/chanicons/UK/MORE_4.png" group-title="UK",More 4
-http://siptv.vip:27373/b10664/nhzefw/20057
+#http://siptv.vip:27373/b10664/nhzefw/20057
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="" group-title="UK Sky",Paramount Network FHD
-http://siptv.vip:27373/b10664/nhzefw/27544
+#http://siptv.vip:27373/b10664/nhzefw/27544
 #EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://vtpi.best/chanicons/UK/PICKTV.png" group-title="UK",Pick
-http://siptv.vip:27373/b10664/nhzefw/20058
+#http://siptv.vip:27373/b10664/nhzefw/20058
 #EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://vtpi.best/chanicons/UK2/Really.png" group-title="UK",Really
-http://siptv.vip:27373/b10664/nhzefw/20060
+#http://siptv.vip:27373/b10664/nhzefw/20060
 #EXTINF:-1 tvg-id="RTE1.ie" tvg-name="RTE One" tvg-logo="http://vtpi.best/chanicons/UK/RTEONE.png" group-title="UK",RTE One
-http://siptv.vip:27373/b10664/nhzefw/20061
+#http://siptv.vip:27373/b10664/nhzefw/20061
 #EXTINF:-1 tvg-id="" tvg-name="RTE One HD" tvg-logo="http://vtpi.best/chanicons/UK2/RTE_ONE_HD.png" group-title="UK",RTE One HD
-http://siptv.vip:27373/b10664/nhzefw/25183
+#http://siptv.vip:27373/b10664/nhzefw/25183
 #EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTE Two" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two
-http://siptv.vip:27373/b10664/nhzefw/20063
+#http://siptv.vip:27373/b10664/nhzefw/20063
 #EXTINF:-1 tvg-id="" tvg-name="RTE Two HD" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two HD
-http://siptv.vip:27373/b10664/nhzefw/25184
+#http://siptv.vip:27373/b10664/nhzefw/25184
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://vtpi.best/chanicons/UK2/S4C.png" group-title="UK",S4C
-http://siptv.vip:27373/b10664/nhzefw/20065
+#http://siptv.vip:27373/b10664/nhzefw/20065
 
 
 
 ##UK Satellite##
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One.png" group-title="UK Sky&Virgin",Sky One
-http://siptv.vip:27373/b10664/nhzefw/20066
+#http://siptv.vip:27373/b10664/nhzefw/20066
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One_HD.png" group-title="UK Sky&Virgin",Sky One HD
-http://siptv.vip:27373/b10664/nhzefw/20067
+#http://siptv.vip:27373/b10664/nhzefw/20067
 #EXTINF:-1 tvg-id="Sky2.uk" tvg-name="Sky 2" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Two.png" group-title="UK Sky&Virgin",Sky 2
-http://siptv.vip:27373/b10664/nhzefw/20068
+#http://siptv.vip:27373/b10664/nhzefw/20068
 #EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Arts.png" group-title="UK Sky&Virgin",Sky Arts
-http://siptv.vip:27373/b10664/nhzefw/20069
+#http://siptv.vip:27373/b10664/nhzefw/20069
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Atlantic_HD.png" group-title="UK Sky&Virgin",Sky Atlantic
-http://siptv.vip:27373/b10664/nhzefw/20070
+#http://siptv.vip:27373/b10664/nhzefw/20070
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://vtpi.best/chanicons/UK/SKYATLANTIC.png" group-title="UK Sky&Virgin",Sky Atlantic HD
-http://siptv.vip:27373/b10664/nhzefw/24844
+#http://siptv.vip:27373/b10664/nhzefw/24844
 #EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="UK Sky&Virgin",Sky Atlantic FHD
-http://siptv.vip:27373/b10664/nhzefw/27542
+#http://siptv.vip:27373/b10664/nhzefw/27542
 #EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Living/Witness
-http://siptv.vip:27373/b10664/nhzefw/20071
+#http://siptv.vip:27373/b10664/nhzefw/20071
 #EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness_HD.png" group-title="UK Sky&Virgin",Sky Living/Witness HD
-http://siptv.vip:27373/b10664/nhzefw/20072
+#http://siptv.vip:27373/b10664/nhzefw/20072
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media One" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One.png" group-title="UK Sky&Virgin",Virgin Media One
-http://siptv.vip:27373/b10664/nhzefw/25186
+#http://siptv.vip:27373/b10664/nhzefw/25186
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One_HD.png" group-title="UK Sky&Virgin",Virgin Media One HD
-http://siptv.vip:27373/b10664/nhzefw/25192
+#http://siptv.vip:27373/b10664/nhzefw/25192
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two.png" group-title="UK Sky&Virgin",Virgin Media Two
-http://siptv.vip:27373/b10664/nhzefw/25187
+#http://siptv.vip:27373/b10664/nhzefw/25187
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two_HD.png" group-title="UK Sky&Virgin",Virgin Media Two HD
-http://siptv.vip:27373/b10664/nhzefw/25189
+#http://siptv.vip:27373/b10664/nhzefw/25189
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three
-http://siptv.vip:27373/b10664/nhzefw/25188
+#http://siptv.vip:27373/b10664/nhzefw/25188
 #EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three HD
-http://siptv.vip:27373/b10664/nhzefw/25190
+#http://siptv.vip:27373/b10664/nhzefw/25190
 
 
 
@@ -953,758 +953,458 @@ http://siptv.vip:27373/b10664/nhzefw/25190
 
 ###ESPAÑA##
 
-#EXTINF:-1,ES - #0 HD
+#EXTINF:-1 group-title="España",#0 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3113
-#EXTINF:-1,ES - A3 SERIES INT.
+#EXTINF:-1 group-title="España",A3 SERIES INT.
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3961
-#EXTINF:-1,ES - A3 SERIES
+#EXTINF:-1 group-title="España",A3 SERIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35495
-#EXTINF:-1,ES - ANTENA 3 INT.
+#EXTINF:-1 group-title="España",ANTENA 3 INT.
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4108
-#EXTINF:-1,ES - ANTENA 3
+#EXTINF:-1 group-title="España",ANTENA 3
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/35494
-#EXTINF:-1,ES - ANDALUCIA TURISMO
+#EXTINF:-1 group-title="España",ANDALUCIA TURISMO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3610
-#EXTINF:-1,ES - B LA LIGA HD
+#EXTINF:-1 group-title="España",B LA LIGA HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3117
-#EXTINF:-1,ES - B LA LIGA HQ
+#EXTINF:-1 group-title="España",B LA LIGA HQ
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3092
-#EXTINF:-1,ES - BABY TV
+#EXTINF:-1 group-title="España",BABY TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3090
-#EXTINF:-1,ES - BAR TV
+#EXTINF:-1 group-title="España",BAR TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3131
-#EXTINF:-1,ES - BARÇA TV
+#EXTINF:-1 group-title="España",BARÇA TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3104
-#EXTINF:-1,ES - BOING
+#EXTINF:-1 group-title="España",BOING
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3119
-#EXTINF:-1,ES - BEINS SPORTS ESPAÑA
+#EXTINF:-1 group-title="España",BEINS SPORTS ESPAÑA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3118
-#EXTINF:-1,ES - CALLE 13 HD
+#EXTINF:-1 group-title="España",CALLE 13 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17192
-#EXTINF:-1,ES - CANAL COCINA
+#EXTINF:-1 group-title="España",CANAL COCINA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3120
-#EXTINF:-1,ES - CANAL DE CASA
+#EXTINF:-1 group-title="España",CANAL DE CASA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3121
-#EXTINF:-1,ES - CANAL GOLF HD
+#EXTINF:-1 group-title="España",CANAL GOLF HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3149
-#EXTINF:-1,ES - CAZA Y PESCA
+#EXTINF:-1 group-title="España",CAZA Y PESCA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3123
-#EXTINF:-1,ES - CLAN
+#EXTINF:-1 group-title="España",CLAN
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4131
-#EXTINF:-1,ES - CLAN TVE
+#EXTINF:-1 group-title="España",CLAN TVE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3124
-#EXTINF:-1,ES - COMEDY CENTRAL HD
+#EXTINF:-1 group-title="España",COMEDY CENTRAL HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3103
-#EXTINF:-1,ES - COSMO
+#EXTINF:-1 group-title="España",COSMO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4177
-#EXTINF:-1,ES - DIVINITY
+#EXTINF:-1 group-title="España",DIVINITY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3126
-#EXTINF:-1,ES - ENERGY
+#EXTINF:-1 group-title="España",ENERGY
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3109
-#EXTINF:-1,ES - FDF
+#EXTINF:-1 group-title="España",FDF
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3169
-#EXTINF:-1,ES - FOX HD
+#EXTINF:-1 group-title="España",FOX HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3161
-#EXTINF:-1,ES - FOX LIFE HD
+#EXTINF:-1 group-title="España",FOX LIFE HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3162
-#EXTINF:-1,ES - GOL TV
+#EXTINF:-1 group-title="España",GOL TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3128
-#EXTINF:-1,ES - HISTORIA
+#EXTINF:-1 group-title="España",HISTORIA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3163
-#EXTINF:-1,ES - HOLLYWOOD HD
+#EXTINF:-1 group-title="España",HOLLYWOOD HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3164
-#EXTINF:-1,ES - IBERALIA
+#EXTINF:-1 group-title="España",IBERALIA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3152
-#EXTINF:-1,ES - LA 1 HD
+#EXTINF:-1 group-title="España",LA 1 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3165
-#EXTINF:-1,ES - LA 2 HD
+#EXTINF:-1 group-title="España",LA 2 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3130
-#EXTINF:-1,ES - LA CUATRO
+#EXTINF:-1 group-title="España",LA CUATRO
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17191
-#EXTINF:-1,ES - LA SEXTA HD
+#EXTINF:-1 group-title="España",LA SEXTA HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3166
-#EXTINF:-1,ES - LIGA 123
+#EXTINF:-1 group-title="España",LIGA 123
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3091
-#EXTINF:-1,ES - LIGA DE CAMPEONES  FHD
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES  FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16717
-#EXTINF:-1,ES - LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES 2 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16718
-#EXTINF:-1,ES - LIGA DE CAMPEONES 3
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES 3
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16719
-#EXTINF:-1,ES - LIGA DE CAMPEONES 4
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES 4
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16720
-#EXTINF:-1,ES - LIGA DE CAMPEONES 5
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES 5
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16721
-#EXTINF:-1,ES - LIGA DE CAMPEONES 6
+#EXTINF:-1 group-title="España",LIGA DE CAMPEONES 6
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/16722
-#EXTINF:-1,ES - MEGA
+#EXTINF:-1 group-title="España",MEGA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3167
-#EXTINF:-1,ES - MEZZO LIVE
+#EXTINF:-1 group-title="España",MEZZO LIVE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4178
-#EXTINF:-1,ES - MOVISTAR  ACTION
+#EXTINF:-1 group-title="España",MOVISTAR  ACTION
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3142
-#EXTINF:-1,ES - MOVISTAR COMEDIA
+#EXTINF:-1 group-title="España",MOVISTAR COMEDIA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3143
-#EXTINF:-1,ES - MOVISTAR CINE Ñ
+#EXTINF:-1 group-title="España",MOVISTAR CINE Ñ
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/6026
-#EXTINF:-1,ES - MOVISTAR DEPORTE 1 HD
+#EXTINF:-1 group-title="España",MOVISTAR DEPORTE 1 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3146
-#EXTINF:-1,ES - MOVISTAR ESTRENOS HD
+#EXTINF:-1 group-title="España",MOVISTAR ESTRENOS HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3147
-#EXTINF:-1,ES - MOVISTAR F1 HD
+#EXTINF:-1 group-title="España",MOVISTAR F1 HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3093
-#EXTINF:-1,ES - MOVISTAR FORMULA 1
+#EXTINF:-1 group-title="España",MOVISTAR FORMULA 1
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3094
-#EXTINF:-1,ES - MOVISTAR FUTBOL FHD
+#EXTINF:-1 group-title="España",MOVISTAR FUTBOL FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3129
-#EXTINF:-1,ES - MOVISTAR FUTBOL HD
+#EXTINF:-1 group-title="España",MOVISTAR FUTBOL HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3148
-#EXTINF:-1,ES - MOVISTAR LALIGA FHD
+#EXTINF:-1 group-title="España",MOVISTAR LALIGA FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32365
-#EXTINF:-1,ES - MOVISTAR MOTO GP FHD
+#EXTINF:-1 group-title="España",MOVISTAR MOTO GP FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3096
-#EXTINF:-1,ES - MOVISTAR MOTO GP HD
+#EXTINF:-1 group-title="España",MOVISTAR MOTO GP HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3145
-#EXTINF:-1,ES - MOVISTAR SERIES
+#EXTINF:-1 group-title="España",MOVISTAR SERIES
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/6027
-#EXTINF:-1,ES - MOVISTAR TOROS TV
+#EXTINF:-1 group-title="España",MOVISTAR TOROS TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3153
-#EXTINF:-1,ES - MOVISTAR XTRA
+#EXTINF:-1 group-title="España",MOVISTAR XTRA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3154
-#EXTINF:-1,ES - NEOX
+#EXTINF:-1 group-title="España",NEOX
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3132
-#EXTINF:-1,ES - NOVA
+#EXTINF:-1 group-title="España",NOVA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3108
-#EXTINF:-1,ES - ODISEA
+#EXTINF:-1 group-title="España",ODISEA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3135
-#EXTINF:-1,ES - PANDA
+#EXTINF:-1 group-title="España",PANDA
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3136
-#EXTINF:-1,ES - PARTIDAZO (live event)
+#EXTINF:-1 group-title="España",PARTIDAZO (live event)
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3151
-#EXTINF:-1,ES - REAL MADRID TV
+#EXTINF:-1 group-title="España",REAL MADRID TV
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3689
-#EXTINF:-1,ES - TAQUILLA 1
+#EXTINF:-1 group-title="España",TAQUILLA 1
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3097
-#EXTINF:-1,ES - TAQUILLA 2
+#EXTINF:-1 group-title="España",TAQUILLA 2
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3107
-#EXTINF:-1,ES - TAQUILLA 3
+#EXTINF:-1 group-title="España",TAQUILLA 3
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3106
-#EXTINF:-1,ES - TCM HD
+#EXTINF:-1 group-title="España",TCM HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3171
-#EXTINF:-1,ES - TELECINCO HD
+#EXTINF:-1 group-title="España",TELECINCO HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3172
-#EXTINF:-1,ES - TELEDEPORTE FHD
+#EXTINF:-1 group-title="España",TELEDEPORTE FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3173
-#EXTINF:-1,ES - TNT
+#EXTINF:-1 group-title="España",TNT
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3138
-#EXTINF:-1,ES - BE MAD
+#EXTINF:-1 group-title="España",BE MAD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32619
-#EXTINF:-1,ES - TOROS HD
+#EXTINF:-1 group-title="España",TOROS HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2061
-#EXTINF:-1,ES - TVE
+#EXTINF:-1 group-title="España",TVE
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32620
-#EXTINF:-1,ES - TVE STAR
+#EXTINF:-1 group-title="España",TVE STAR
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/32621
-#EXTINF:-1,ES - VIAJAR HD
+#EXTINF:-1 group-title="España",VIAJAR HD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3174
 
 
 ##Spain [OFF-AIR]##
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/La_1_HD.png/revision/latest?cb=20150912150745" group-title="SPAIN", La 1 HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17232.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d0/La2HD.png/revision/latest/scale-to-width-down/185?cb=20190108003447" group-title="SPAIN", La 2 HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17230.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" group-title="SPAIN", ANTENA 3 HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11254.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="SPAIN", A3series HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17249.m3u8
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/08/Cuatro_logo.png/revision/latest/scale-to-width-down/1000?cb=20121227195336" group-title="SPAIN", Cuatro
-https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
-
+#https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cuatro-logo-png-7.png" group-title="SPAIN", Cuatro HD
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17242.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco
-https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
-
+#https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" group-title="SPAIN", Telecinco HD
 #http://cdn.miip.tv:80/samuel/123456/3866
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/476
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" group-title="SPAIN", La Sexta (Opt-2)
-https://livestartover.atresmedia.com/lasexta/master.m3u8
-
+#https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="SPAIN", Calle 13
 #http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17290.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/470
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png" group-title="SPAIN,Paramount Channel (Opt-2)
-http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
-
+#http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES
 #http://cdn.miip.tv:80/samuel/123456/2375
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" group-title="SPAIN", Comedy Central ES HD
 #http://cdn.miip.tv:80/samuel/123456/3853
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/225px-DMax_Espa%C3%B1a.svg.png" group-title="SPAIN", DMax
 #http://cdn.miip.tv:80/samuel/123456/486
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Hollywood_HD.png" group-title="SPAIN", Hollywood
-http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37071
-
+#http://iptvtool.es:9977/Klk10/KsoZW9VS7V/37071
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/1920px-MEGA.svg.png" group-title="SPAIN", MEGA
 #http://cdn.miip.tv:80/samuel/123456/2373
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/120px-Neox.svg.png" group-title="SPAIN", Neox
 #http://cdn.miip.tv:80/samuel/123456/3864
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png" group-title="SPAIN", ODISEA
 #http://cdn.miip.tv:80/samuel/123456/2374
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Syfy_Universal.png/120px-Syfy_Universal.png" group-title="SPAIN", Syfy Universal
 #http://cdn.miip.tv:80/samuel/123456/468
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES
 #http://cdn.miip.tv:80/samuel/123456/2371
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="SPAIN", TNT ES HD
 #http://cdn.miip.tv:80/samuel/123456/3867
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png" group-title="SPAIN", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
-
+#https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="Energy ES" tvg-name="Energy ES" tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/energy_circular_500_-1_4048.png" group-title="SPAIN", Energy
-https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
-
+#https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/2246
-
 #EXTINF:-1 tvg-logo="https://album.mediaset.es/file/10002/2017/11/21/be_mad_circular_500_-1_8f1a.png" group-title="SPAIN", BeMad TV (Opt-2)
-https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
-
+#https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/34/Arag%C3%B3n_TV_logo_2009.png" group-title="SPAIN", Aragon TV
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
-
+#https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="SPAIN", La Voz 24h
-https://pull12.atresmedia.com/lavoz/master.m3u8
+#https://pull12.atresmedia.com/lavoz/master.m3u8
 
 
 
-#EXTINF:-1,US.SP - CYCLING
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3691
-#EXTINF:-1,US.SP - ELEVEN SPORTS
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3758
-#EXTINF:-1,US.SP - ESPN
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3371
-#EXTINF:-1,US.SP - ESPN 2
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3372
-#EXTINF:-1,US.SP - FIGHT CHANNEL
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3380
-#EXTINF:-1,US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3378
-#EXTINF:-1,US.SP - FIGHT NETWORK
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3427
-#EXTINF:-1,US.SP - FOOTBALL REPORTS TV
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3760
-#EXTINF:-1,US.SP - FOX SOCCER PLUS
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3754
-#EXTINF:-1,US.SP - FOX SPORTS 1
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2048
-#EXTINF:-1,US.SP - FOX SPORTS 2
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2044
-#EXTINF:-1,US.SP - FOX SPORTS SUN
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3707
-#EXTINF:-1,US.SP - FS1 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17418
-#EXTINF:-1,US.SP -  FS2 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17419
-#EXTINF:-1,US.SP - GOL TV ENGLISH
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3756
-#EXTINF:-1,US.SP - NBC GOLF
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3752
-#EXTINF:-1,US.SP - NFL HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3376
-#EXTINF:-1,US.SP - PAC 12 ARIZONA
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3799
-#EXTINF:-1,US.SP - PAC 12 BAY AREA
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3368
-#EXTINF:-1,US.SP - PAC 12 LOS ANGELES
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3364
-#EXTINF:-1,US.SP - PAC 12 MOUNTAIN
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3369
-#EXTINF:-1,US.SP - PAC 12 NETWORK
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3375
-#EXTINF:-1,US.SP - PAC 12 OREGON
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3374
-#EXTINF:-1,US.SP - PAC 12 WASHINGTON
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3373
-#EXTINF:-1,US.SP - TBS
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17891
-#EXTINF:-1,US.SP - TENNIS CHANNEL
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3791
-#EXTINF:-1,US.SP - TSN SPORT 1 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3363
-#EXTINF:-1,US.SP - TSN SPORT 2 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3362
-#EXTINF:-1,US.SP - TSN SPORT 4 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3360
-#EXTINF:-1,US.SP - VIP GOLF CHANNEL
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17602
-#EXTINF:-1,US.SP - WWE HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3426
-#EXTINF:-1,US.SP - NBC SPORTS NETWORK
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3709
-#EXTINF:-1,US.SP - BS US
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3379
-#EXTINF:-1,US.SP - BTN
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3750
-#EXTINF:-1,US.SP - TSN SPORT 3 HD
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3361
-#EXTINF:-1,US.SP - TVG
-http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/36759
 
 
 
 ##News [OFF-AIR]##
 #EXTINF:-1, tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/au/images/tv.101002210220.png" tvg-name="ABC News"  group-title="NEWS",ABC News
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
-
+#https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
 #EXTINF:-1, tvg-id="623" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-name="Al Jazeera English (Opt-1)"  group-title="NEWS",Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
+#http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" tvg-name="Al Jazeera English (Opt-2)"  group-title="NEWS",Al Jazeera English (Opt-2)
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
-
+#http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.isv.net/logos/arirangtv.png" tvg-name="Arirang TV"  group-title="NEWS",Arirang TV
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
+#http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.satlogo.com/hires/aa/australia_channel_au.png" tvg-name="Australia Channel"  group-title="NEWS",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
-
+#https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 #EXTINF:-1, tvg-id="624" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-name="BBC World News (Opt-1)"  group-title="NEWS",BBC World News (Opt-1)
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
-
+#https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" tvg-name="BBC World News (Opt-2)"  group-title="NEWS",BBC World News (Opt-2)
-http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
-
+#http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/UPhXZbY.png" tvg-name="CBC News"  group-title="NEWS",CBC News
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
-
+#https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU3NDI0MTUwNjA3MDQ2MzEw/cbsn-logo.png" tvg-name="CBSN"  group-title="NEWS",CBS News Los Angeles
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-
+#https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.cn247.tv/img/logo.png" tvg-name="CN 24/7"  group-title="NEWS",CN 24/7
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
-
+#http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 #EXTINF:-1, tvg-id="626" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-name="CNA"  group-title="NEWS",CNA
-http://210.210.155.35/uq2663/h/h29/01.m3u8
-
+#http://210.210.155.35/uq2663/h/h29/01.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-name="CNBC (Opt-1)"  group-title="NEWS",CNBC (Opt-1)
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
-
+#https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" tvg-name="CNBC (Opt-2)"  group-title="NEWS",CNBC (Opt-2)
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
-
+#https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static.iptv-epg.com/us/CNBCWorld.us.png" tvg-name="CNBC Europe"  group-title="NEWS",CNBC Europe
-http://ott-cdn.ucom.am/s65/04.m3u8
-
+#http://ott-cdn.ucom.am/s65/04.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" tvg-name="CNN (Opt-1)"  group-title="NEWS",CNN (Opt-1)
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
-
+#https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" tvg-name="CNN (Opt-2)"  group-title="NEWS",CNN (Opt-2)
-https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-
+#https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="627" tvg-logo="https://i.imgur.com/KacMcVa.png" tvg-name="CNN International"  group-title="NEWS",CNN International
-http://92.43.140.249/s27/04.m3u8
-
+#http://92.43.140.249/s27/04.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RETaQH1.png" tvg-name="CTV News Live 2"  group-title="NEWS",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-
+#http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/RETaQH1.png" tvg-name="CTV News Live 3"  group-title="NEWS",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-
+#http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW English (Opt-1)"  group-title="NEWS",DW English (Opt-1)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-
+#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW English (Opt-2)"  group-title="NEWS",DW English (Opt-2)
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
-
+#http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW English (Opt-3)"  group-title="NEWS",DW English (Opt-3)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-
+#http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW Español"  group-title="NEWS",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
-
+#http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.thematv.com/medias/channels/euronews/euronews-logo.png" tvg-name="Euronews"  group-title="NEWS",Euronews
-http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
-
+#http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 #EXTINF:-1, tvg-id="I24news FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" tvg-name="i24 News"  group-title="NEWS",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-
+#https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="630" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" tvg-name="i24 News EN"  group-title="NEWS",i24 News EN
-https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
-
+#https://i24alive1-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/MSNBC_logo.png" tvg-name="MSNBC"  group-title="NEWS",MSNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
-
+#https://1674331492.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="631" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" tvg-name="NHK World (Opt-1)"  group-title="NEWS",NHK World (Opt-1)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
-
+#https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" tvg-name="NHK World (Opt-2)"  group-title="NEWS",NHK World (Opt-2)
-http://210.210.155.35/uq2663/h/h23/index.m3u8
-
+#http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/RT_Russia_Today_logo_emblem_logotype_2-700x700.png" tvg-name="RT"  group-title="NEWS",RT
-http://ott-cdn.ucom.am/s96/index.m3u8
-
+#http://ott-cdn.ucom.am/s96/index.m3u8
 #EXTINF:-1, tvg-id="RT America-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/480px-Russia-today-logo.svg.png" tvg-name="RT America"  group-title="NEWS",RT America
-https://rt-usa.secure.footprint.net/1105.m3u8
-
+#https://rt-usa.secure.footprint.net/1105.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-name="RT Español"  group-title="NEWS",RT Español
-https://rt-esp.secure.footprint.net/1102.m3u8
-
+#https://rt-esp.secure.footprint.net/1102.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1466.1414681039.png" tvg-name="RT UK"  group-title="NEWS",RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-
+#https://rt-uk.secure.footprint.net/1106.m3u8
 #EXTINF:-1, tvg-id="633" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-name="Sky News (Opt-1)"  group-title="NEWS",Sky News (Opt-1)
-http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8?fluxustv.m3u8
-
+#http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" tvg-name="Sky News (Opt-2)"  group-title="NEWS",Sky News (Opt-2)
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-
+#http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-name="Sky News Extra 1"  group-title="NEWS",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-
+#https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-name="Sky News Extra 2"  group-title="NEWS",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-
+#https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" tvg-name="Sky News Extra 3"  group-title="NEWS",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-
+#https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1, tvg-id="634" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-name="TeleSUR"  group-title="NEWS",TeleSUR
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-
+#https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" tvg-name="TeleSUR English"  group-title="NEWS",TeleSUR English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
-
+#https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="635" tvg-logo="https://i.imgur.com/PLpyQsV.png" tvg-name="TRT World"  group-title="NEWS",TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+
+
+
+
+
+##Sports ##
+
+#EXTINF:-1 group-title="SPORTS", CYCLING
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3691
+#EXTINF:-1 group-title="SPORTS", ELEVEN SPORTS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3758
+#EXTINF:-1 group-title="SPORTS", ESPN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3371
+#EXTINF:-1 group-title="SPORTS", ESPN 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3372
+#EXTINF:-1 group-title="SPORTS", FIGHT CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3380
+#EXTINF:-1 group-title="SPORTS", FIGHT NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3378
+#EXTINF:-1 group-title="SPORTS", FIGHT NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3427
+#EXTINF:-1 group-title="SPORTS", FOOTBALL REPORTS TV
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3760
+#EXTINF:-1 group-title="SPORTS", FOX SOCCER PLUS
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3754
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 1
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2048
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS 2
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/2044
+#EXTINF:-1 group-title="SPORTS", FOX SPORTS SUN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3707
+#EXTINF:-1 group-title="SPORTS", FS1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17418
+#EXTINF:-1 group-title="SPORTS", FS2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17419
+#EXTINF:-1 group-title="SPORTS", GOL TV ENGLISH
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3756
+#EXTINF:-1 group-title="SPORTS", NBC GOLF
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3752
+#EXTINF:-1 group-title="SPORTS", NFL HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3376
+#EXTINF:-1 group-title="SPORTS", PAC 12 ARIZONA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3799
+#EXTINF:-1 group-title="SPORTS", PAC 12 BAY AREA
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3368
+#EXTINF:-1 group-title="SPORTS", PAC 12 LOS ANGELES
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3364
+#EXTINF:-1 group-title="SPORTS", PAC 12 MOUNTAIN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3369
+#EXTINF:-1 group-title="SPORTS", PAC 12 NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3375
+#EXTINF:-1 group-title="SPORTS", PAC 12 OREGON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3374
+#EXTINF:-1 group-title="SPORTS", PAC 12 WASHINGTON
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3373
+#EXTINF:-1 group-title="SPORTS", TENNIS CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3791
+#EXTINF:-1 group-title="SPORTS", TSN SPORT 1 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3363
+#EXTINF:-1 group-title="SPORTS", TSN SPORT 2 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3362
+#EXTINF:-1 group-title="SPORTS", TSN SPORT 4 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3360
+#EXTINF:-1 group-title="SPORTS", VIP GOLF CHANNEL
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/17602
+#EXTINF:-1 group-title="SPORTS", WWE HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3426
+#EXTINF:-1 group-title="SPORTS", NBC SPORTS NETWORK
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3709
+#EXTINF:-1 group-title="SPORTS", BS US
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3379
+#EXTINF:-1 group-title="SPORTS", BTN
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3750
+#EXTINF:-1 group-title="SPORTS", TSN SPORT 3 HD
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3361
+#EXTINF:-1 group-title="SPORTS", TVG
+http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/36759
 
 
-
-##24/7 [OFF-AIR]##
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" group-title="Canales 24/7", Rick and Morty
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="Canales 24/7", 24/7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 4K Infantil" tvg-logo="https://caribbeancinemas.com/RD/cinekids/img/logo.png" group-title="Canales 24/7",4K Infantil
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17420.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 50 ClÃ¡sicos Disney HQ" tvg-logo="https://blogbagatela.files.wordpress.com/2016/08/clasicosdisney.png" group-title="Canales 24/7",50 Clásicos Disney HQ
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17419.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 ALF" tvg-logo="https://fliprwayr.com/wp-content/uploads/ALF-LOGO.png" group-title="Canales 24/7",ALF
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/4844.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Aang" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: La leyenda de Aang |Avatar: The Last Airbender|
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/6035.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Avatar: la leyenda de Korra" tvg-logo="https://i.pinimg.com/originals/ce/27/87/ce27870499a90e05363c91afe6b04aed.png" group-title="Canales 24/7",Avatar: la leyenda de Korra |Avatar: The Leyend of Korra|
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/7905.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Batman" tvg-logo="https://vignette.wikia.nocookie.net/batman/images/0/0e/AnimatedLogo.png" group-title="Canales 24/7",Batman
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11462.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Bewitched Hechizada" tvg-logo="https://www.logolynx.com/images/logolynx/73/7363863282b9d9e4e676c5b0c4e4229a.png" group-title="Canales 24/7",Hechizada |Bewitched|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11460.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.cdn.tbs.com/assets/images/2017/03/BobsBurgers-Logo-900x360.png" group-title="Canales 24/7",24/7 Bobs Burgers
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11459.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Caballeros del zodiaco" tvg-logo="http://universosaintseiya.com/wp-content/uploads/2015/09/cropped-LOGO-USS-valido.png" group-title="Canales 24/7",Caballeros del zodiaco |Saint Seiya|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11458.m3u8
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Candy Candy
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/11457.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Cat-Dog" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Catdog_logo.png" group-title="Canales 24/7",Cat-Dog
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11456.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Chespirito.png" group-title="Canales 24/7",Chespirito
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17417.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Coraje" tvg-logo="https://i2.wp.com/cineswag.com/wp-content/uploads/2018/02/Coraje-Perro-Cobarde_logo.png" group-title="Canales 24/7",Coraje el perro cobarde |Courage the Cowardly Dog|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11455.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Death Note" tvg-logo="http://www.sclance.com/pngs/death-note-logo-png/death_note_logo_png_374151.png" group-title="Canales 24/7",Death Note
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17416.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Digimon Adventure" tvg-logo="https://i.pinimg.com/originals/ca/5b/a7/ca5ba7d121989a03a9e22518a3ccaab1.png" group-title="Canales 24/7",Digimon Adventure
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11452.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dinosaurios" tvg-logo="https://i.pinimg.com/originals/fe/ca/52/feca52455e80971db39873cf63fb2a40.png" group-title="Canales 24/7",Dinosaurios |Dinosaurs|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17415.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dr. House" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Logo_fr_Dr_House.png" group-title="Canales 24/7",Dr. House
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6039.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Dragon_Ball_anime_logo.png" group-title="Canales 24/7",Dragon Ball
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17412.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super C.67" tvg-logo="https://vignette.wikia.nocookie.net/transcripts/images/5/57/Dragon_Ball_Super_Logo.png" group-title="Canales 24/7",Dragon Ball Super C.67
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17411.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg" group-title="Canales 24/7",Dragon Ball Super HD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/5763.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD *" tvg-logo="https://vignette.wikia.nocookie.net/transcripts/images/5/57/Dragon_Ball_Super_Logo.png" group-title="Canales 24/7",Dragon Ball Super HD *
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/16459.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://i.pinimg.com/originals/14/67/f6/1467f60684669f5925ab83dcb6ffc4f8.png" group-title="Canales 24/7",Dragon Ball Z
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17410.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Ed Edd y Eddy" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/EENE.png" group-title="Canales 24/7",Ed Edd n Eddy
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11451.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado" tvg-logo="https://animaestudios.com/assets/themes/abo-anima/resources/images/ESPANOL/ENG_CHP.png" group-title="Canales 24/7",El Chapulin Colorado
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11450.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El chavo del 8" tvg-logo="http://logosiptv.ultraiptv.cl/247_chavo.png" group-title="Canales 24/7",El chavo del 8
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/4848.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El coche fantastico" tvg-logo="http://www.minimatedatabase.com/img/line/kr.png" group-title="Canales 24/7",El coche fantástico |Knight Rider|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11448.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Coyote y el Correcaminos" tvg-logo="https://teacordas.altervista.org/wp-content/uploads/2018/08/correcaminos-y-coyote.png" group-title="Canales 24/7",El Coyote y el Correcaminos |Wile E. Coyote and the Road Runner|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11447.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El laboratorio de Dexter" tvg-logo="https://fanart.tv/fanart/tv/77992/hdclearart/dexters-laboratory-521545b3dad8c.png" group-title="Canales 24/7",El laboratorio de Dexter |Dexter's Laboratory|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11446.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Pajaro Loco" tvg-logo="http://revistadc.com/sites/default/files/inline-images/logotipo%20EPL_fina-c7d564ab8e2fc314d9c65acd4f9179fd1428587954.png" group-title="Canales 24/7",El Pájaro Loco |Woody Woodpecker|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11445.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Príncipe del Rap" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Fresh_Prince_Bel_Aire_logo.svg/1200px-Fresh_Prince_Bel_Aire_logo.svg.png" group-title="Canales 24/7",El Príncipe del Rap |The Fresh Prince of Bel-Air|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/7907.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El tunel del tiempo" tvg-logo="https://4.bp.blogspot.com/-DhAfo28qpzA/WG0vmb25psI/AAAAAAAAJ2E/p9ir_oWe3GUe0XChxO9PLtnO53qRGpYSgCLcB/s640/Time-Tunnel-TV%2B3.jpg" group-title="Canales 24/7",El tunel del tiempo |The Time Tunnel|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11444.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Fantasias animadas de ayer y hoy" tvg-logo="https://vignette.wikia.nocookie.net/looneytunes/images/c/c8/MMSeriesCard1962.png" group-title="Canales 24/7",Fantasias animadas de ayer y hoy |Merrie Melodies|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11443.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Futurama HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Futurama_1999_logo.svg/1200px-Futurama_1999_logo.svg.png" group-title="Canales 24/7",Futurama HD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6032.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Garfield_the_Cat.svg/1200px-Garfield_the_Cat.svg.png" group-title="Canales 24/7",Garfield
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17404.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls" tvg-logo="https://i.pinimg.com/originals/5b/0a/1f/5b0a1f10015ab91958c6a048d5bc5511.png" group-title="Canales 24/7",Gravity Falls
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17403.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Gravity Falls HD" tvg-logo="https://i.pinimg.com/originals/5b/0a/1f/5b0a1f10015ab91958c6a048d5bc5511.png" group-title="Canales 24/7",Gravity Falls HD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6031.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Halcones Galacticos" tvg-logo="https://i.pinimg.com/originals/1a/e6/20/1ae6200cb33c29d7766f3f08acacc020.png" group-title="Canales 24/7",Halcones Galacticos |SilverHawks|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11442.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://i.pinimg.com/originals/a1/e2/a0/a1e2a0ad6040d94956adc3125b09886e.png" group-title="Canales 24/7",Hey Arnold
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11441.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hora De Aventura" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-hora-de-aventura-png-4.png" group-title="Canales 24/7",Hora De Aventura |Adventure Time|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17400.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Johnny_Bravo_series_logo.png" group-title="Canales 24/7",Johnny Bravo
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11439.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia Monster" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/The_Munsters_title_card.png" group-title="Canales 24/7",La Familia Monster |The Munsters|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11437.m3u8
-
-#EXTINF:-1 tvg-id="https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/5e0byrbbfBPBmtxyXMpKqMuqOQY/AAAABYlID1ygv5uZG3KfsD_0A_3-qd7wzbWKTH5qC3ul1taXuoyw3gV6P9mPn_-YW8qLY1Two5O2_AZnnY75E_OOvvT9JckrMLXQHQgUtuma4g.png" tvg-name="24/7 Familia peluche" tvg-logo="" group-title="Canales 24/7",La Familia P. Luche
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17405.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La niÃ±era |The Nanny|" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Nannylogo.PNG" group-title="Canales 24/7",La niñera |The Nanny|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17398.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La pantera rosa" tvg-logo="https://faros.hsjdbcn.org/sites/default/files/styles/ficha-contenido/public/la-pantera-rosa.png" group-title="Canales 24/7",La pantera rosa |The Pink Panther|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6037.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La vaca y el pollito" tvg-logo="https://i.pinimg.com/originals/f0/14/a4/f014a4f4e986be1812daa64a2ccaa31f.png" group-title="Canales 24/7",La vaca y el pollito |Cow and Chicken|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11434.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados" tvg-logo="https://vignette.wikia.nocookie.net/the3stooges/images/1/1a/300px-Stoogelogo.png" group-title="Canales 24/7",Los 3 Chiflados |The Three Stooges|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/19330.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Jovenes Titanes en acción HD" tvg-logo="https://vignette.wikia.nocookie.net/losjvenestitanesenaccion/images/a/a0/J%C3%B3venes-Titanes-Fig%C3%BArate-Logo.png" group-title="Canales 24/7",Los Jovenes Titanes en acción |Teen Titans Go!| HD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17395.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los locos Addams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Addams_gomez5.png/250px-Addams_gomez5.png" group-title="Canales 24/7",Los locos Addams |The Addams Family|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17394.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los padrinos mágicos" tvg-logo="https://seeklogo.com/images/P/Padrinos_magicos-logo-C4F6732F30-seeklogo.com.png" group-title="Canales 24/7",Los padrinos mágicos |The Fairly OddParents|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17393.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedra" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/los-picapiedra-png-2.png" group-title="Canales 24/7",Los Picapiedra |The Flintstones|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/20191.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Pitufos" tvg-logo="https://seeklogo.com/images/S/smurf-logo-3EC21B8204-seeklogo.com.png" group-title="Canales 24/7",Los Pitufos |The Smurfs|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11432.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpson HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Simpsons_FamilyPicture.png/220px-Simpsons_FamilyPicture.png" group-title="Canales 24/7",Los Simpson HD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/5571.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Super Campeones" tvg-logo="http://www.primotv.com/images/bios/captain-tsubasa/oozora-tsubasa/oozora-tsubasa-1.png" group-title="Canales 24/7",Los Super Campeones |Captain Tsubasa|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17392.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="https://2.bp.blogspot.com/-lqw1-XcwyY4/TgBIPPw8usI/AAAAAAAABJk/ZxbwrQpeUYQ/s400/Los+Supersonicos.png" group-title="Canales 24/7",Los Supersonicos |The Jetsons|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11431.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Movies Clásicos" tvg-logo="http://www.paseodegracia.com/wp-content/uploads/2012/08/cineclasico-hexagono.png" group-title="Canales 24/7",Movies Clásicos
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17421.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky y Cerebro" tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Canales 24/7",Pinky y Cerebro |Pinky and the Brain|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/11428.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Series animados SD" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/main_element/public/media/image/2016/07/mejores-series-animacion-adultos.jpg" group-title="Canales 24/7",Series animados SD
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17390.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 South Park" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/south-park-logo-png-transparent.png" group-title="Canales 24/7",South Park
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17388.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tesoros Disney" tvg-logo="http://4.bp.blogspot.com/_8GSnE-STkvY/Ss5D4eKm1BI/AAAAAAAAAYA/W6mDAPWVt_M/s1600/WaltDisneyTreasures.png" group-title="Canales 24/7",Tesoros Disney |Walt Disney Treasures|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17386.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 The X Files" tvg-logo="https://vignette.wikia.nocookie.net/fictionalcrossover/images/d/dc/A_X-Files_logo.png" group-title="Canales 24/7",The X Files
-#http://server.stablechannels.tv:80/live/Jxv5VBjzX/yT209Sxj4s/17384.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Thundercats" tvg-logo="https://i.pinimg.com/originals/32/72/54/3272540f13fbe303b93891538611643e.png" group-title="Canales 24/7",Thundercats
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/6036.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry" tvg-logo="https://i.dlpng.com/static/png/335030_preview.png" group-title="Canales 24/7",Tom & Jerry
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/7908.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tres por Tres | FULL HOUSE |" tvg-logo="https://data.whicdn.com/images/50677702/large.png" group-title="Canales 24/7",Tres por Tres |FULL HOUSE|
-#http://tv.ultraiptv.org:80/live/kdntoukw/Y80iOjah19/17383.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Videos Remix" tvg-logo="https://www.videohits.tv/uploads/custom-logo.png" group-title="Canales 24/7",Videos Remix
-#http://tv.ultraiptv.org:80/kdntoukw/Y80iOjah19/17379
-
-
-
-
-##Sports [OFF-AIR]##
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", GOL TV ES
 #http://cdn.miip.tv:80/samuel/123456/2223
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PS6Bb8H.png" group-title="SPORTS",BT Sport 2
-https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
-
+#https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="SPORTS", GOL TV
-http://185.246.209.109:8080/GOL_TV/index.m3u8
-
+#http://185.246.209.109:8080/GOL_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/5/2/20/imgbin-bein-sports-france-ligue-1-la-liga-television-channel-american-football-rgLiZcm2N8hpwvTqZvanJCqQu.jpg" group-title="SPORTS", beIN La Liga
 #http://cdn.miip.tv:80/samuel/123456/500
-
 #EXTINF:-1 tvg-logo="https://cdn.bein.net/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png" group-title="SPORTS", beIN Sports
 #http://cdn.miip.tv:80/samuel/123456/499
-
 #EXTINF:-1 tvg-logo="http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png" group-title="SPORTS", FIGHT TIME
 #http://cdn.miip.tv:80/samuel/123456/17281
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-
+#http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORTS",Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
+#http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="SPORTS", Teledeportes
 #http://cdn.miip.tv:80/samuel/123456/467
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-1)
 #http://cdn.miip.tv:80/samuel/123456/469
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-2)
 #http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
-
 #EXTINF:-1 tvg-id="Real Madrid TV ES" tvg-name="Real Madrid TV ES" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png" group-title="SPORTS", Real Madrid TV (Opt-3)
 #http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.laligatvbar.es/static/img/laligatv_bar_logo.png" group-title="SPORTS", La Liga TV HD
 #http://cdn.miip.tv:80/samuel/123456/3862
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="SPORTS", Eurosport 1
 #http://cdn.miip.tv:80/samuel/123456/482
-
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/gt7sp-prod/decal/04/73/68/4909504213821687304_1.png" group-title="SPORTS", Eurosport 2
 #http://cdn.miip.tv:80/samuel/123456/3858
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Movistar_Formula_1.svg/200px-Movistar_Formula_1.svg.png" group-title="SPORTS", Movistar F1
 #http://cdn.miip.tv:80/samuel/123456/475
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="SPORTS", Movistar Deportes 1
 #http://cdn.miip.tv:80/samuel/123456/488
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Movistar_Deportes_2.svg/2070px-Movistar_Deportes_2.svg.png" group-title="SPORTS", Movistar Deportes 2
 #http://cdn.miip.tv:80/samuel/123456/487
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oqOwaeF.png" group-title="SPORTS", ESPN
-http://80.80.160.168/live/6/live.m3u8
-
+#http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="SPORTS", MLB Network (Opt-1)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
+#http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://static.iptv-epg.com/us/MLBNetwork.us.png" group-title="SPORTS", MLB Network (Opt-2)
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
-
+#http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_tablet.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="SPORTS", NBA TV
-http://185.246.209.109:8080/NBA9/index.m3u8
-
+#http://185.246.209.109:8080/NBA9/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NHLNetwork.us.png" group-title="SPORTS", NHL Network
-http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
-
+#http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.skymedia.ie/wp-content/uploads/sites/4/2017/07/SkySports-MAIN-EVENT.png" group-title="SPORTS", Sky Sports Main Event HD
 #http://www.sansat.net:25461/jean1/jean1/8163
-
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-MIX.png" group-title="SPORTS", Sky Sports MIX HD
 #http://www.sansat.net:25461/jean1/jean1/8151
-
 #EXTINF:-1 tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/07/SkySports-GOLF.png" group-title="SPORTS", Sky Sports Golf HD
 #http://www.sansat.net:25461/jean1/jean1/8154
-
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="SPORTS", Sky Sports F1 HD
 #http://www.sansat.net:25461/jean1/jean1/8158
-
 #EXTINF:-1 tvg-logo="https://platform-static-files.s3.amazonaws.com/ecb/photo/2017/12/06/6c378f78-4018-47a1-a2e9-b97fa2749e2b/SKY_SPORTS_CRICKET_WITH_KEYLINE_RGB-copy.png" group-title="SPORTS", Sky Sports Cricket HD
 #http://www.sansat.net:25461/jean1/jean1/8162
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQNLp5y.png" group-title="SPORTS",SuperSoccer TV
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-
+#http://210.210.155.35/uq2663/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/BT-Sports-1.png" group-title="SPORTS", BT Sport 1 HD
-http://pn2.strong-livetv.com:8000/alinhotfc/fsBNTnePZw/3104
-
+#http://pn2.strong-livetv.com:8000/alinhotfc/fsBNTnePZw/3104
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="SPORTS", Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-
+#https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="SPORTS", Racing.com (Opt-1)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-
+#https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 tvg-id="tv.101305020528" tvg-name="RACING.COM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/RACING.COM_logo_2016.svg/1200px-RACING.COM_logo_2016.svg.png" group-title="SPORTS", Racing.com (Opt-2)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-
+#https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/27zQGkR.png" group-title="SPORTS", Sports Net Ontario
-http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
-
+#http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/1200px-Esport3.svg.png" group-title="SPORTS", ESport3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8
+#https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/int/ngrp:es3_web/chunklist.m3u8

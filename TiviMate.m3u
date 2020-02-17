@@ -625,7 +625,7 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/4025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 HD
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO" ADN 40 FHD
+#EXTINF:-1 tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="MEXICO", ADN 40 FHD
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/3185
 #EXTINF:-1 group-title="MEXICO", AFIZZIONADOS
 http://tv.nousiptv.com:25462/Bonifacio/Bonifacio/8248

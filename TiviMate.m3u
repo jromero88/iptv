@@ -346,71 +346,58 @@ http://rayito-tv.xyz:41001/elliot/elliot/30395
 
 
 
-##SKY Cinema OFF-AIR##
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men HD
-#http://siptv.vip:27373/b10664/nhzefw/20090
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Men FHD
-#http://siptv.vip:27373/b10664/nhzefw/27532
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women HD
-#http://siptv.vip:27373/b10664/nhzefw/28544
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="MOVIES OFF-AIR", SKY Cinema Action Women FHD
-#http://siptv.vip:27373/b10664/nhzefw/28543
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy HD
-#http://siptv.vip:27373/b10664/nhzefw/20092
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="MOVIES OFF-AIR", SKY Cinema Comedy FHD
-#http://siptv.vip:27373/b10664/nhzefw/27533
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney HD
-#http://siptv.vip:27373/b10664/nhzefw/20094
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="MOVIES OFF-AIR", SKY Cinema Disney FHD
-#http://siptv.vip:27373/b10664/nhzefw/27530
-#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance HD
-#http://siptv.vip:27373/b10664/nhzefw/20096
-#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="MOVIES OFF-AIR", SKY Cinema Drama Romance FHD
-#http://siptv.vip:27373/b10664/nhzefw/27535
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family HD
-#http://siptv.vip:27373/b10664/nhzefw/20098
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="MOVIES OFF-AIR", SKY Cinema Family FHD
-#http://siptv.vip:27373/b10664/nhzefw/27531
-#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats HD
-#http://siptv.vip:27373/b10664/nhzefw/27539
-#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="MOVIES OFF-AIR", SKY Cinema Greats FHD
-#http://siptv.vip:27373/b10664/nhzefw/27529
-#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits HD
-#http://siptv.vip:27373/b10664/nhzefw/20100
-#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="MOVIES OFF-AIR", SKY Cinema Hits FHD
-#http://siptv.vip:27373/b10664/nhzefw/27528
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere HD
-#http://siptv.vip:27373/b10664/nhzefw/20104
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="MOVIES OFF-AIR", SKY Cinema Premiere FHD
-#http://siptv.vip:27373/b10664/nhzefw/27527
-#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror HD
-#http://siptv.vip:27373/b10664/nhzefw/20106
-#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="MOVIES OFF-AIR", Sky Cinema SciFi Horror FHD
-#http://siptv.vip:27373/b10664/nhzefw/27536
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select HD
-#http://siptv.vip:27373/b10664/nhzefw/20108
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="MOVIES OFF-AIR", SKY Cinema Select FHD
-#http://siptv.vip:27373/b10664/nhzefw/27537
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES OFF-AIR", SKY Cinema Thriller HD
-#http://siptv.vip:27373/b10664/nhzefw/20111
-#EXTINF:-1 tvg-id=" OFF-AIR" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="MOVIES", SKY Cinema Thriller FHD
-#http://siptv.vip:27373/b10664/nhzefw/27534
-#EXTINF:-1 tvg-id="Movies4Men.uk" tvg-name="Sony Action" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action.png" group-title="MOVIES OFF-AIR",Sony Action
-#http://siptv.vip:27373/b10664/nhzefw/25207
-#EXTINF:-1 tvg-id="Movies4MenPlus1.uk" tvg-name="Sony Action +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Action_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Action +1
-#http://siptv.vip:27373/b10664/nhzefw/25206
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Christmas.png" group-title="MOVIES OFF-AIR",Sony Christmas
-#http://siptv.vip:27373/b10664/nhzefw/20119
-#EXTINF:-1 tvg-id="TrueMovies.uk" tvg-name="Sony Christmas +1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/true_movies1.jpg" group-title="MOVIES OFF-AIR",Sony Christmas +1
-#http://siptv.vip:27373/b10664/nhzefw/25205
-#EXTINF:-1 tvg-id="SonyCrimeChannel.uk" tvg-name="Sony Crime" tvg-logo="http://vtpi.best/chanicons/UK/SONYCRIMECHANNEL.png" group-title="MOVIES OFF-AIR",Sony Crime
-#http://siptv.vip:27373/b10664/nhzefw/20112
-#EXTINF:-1 tvg-id="SonyCrimeChannelPlus1.uk" tvg-name="Sony Crime +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Crime_Channel_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Crime +1
-#http://siptv.vip:27373/b10664/nhzefw/20115
-#EXTINF:-1 tvg-id="SonyMovies.uk" tvg-name="Sony Movies" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies.png" group-title="MOVIES OFF-AIR",Sony Movies
-#http://siptv.vip:27373/b10664/nhzefw/20117
-#EXTINF:-1 tvg-id="SonyMoviesplus1.uk" tvg-name="Sony Movies +1" tvg-logo="http://vtpi.best/chanicons/UK2/Sony_Movies_Plus_1.png" group-title="MOVIES OFF-AIR",Sony Movies +1
-#http://siptv.vip:27373/b10664/nhzefw/20113
+##SKY Cinema##
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="SKY CINEMA", SKY Cinema Action & Adventure SD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22638.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="SKY CINEMA", SKY Cinema Action & Adventure HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Action.png" group-title="SKY CINEMA", SKY Cinema Action & Adventure HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31803.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="SKY CINEMA", SKY Cinema Comedy HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31804.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Comedy.png" group-title="SKY CINEMA", SKY Cinema Comedy HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22639.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="SKY CINEMA", SKY Cinema Disney HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31801.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="SKY CINEMA", SKY Cinema Disney HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/144.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Disney.png" group-title="SKY CINEMA", SKY Cinema Disney HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22634.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="SKY CINEMA", SKY Cinema Drama Romance HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31798.ts
+#EXTINF:-1 tvg-id="Sky Movies Drama Romance UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Drama.png" group-title="SKY CINEMA", SKY Cinema Drama Romance HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/1784.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="SKY CINEMA", SKY Cinema Family HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31802.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Family.png" group-title="SKY CINEMA", SKY Cinema Family HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22640.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="SKY CINEMA", SKY Cinema Greats HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/1792.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="SKY CINEMA", SKY Cinema Greats HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31800.ts
+#EXTINF:-1 tvg-id="Sky Movies Greats UK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/12/Sky_Cinema_Greats.png" group-title="SKY CINEMA", SKY Cinema Greats HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22647.ts
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="SKY CINEMA", SKY Cinema Hits HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31799.ts
+#EXTINF:-1 tvg-id="Sky Hits UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" group-title="SKY CINEMA", SKY Cinema Hits HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/198.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Premiere.png" group-title="SKY CINEMA", SKY Cinema Premiere HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31796.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="SKY CINEMA", Sky Cinema SciFi Horror HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/196.ts
+#EXTINF:-1 tvg-id="Sky Movies Sci-Fi Horror UK" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-SciFi.png" group-title="SKY CINEMA", Sky Cinema SciFi Horror HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31806.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="SKY CINEMA", SKY Cinema Select HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31807.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Select.png" group-title="SKY CINEMA", SKY Cinema Select HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/197.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="SKY CINEMA", SKY Cinema Thriller HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31805.ts
+#EXTINF:-1 tvg-id=" OFF-AIR" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="SKY CINEMA", SKY Cinema Thriller FHD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/199.ts
+#EXTINF:-1 tvg-id=" OFF-AIR" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Thriller.png" group-title="SKY CINEMA", SKY Cinema Thriller FHD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/22645.ts
+
 
 
 
@@ -1026,43 +1013,35 @@ http://rayito-tv.xyz:41001/elliot/elliot/30753
 
 ##United Kingdom##
 #EXTINF:-1 tvg-logo="http://vtpi.best/chanicons/UK2/4seven_HD.png" group-title="UK", 4Seven
-#http://siptv.vip:27373/b10664/nhzefw/20002
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31731.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star HD
-#http://siptv.vip:27373/b10664/nhzefw/20003
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/5star.uk.png" group-title="UK", 5 Star +1 HD
-#http://siptv.vip:27373/b10664/nhzefw/20004
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31750.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA HD
-#http://siptv.vip:27373/b10664/nhzefw/20005
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31748.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/FiveUSA.uk.png" group-title="UK", 5 USA +1 HD
-#http://siptv.vip:27373/b10664/nhzefw/20006
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31749.ts
 #EXTINF:-1 tvg-id="Alibi.uk" tvg-name="Alibi" tvg-logo="http://vtpi.best/chanicons/UK2/Alibi_HD.png" group-title="UK",Alibi
-#http://siptv.vip:27373/b10664/nhzefw/20007
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31725.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One
-#http://siptv.vip:27373/b10664/nhzefw/20013
-#EXTINF:-1 tvg-id="BBC One HD UK" tvg-name="BBC One HD UK" tvg-logo="https://static.iptv-epg.com/gb/BBC1.uk.png" group-title="UK", BBC One HD
-#http://siptv.vip:27373/b10664/nhzefw/20014
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31692.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC2.uk.png" group-title="UK", BBC Two
-#http://siptv.vip:27373/b10664/nhzefw/20019
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23246.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four
 #http://siptv.vip:27373/b10664/nhzefw/20011
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBC4.uk.png" group-title="UK", BBC Four HD
-#http://siptv.vip:27373/b10664/nhzefw/20012
 #EXTINF:-1 tvg-id="CBSAction.uk" tvg-name="CBS Action" tvg-logo="http://vtpi.best/chanicons/UK/CBSACTION.png" group-title="UK",CBS Action
 #http://siptv.vip:27373/b10664/nhzefw/20025
 #EXTINF:-1 tvg-id="CBSDrama.uk" tvg-name="CBS Drama" tvg-logo="http://vtpi.best/chanicons/UK/CBSDRAMA.png" group-title="UK",CBS Drama
 #http://siptv.vip:27373/b10664/nhzefw/20026
 #EXTINF:-1 tvg-id="CBSReality1.uk" tvg-name="CBS Reality" tvg-logo="http://vtpi.best/chanicons/UK/CBSREALITY.png" group-title="UK",CBS Reality
-#http://siptv.vip:27373/b10664/nhzefw/20027
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31737.ts
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge
-#http://siptv.vip:27373/b10664/nhzefw/20028
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/Challenge.uk.png" group-title="UK", Challenge +1
-#http://siptv.vip:27373/b10664/nhzefw/26129
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/4940.ts
 #EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL4.png" group-title="UK",Channel 4
-#http://siptv.vip:27373/b10664/nhzefw/20029
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_HD.png" group-title="UK",Channel 4 HD
-#http://siptv.vip:27373/b10664/nhzefw/20031
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/127.ts
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_HD.png" group-title="UK",Channel 4
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23007.ts
 #EXTINF:-1 tvg-id="Channel4plus1.uk" tvg-name="Channel 4 +1*" tvg-logo="http://vtpi.best/chanicons/UK/Channel_4_Plus_1.png" group-title="UK",Channel 4 +1*
-#http://siptv.vip:27373/b10664/nhzefw/20030
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31698.ts
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="http://vtpi.best/chanicons/UK/CHANNEL5.png" group-title="UK",Channel 5
 #http://siptv.vip:27373/b10664/nhzefw/20032
 #EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="http://vtpi.best/chanicons/UK2/Channel_5_HD.png" group-title="UK",Channel 5 HD
@@ -1070,94 +1049,53 @@ http://rayito-tv.xyz:41001/elliot/elliot/30753
 #EXTINF:-1 tvg-logo="http://hoolatv.com/sites/default/files/channels/dave.png" group-title="UK", Dave
 #http://siptv.vip:27373/b10664/nhzefw/20038
 #EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="http://vtpi.best/chanicons/UK/E4.png" group-title="UK",E4
-#http://siptv.vip:27373/b10664/nhzefw/20041
-#EXTINF:-1 tvg-id="More4Plus1.uk" tvg-name="E4 +1" tvg-logo="http://vtpi.best/chanicons/UK2/E4_Plus_1.png" group-title="UK",E4 +1
-#http://siptv.vip:27373/b10664/nhzefw/20042
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23012.ts
 #EXTINF:-1 tvg-id="FX.uk" tvg-name="Fox UK" tvg-logo="http://vtpi.best/chanicons/UK/FOX.png" group-title="UK",Fox UK
-#http://siptv.vip:27373/b10664/nhzefw/20043
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31720.ts
 #EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="http://vtpi.best/chanicons/UK/GOLD.png" group-title="UK",Gold
-#http://siptv.vip:27373/b10664/nhzefw/20044
-#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold HD" tvg-logo="http://vtpi.best/chanicons/UK2/Gold_HD.png" group-title="UK",Gold HD
-#http://siptv.vip:27373/b10664/nhzefw/24851
-#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV" tvg-logo="http://vtpi.best/chanicons/UK/ITV.png" group-title="UK",ITV
-#http://siptv.vip:27373/b10664/nhzefw/20045
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23031.ts
+#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV" tvg-logo="http://vtpi.best/chanicons/UK/ITV.png" group-title="UK",ITV FHD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/49369.ts
 #EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="ITV HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV_HD.png" group-title="UK",ITV HD
-#http://siptv.vip:27373/b10664/nhzefw/20054
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2.png" group-title="UK",ITV 2
-#http://siptv.vip:27373/b10664/nhzefw/20046
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2_HD.png" group-title="UK",ITV 2 HD
-#http://siptv.vip:27373/b10664/nhzefw/20047
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/161.ts
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="http://vtpi.best/chanicons/UK2/ITV2.png" group-title="UK",ITV 2 +1
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23015.ts
 #EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="http://vtpi.best/chanicons/UK/ITV3.png" group-title="UK",ITV 3
-#http://siptv.vip:27373/b10664/nhzefw/20048
-#EXTINF:-1 tvg-id="" tvg-name="ITV 3 HD" tvg-logo="" group-title="UK",ITV 3 HD
-#http://siptv.vip:27373/b10664/nhzefw/24807
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31714.ts
 #EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="http://vtpi.best/chanicons/UK/ITV4.png" group-title="UK",ITV 4
-#http://siptv.vip:27373/b10664/nhzefw/20049
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV4_HD.png" group-title="UK",ITV 4 HD
-#http://siptv.vip:27373/b10664/nhzefw/20050
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be" tvg-logo="http://vtpi.best/chanicons/UK/ITVBE.png" group-title="UK",ITV Be
-#http://siptv.vip:27373/b10664/nhzefw/20051
-#EXTINF:-1 tvg-id="" tvg-name="ITV Be FHD" tvg-logo="" group-title="UK",ITV Be FHD
-#http://siptv.vip:27373/b10664/nhzefw/27543
-#EXTINF:-1 tvg-id="ITV1Central.uk" tvg-name="ITV Central" tvg-logo="http://vtpi.best/chansicons/itvcentral.png" group-title="UK",ITV Central
-#http://siptv.vip:27373/b10664/nhzefw/20052
-#EXTINF:-1 tvg-id="Lifetime.uk" tvg-name="Lifetime HD" tvg-logo="http://vtpi.best/chanicons/UK2/Lifetime_HD.png" group-title="UK",Lifetime HD
-#http://siptv.vip:27373/b10664/nhzefw/20055
-#EXTINF:-1 tvg-id="LondonLive.uk" tvg-name="London Live" tvg-logo="http://vtpi.best/chanicons/UK2/London_Live.png" group-title="UK",London Live
-#http://siptv.vip:27373/b10664/nhzefw/20056
-#EXTINF:-1 tvg-id="More4.uk" tvg-name="More 4" tvg-logo="http://vtpi.best/chanicons/UK/MORE_4.png" group-title="UK",More 4
-#http://siptv.vip:27373/b10664/nhzefw/20057
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Network FHD" tvg-logo="" group-title="UK Sky",Paramount Network FHD
-#http://siptv.vip:27373/b10664/nhzefw/27544
-#EXTINF:-1 tvg-id="PickTV.uk" tvg-name="Pick" tvg-logo="http://vtpi.best/chanicons/UK/PICKTV.png" group-title="UK",Pick
-#http://siptv.vip:27373/b10664/nhzefw/20058
-#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="http://vtpi.best/chanicons/UK2/Really.png" group-title="UK",Really
-#http://siptv.vip:27373/b10664/nhzefw/20060
-#EXTINF:-1 tvg-id="RTE1.ie" tvg-name="RTE One" tvg-logo="http://vtpi.best/chanicons/UK/RTEONE.png" group-title="UK",RTE One
-#http://siptv.vip:27373/b10664/nhzefw/20061
-#EXTINF:-1 tvg-id="" tvg-name="RTE One HD" tvg-logo="http://vtpi.best/chanicons/UK2/RTE_ONE_HD.png" group-title="UK",RTE One HD
-#http://siptv.vip:27373/b10664/nhzefw/25183
-#EXTINF:-1 tvg-id="RTE2.ie" tvg-name="RTE Two" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two
-#http://siptv.vip:27373/b10664/nhzefw/20063
-#EXTINF:-1 tvg-id="" tvg-name="RTE Two HD" tvg-logo="http://vtpi.best/chanicons/UK/RTETWO.png" group-title="UK",RTE Two HD
-#http://siptv.vip:27373/b10664/nhzefw/25184
-#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="http://vtpi.best/chanicons/UK2/S4C.png" group-title="UK",S4C
-#http://siptv.vip:27373/b10664/nhzefw/20065
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31715.ts
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4 HD" tvg-logo="http://vtpi.best/chanicons/UK2/ITV4_HD.png" group-title="UK",ITV 4
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/1749.ts
 
 
 
 ##UK Satellite##
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One.png" group-title="UK Sky&Virgin",Sky One
-#http://siptv.vip:27373/b10664/nhzefw/20066
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31700.ts
 #EXTINF:-1 tvg-id="Sky1.uk" tvg-name="Sky One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_One_HD.png" group-title="UK Sky&Virgin",Sky One HD
-#http://siptv.vip:27373/b10664/nhzefw/20067
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/1799.ts
 #EXTINF:-1 tvg-id="Sky2.uk" tvg-name="Sky 2" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Two.png" group-title="UK Sky&Virgin",Sky 2
-#http://siptv.vip:27373/b10664/nhzefw/20068
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31724.ts
 #EXTINF:-1 tvg-id="SkyArts1.uk" tvg-name="Sky Arts" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Arts.png" group-title="UK Sky&Virgin",Sky Arts
-#http://siptv.vip:27373/b10664/nhzefw/20069
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31717.ts
 #EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Atlantic_HD.png" group-title="UK Sky&Virgin",Sky Atlantic
-#http://siptv.vip:27373/b10664/nhzefw/20070
-#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="http://vtpi.best/chanicons/UK/SKYATLANTIC.png" group-title="UK Sky&Virgin",Sky Atlantic HD
-#http://siptv.vip:27373/b10664/nhzefw/24844
-#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic FHD" tvg-logo="" group-title="UK Sky&Virgin",Sky Atlantic FHD
-#http://siptv.vip:27373/b10664/nhzefw/27542
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Living/Witness
-#http://siptv.vip:27373/b10664/nhzefw/20071
-#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness HD" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness_HD.png" group-title="UK Sky&Virgin",Sky Living/Witness HD
-#http://siptv.vip:27373/b10664/nhzefw/20072
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One.png" group-title="UK Sky&Virgin",Virgin Media One
-#http://siptv.vip:27373/b10664/nhzefw/25186
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One_HD.png" group-title="UK Sky&Virgin",Virgin Media One HD
-#http://siptv.vip:27373/b10664/nhzefw/25192
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two.png" group-title="UK Sky&Virgin",Virgin Media Two
-#http://siptv.vip:27373/b10664/nhzefw/25187
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two_HD.png" group-title="UK Sky&Virgin",Virgin Media Two HD
-#http://siptv.vip:27373/b10664/nhzefw/25189
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three
-#http://siptv.vip:27373/b10664/nhzefw/25188
-#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three HD" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three HD
-#http://siptv.vip:27373/b10664/nhzefw/25190
-
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/188.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Atlantic_HD.png" group-title="UK Sky&Virgin",Sky Atlantic
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31702.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Witness
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/55470.ts
+#EXTINF:-1 tvg-id="SkyLiving.uk" tvg-name="Sky Living/Witness" tvg-logo="http://vtpi.best/chanicons/UK2/Sky_Witness.png" group-title="UK Sky&Virgin",Sky Witness
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31701.ts
+#EXTINF:-1 group-title="UK Sky&Virgin",Sky Comedy
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/23022.ts
+#EXTINF:-1 group-title="UK Sky&Virgin",Sky Comedy
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/31708.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media One" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_One.png" group-title="UK Sky&Virgin",Virgin Media One HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/55511.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Two" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Two.png" group-title="UK Sky&Virgin",Virgin Media Two HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/57025.ts
+#EXTINF:-1 tvg-id="" tvg-name="Virgin Media Three" tvg-logo="http://vtpi.best/chanicons/UK2/Virgin_Media_Three.png" group-title="UK Sky&Virgin",Virgin Media Three HD
+http://portal.iptv-mag.com:80/live/indianat1/YweLbfTq9n123za/57026.ts
 
 
 

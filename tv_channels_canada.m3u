@@ -1,1905 +1,1701 @@
 #EXTM3U
-#EXTINF:-1,Comedy Central HD | Latino
+#EXTINF:-1, tvg-id="comedycentral.co" tvg-logo="http://s4.miip.tv:8081/gtfhfth/icono/941.png" tvg-name="Comedy Central HD | Latino"  group-title="Latino",Comedy Central HD
 http://cdn.miip.tv:8080/canada/123456/1
-#EXTINF:-1,Discovery Home
+#EXTINF:-1, tvg-id="EPG123.97928.XMLTV.CO" tvg-logo="" tvg-name=""  group-title="",Discovery Home
 http://cdn.miip.tv:8080/canada/123456/13
-#EXTINF:-1,DISCOVERY CIVILIZACION | MX
+#EXTINF:-1, tvg-id="EPG123.46609.XMLTV.CO" tvg-logo="" tvg-name=""  group-title="Latino",DISCOVERY CIVILIZACION | MX
 http://cdn.miip.tv:8080/canada/123456/14
-#EXTINF:-1,NBC Universo
+#EXTINF:-1, tvg-id="I838.14791.schedulesdirect.org" tvg-logo="" tvg-name=""  group-title="",NBC Universo
 http://cdn.miip.tv:8080/canada/123456/16
-#EXTINF:-1,Galavision | MX
+#EXTINF:-1, tvg-id="galavision.us" tvg-logo="" tvg-name=""  group-title="Latino",Galavision | MX
 http://cdn.miip.tv:8080/canada/123456/17
-#EXTINF:-1,MSG PLUS
+#EXTINF:-1, tvg-id="I64.11105.schedulesdirect.org" tvg-logo="" tvg-name=""  group-title="",MSG PLUS
 http://cdn.miip.tv:8080/canada/123456/19
-#EXTINF:-1,Msg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Msg
 http://cdn.miip.tv:8080/canada/123456/20
-#EXTINF:-1,Tsn 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tsn 2
 http://cdn.miip.tv:8080/canada/123456/21
-#EXTINF:-1,TVN | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TVN | CHI
 http://cdn.miip.tv:8080/canada/123456/23
-#EXTINF:-1,MEGA | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MEGA | CHI
 http://cdn.miip.tv:8080/canada/123456/24
-#EXTINF:-1,CDF PREMIUN | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CDF PREMIUN | CHI
 http://cdn.miip.tv:8080/canada/123456/26
-#EXTINF:-1,CDF BASICO | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CDF BASICO | CHI
 http://cdn.miip.tv:8080/canada/123456/27
-#EXTINF:-1,Tsn 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tsn 3
 http://cdn.miip.tv:8080/canada/123456/28
-#EXTINF:-1,Tsn 4
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tsn 4
 http://cdn.miip.tv:8080/canada/123456/29
-#EXTINF:-1,Tsn 5
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tsn 5
 http://cdn.miip.tv:8080/canada/123456/30
-#EXTINF:-1,LA RED | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA RED | CHI
 http://cdn.miip.tv:8080/canada/123456/31
-#EXTINF:-1,Fight
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fight
 http://cdn.miip.tv:8080/canada/123456/32
-#EXTINF:-1,ETC | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ETC | CHI
 http://cdn.miip.tv:8080/canada/123456/33
-#EXTINF:-1,CHILE 13 | CHI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CHILE 13 | CHI
 http://cdn.miip.tv:8080/canada/123456/34
-#EXTINF:-1,H2 | CA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",H2 | CA
 http://cdn.miip.tv:8080/canada/123456/35
-#EXTINF:-1,SIMPSONS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SIMPSONS 24/7
 http://cdn.miip.tv:8080/canada/123456/36
-#EXTINF:-1,Sport Net Pacific
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport Net Pacific
 http://cdn.miip.tv:8080/canada/123456/37
-#EXTINF:-1,Sport Net World
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport Net World
 http://cdn.miip.tv:8080/canada/123456/39
-#EXTINF:-1,UNIVISION DALLAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION DALLAS
 http://cdn.miip.tv:8080/canada/123456/40
-#EXTINF:-1,UNIVISION CHICAGO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION CHICAGO
 http://cdn.miip.tv:8080/canada/123456/41
-#EXTINF:-1,Sport Net 360
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport Net 360
 http://cdn.miip.tv:8080/canada/123456/42
-#EXTINF:-1,TELEMUNDO DALLAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO DALLAS
 http://cdn.miip.tv:8080/canada/123456/43
-#EXTINF:-1,Sport net one
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport net one
 http://cdn.miip.tv:8080/canada/123456/44
-#EXTINF:-1,Sport Net Ontario
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport Net Ontario
 http://cdn.miip.tv:8080/canada/123456/45
-#EXTINF:-1,Sport Net East
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sport Net East
 http://cdn.miip.tv:8080/canada/123456/46
-#EXTINF:-1,Nba Ca
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nba Ca
 http://cdn.miip.tv:8080/canada/123456/47
-#EXTINF:-1,WGN NEWS CHICAGO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WGN NEWS CHICAGO
 http://cdn.miip.tv:8080/canada/123456/48
-#EXTINF:-1,Azteca 7 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Azteca 7 | MX
 http://cdn.miip.tv:8080/canada/123456/49
-#EXTINF:-1,NBC SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBC SPORTS
 http://cdn.miip.tv:8080/canada/123456/50
-#EXTINF:-1,CBS SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBS SPORTS
 http://cdn.miip.tv:8080/canada/123456/51
-#EXTINF:-1,Mexiquese | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Mexiquese | MX
 http://cdn.miip.tv:8080/canada/123456/52
-#EXTINF:-1,beIN Sports ñ
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",beIN Sports ñ
 http://cdn.miip.tv:8080/canada/123456/53
-#EXTINF:-1,Azteca Mundo | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Azteca Mundo | MX
 http://cdn.miip.tv:8080/canada/123456/54
-#EXTINF:-1,FOX SOCCER PLUS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SOCCER PLUS
 http://cdn.miip.tv:8080/canada/123456/55
-#EXTINF:-1,IFC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",IFC
 http://cdn.miip.tv:8080/canada/123456/56
-#EXTINF:-1,HALLMARK CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HALLMARK CHANNEL
 http://cdn.miip.tv:8080/canada/123456/57
-#EXTINF:-1,Azteca Corazon | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Azteca Corazon | MX
 http://cdn.miip.tv:8080/canada/123456/58
-#EXTINF:-1,UNIVISIONCANADA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISIONCANADA
 http://cdn.miip.tv:8080/canada/123456/59
-#EXTINF:-1,Azteca Uno | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Azteca Uno | MX
 http://cdn.miip.tv:8080/canada/123456/60
-#EXTINF:-1,TNT SERIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TNT SERIES
 http://cdn.miip.tv:8080/canada/123456/61
-#EXTINF:-1,EL CHAVO 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",EL CHAVO 24/7
 http://cdn.miip.tv:8080/canada/123456/62
-#EXTINF:-1,Tv Max | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tv Max | MX
 http://cdn.miip.tv:8080/canada/123456/63
-#EXTINF:-1,DISNEY JR USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY JR USA
 http://cdn.miip.tv:8080/canada/123456/64
-#EXTINF:-1,Televisa | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Televisa | MX
 http://cdn.miip.tv:8080/canada/123456/65
-#EXTINF:-1,UNIVERSAL LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVERSAL LATINO
 http://cdn.miip.tv:8080/canada/123456/66
-#EXTINF:-1,LOS JETSONS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LOS JETSONS 24/7
 http://cdn.miip.tv:8080/canada/123456/67
-#EXTINF:-1,Canal 8 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 8 | MX
 http://cdn.miip.tv:8080/canada/123456/68
-#EXTINF:-1,Canal 2 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 2 | MX
 http://cdn.miip.tv:8080/canada/123456/69
-#EXTINF:-1,PATO AVENTURAS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PATO AVENTURAS 24/7
 http://cdn.miip.tv:8080/canada/123456/70
-#EXTINF:-1,DISNEY PRINCESS 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY PRINCESS 
 http://cdn.miip.tv:8080/canada/123456/71
-#EXTINF:-1,Canal 4 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 4 | MX
 http://cdn.miip.tv:8080/canada/123456/72
-#EXTINF:-1,NIVUE CENTER PREMIER 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NIVUE CENTER PREMIER 
 http://cdn.miip.tv:8080/canada/123456/73
-#EXTINF:-1,CINEMA NAVIDAD 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMA NAVIDAD 
 http://cdn.miip.tv:8080/canada/123456/74
-#EXTINF:-1,Canal 11 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 11 | MX
 http://cdn.miip.tv:8080/canada/123456/75
-#EXTINF:-1,MOVIE COMEDIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVIE COMEDIA
 http://cdn.miip.tv:8080/canada/123456/76
-#EXTINF:-1,Canal 5 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 5 | MX
 http://cdn.miip.tv:8080/canada/123456/77
-#EXTINF:-1,DISNEY LIVE ACTION 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY LIVE ACTION 
 http://cdn.miip.tv:8080/canada/123456/78
-#EXTINF:-1,SCOOBY DOO 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SCOOBY DOO 24/7
 http://cdn.miip.tv:8080/canada/123456/79
-#EXTINF:-1,LATIN SPORT AMERICA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LATIN SPORT AMERICA
 http://cdn.miip.tv:8080/canada/123456/80
-#EXTINF:-1,Canal 6 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 6 | MX
 http://cdn.miip.tv:8080/canada/123456/81
-#EXTINF:-1,El Gourmet
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",El Gourmet
 http://cdn.miip.tv:8080/canada/123456/82
-#EXTINF:-1,Canal 9 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 9 | MX
 http://cdn.miip.tv:8080/canada/123456/84
-#EXTINF:-1,Foro tv | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Foro tv | MX
 http://cdn.miip.tv:8080/canada/123456/85
-#EXTINF:-1,Televisa Bajo | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Televisa Bajo | MX
 http://cdn.miip.tv:8080/canada/123456/86
-#EXTINF:-1,Telever | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Telever | MX
 http://cdn.miip.tv:8080/canada/123456/87
-#EXTINF:-1,CINEMAX ACTION
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMAX ACTION
 http://cdn.miip.tv:8080/canada/123456/88
-#EXTINF:-1,Adn 40 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Adn 40 | MX
 http://cdn.miip.tv:8080/canada/123456/89
-#EXTINF:-1,Formula Noticias | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Formula Noticias | MX
 http://cdn.miip.tv:8080/canada/123456/90
-#EXTINF:-1,TRILLERMAX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TRILLERMAX
 http://cdn.miip.tv:8080/canada/123456/91
-#EXTINF:-1,Las Estrellas | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Las Estrellas | MX
 http://cdn.miip.tv:8080/canada/123456/92
-#EXTINF:-1,Milenio Tv | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Milenio Tv | MX
 http://cdn.miip.tv:8080/canada/123456/93
-#EXTINF:-1,Tve | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tve | MX
 http://cdn.miip.tv:8080/canada/123456/94
-#EXTINF:-1,Tooncast | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tooncast | MX
 http://cdn.miip.tv:8080/canada/123456/95
-#EXTINF:-1,Nicktoons | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nicktoons | MX
 http://cdn.miip.tv:8080/canada/123456/96
-#EXTINF:-1,HBO ZONE ESPANOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO ZONE ESPANOL
 http://cdn.miip.tv:8080/canada/123456/97
-#EXTINF:-1,ENCORE ACTION
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE ACTION
 http://cdn.miip.tv:8080/canada/123456/98
-#EXTINF:-1,ESTRELLA TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESTRELLA TV
 http://cdn.miip.tv:8080/canada/123456/99
-#EXTINF:-1,Telenovelas | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Telenovelas | MX
 http://cdn.miip.tv:8080/canada/123456/100
-#EXTINF:-1,STARZ WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ WEST
 http://cdn.miip.tv:8080/canada/123456/101
-#EXTINF:-1,MORE MAX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MORE MAX
 http://cdn.miip.tv:8080/canada/123456/102
-#EXTINF:-1,ZOL 106-5 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ZOL 106-5 RD
 http://cdn.miip.tv:8080/canada/123456/513
-#EXTINF:-1,TELERADIO AMERICA CANAL 45 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELERADIO AMERICA CANAL 45 RD
 http://cdn.miip.tv:8080/canada/123456/514
-#EXTINF:-1,Z 101 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Z 101 RD
 http://cdn.miip.tv:8080/canada/123456/515
-#EXTINF:-1,UNIVISION BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION BOSTON
 http://cdn.miip.tv:8080/canada/123456/516
-#EXTINF:-1,DISCOVERY TURBO LATINO ALT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY TURBO LATINO ALT
 http://cdn.miip.tv:8080/canada/123456/517
-#EXTINF:-1,Nba Tv
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nba Tv
 http://cdn.miip.tv:8080/canada/123456/518
-#EXTINF:-1,NFL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NFL
 http://cdn.miip.tv:8080/canada/123456/519
-#EXTINF:-1,Tbs Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tbs Usa
 http://cdn.miip.tv:8080/canada/123456/520
-#EXTINF:-1,Tvg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tvg
 http://cdn.miip.tv:8080/canada/123456/521
-#EXTINF:-1,Tvg2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tvg2
 http://cdn.miip.tv:8080/canada/123456/522
-#EXTINF:-1,Nesn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nesn
 http://cdn.miip.tv:8080/canada/123456/523
-#EXTINF:-1,Nesn Plus
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nesn Plus
 http://cdn.miip.tv:8080/canada/123456/524
-#EXTINF:-1,A&E
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",A&E
 http://cdn.miip.tv:8080/canada/123456/525
-#EXTINF:-1,Tennis Channel
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tennis Channel
 http://cdn.miip.tv:8080/canada/123456/526
-#EXTINF:-1,Travel Channel
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Travel Channel
 http://cdn.miip.tv:8080/canada/123456/527
-#EXTINF:-1,NICKELODON USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICKELODON USA
 http://cdn.miip.tv:8080/canada/123456/528
-#EXTINF:-1,Nick Jr Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nick Jr Usa
 http://cdn.miip.tv:8080/canada/123456/529
-#EXTINF:-1,Cookie Channel
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Cookie Channel
 http://cdn.miip.tv:8080/canada/123456/530
-#EXTINF:-1,Fox Deportes
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Deportes
 http://cdn.miip.tv:8080/canada/123456/531
-#EXTINF:-1,History Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",History Usa
 http://cdn.miip.tv:8080/canada/123456/532
-#EXTINF:-1,Telemundo Philadelfia
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Telemundo Philadelfia
 http://cdn.miip.tv:8080/canada/123456/533
-#EXTINF:-1,Univision Philadelfia
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Univision Philadelfia
 http://cdn.miip.tv:8080/canada/123456/534
-#EXTINF:-1,Lifetime Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Lifetime Usa
 http://cdn.miip.tv:8080/canada/123456/535
-#EXTINF:-1,Lifetime Movie
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Lifetime Movie
 http://cdn.miip.tv:8080/canada/123456/536
-#EXTINF:-1,Fox Sport 1 Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Sport 1 Usa
 http://cdn.miip.tv:8080/canada/123456/537
-#EXTINF:-1,Fox Sport Usa 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Sport Usa 2
 http://cdn.miip.tv:8080/canada/123456/538
-#EXTINF:-1,LA SEXTA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA SEXTA ES
 http://cdn.miip.tv:8080/canada/123456/539
-#EXTINF:-1,MOVISTAR ACCION ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR ACCION ES
 http://cdn.miip.tv:8080/canada/123456/540
-#EXTINF:-1,ESPN USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN USA
 http://cdn.miip.tv:8080/canada/123456/541
-#EXTINF:-1,TVO Canal 23 | ESA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TVO Canal 23 | ESA
 http://cdn.miip.tv:8080/canada/123456/1317
-#EXTINF:-1,SPECTRUM HOUSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPECTRUM HOUSTON
 http://cdn.miip.tv:8080/canada/123456/1320
-#EXTINF:-1,PRIME TICKET LOS ANGELES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PRIME TICKET LOS ANGELES
 http://cdn.miip.tv:8080/canada/123456/1321
-#EXTINF:-1,SHOWTIME NEXT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME NEXT
 http://cdn.miip.tv:8080/canada/123456/1375
-#EXTINF:-1,SHOWTIME WOMEN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME WOMEN
 http://cdn.miip.tv:8080/canada/123456/1422
-#EXTINF:-1,SPECTRUM LAKERS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPECTRUM LAKERS
 http://cdn.miip.tv:8080/canada/123456/1485
-#EXTINF:-1,DAZN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DAZN
 http://cdn.miip.tv:8080/canada/123456/1527
-#EXTINF:-1,FOX SPORT WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT WEST
 http://cdn.miip.tv:8080/canada/123456/2082
-#EXTINF:-1,TELE EXITOS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELE EXITOS
 http://cdn.miip.tv:8080/canada/123456/2644
-#EXTINF:-1,MEGA TV MIAMI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MEGA TV MIAMI
 http://cdn.miip.tv:8080/canada/123456/2645
-#EXTINF:-1,CW DALLAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CW DALLAS
 http://cdn.miip.tv:8080/canada/123456/2646
-#EXTINF:-1,ABC DALLAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ABC DALLAS
 http://cdn.miip.tv:8080/canada/123456/2647
-#EXTINF:-1,MILITARY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MILITARY CHANNEL
 http://cdn.miip.tv:8080/canada/123456/2648
-#EXTINF:-1,UNIVISION ORLANDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION ORLANDO
 http://cdn.miip.tv:8080/canada/123456/2649
-#EXTINF:-1,FOX SPORT FLORIDA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT FLORIDA
 http://cdn.miip.tv:8080/canada/123456/2650
-#EXTINF:-1,TELEMUNDO ORLANDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO ORLANDO
 http://cdn.miip.tv:8080/canada/123456/2651
-#EXTINF:-1,SUN SPORT CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SUN SPORT CHANNEL
 http://cdn.miip.tv:8080/canada/123456/2652
-#EXTINF:-1,HBO EAST 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO EAST 
 http://cdn.miip.tv:8080/canada/123456/2659
-#EXTINF:-1,HBO SIGNATURE ESPANOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO SIGNATURE ESPANOL
 http://cdn.miip.tv:8080/canada/123456/2660
-#EXTINF:-1,HBO SIGNATURE INGLES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO SIGNATURE INGLES
 http://cdn.miip.tv:8080/canada/123456/3508
-#EXTINF:-1,HBO COMEDY INGLES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO COMEDY INGLES
 http://cdn.miip.tv:8080/canada/123456/3509
-#EXTINF:-1,SHOWTIME INGLES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME INGLES
 http://cdn.miip.tv:8080/canada/123456/3510
-#EXTINF:-1,SHOWTIME 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME 2
 http://cdn.miip.tv:8080/canada/123456/3511
-#EXTINF:-1,SHOWTIME BEYOND
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME BEYOND
 http://cdn.miip.tv:8080/canada/123456/3512
-#EXTINF:-1,SHOWTIMECASE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIMECASE
 http://cdn.miip.tv:8080/canada/123456/3513
-#EXTINF:-1,SHOWTIME EXTREME
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME EXTREME
 http://cdn.miip.tv:8080/canada/123456/3514
-#EXTINF:-1,THE MOVIE CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",THE MOVIE CHANNEL
 http://cdn.miip.tv:8080/canada/123456/3515
-#EXTINF:-1,SHOWTIME ESPANOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME ESPANOL
 http://cdn.miip.tv:8080/canada/123456/3516
-#EXTINF:-1,HBO COMEDY ESPANOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO COMEDY ESPANOL
 http://cdn.miip.tv:8080/canada/123456/3518
-#EXTINF:-1,HBO LATINO USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO LATINO USA
 http://cdn.miip.tv:8080/canada/123456/3519
-#EXTINF:-1,HBO FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO FAMILY
 http://cdn.miip.tv:8080/canada/123456/3520
-#EXTINF:-1,HBO 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO 2
 http://cdn.miip.tv:8080/canada/123456/3521
-#EXTINF:-1,STARZ EAST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ EAST
 http://cdn.miip.tv:8080/canada/123456/3522
-#EXTINF:-1,STARZ KIDS FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ KIDS FAMILY
 http://cdn.miip.tv:8080/canada/123456/3523
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ CINEMA
 http://cdn.miip.tv:8080/canada/123456/3524
-#EXTINF:-1,ENCORE EAST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE EAST
 http://cdn.miip.tv:8080/canada/123456/3525
-#EXTINF:-1,ENCORE FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE FAMILY
 http://cdn.miip.tv:8080/canada/123456/3526
-#EXTINF:-1,CINEMAX EAST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMAX EAST
 http://cdn.miip.tv:8080/canada/123456/3527
-#EXTINF:-1,MLB
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB
 http://cdn.miip.tv:8080/canada/123456/3528
-#EXTINF:-1,DISCOVERY THEATHER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY THEATHER
 http://cdn.miip.tv:8080/canada/123456/3529
-#EXTINF:-1,DISCOVERY WORLD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY WORLD
 http://cdn.miip.tv:8080/canada/123456/3530
-#EXTINF:-1,DISCOVERY SCIENCIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY SCIENCIA
 http://cdn.miip.tv:8080/canada/123456/3531
-#EXTINF:-1,HBO WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO WEST
 http://cdn.miip.tv:8080/canada/123456/3533
-#EXTINF:-1,HBO SIGNATURE LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO SIGNATURE LATINO
 http://cdn.miip.tv:8080/canada/123456/3534
-#EXTINF:-1,HBO 2 LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO 2 LATINO
 http://cdn.miip.tv:8080/canada/123456/3535
-#EXTINF:-1,HBO PLUS ESTE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HBO PLUS ESTE
 http://cdn.miip.tv:8080/canada/123456/3536
-#EXTINF:-1,NBA PASS 1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 1
 http://cdn.miip.tv:8080/canada/123456/3537
-#EXTINF:-1,NBA PASS 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 2
 http://cdn.miip.tv:8080/canada/123456/3538
-#EXTINF:-1,NBA PASS 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 3
 http://cdn.miip.tv:8080/canada/123456/3539
-#EXTINF:-1,NBA PASS 4
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 4
 http://cdn.miip.tv:8080/canada/123456/3540
-#EXTINF:-1,NBA PASS 5
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 5
 http://cdn.miip.tv:8080/canada/123456/3541
-#EXTINF:-1,NBA PASS 6
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 6
 http://cdn.miip.tv:8080/canada/123456/3542
-#EXTINF:-1,NBA PASS 7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 7
 http://cdn.miip.tv:8080/canada/123456/3543
-#EXTINF:-1,NBA PASS 8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 8
 http://cdn.miip.tv:8080/canada/123456/3544
-#EXTINF:-1,NBA PASS 9
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 9
 http://cdn.miip.tv:8080/canada/123456/3545
-#EXTINF:-1,NBA PASS 10
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 10
 http://cdn.miip.tv:8080/canada/123456/3546
-#EXTINF:-1,NBA PASS 11
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 11
 http://cdn.miip.tv:8080/canada/123456/3547
-#EXTINF:-1,NBA PASS 12
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA PASS 12
 http://cdn.miip.tv:8080/canada/123456/3548
-#EXTINF:-1,IMPACT WRESTLING
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",IMPACT WRESTLING
 http://cdn.miip.tv:8080/canada/123456/3549
-#EXTINF:-1,BOOMERANG USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BOOMERANG USA
 http://cdn.miip.tv:8080/canada/123456/3550
-#EXTINF:-1,AMC USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AMC USA
 http://cdn.miip.tv:8080/canada/123456/3551
-#EXTINF:-1,Unicable | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Unicable | MX
 http://cdn.miip.tv:8080/canada/123456/103
-#EXTINF:-1,STARZ BLACK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ BLACK
 http://cdn.miip.tv:8080/canada/123456/104
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY CHANNEL
 http://cdn.miip.tv:8080/canada/123456/105
-#EXTINF:-1,AT&T SPORNET COLORADO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AT&T SPORNET COLORADO
 http://cdn.miip.tv:8080/canada/123456/106
-#EXTINF:-1,Mas Chicas | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Mas Chicas | MX
 http://cdn.miip.tv:8080/canada/123456/107
-#EXTINF:-1,Hola TV | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hola TV | MX
 http://cdn.miip.tv:8080/canada/123456/108
-#EXTINF:-1,Nick 2 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nick 2 | MX
 http://cdn.miip.tv:8080/canada/123456/109
-#EXTINF:-1,Food Network | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Food Network | MX
 http://cdn.miip.tv:8080/canada/123456/110
-#EXTINF:-1,Distrito Comedia | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Distrito Comedia | MX
 http://cdn.miip.tv:8080/canada/123456/111
-#EXTINF:-1,Glitz | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Glitz | MX
 http://cdn.miip.tv:8080/canada/123456/112
-#EXTINF:-1,Garage Tv | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Garage Tv | MX
 http://cdn.miip.tv:8080/canada/123456/113
-#EXTINF:-1,Film&art | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Film&art | MX
 http://cdn.miip.tv:8080/canada/123456/115
-#EXTINF:-1,Golden | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Golden | MX
 http://cdn.miip.tv:8080/canada/123456/116
-#EXTINF:-1,Golden Edge | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Golden Edge | MX
 http://cdn.miip.tv:8080/canada/123456/117
-#EXTINF:-1,Golden Plus | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Golden Plus | MX
 http://cdn.miip.tv:8080/canada/123456/118
-#EXTINF:-1,Sundance
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Sundance
 http://cdn.miip.tv:8080/canada/123456/120
-#EXTINF:-1,Animal Planet | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Animal Planet | MX
 http://cdn.miip.tv:8080/canada/123456/121
-#EXTINF:-1,ID | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ID | MX
 http://cdn.miip.tv:8080/canada/123456/122
-#EXTINF:-1,History | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",History | MX
 http://cdn.miip.tv:8080/canada/123456/123
-#EXTINF:-1,H2 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",H2 | MX
 http://cdn.miip.tv:8080/canada/123456/124
-#EXTINF:-1,Tlc | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tlc | MX
 http://cdn.miip.tv:8080/canada/123456/125
-#EXTINF:-1,FOX SPORT SOUTHWEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT SOUTHWEST
 http://cdn.miip.tv:8080/canada/123456/126
-#EXTINF:-1,Nat Geo Wild | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nat Geo Wild | MX
 http://cdn.miip.tv:8080/canada/123456/127
-#EXTINF:-1,WAPA AMERICA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WAPA AMERICA
 http://cdn.miip.tv:8080/canada/123456/128
-#EXTINF:-1,Nat Geo | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Nat Geo | MX
 http://cdn.miip.tv:8080/canada/123456/129
-#EXTINF:-1,Aym Sport
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Aym Sport
 http://cdn.miip.tv:8080/canada/123456/130
-#EXTINF:-1,TUDN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN
 http://cdn.miip.tv:8080/canada/123456/131
-#EXTINF:-1,Fox Action
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Action
 http://cdn.miip.tv:8080/canada/123456/132
-#EXTINF:-1,Hbo | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo | MX
 http://cdn.miip.tv:8080/canada/123456/133
-#EXTINF:-1,Hbo 2 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo 2 | MX
 http://cdn.miip.tv:8080/canada/123456/134
-#EXTINF:-1,Hbo Family | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo Family | MX
 http://cdn.miip.tv:8080/canada/123456/135
-#EXTINF:-1,Hbo Plus | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo Plus | MX
 http://cdn.miip.tv:8080/canada/123456/136
-#EXTINF:-1,Fox Movies
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Movies
 http://cdn.miip.tv:8080/canada/123456/137
-#EXTINF:-1,Fox series
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox series
 http://cdn.miip.tv:8080/canada/123456/138
-#EXTINF:-1,Fox Life
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Life
 http://cdn.miip.tv:8080/canada/123456/139
-#EXTINF:-1,Fox Cinema
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Cinema
 http://cdn.miip.tv:8080/canada/123456/140
-#EXTINF:-1,Fox
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox
 http://cdn.miip.tv:8080/canada/123456/141
-#EXTINF:-1,Fox Family
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Family
 http://cdn.miip.tv:8080/canada/123456/142
-#EXTINF:-1,Fox Clasic
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Clasic
 http://cdn.miip.tv:8080/canada/123456/143
-#EXTINF:-1,Adrenalina
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Adrenalina
 http://cdn.miip.tv:8080/canada/123456/144
-#EXTINF:-1,Fox Sport 1 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Sport 1 | MX
 http://cdn.miip.tv:8080/canada/123456/145
-#EXTINF:-1,Fox Sport 2 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Sport 2 | MX
 http://cdn.miip.tv:8080/canada/123456/146
-#EXTINF:-1,Fox Sport 3 | MX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Fox Sport 3 | MX
 http://cdn.miip.tv:8080/canada/123456/147
-#EXTINF:-1,Axn
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Axn
 http://cdn.miip.tv:8080/canada/123456/148
-#EXTINF:-1,Pasiones
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Pasiones
 http://cdn.miip.tv:8080/canada/123456/149
-#EXTINF:-1,Hustler HD
-http://cdn.miip.tv:8080/canada/123456/150
-#EXTINF:-1,Red Light
-http://cdn.miip.tv:8080/canada/123456/151
-#EXTINF:-1,Private Tv
-http://cdn.miip.tv:8080/canada/123456/152
-#EXTINF:-1,Dorcel
-http://cdn.miip.tv:8080/canada/123456/153
-#EXTINF:-1,Dorcel xxx
-http://cdn.miip.tv:8080/canada/123456/154
-#EXTINF:-1,Vivired
-http://cdn.miip.tv:8080/canada/123456/155
-#EXTINF:-1,Stars xxx
-http://cdn.miip.tv:8080/canada/123456/156
-#EXTINF:-1,+23 | PAN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",+23 | PAN
 http://cdn.miip.tv:8080/canada/123456/159
-#EXTINF:-1,NEXTV | PAN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NEXTV | PAN
 http://cdn.miip.tv:8080/canada/123456/160
-#EXTINF:-1,RPCTV | PAN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RPCTV | PAN
 http://cdn.miip.tv:8080/canada/123456/162
-#EXTINF:-1,CANAL 4 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 4 | NIC
 http://cdn.miip.tv:8080/canada/123456/163
-#EXTINF:-1,CANAL 2 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 2 | NIC
 http://cdn.miip.tv:8080/canada/123456/164
-#EXTINF:-1,DISCOVERY TURBO LATINOS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY TURBO LATINOS
 http://cdn.miip.tv:8080/canada/123456/165
-#EXTINF:-1,DISCOVERY HOME & HEALTH
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY HOME & HEALTH
 http://cdn.miip.tv:8080/canada/123456/166
-#EXTINF:-1,DISCOVERY KIDS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY KIDS
 http://cdn.miip.tv:8080/canada/123456/167
-#EXTINF:-1,DISNEY CHANNEL LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY CHANNEL LATINO
 http://cdn.miip.tv:8080/canada/123456/168
-#EXTINF:-1,DISNEY XD 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY XD 
 http://cdn.miip.tv:8080/canada/123456/169
-#EXTINF:-1,STUDIO UNIVERSAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STUDIO UNIVERSAL
 http://cdn.miip.tv:8080/canada/123456/170
-#EXTINF:-1,ID INVESTIGACION
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ID INVESTIGACION
 http://cdn.miip.tv:8080/canada/123456/171
-#EXTINF:-1,TELEMUNDO. 2 | PR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO. 2 | PR
 http://cdn.miip.tv:8080/canada/123456/174
-#EXTINF:-1,CANAL 10 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 10 | NIC
 http://cdn.miip.tv:8080/canada/123456/175
-#EXTINF:-1,CANAL 8 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 8 | NIC
 http://cdn.miip.tv:8080/canada/123456/176
-#EXTINF:-1,CANAL  14 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL  14 | NIC
 http://cdn.miip.tv:8080/canada/123456/177
-#EXTINF:-1,CANAL 6 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 6 | NIC
 http://cdn.miip.tv:8080/canada/123456/178
-#EXTINF:-1,CANAL 13 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 13 | NIC
 http://cdn.miip.tv:8080/canada/123456/179
-#EXTINF:-1,CANAL 12 | NIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 12 | NIC
 http://cdn.miip.tv:8080/canada/123456/180
-#EXTINF:-1,CANAL 21 | ESA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 21 | ESA
 http://cdn.miip.tv:8080/canada/123456/181
-#EXTINF:-1,CANAL 2 | ESA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 2 | ESA
 http://cdn.miip.tv:8080/canada/123456/182
-#EXTINF:-1,CANAL 12 | ESA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 12 | ESA
 http://cdn.miip.tv:8080/canada/123456/184
-#EXTINF:-1,CANAL 6 | ESA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 6 | ESA
 http://cdn.miip.tv:8080/canada/123456/185
-#EXTINF:-1,CANAL 13 SINART | CR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 13 SINART | CR
 http://cdn.miip.tv:8080/canada/123456/187
-#EXTINF:-1,CANAL 29 VM LATINO | CR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 29 VM LATINO | CR
 http://cdn.miip.tv:8080/canada/123456/188
-#EXTINF:-1,erox
-http://cdn.miip.tv:8080/canada/123456/189
-#EXTINF:-1,erox XXX
-http://cdn.miip.tv:8080/canada/123456/192
-#EXTINF:-1,ANTENA 7 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ANTENA 7 RD
 http://cdn.miip.tv:8080/canada/123456/193
-#EXTINF:-1,Penthouse Gold
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Penthouse Gold
 http://cdn.miip.tv:8080/canada/123456/194
-#EXTINF:-1,CDN 2 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CDN 2 RD
 http://cdn.miip.tv:8080/canada/123456/195
-#EXTINF:-1,CANAL 11 | HON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 11 | HON
 http://cdn.miip.tv:8080/canada/123456/196
-#EXTINF:-1,Penthouse Quickies
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Penthouse Quickies
 http://cdn.miip.tv:8080/canada/123456/197
-#EXTINF:-1,DIGITAL 15 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIGITAL 15 RD
 http://cdn.miip.tv:8080/canada/123456/198
-#EXTINF:-1,Penthouse Pasion
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Penthouse Pasion
 http://cdn.miip.tv:8080/canada/123456/199
-#EXTINF:-1,HCH | HON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HCH | HON
 http://cdn.miip.tv:8080/canada/123456/200
-#EXTINF:-1,Super One
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Super One
 http://cdn.miip.tv:8080/canada/123456/201
-#EXTINF:-1,RCN NOVELA | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RCN NOVELA | COL
 http://cdn.miip.tv:8080/canada/123456/202
-#EXTINF:-1,TELEANTILLAS RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEANTILLAS RD
 http://cdn.miip.tv:8080/canada/123456/203
-#EXTINF:-1,TELECENTRO RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECENTRO RD
 http://cdn.miip.tv:8080/canada/123456/204
-#EXTINF:-1,TELESISTEMA C11 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELESISTEMA C11 RD
 http://cdn.miip.tv:8080/canada/123456/205
-#EXTINF:-1,TELEUNION RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEUNION RD
 http://cdn.miip.tv:8080/canada/123456/206
-#EXTINF:-1,TELEUNIVERSO RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEUNIVERSO RD
 http://cdn.miip.tv:8080/canada/123456/207
-#EXTINF:-1,TELEMICRO RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMICRO RD
 http://cdn.miip.tv:8080/canada/123456/208
-#EXTINF:-1,TELECADENA | HON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECADENA | HON
 http://cdn.miip.tv:8080/canada/123456/209
-#EXTINF:-1,CDN 37 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CDN 37 RD
 http://cdn.miip.tv:8080/canada/123456/211
-#EXTINF:-1,CANAL 5 | HON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 5 | HON
 http://cdn.miip.tv:8080/canada/123456/212
-#EXTINF:-1,Eviangel
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Eviangel
 http://cdn.miip.tv:8080/canada/123456/213
-#EXTINF:-1,CANAL 42 XTRA | CR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 42 XTRA | CR
 http://cdn.miip.tv:8080/canada/123456/214
-#EXTINF:-1,WWE NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WWE NETWORK
 http://cdn.miip.tv:8080/canada/123456/215
-#EXTINF:-1,Dream Porn
-http://cdn.miip.tv:8080/canada/123456/216
-#EXTINF:-1,Babes Tv
-http://cdn.miip.tv:8080/canada/123456/217
-#EXTINF:-1,TBS LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TBS LATINO
 http://cdn.miip.tv:8080/canada/123456/218
-#EXTINF:-1,Sexaction
-http://cdn.miip.tv:8080/canada/123456/219
-#EXTINF:-1,NICK JR LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICK JR LATINO
 http://cdn.miip.tv:8080/canada/123456/220
-#EXTINF:-1,Xyplus
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Xyplus
 http://cdn.miip.tv:8080/canada/123456/221
-#EXTINF:-1,LA 1  ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA 1  ES
 http://cdn.miip.tv:8080/canada/123456/222
-#EXTINF:-1,Xymas
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Xymas
 http://cdn.miip.tv:8080/canada/123456/223
-#EXTINF:-1,LA 2 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA 2 ES
 http://cdn.miip.tv:8080/canada/123456/224
-#EXTINF:-1,ANTENNA 3 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ANTENNA 3 ES
 http://cdn.miip.tv:8080/canada/123456/225
-#EXTINF:-1,Xy Mix
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Xy Mix
 http://cdn.miip.tv:8080/canada/123456/226
-#EXTINF:-1,Xtasy
-http://cdn.miip.tv:8080/canada/123456/227
-#EXTINF:-1,CUATRO ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CUATRO ES
 http://cdn.miip.tv:8080/canada/123456/228
-#EXTINF:-1,Vivid Tv Europe
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Vivid Tv Europe
 http://cdn.miip.tv:8080/canada/123456/229
-#EXTINF:-1,TELECINCO ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECINCO ES
 http://cdn.miip.tv:8080/canada/123456/230
-#EXTINF:-1,Dusk
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Dusk
 http://cdn.miip.tv:8080/canada/123456/231
-#EXTINF:-1,FDF ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FDF ES
 http://cdn.miip.tv:8080/canada/123456/232
-#EXTINF:-1,Hustler Tv
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hustler Tv
 http://cdn.miip.tv:8080/canada/123456/233
-#EXTINF:-1,MEGA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MEGA ES
 http://cdn.miip.tv:8080/canada/123456/234
-#EXTINF:-1,ATR3S SERIES ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ATR3S SERIES ES
 http://cdn.miip.tv:8080/canada/123456/235
-#EXTINF:-1,BEMAD TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BEMAD TV ES
 http://cdn.miip.tv:8080/canada/123456/236
-#EXTINF:-1,XXL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XXL
 http://cdn.miip.tv:8080/canada/123456/237
-#EXTINF:-1,# 0 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",# 0 ES
 http://cdn.miip.tv:8080/canada/123456/238
-#EXTINF:-1,Passiexx
-http://cdn.miip.tv:8080/canada/123456/239
-#EXTINF:-1,MOVIES ESTRENOS ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVIES ESTRENOS ES
 http://cdn.miip.tv:8080/canada/123456/240
-#EXTINF:-1,MOVISTAR COMEDIA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR COMEDIA ES
 http://cdn.miip.tv:8080/canada/123456/241
-#EXTINF:-1,TNT ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TNT ES
 http://cdn.miip.tv:8080/canada/123456/242
-#EXTINF:-1,MOVISTAR DISNEY ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR DISNEY ES
 http://cdn.miip.tv:8080/canada/123456/243
-#EXTINF:-1,Passion XXX
-http://cdn.miip.tv:8080/canada/123456/244
-#EXTINF:-1,MOVISTAR SERIESMANIA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR SERIESMANIA ES
 http://cdn.miip.tv:8080/canada/123456/245
-#EXTINF:-1,MOVISTAR SERIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR SERIES
 http://cdn.miip.tv:8080/canada/123456/246
-#EXTINF:-1,Real King
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Real King
 http://cdn.miip.tv:8080/canada/123456/247
-#EXTINF:-1,MOVISTAR CINEROCK ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR CINEROCK ES
 http://cdn.miip.tv:8080/canada/123456/248
-#EXTINF:-1,MOVISTAR CINE ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR CINE ES
 http://cdn.miip.tv:8080/canada/123456/249
-#EXTINF:-1,HOLLYWOOD ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HOLLYWOOD ES
 http://cdn.miip.tv:8080/canada/123456/250
-#EXTINF:-1,PARAMOUNT CHANNEL ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PARAMOUNT CHANNEL ES
 http://cdn.miip.tv:8080/canada/123456/251
-#EXTINF:-1,TCM ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TCM ES
 http://cdn.miip.tv:8080/canada/123456/252
-#EXTINF:-1,Pinko TV
-http://cdn.miip.tv:8080/canada/123456/253
-#EXTINF:-1,Prive Tv
-http://cdn.miip.tv:8080/canada/123456/254
-#EXTINF:-1,Sext&senso
-http://cdn.miip.tv:8080/canada/123456/255
-#EXTINF:-1,Sctclasic
-http://cdn.miip.tv:8080/canada/123456/256
-#EXTINF:-1,Brazzers Tv
-http://cdn.miip.tv:8080/canada/123456/257
-#EXTINF:-1,Brazzers Tv Europe
-http://cdn.miip.tv:8080/canada/123456/258
-#EXTINF:-1,Brazzers Tv Russian
-http://cdn.miip.tv:8080/canada/123456/259
-#EXTINF:-1,Hot Tv
-http://cdn.miip.tv:8080/canada/123456/260
-#EXTINF:-1,Venus
-http://cdn.miip.tv:8080/canada/123456/261
-#EXTINF:-1,SYFY ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SYFY ES
 http://cdn.miip.tv:8080/canada/123456/262
-#EXTINF:-1,AMC ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AMC ES
 http://cdn.miip.tv:8080/canada/123456/263
-#EXTINF:-1,COSMO ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COSMO ES
 http://cdn.miip.tv:8080/canada/123456/264
-#EXTINF:-1,CALLE 13 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CALLE 13 ES
 http://cdn.miip.tv:8080/canada/123456/265
-#EXTINF:-1,COMEDY CENTRAL ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COMEDY CENTRAL ES
 http://cdn.miip.tv:8080/canada/123456/266
-#EXTINF:-1,XTRM ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XTRM ES
 http://cdn.miip.tv:8080/canada/123456/267
-#EXTINF:-1,SOMO ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SOMO ES
 http://cdn.miip.tv:8080/canada/123456/268
-#EXTINF:-1,FOX LIFE ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX LIFE ES
 http://cdn.miip.tv:8080/canada/123456/269
-#EXTINF:-1,PPV: FORD VS FERRARI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV: FORD VS FERRARI
 http://cdn.miip.tv:8080/canada/123456/270
-#EXTINF:-1,PPV:INVISIBLE MAN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:INVISIBLE MAN
 http://cdn.miip.tv:8080/canada/123456/271
-#EXTINF:-1,Sextreme
-http://cdn.miip.tv:8080/canada/123456/272
-#EXTINF:-1,Sexy Hot
-http://cdn.miip.tv:8080/canada/123456/273
-#EXTINF:-1,MeidenVanHollandHard
-http://cdn.miip.tv:8080/canada/123456/274
-#EXTINF:-1,X1
-http://cdn.miip.tv:8080/canada/123456/275
-#EXTINF:-1,Xbizare
-http://cdn.miip.tv:8080/canada/123456/276
-#EXTINF:-1,Xdesire
-http://cdn.miip.tv:8080/canada/123456/277
-#EXTINF:-1,X bunga bunga
-http://cdn.miip.tv:8080/canada/123456/278
-#EXTINF:-1,Pink Erotic
-http://cdn.miip.tv:8080/canada/123456/279
-#EXTINF:-1,Pink Erotic 2
-http://cdn.miip.tv:8080/canada/123456/280
-#EXTINF:-1,Pink Erotic 3
-http://cdn.miip.tv:8080/canada/123456/281
-#EXTINF:-1,Pink Erotic 4
-http://cdn.miip.tv:8080/canada/123456/282
-#EXTINF:-1,Pink Erotic 5
-http://cdn.miip.tv:8080/canada/123456/283
-#EXTINF:-1,Pink Erotic 6
-http://cdn.miip.tv:8080/canada/123456/284
-#EXTINF:-1,Pink Erotic 7
-http://cdn.miip.tv:8080/canada/123456/285
-#EXTINF:-1,Pink Erotic 8
-http://cdn.miip.tv:8080/canada/123456/286
-#EXTINF:-1,Man-XGayMen
-http://cdn.miip.tv:8080/canada/123456/288
-#EXTINF:-1,X-MOGayMen
-http://cdn.miip.tv:8080/canada/123456/289
-#EXTINF:-1,FastBoyzGayMen
-http://cdn.miip.tv:8080/canada/123456/290
-#EXTINF:-1,CandymanGayMen
-http://cdn.miip.tv:8080/canada/123456/291
-#EXTINF:-1,Vividtouch
-http://cdn.miip.tv:8080/canada/123456/292
-#EXTINF:-1,Balkan Erotic
-http://cdn.miip.tv:8080/canada/123456/293
-#EXTINF:-1,Taboo
-http://cdn.miip.tv:8080/canada/123456/294
-#EXTINF:-1,Oldtimer
-http://cdn.miip.tv:8080/canada/123456/295
-#EXTINF:-1,FOX ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX ES
 http://cdn.miip.tv:8080/canada/123456/296
-#EXTINF:-1,AXN WHITE ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AXN WHITE ES
 http://cdn.miip.tv:8080/canada/123456/297
-#EXTINF:-1,AXN ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AXN ES
 http://cdn.miip.tv:8080/canada/123456/298
-#EXTINF:-1,DARK ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DARK ES
 http://cdn.miip.tv:8080/canada/123456/299
-#EXTINF:-1,NICKELODON ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICKELODON ES
 http://cdn.miip.tv:8080/canada/123456/301
-#EXTINF:-1,NICK JR ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICK JR ES
 http://cdn.miip.tv:8080/canada/123456/302
-#EXTINF:-1,NEOX ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NEOX ES
 http://cdn.miip.tv:8080/canada/123456/303
-#EXTINF:-1,MTV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MTV ES
 http://cdn.miip.tv:8080/canada/123456/304
-#EXTINF:-1,DISNEY XD ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY XD ES
 http://cdn.miip.tv:8080/canada/123456/305
-#EXTINF:-1,DISNEY JR ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY JR ES
 http://cdn.miip.tv:8080/canada/123456/306
-#EXTINF:-1,DISNEY CHANNEL ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY CHANNEL ES
 http://cdn.miip.tv:8080/canada/123456/307
-#EXTINF:-1,CLAN TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CLAN TV ES
 http://cdn.miip.tv:8080/canada/123456/308
-#EXTINF:-1,CANAL PANDA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL PANDA ES
 http://cdn.miip.tv:8080/canada/123456/309
-#EXTINF:-1,BABY TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BABY TV ES
 http://cdn.miip.tv:8080/canada/123456/310
-#EXTINF:-1,DISCOVERY CHANNEL ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY CHANNEL ES
 http://cdn.miip.tv:8080/canada/123456/311
-#EXTINF:-1,HISTORIA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HISTORIA ES
 http://cdn.miip.tv:8080/canada/123456/312
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATIONAL GEOGRAPHIC WILD ES
 http://cdn.miip.tv:8080/canada/123456/313
-#EXTINF:-1,NATGEO ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATGEO ES
 http://cdn.miip.tv:8080/canada/123456/314
-#EXTINF:-1,VIAJAR ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VIAJAR ES
 http://cdn.miip.tv:8080/canada/123456/315
-#EXTINF:-1,ODISEA  ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ODISEA  ES
 http://cdn.miip.tv:8080/canada/123456/316
-#EXTINF:-1,UNIVISION 23 MIAMI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION 23 MIAMI
 http://cdn.miip.tv:8080/canada/123456/317
-#EXTINF:-1,FIGHT TIME 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FIGHT TIME 
 http://cdn.miip.tv:8080/canada/123456/318
-#EXTINF:-1,CANAL DE CASA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL DE CASA ES
 http://cdn.miip.tv:8080/canada/123456/319
-#EXTINF:-1,CANAL COCINA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL COCINA ES
 http://cdn.miip.tv:8080/canada/123456/320
-#EXTINF:-1,SUNDANCE TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SUNDANCE TV ES
 http://cdn.miip.tv:8080/canada/123456/321
-#EXTINF:-1,TORO TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TORO TV ES
 http://cdn.miip.tv:8080/canada/123456/322
-#EXTINF:-1,IBERIA TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",IBERIA TV ES
 http://cdn.miip.tv:8080/canada/123456/323
-#EXTINF:-1,CAZA Y PEZCA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CAZA Y PEZCA ES
 http://cdn.miip.tv:8080/canada/123456/324
-#EXTINF:-1,MOVISTAR GOLF ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR GOLF ES
 http://cdn.miip.tv:8080/canada/123456/325
-#EXTINF:-1,PPV:CUESTION DE JUSTICIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:CUESTION DE JUSTICIA
 http://cdn.miip.tv:8080/canada/123456/326
-#EXTINF:-1,PPV:UNDERWATER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:UNDERWATER
 http://cdn.miip.tv:8080/canada/123456/327
-#EXTINF:-1,PPV:QUE LEONES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:QUE LEONES
 http://cdn.miip.tv:8080/canada/123456/329
-#EXTINF:-1,PPV:TROLLS 2 GIRA MUNDIAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:TROLLS 2 GIRA MUNDIAL
 http://cdn.miip.tv:8080/canada/123456/330
-#EXTINF:-1,PPV:ONWARD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:ONWARD
 http://cdn.miip.tv:8080/canada/123456/331
-#EXTINF:-1,PPV:THE ADDAMS FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:THE ADDAMS FAMILY
 http://cdn.miip.tv:8080/canada/123456/332
-#EXTINF:-1,MOVISTAR F1 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR F1 ES
 http://cdn.miip.tv:8080/canada/123456/333
-#EXTINF:-1,MOVISTAR DEPORTES  1 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR DEPORTES  1 ES
 http://cdn.miip.tv:8080/canada/123456/334
-#EXTINF:-1,PPV:SPENCER CONFIDENTIAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PPV:SPENCER CONFIDENTIAL
 http://cdn.miip.tv:8080/canada/123456/336
-#EXTINF:-1,MOVISTAR DEPORTES ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR DEPORTES ES
 http://cdn.miip.tv:8080/canada/123456/337
-#EXTINF:-1,GOL TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GOL TV ES
 http://cdn.miip.tv:8080/canada/123456/338
-#EXTINF:-1,VAMOS ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VAMOS ES
 http://cdn.miip.tv:8080/canada/123456/339
-#EXTINF:-1,EURO SPORT ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",EURO SPORT ES
 http://cdn.miip.tv:8080/canada/123456/340
-#EXTINF:-1,REAL MADRID ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",REAL MADRID ES
 http://cdn.miip.tv:8080/canada/123456/341
-#EXTINF:-1,UNIMAS MIAMI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIMAS MIAMI
 http://cdn.miip.tv:8080/canada/123456/342
-#EXTINF:-1,UFC FIGHT PASS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UFC FIGHT PASS
 http://cdn.miip.tv:8080/canada/123456/343
-#EXTINF:-1,EURO SPORT 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",EURO SPORT 2
 http://cdn.miip.tv:8080/canada/123456/344
-#EXTINF:-1,LA LIGA TV ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA LIGA TV ES
 http://cdn.miip.tv:8080/canada/123456/345
-#EXTINF:-1,MOVISTAR LIGA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR LIGA ES
 http://cdn.miip.tv:8080/canada/123456/346
-#EXTINF:-1,Movistar Liga de Campiones 1 | ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Movistar Liga de Campiones 1 | ES
 http://cdn.miip.tv:8080/canada/123456/347
-#EXTINF:-1,TELEDEPORTES ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEDEPORTES ES
 http://cdn.miip.tv:8080/canada/123456/348
-#EXTINF:-1,MOVISTAR LIGA 1 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR LIGA 1 ES
 http://cdn.miip.tv:8080/canada/123456/349
-#EXTINF:-1,MOVISTAT LIGA 2 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAT LIGA 2 ES
 http://cdn.miip.tv:8080/canada/123456/350
-#EXTINF:-1,MOVISTAR LIGA 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR LIGA 3
 http://cdn.miip.tv:8080/canada/123456/351
-#EXTINF:-1,M LIGA ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",M LIGA ES
 http://cdn.miip.tv:8080/canada/123456/352
-#EXTINF:-1,M LIGA 2 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",M LIGA 2 ES
 http://cdn.miip.tv:8080/canada/123456/353
-#EXTINF:-1,M LIGA 3 ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",M LIGA 3 ES
 http://cdn.miip.tv:8080/canada/123456/354
-#EXTINF:-1,LA LIGA 123
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA LIGA 123
 http://cdn.miip.tv:8080/canada/123456/355
-#EXTINF:-1,MOVISTAR FUTBOL ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVISTAR FUTBOL ES
 http://cdn.miip.tv:8080/canada/123456/356
-#EXTINF:-1,PARAMOUNT CHANNEL USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PARAMOUNT CHANNEL USA
 http://cdn.miip.tv:8080/canada/123456/357
-#EXTINF:-1,VH1 USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 USA
 http://cdn.miip.tv:8080/canada/123456/358
-#EXTINF:-1,SPORTSMAN CHANNEL  USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPORTSMAN CHANNEL  USA
 http://cdn.miip.tv:8080/canada/123456/359
-#EXTINF:-1,TV LAND USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TV LAND USA
 http://cdn.miip.tv:8080/canada/123456/360
-#EXTINF:-1,beIN Sports USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",beIN Sports USA
 http://cdn.miip.tv:8080/canada/123456/361
-#EXTINF:-1,beIN Sports ñ Alterno
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",beIN Sports ñ Alterno
 http://cdn.miip.tv:8080/canada/123456/362
-#EXTINF:-1,BET USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BET USA
 http://cdn.miip.tv:8080/canada/123456/363
-#EXTINF:-1,FYI USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FYI USA
 http://cdn.miip.tv:8080/canada/123456/365
-#EXTINF:-1,COLORVISION RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COLORVISION RD
 http://cdn.miip.tv:8080/canada/123456/366
-#EXTINF:-1,LUCHA LIBRE AAA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LUCHA LIBRE AAA
 http://cdn.miip.tv:8080/canada/123456/367
-#EXTINF:-1,COMBAT WORLD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COMBAT WORLD
 http://cdn.miip.tv:8080/canada/123456/368
-#EXTINF:-1,GLORY KICKBOXING
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GLORY KICKBOXING
 http://cdn.miip.tv:8080/canada/123456/369
-#EXTINF:-1,Bangers
-http://cdn.miip.tv:8080/canada/123456/371
-#EXTINF:-1,Netxx
-http://cdn.miip.tv:8080/canada/123456/372
-#EXTINF:-1,Playhouse
-http://cdn.miip.tv:8080/canada/123456/373
-#EXTINF:-1,Hotpleasure
-http://cdn.miip.tv:8080/canada/123456/374
-#EXTINF:-1,MTV DATING
-http://cdn.miip.tv:8080/canada/123456/377
-#EXTINF:-1,Milf Tv
-http://cdn.miip.tv:8080/canada/123456/378
-#EXTINF:-1,MTV TEEN
-http://cdn.miip.tv:8080/canada/123456/379
-#EXTINF:-1,MTV GUYCODE
-http://cdn.miip.tv:8080/canada/123456/380
-#EXTINF:-1,Red XXX
-http://cdn.miip.tv:8080/canada/123456/381
-#EXTINF:-1,Xtreme
-http://cdn.miip.tv:8080/canada/123456/382
-#EXTINF:-1,ANAL
-http://cdn.miip.tv:8080/canada/123456/383
-#EXTINF:-1,MTV THE HILLS
-http://cdn.miip.tv:8080/canada/123456/384
-#EXTINF:-1,MTV YO!
-http://cdn.miip.tv:8080/canada/123456/385
-#EXTINF:-1,Lesbian Affair
-http://cdn.miip.tv:8080/canada/123456/386
-#EXTINF:-1,MTV BIGGERT POP
-http://cdn.miip.tv:8080/canada/123456/387
-#EXTINF:-1,Emanuelle
-http://cdn.miip.tv:8080/canada/123456/388
-#EXTINF:-1,Exxotica
-http://cdn.miip.tv:8080/canada/123456/389
-#EXTINF:-1,MTV SPANKIN NEW
-http://cdn.miip.tv:8080/canada/123456/390
-#EXTINF:-1,MTV BLOCKPARTY
-http://cdn.miip.tv:8080/canada/123456/391
-#EXTINF:-1,Penthouse Black
-http://cdn.miip.tv:8080/canada/123456/392
-#EXTINF:-1,MTV WILDN OUT
-http://cdn.miip.tv:8080/canada/123456/393
-#EXTINF:-1,Playboy
-http://cdn.miip.tv:8080/canada/123456/394
-#EXTINF:-1,MTV THE CHALLENGE
-http://cdn.miip.tv:8080/canada/123456/395
-#EXTINF:-1,MTV CRIBS
-http://cdn.miip.tv:8080/canada/123456/396
-#EXTINF:-1,Playboy Tv Europe
-http://cdn.miip.tv:8080/canada/123456/397
-#EXTINF:-1,MTV ARE YOU THE ONE
-http://cdn.miip.tv:8080/canada/123456/398
-#EXTINF:-1,Willow
-http://cdn.miip.tv:8080/canada/123456/400
-#EXTINF:-1,BET HER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BET HER
 http://cdn.miip.tv:8080/canada/123456/402
-#EXTINF:-1,VH1 LOVES&HIPHOP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 LOVES&HIPHOP
 http://cdn.miip.tv:8080/canada/123456/404
-#EXTINF:-1,VH1 BLACKINK CREW
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 BLACKINK CREW
 http://cdn.miip.tv:8080/canada/123456/405
-#EXTINF:-1,VH1 LOVE REALITY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 LOVE REALITY
 http://cdn.miip.tv:8080/canada/123456/406
-#EXTINF:-1,VH1 HIPHOP FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 HIPHOP FAMILY
 http://cdn.miip.tv:8080/canada/123456/407
-#EXTINF:-1,VH1 LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 LATINO
 http://cdn.miip.tv:8080/canada/123456/408
-#EXTINF:-1,VH1 CLASSIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VH1 CLASSIC
 http://cdn.miip.tv:8080/canada/123456/409
-#EXTINF:-1,TRUTV LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TRUTV LATINO
 http://cdn.miip.tv:8080/canada/123456/410
-#EXTINF:-1,SPACE LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPACE LATINO
 http://cdn.miip.tv:8080/canada/123456/411
-#EXTINF:-1,SONY CHANNEL LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SONY CHANNEL LATINO
 http://cdn.miip.tv:8080/canada/123456/412
-#EXTINF:-1,PARAMOUNT CHANNEL LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PARAMOUNT CHANNEL LATINO
 http://cdn.miip.tv:8080/canada/123456/413
-#EXTINF:-1,THE FILM ZONE LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",THE FILM ZONE LATINO
 http://cdn.miip.tv:8080/canada/123456/414
-#EXTINF:-1,DORA TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DORA TV
 http://cdn.miip.tv:8080/canada/123456/415
-#EXTINF:-1,THE ADDAMS FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",THE ADDAMS FAMILY
 http://cdn.miip.tv:8080/canada/123456/416
-#EXTINF:-1,CLASSIC MOVIES CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CLASSIC MOVIES CHANNEL
 http://cdn.miip.tv:8080/canada/123456/427
-#EXTINF:-1,SPIKE AVENTURA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPIKE AVENTURA
 http://cdn.miip.tv:8080/canada/123456/429
-#EXTINF:-1,CAZA RECOMPENSAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CAZA RECOMPENSAS
 http://cdn.miip.tv:8080/canada/123456/431
-#EXTINF:-1,SPIKE OUTDOORS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPIKE OUTDOORS
 http://cdn.miip.tv:8080/canada/123456/432
-#EXTINF:-1,FRONT DOOR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FRONT DOOR
 http://cdn.miip.tv:8080/canada/123456/433
-#EXTINF:-1,Diy Ca
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Diy Ca
 http://cdn.miip.tv:8080/canada/123456/435
-#EXTINF:-1,WORLD POKER TOURS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WORLD POKER TOURS
 http://cdn.miip.tv:8080/canada/123456/437
-#EXTINF:-1,Telemundo San Francisco
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Telemundo San Francisco
 http://cdn.miip.tv:8080/canada/123456/438
-#EXTINF:-1,Axn Claro
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Axn Claro
 http://cdn.miip.tv:8080/canada/123456/439
-#EXTINF:-1,Stadium
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Stadium
 http://cdn.miip.tv:8080/canada/123456/444
-#EXTINF:-1,Argentina A 24 | ARG
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Argentina A 24 | ARG
 http://cdn.miip.tv:8080/canada/123456/448
-#EXTINF:-1,DISCOVERY MUNDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY MUNDO
 http://cdn.miip.tv:8080/canada/123456/450
-#EXTINF:-1,America Tv | ARG
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",America Tv | ARG
 http://cdn.miip.tv:8080/canada/123456/451
-#EXTINF:-1,DISCOVERY CHANNEL USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY CHANNEL USA
 http://cdn.miip.tv:8080/canada/123456/452
-#EXTINF:-1,GolTV | USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GolTV | USA
 http://cdn.miip.tv:8080/canada/123456/453
-#EXTINF:-1,C5n | ARG
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",C5n | ARG
 http://cdn.miip.tv:8080/canada/123456/454
-#EXTINF:-1,COURT 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COURT 
 http://cdn.miip.tv:8080/canada/123456/455
-#EXTINF:-1,Canal 26 | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Canal 26 | Arg
 http://cdn.miip.tv:8080/canada/123456/456
-#EXTINF:-1,CANAL 4 REPRETEL | CR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 4 REPRETEL | CR
 http://cdn.miip.tv:8080/canada/123456/457
-#EXTINF:-1,Cn 23 | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Cn 23 | Arg
 http://cdn.miip.tv:8080/canada/123456/458
-#EXTINF:-1,CANAL UNO | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL UNO | ECU
 http://cdn.miip.tv:8080/canada/123456/459
-#EXTINF:-1,Cronica Tv | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Cronica Tv | Arg
 http://cdn.miip.tv:8080/canada/123456/460
-#EXTINF:-1,ECUAVISA | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ECUAVISA | ECU
 http://cdn.miip.tv:8080/canada/123456/461
-#EXTINF:-1,Deport tv | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Deport tv | Arg
 http://cdn.miip.tv:8080/canada/123456/462
-#EXTINF:-1,El Nueve | arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",El Nueve | arg
 http://cdn.miip.tv:8080/canada/123456/463
-#EXTINF:-1,GAMA TV | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GAMA TV | ECU
 http://cdn.miip.tv:8080/canada/123456/464
-#EXTINF:-1,El Trece | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",El Trece | Arg
 http://cdn.miip.tv:8080/canada/123456/465
-#EXTINF:-1,GolTV | Sur America
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GolTV | Sur America
 http://cdn.miip.tv:8080/canada/123456/466
-#EXTINF:-1,Telefe | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Telefe | Arg
 http://cdn.miip.tv:8080/canada/123456/467
-#EXTINF:-1,Todo Noticias | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Todo Noticias | Arg
 http://cdn.miip.tv:8080/canada/123456/468
-#EXTINF:-1,RTS | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RTS | ECU
 http://cdn.miip.tv:8080/canada/123456/469
-#EXTINF:-1,Tv Publica | Arg
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tv Publica | Arg
 http://cdn.miip.tv:8080/canada/123456/470
-#EXTINF:-1,Ultra Cine
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Cine
 http://cdn.miip.tv:8080/canada/123456/471
-#EXTINF:-1,TELE AMAZONAS | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELE AMAZONAS | ECU
 http://cdn.miip.tv:8080/canada/123456/472
-#EXTINF:-1,Ultra Film
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Film
 http://cdn.miip.tv:8080/canada/123456/473
-#EXTINF:-1,TC | ECU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TC | ECU
 http://cdn.miip.tv:8080/canada/123456/474
-#EXTINF:-1,MUSIC TROPICALES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC TROPICALES
 http://cdn.miip.tv:8080/canada/123456/475
-#EXTINF:-1,Ultra Clasico
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Clasico
 http://cdn.miip.tv:8080/canada/123456/476
-#EXTINF:-1,MUSIC URBANA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC URBANA
 http://cdn.miip.tv:8080/canada/123456/477
-#EXTINF:-1,Ultra Entertainment
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Entertainment
 http://cdn.miip.tv:8080/canada/123456/478
-#EXTINF:-1,TELEMUNDO 49 TAMPA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO 49 TAMPA
 http://cdn.miip.tv:8080/canada/123456/479
-#EXTINF:-1,Ultra Familia
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Familia
 http://cdn.miip.tv:8080/canada/123456/480
-#EXTINF:-1,GALAVISION MIAMI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GALAVISION MIAMI
 http://cdn.miip.tv:8080/canada/123456/481
-#EXTINF:-1,Ultra Macho
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Macho
 http://cdn.miip.tv:8080/canada/123456/482
-#EXTINF:-1,GALAVISION NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GALAVISION NY
 http://cdn.miip.tv:8080/canada/123456/483
-#EXTINF:-1,Ultra Luna
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Luna
 http://cdn.miip.tv:8080/canada/123456/484
-#EXTINF:-1,Ultra Mex
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Ultra Mex
 http://cdn.miip.tv:8080/canada/123456/487
-#EXTINF:-1,Hbo Mundo Latino
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo Mundo Latino
 http://cdn.miip.tv:8080/canada/123456/488
-#EXTINF:-1,Hbo Xtreme Latino
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo Xtreme Latino
 http://cdn.miip.tv:8080/canada/123456/489
-#EXTINF:-1,Hbo Pop Latino
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hbo Pop Latino
 http://cdn.miip.tv:8080/canada/123456/490
-#EXTINF:-1,W Fish
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",W Fish
 http://cdn.miip.tv:8080/canada/123456/491
-#EXTINF:-1,Tnt Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Tnt Usa
 http://cdn.miip.tv:8080/canada/123456/493
-#EXTINF:-1,Hgtv Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hgtv Usa
 http://cdn.miip.tv:8080/canada/123456/494
-#EXTINF:-1,CANAL 67 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 67 RD
 http://cdn.miip.tv:8080/canada/123456/495
-#EXTINF:-1,CANAL 4 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 4 RD
 http://cdn.miip.tv:8080/canada/123456/496
-#EXTINF:-1,Diy Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Diy Usa
 http://cdn.miip.tv:8080/canada/123456/497
-#EXTINF:-1,CANAL 25 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL 25 RD
 http://cdn.miip.tv:8080/canada/123456/498
-#EXTINF:-1,Food Network Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Food Network Usa
 http://cdn.miip.tv:8080/canada/123456/499
-#EXTINF:-1,ID INVETIGATION USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ID INVETIGATION USA
 http://cdn.miip.tv:8080/canada/123456/500
-#EXTINF:-1,CARIVISION RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CARIVISION RD
 http://cdn.miip.tv:8080/canada/123456/501
-#EXTINF:-1,Hallmark Movie Mistery
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Hallmark Movie Mistery
 http://cdn.miip.tv:8080/canada/123456/502
-#EXTINF:-1,CINEVISION CANAL 19 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEVISION CANAL 19 RD
 http://cdn.miip.tv:8080/canada/123456/503
-#EXTINF:-1,Mtv Usa
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Mtv Usa
 http://cdn.miip.tv:8080/canada/123456/504
-#EXTINF:-1,MICROVISION CANAL 10 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MICROVISION CANAL 10 RD
 http://cdn.miip.tv:8080/canada/123456/505
-#EXTINF:-1,ORBITV RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ORBITV RD
 http://cdn.miip.tv:8080/canada/123456/506
-#EXTINF:-1,RNN CANAL 27 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RNN CANAL 27 RD
 http://cdn.miip.tv:8080/canada/123456/507
-#EXTINF:-1,ROMANA TV RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ROMANA TV RD
 http://cdn.miip.tv:8080/canada/123456/508
-#EXTINF:-1,TELECANAL RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECANAL RD
 http://cdn.miip.tv:8080/canada/123456/509
-#EXTINF:-1,TELECENTRO CANAL 13 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECENTRO CANAL 13 RD
 http://cdn.miip.tv:8080/canada/123456/510
-#EXTINF:-1,TELEFUTURO CANAL 23 RD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEFUTURO CANAL 23 RD
 http://cdn.miip.tv:8080/canada/123456/511
-#EXTINF:-1,E ! LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",E ! LATINO
 http://cdn.miip.tv:8080/canada/123456/3654
-#EXTINF:-1,FX LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FX LATINO
 http://cdn.miip.tv:8080/canada/123456/3655
-#EXTINF:-1,AMC LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AMC LATINO
 http://cdn.miip.tv:8080/canada/123456/3656
-#EXTINF:-1,TNT LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TNT LATINO
 http://cdn.miip.tv:8080/canada/123456/3657
-#EXTINF:-1,E !
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",E !
 http://cdn.miip.tv:8080/canada/123456/3658
-#EXTINF:-1,JAZMIN TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",JAZMIN TV
 http://cdn.miip.tv:8080/canada/123456/3671
-#EXTINF:-1,USA NETWORK 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",USA NETWORK 
 http://cdn.miip.tv:8080/canada/123456/3672
-#EXTINF:-1,FOOD TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOOD TV
 http://cdn.miip.tv:8080/canada/123456/3673
-#EXTINF:-1,THIS OLD HOUSE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",THIS OLD HOUSE
 http://cdn.miip.tv:8080/canada/123456/3676
-#EXTINF:-1,A&E LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",A&E LATINO
 http://cdn.miip.tv:8080/canada/123456/3678
-#EXTINF:-1,SYFY LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SYFY LATINO
 http://cdn.miip.tv:8080/canada/123456/3679
-#EXTINF:-1,WE 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WE 
 http://cdn.miip.tv:8080/canada/123456/3680
-#EXTINF:-1,TBS ALT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TBS ALT
 http://cdn.miip.tv:8080/canada/123456/3681
-#EXTINF:-1,ESPN U
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN U
 http://cdn.miip.tv:8080/canada/123456/3683
-#EXTINF:-1,ESPN NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN NEWS
 http://cdn.miip.tv:8080/canada/123456/3684
-#EXTINF:-1,MLB ALT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB ALT
 http://cdn.miip.tv:8080/canada/123456/3685
-#EXTINF:-1,NBA TV ALT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBA TV ALT
 http://cdn.miip.tv:8080/canada/123456/3686
-#EXTINF:-1,NHL NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NHL NETWORK
 http://cdn.miip.tv:8080/canada/123456/3687
-#EXTINF:-1,DISNEY JR LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISNEY JR LATINO
 http://cdn.miip.tv:8080/canada/123456/3688
-#EXTINF:-1,NICKELODON LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICKELODON LATINO
 http://cdn.miip.tv:8080/canada/123456/3692
-#EXTINF:-1,NICK MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICK MOVIES
 http://cdn.miip.tv:8080/canada/123456/3693
-#EXTINF:-1,NICK GAMES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICK GAMES
 http://cdn.miip.tv:8080/canada/123456/3694
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CARTOON NETWORK
 http://cdn.miip.tv:8080/canada/123456/3695
-#EXTINF:-1,CARTOON NETWORK LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CARTOON NETWORK LATINO
 http://cdn.miip.tv:8080/canada/123456/3696
-#EXTINF:-1,CLASSIC TOONS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CLASSIC TOONS
 http://cdn.miip.tv:8080/canada/123456/3697
-#EXTINF:-1,AFTER SCHOOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AFTER SCHOOL
 http://cdn.miip.tv:8080/canada/123456/3698
-#EXTINF:-1,SPROUT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SPROUT
 http://cdn.miip.tv:8080/canada/123456/3699
-#EXTINF:-1,CRANKYANKERS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CRANKYANKERS
 http://cdn.miip.tv:8080/canada/123456/3700
-#EXTINF:-1,TOTALLY TURTLES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TOTALLY TURTLES
 http://cdn.miip.tv:8080/canada/123456/3701
-#EXTINF:-1,YES NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",YES NETWORK
 http://cdn.miip.tv:8080/canada/123456/3702
-#EXTINF:-1,PBS KIDS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PBS KIDS
 http://cdn.miip.tv:8080/canada/123456/3703
-#EXTINF:-1,BABY TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BABY TV
 http://cdn.miip.tv:8080/canada/123456/3705
-#EXTINF:-1,DISCOVERY FAMILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY FAMILY
 http://cdn.miip.tv:8080/canada/123456/3706
-#EXTINF:-1,MOTORTREND
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOTORTREND
 http://cdn.miip.tv:8080/canada/123456/3707
-#EXTINF:-1,COMCAST WASHIGTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COMCAST WASHIGTON
 http://cdn.miip.tv:8080/canada/123456/3710
-#EXTINF:-1,COMCAST BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COMCAST BOSTON
 http://cdn.miip.tv:8080/canada/123456/3711
-#EXTINF:-1,TLC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TLC
 http://cdn.miip.tv:8080/canada/123456/3712
-#EXTINF:-1,DISCOVERY LIFE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY LIFE
 http://cdn.miip.tv:8080/canada/123456/3713
-#EXTINF:-1,HALLMARK DRAMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HALLMARK DRAMA
 http://cdn.miip.tv:8080/canada/123456/3714
-#EXTINF:-1,DISCOVERY SCIENCIA USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY SCIENCIA USA
 http://cdn.miip.tv:8080/canada/123456/3715
-#EXTINF:-1,CINEMAX LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMAX LATINO
 http://cdn.miip.tv:8080/canada/123456/3716
-#EXTINF:-1,ENCORE WESTERN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE WESTERN
 http://cdn.miip.tv:8080/canada/123456/3718
-#EXTINF:-1,STARZ COMEDY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",STARZ COMEDY
 http://cdn.miip.tv:8080/canada/123456/3719
-#EXTINF:-1,Movistar Liga de Campiones 2 | ES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Movistar Liga de Campiones 2 | ES
 http://cdn.miip.tv:8080/canada/123456/3726
-#EXTINF:-1,RED BULL TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RED BULL TV
 http://cdn.miip.tv:8080/canada/123456/3727
-#EXTINF:-1,SHOWTIME FAMILY ZONE 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME FAMILY ZONE 
 http://cdn.miip.tv:8080/canada/123456/3728
-#EXTINF:-1,NATGEO WILD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATGEO WILD
 http://cdn.miip.tv:8080/canada/123456/3730
-#EXTINF:-1,AHC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AHC
 http://cdn.miip.tv:8080/canada/123456/3731
-#EXTINF:-1,DESTINATION AMERICA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DESTINATION AMERICA
 http://cdn.miip.tv:8080/canada/123456/3733
-#EXTINF:-1,KIDS TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",KIDS TV
 http://cdn.miip.tv:8080/canada/123456/3734
-#EXTINF:-1,PAC 12 NETWORKK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 NETWORKK
 http://cdn.miip.tv:8080/canada/123456/3735
-#EXTINF:-1,PAC 12 BY AREA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 BY AREA
 http://cdn.miip.tv:8080/canada/123456/3736
-#EXTINF:-1,PAC 12 OREGON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 OREGON
 http://cdn.miip.tv:8080/canada/123456/3737
-#EXTINF:-1,PAC 12 ARIZONA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 ARIZONA
 http://cdn.miip.tv:8080/canada/123456/3738
-#EXTINF:-1,PAC 12 MOUNTAIN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 MOUNTAIN
 http://cdn.miip.tv:8080/canada/123456/3739
-#EXTINF:-1,PAC 12 LOS ANGELES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PAC 12 LOS ANGELES
 http://cdn.miip.tv:8080/canada/123456/3740
-#EXTINF:-1,BT SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BT SPORTS
 http://cdn.miip.tv:8080/canada/123456/3741
-#EXTINF:-1,BT SPORT 1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BT SPORT 1
 http://cdn.miip.tv:8080/canada/123456/3742
-#EXTINF:-1,BT SPORT 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BT SPORT 2
 http://cdn.miip.tv:8080/canada/123456/3743
-#EXTINF:-1,BT SPORT 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BT SPORT 3
 http://cdn.miip.tv:8080/canada/123456/3744
-#EXTINF:-1,SNY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SNY
 http://cdn.miip.tv:8080/canada/123456/3745
-#EXTINF:-1,DISCOVERY CHANNEL LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DISCOVERY CHANNEL LATINO
 http://cdn.miip.tv:8080/canada/123456/3746
-#EXTINF:-1,ANIMAL PLANET LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ANIMAL PLANET LATINO
 http://cdn.miip.tv:8080/canada/123456/3747
-#EXTINF:-1,HISTORY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",HISTORY
 http://cdn.miip.tv:8080/canada/123456/3749
-#EXTINF:-1,BABY TV ESPANOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BABY TV ESPANOL
 http://cdn.miip.tv:8080/canada/123456/3750
-#EXTINF:-1,ADULT PRIVATE
-http://cdn.miip.tv:8080/canada/123456/3751
-#EXTINF:-1,ADULT PRIVATE 2
-http://cdn.miip.tv:8080/canada/123456/3752
-#EXTINF:-1,ADULT PRIVATE 3
-http://cdn.miip.tv:8080/canada/123456/3753
-#EXTINF:-1,ADULT PRIVATE 4
-http://cdn.miip.tv:8080/canada/123456/3754
-#EXTINF:-1,ADULT PRIVATE 5
-http://cdn.miip.tv:8080/canada/123456/3755
-#EXTINF:-1,ADULT PRIVATE 6
-http://cdn.miip.tv:8080/canada/123456/3756
-#EXTINF:-1,ADULT PRIVATE 7
-http://cdn.miip.tv:8080/canada/123456/3757
-#EXTINF:-1,ADULT PRIVATE 8
-http://cdn.miip.tv:8080/canada/123456/3758
-#EXTINF:-1,ADULT PRIVATE 9
-http://cdn.miip.tv:8080/canada/123456/3759
-#EXTINF:-1,ADULT PRIVATE 10
-http://cdn.miip.tv:8080/canada/123456/3760
-#EXTINF:-1,ADULT PRIVATE 11
-http://cdn.miip.tv:8080/canada/123456/3761
-#EXTINF:-1,ADULT PRIVATE 12
-http://cdn.miip.tv:8080/canada/123456/3762
-#EXTINF:-1,ADULT PRIVATE 13
-http://cdn.miip.tv:8080/canada/123456/3763
-#EXTINF:-1,ADULT PRIVATE 14
-http://cdn.miip.tv:8080/canada/123456/3764
-#EXTINF:-1,ADULT PRIVATE 15
-http://cdn.miip.tv:8080/canada/123456/3765
-#EXTINF:-1,ADULT PRIVATE 16
-http://cdn.miip.tv:8080/canada/123456/3766
-#EXTINF:-1,ADULT PRIVATE 17
-http://cdn.miip.tv:8080/canada/123456/3767
-#EXTINF:-1,ADULT PRIVATE 18
-http://cdn.miip.tv:8080/canada/123456/3768
-#EXTINF:-1,ADULT PRIVATE 19
-http://cdn.miip.tv:8080/canada/123456/3769
-#EXTINF:-1,ADULT PRIVATE 20
-http://cdn.miip.tv:8080/canada/123456/3770
-#EXTINF:-1,ADULT PRIVATE 28
-http://cdn.miip.tv:8080/canada/123456/3771
-#EXTINF:-1,ADULT PRIVATE  21
-http://cdn.miip.tv:8080/canada/123456/3772
-#EXTINF:-1,ADULT PRIVATE 22
-http://cdn.miip.tv:8080/canada/123456/3773
-#EXTINF:-1,ADULT PRIVATE 23
-http://cdn.miip.tv:8080/canada/123456/3774
-#EXTINF:-1,ADULT PRIVATE  24
-http://cdn.miip.tv:8080/canada/123456/3775
-#EXTINF:-1,ADULT PRIVATE 25
-http://cdn.miip.tv:8080/canada/123456/3776
-#EXTINF:-1,ADULT PRIVATE  26
-http://cdn.miip.tv:8080/canada/123456/3777
-#EXTINF:-1,ADULT PRIVATE 27
-http://cdn.miip.tv:8080/canada/123456/3778
-#EXTINF:-1,FOX 35 ORLANDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX 35 ORLANDO
 http://cdn.miip.tv:8080/canada/123456/3779
-#EXTINF:-1,CBS ORLANDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBS ORLANDO
 http://cdn.miip.tv:8080/canada/123456/3780
-#EXTINF:-1,NBC ORLANDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBC ORLANDO
 http://cdn.miip.tv:8080/canada/123456/3781
-#EXTINF:-1,ABC NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ABC NY
 http://cdn.miip.tv:8080/canada/123456/3782
-#EXTINF:-1,CBS NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBS NY
 http://cdn.miip.tv:8080/canada/123456/3783
-#EXTINF:-1,ION TV NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ION TV NY
 http://cdn.miip.tv:8080/canada/123456/3784
-#EXTINF:-1,TELEMUNDO BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO BOSTON
 http://cdn.miip.tv:8080/canada/123456/3785
-#EXTINF:-1,BOSTON 7 NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BOSTON 7 NEWS
 http://cdn.miip.tv:8080/canada/123456/3786
-#EXTINF:-1,NBC BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBC BOSTON
 http://cdn.miip.tv:8080/canada/123456/3787
-#EXTINF:-1,FOX 25 BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX 25 BOSTON
 http://cdn.miip.tv:8080/canada/123456/3788
-#EXTINF:-1,MY 38 BOSTON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MY 38 BOSTON
 http://cdn.miip.tv:8080/canada/123456/3789
-#EXTINF:-1,DALLAS CHEERLADER COWBOYS 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DALLAS CHEERLADER COWBOYS 
 http://cdn.miip.tv:8080/canada/123456/3791
-#EXTINF:-1,TCM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TCM
 http://cdn.miip.tv:8080/canada/123456/3792
-#EXTINF:-1,CMT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CMT
 http://cdn.miip.tv:8080/canada/123456/3793
-#EXTINF:-1,CMT WESTERN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CMT WESTERN
 http://cdn.miip.tv:8080/canada/123456/3794
-#EXTINF:-1,COME TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COME TV
 http://cdn.miip.tv:8080/canada/123456/3795
-#EXTINF:-1,SMITHSONIAN  CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SMITHSONIAN  CHANNEL
 http://cdn.miip.tv:8080/canada/123456/3796
-#EXTINF:-1,VICELAND
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",VICELAND
 http://cdn.miip.tv:8080/canada/123456/3800
-#EXTINF:-1,TV LAND DRAMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TV LAND DRAMA
 http://cdn.miip.tv:8080/canada/123456/3801
-#EXTINF:-1,TV LAND SITCOMS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TV LAND SITCOMS
 http://cdn.miip.tv:8080/canada/123456/3802
-#EXTINF:-1,LOS PICAPIEDRAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LOS PICAPIEDRAS
 http://cdn.miip.tv:8080/canada/123456/3803
-#EXTINF:-1,CHESPIRITO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CHESPIRITO
 http://cdn.miip.tv:8080/canada/123456/3805
-#EXTINF:-1,EL CHAVO DEL 8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",EL CHAVO DEL 8
 http://cdn.miip.tv:8080/canada/123456/3806
-#EXTINF:-1,LOS SIMPSONS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LOS SIMPSONS
 http://cdn.miip.tv:8080/canada/123456/3807
-#EXTINF:-1,LA TROPA GOFFY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LA TROPA GOFFY
 http://cdn.miip.tv:8080/canada/123456/3808
-#EXTINF:-1,LOS 3 CHIFLADOS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LOS 3 CHIFLADOS
 http://cdn.miip.tv:8080/canada/123456/3809
-#EXTINF:-1,ANTIESTRES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ANTIESTRES
 http://cdn.miip.tv:8080/canada/123456/3810
-#EXTINF:-1,COMEDY CENTRAL STAND UP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",COMEDY CENTRAL STAND UP
 http://cdn.miip.tv:8080/canada/123456/3812
-#EXTINF:-1,REELZ CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",REELZ CHANNEL
 http://cdn.miip.tv:8080/canada/123456/3813
-#EXTINF:-1,POP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",POP
 http://cdn.miip.tv:8080/canada/123456/3814
-#EXTINF:-1,AXS TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AXS TV
 http://cdn.miip.tv:8080/canada/123456/3815
-#EXTINF:-1,TUDN Xtra 1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 1
 http://cdn.miip.tv:8080/canada/123456/3819
-#EXTINF:-1,TUDN Xtra 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 2
 http://cdn.miip.tv:8080/canada/123456/3820
-#EXTINF:-1,TUDN Xtra 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 3
 http://cdn.miip.tv:8080/canada/123456/3821
-#EXTINF:-1,TUDN Xtra 4
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 4
 http://cdn.miip.tv:8080/canada/123456/3822
-#EXTINF:-1,TUDN Xtra 5
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 5
 http://cdn.miip.tv:8080/canada/123456/3823
-#EXTINF:-1,TUDN Xtra 6
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 6
 http://cdn.miip.tv:8080/canada/123456/3824
-#EXTINF:-1,TUDN Xtra 7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 7
 http://cdn.miip.tv:8080/canada/123456/3826
-#EXTINF:-1,TUDN Xtra 8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 8
 http://cdn.miip.tv:8080/canada/123456/3827
-#EXTINF:-1,TUDN Xtra 9
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 9
 http://cdn.miip.tv:8080/canada/123456/3828
-#EXTINF:-1,TUDN Xtra 10
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 10
 http://cdn.miip.tv:8080/canada/123456/3829
-#EXTINF:-1,GolTV Español | USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",GolTV Español | USA
 http://cdn.miip.tv:8080/canada/123456/3830
-#EXTINF:-1,Stadium 1
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Stadium 1
 http://cdn.miip.tv:8080/canada/123456/3831
-#EXTINF:-1,Stadium 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Stadium 2
 http://cdn.miip.tv:8080/canada/123456/3832
-#EXTINF:-1,Stadium 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Stadium 3
 http://cdn.miip.tv:8080/canada/123456/3833
-#EXTINF:-1,TUDN Xtra 11
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TUDN Xtra 11
 http://cdn.miip.tv:8080/canada/123456/3834
-#EXTINF:-1,TRUTV USA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TRUTV USA
 http://cdn.miip.tv:8080/canada/123456/4087
-#EXTINF:-1,ENCORE BLACK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE BLACK
 http://cdn.miip.tv:8080/canada/123456/4088
-#EXTINF:-1,ENCORE CLASSIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE CLASSIC
 http://cdn.miip.tv:8080/canada/123456/4089
-#EXTINF:-1,ENCORE SUSPENSO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE SUSPENSO
 http://cdn.miip.tv:8080/canada/123456/4090
-#EXTINF:-1,ENCORE WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ENCORE WEST
 http://cdn.miip.tv:8080/canada/123456/4091
-#EXTINF:-1,MASN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MASN
 http://cdn.miip.tv:8080/canada/123456/4092
-#EXTINF:-1,CBSN NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBSN NY
 http://cdn.miip.tv:8080/canada/123456/3583
-#EXTINF:-1,CBS MIAMI
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBS MIAMI
 http://cdn.miip.tv:8080/canada/123456/3605
-#EXTINF:-1,ESPN ACC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN ACC
 http://cdn.miip.tv:8080/canada/123456/4116
-#EXTINF:-1,ESPN SECS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN SECS
 http://cdn.miip.tv:8080/canada/123456/4118
-#EXTINF:-1,ESPN DEPORTES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN DEPORTES
 http://cdn.miip.tv:8080/canada/123456/4121
-#EXTINF:-1,ESPN PLUS LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN PLUS LATINO
 http://cdn.miip.tv:8080/canada/123456/3627
-#EXTINF:-1,ESPN LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN LATINO
 http://cdn.miip.tv:8080/canada/123456/3624
-#EXTINF:-1,ESPN 2 LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN 2 LATINO
 http://cdn.miip.tv:8080/canada/123456/3625
-#EXTINF:-1,ESPN 3 LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ESPN 3 LATINO
 http://cdn.miip.tv:8080/canada/123456/3628
-#EXTINF:-1,PLUTO TV NOVELAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV NOVELAS
 http://cdn.miip.tv:8080/canada/123456/4242
-#EXTINF:-1,PLUTO COMEDY CENTRAL 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO COMEDY CENTRAL 
 http://cdn.miip.tv:8080/canada/123456/3811
-#EXTINF:-1,PLUTO DOCTOR WHO CLASSIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO DOCTOR WHO CLASSIC
 http://cdn.miip.tv:8080/canada/123456/3799
-#EXTINF:-1,PLUTO NOSEY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO NOSEY
 http://cdn.miip.tv:8080/canada/123456/3798
-#EXTINF:-1,PLUTO WIPEOUT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO WIPEOUT
 http://cdn.miip.tv:8080/canada/123456/3797
-#EXTINF:-1,PLUTO TRAVEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TRAVEL
 http://cdn.miip.tv:8080/canada/123456/3732
-#EXTINF:-1,PLUTO TV CARS 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV CARS 2
 http://cdn.miip.tv:8080/canada/123456/3709
-#EXTINF:-1,PLUTO TV CARS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV CARS
 http://cdn.miip.tv:8080/canada/123456/3708
-#EXTINF:-1,PLUTO NICK JR LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO NICK JR LATINO
 http://cdn.miip.tv:8080/canada/123456/3689
-#EXTINF:-1,PLUTO TV COCINA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV COCINA
 http://cdn.miip.tv:8080/canada/123456/3674
-#EXTINF:-1,PLUTO NICKELODON  LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO NICKELODON  LATINO
 http://cdn.miip.tv:8080/canada/123456/3650
-#EXTINF:-1,PLUTO TV MUNDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV MUNDO
 http://cdn.miip.tv:8080/canada/123456/449
-#EXTINF:-1,Pluto Wedding
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Pluto Wedding
 http://cdn.miip.tv:8080/canada/123456/442
-#EXTINF:-1,Pluto Tv Winter
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",Pluto Tv Winter
 http://cdn.miip.tv:8080/canada/123456/440
-#EXTINF:-1,PLUTO TV SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV SPORTS
 http://cdn.miip.tv:8080/canada/123456/436
-#EXTINF:-1,PLUTO PARAMOUNT MOVIE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO PARAMOUNT MOVIE
 http://cdn.miip.tv:8080/canada/123456/441
-#EXTINF:-1,PLUTO TV SURF
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV SURF
 http://cdn.miip.tv:8080/canada/123456/434
-#EXTINF:-1,PLUTO NATURALEZA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO NATURALEZA
 http://cdn.miip.tv:8080/canada/123456/430
-#EXTINF:-1,PLUTO PURSUIT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO PURSUIT
 http://cdn.miip.tv:8080/canada/123456/428
-#EXTINF:-1,PLUTO TV MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV MOVIES
 http://cdn.miip.tv:8080/canada/123456/426
-#EXTINF:-1,PLUTO TV HORROR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV HORROR
 http://cdn.miip.tv:8080/canada/123456/425
-#EXTINF:-1,PLUTO BLACK CINEMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO BLACK CINEMA
 http://cdn.miip.tv:8080/canada/123456/424
-#EXTINF:-1,PLUTO TV DRAMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV DRAMA
 http://cdn.miip.tv:8080/canada/123456/423
-#EXTINF:-1,PLUTO TV TRILLER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV TRILLER
 http://cdn.miip.tv:8080/canada/123456/422
-#EXTINF:-1,PLUTO TV PELICULAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV PELICULAS
 http://cdn.miip.tv:8080/canada/123456/421
-#EXTINF:-1,PLUTO TV CINE TERROR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV CINE TERROR
 http://cdn.miip.tv:8080/canada/123456/419
-#EXTINF:-1,PLUTO TV CINE ESTELAR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV CINE ESTELAR
 http://cdn.miip.tv:8080/canada/123456/420
-#EXTINF:-1,PLUTO TV CINE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV CINE
 http://cdn.miip.tv:8080/canada/123456/418
-#EXTINF:-1,PLUTO TV REALITY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PLUTO TV REALITY
 http://cdn.miip.tv:8080/canada/123456/417
-#EXTINF:-1,BET PLUTO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BET PLUTO
 http://cdn.miip.tv:8080/canada/123456/399
-#EXTINF:-1,MTV PLUTO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MTV PLUTO
 http://cdn.miip.tv:8080/canada/123456/376
-#EXTINF:-1,MTV LATINO PLUTO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MTV LATINO PLUTO
 http://cdn.miip.tv:8080/canada/123456/375
-#EXTINF:-1,FIGHT PLUTO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FIGHT PLUTO
 http://cdn.miip.tv:8080/canada/123456/370
-#EXTINF:-1,OUTSIDE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",OUTSIDE
 http://cdn.miip.tv:8080/canada/123456/4325
-#EXTINF:-1,FANTASY SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FANTASY SPORTS
 http://cdn.miip.tv:8080/canada/123456/4324
-#EXTINF:-1,OLYMPIC CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",OLYMPIC CHANNEL
 http://cdn.miip.tv:8080/canada/123456/4322
-#EXTINF:-1,CAPITAL | PERU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CAPITAL | PERU
 http://cdn.miip.tv:8080/canada/123456/4253
-#EXTINF:-1,AMERICA | PERU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AMERICA | PERU
 http://cdn.miip.tv:8080/canada/123456/4252
-#EXTINF:-1,CANAL PERU | PERU
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL PERU | PERU
 http://cdn.miip.tv:8080/canada/123456/4251
-#EXTINF:-1,CANAL MEDELLIN | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CANAL MEDELLIN | COL
 http://cdn.miip.tv:8080/canada/123456/4249
-#EXTINF:-1,DIA TV | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIA TV | COL
 http://cdn.miip.tv:8080/canada/123456/4248
-#EXTINF:-1,TELECARIBE | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECARIBE | COL
 http://cdn.miip.tv:8080/canada/123456/4247
-#EXTINF:-1,CITY TV | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CITY TV | COL
 http://cdn.miip.tv:8080/canada/123456/4250
-#EXTINF:-1,TELECAFE | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELECAFE | COL
 http://cdn.miip.tv:8080/canada/123456/4246
-#EXTINF:-1,TELEENVIGADO | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEENVIGADO | COL
 http://cdn.miip.tv:8080/canada/123456/4245
-#EXTINF:-1,TELEANTOQUIA COLOMBIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEANTOQUIA COLOMBIA
 http://cdn.miip.tv:8080/canada/123456/4244
-#EXTINF:-1,TELEPACIFICO | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEPACIFICO | COL
 http://cdn.miip.tv:8080/canada/123456/4243
-#EXTINF:-1,TELENOVELAS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELENOVELAS
 http://cdn.miip.tv:8080/canada/123456/4241
-#EXTINF:-1,TNT SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TNT SPORTS
 http://cdn.miip.tv:8080/canada/123456/4240
-#EXTINF:-1,TYCSPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TYCSPORTS
 http://cdn.miip.tv:8080/canada/123456/4239
-#EXTINF:-1,DIRECTV SPORT ARGENTINA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIRECTV SPORT ARGENTINA
 http://cdn.miip.tv:8080/canada/123456/4238
-#EXTINF:-1,DIRECTV SPORT  PLUS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIRECTV SPORT  PLUS
 http://cdn.miip.tv:8080/canada/123456/4237
-#EXTINF:-1,DIRECTV SPORT 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIRECTV SPORT 2
 http://cdn.miip.tv:8080/canada/123456/4236
-#EXTINF:-1,DIRECTV SPORT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",DIRECTV SPORT
 http://cdn.miip.tv:8080/canada/123456/4235
-#EXTINF:-1,FOX SPORT 3 SUR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT 3 SUR
 http://cdn.miip.tv:8080/canada/123456/4233
-#EXTINF:-1,FOX SPORT 2 SUR 
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT 2 SUR 
 http://cdn.miip.tv:8080/canada/123456/4232
-#EXTINF:-1,FOX SPORT SUR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT SUR
 http://cdn.miip.tv:8080/canada/123456/4231
-#EXTINF:-1,FOX SPORT ARGENTINA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT ARGENTINA
 http://cdn.miip.tv:8080/canada/123456/4229
-#EXTINF:-1,FOX SPORT CHILE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT CHILE
 http://cdn.miip.tv:8080/canada/123456/4228
-#EXTINF:-1,FOX SPORT 3 COLOMBIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT 3 COLOMBIA
 http://cdn.miip.tv:8080/canada/123456/4227
-#EXTINF:-1,FOX SPORT 2 ARGENTINA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT 2 ARGENTINA
 http://cdn.miip.tv:8080/canada/123456/4230
-#EXTINF:-1,FOX SPORT 2 COLOMBIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT 2 COLOMBIA
 http://cdn.miip.tv:8080/canada/123456/4226
-#EXTINF:-1,FOX SPORT COLOMBIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT COLOMBIA
 http://cdn.miip.tv:8080/canada/123456/4225
-#EXTINF:-1,FOX SPORT PREMIUN
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX SPORT PREMIUN
 http://cdn.miip.tv:8080/canada/123456/4224
-#EXTINF:-1,JUSTICE TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",JUSTICE TV
 http://cdn.miip.tv:8080/canada/123456/4221
-#EXTINF:-1,SONY MOVIES CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SONY MOVIES CHANNEL
 http://cdn.miip.tv:8080/canada/123456/4219
-#EXTINF:-1,CINE SONY LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINE SONY LATINO
 http://cdn.miip.tv:8080/canada/123456/4218
-#EXTINF:-1,UNIVISION WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION WEST
 http://cdn.miip.tv:8080/canada/123456/4217
-#EXTINF:-1,UNIVISION ESTE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",UNIVISION ESTE
 http://cdn.miip.tv:8080/canada/123456/4216
-#EXTINF:-1,ROOT SPORT NORWEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ROOT SPORT NORWEST
 http://cdn.miip.tv:8080/canada/123456/4117
-#EXTINF:-1,CBEEBIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CBEEBIES
 http://cdn.miip.tv:8080/canada/123456/4119
-#EXTINF:-1,NATGEO MUNDO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATGEO MUNDO
 http://cdn.miip.tv:8080/canada/123456/4120
-#EXTINF:-1,AT&T SPORNET PITTSBURG
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",AT&T SPORNET PITTSBURG
 http://cdn.miip.tv:8080/canada/123456/4122
-#EXTINF:-1,SHOWTIME WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",SHOWTIME WEST
 http://cdn.miip.tv:8080/canada/123456/4123
-#EXTINF:-1,PIXL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",PIXL
 http://cdn.miip.tv:8080/canada/123456/4124
-#EXTINF:-1,BABY FIRST TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BABY FIRST TV
 http://cdn.miip.tv:8080/canada/123456/4125
-#EXTINF:-1,NICK CENTRAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NICK CENTRAL
 http://cdn.miip.tv:8080/canada/123456/4165
-#EXTINF:-1,TLC LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TLC LATINO
 http://cdn.miip.tv:8080/canada/123456/3626
-#EXTINF:-1,BOOMERANG LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",BOOMERANG LATINO
 http://cdn.miip.tv:8080/canada/123456/3629
-#EXTINF:-1,NATGEO WEST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATGEO WEST
 http://cdn.miip.tv:8080/canada/123456/3630
-#EXTINF:-1,H2 LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",H2 LATINO
 http://cdn.miip.tv:8080/canada/123456/3631
-#EXTINF:-1,NATGEO KIDS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NATGEO KIDS
 http://cdn.miip.tv:8080/canada/123456/3632
-#EXTINF:-1,TELEMUNDO INT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",TELEMUNDO INT
 http://cdn.miip.tv:8080/canada/123456/3633
-#EXTINF:-1,LIFETIME LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",LIFETIME LATINO
 http://cdn.miip.tv:8080/canada/123456/3634
-#EXTINF:-1,MUSIC ALTERNATIVE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC ALTERNATIVE
 http://cdn.miip.tv:8080/canada/123456/3635
-#EXTINF:-1,MUSIC HIP&HOP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC HIP&HOP
 http://cdn.miip.tv:8080/canada/123456/3636
-#EXTINF:-1,MUSIC DANCE DM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC DANCE DM
 http://cdn.miip.tv:8080/canada/123456/3637
-#EXTINF:-1,MUSIC INDIE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC INDIE
 http://cdn.miip.tv:8080/canada/123456/3639
-#EXTINF:-1,MUSIC METAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC METAL
 http://cdn.miip.tv:8080/canada/123456/3640
-#EXTINF:-1,MUSIC POP COUNTRY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC POP COUNTRY
 http://cdn.miip.tv:8080/canada/123456/3642
-#EXTINF:-1,MUSIC POP HITS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC POP HITS
 http://cdn.miip.tv:8080/canada/123456/3644
-#EXTINF:-1,MUSIC MEXICANA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC MEXICANA
 http://cdn.miip.tv:8080/canada/123456/3641
-#EXTINF:-1,MUSIC POP LATINO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC POP LATINO
 http://cdn.miip.tv:8080/canada/123456/3645
-#EXTINF:-1,MUSIC RAP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC RAP
 http://cdn.miip.tv:8080/canada/123456/3646
-#EXTINF:-1,MUSIC 90 S
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC 90 S
 http://cdn.miip.tv:8080/canada/123456/3649
-#EXTINF:-1,MUSIC KIDS ONLY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC KIDS ONLY
 http://cdn.miip.tv:8080/canada/123456/3651
-#EXTINF:-1,MUSIC TODDLE JAMS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC TODDLE JAMS
 http://cdn.miip.tv:8080/canada/123456/3653
-#EXTINF:-1,MUSIC ROCK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC ROCK
 http://cdn.miip.tv:8080/canada/123456/3647
-#EXTINF:-1,MUSIC TEeN BEATS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC TEeN BEATS
 http://cdn.miip.tv:8080/canada/123456/3648
-#EXTINF:-1,MUSIC TODAY COUNTRY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MUSIC TODAY COUNTRY
 http://cdn.miip.tv:8080/canada/123456/3652
-#EXTINF:-1,MLB SEASSON
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON
 http://cdn.miip.tv:8080/canada/123456/3552
-#EXTINF:-1,MLB SEASSON 2
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 2
 http://cdn.miip.tv:8080/canada/123456/3553
-#EXTINF:-1,MLB SEASSON 3
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 3
 http://cdn.miip.tv:8080/canada/123456/3554
-#EXTINF:-1,MLB SEASSON 4
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 4
 http://cdn.miip.tv:8080/canada/123456/3555
-#EXTINF:-1,MLB SEASSON 5
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 5
 http://cdn.miip.tv:8080/canada/123456/3557
-#EXTINF:-1,MLB SEASSON 6
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 6
 http://cdn.miip.tv:8080/canada/123456/3558
-#EXTINF:-1,MLB SEASSON 7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 7
 http://cdn.miip.tv:8080/canada/123456/3559
-#EXTINF:-1,MLB SEASSON 8
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 8
 http://cdn.miip.tv:8080/canada/123456/3560
-#EXTINF:-1,MLB SEASSON 9
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 9
 http://cdn.miip.tv:8080/canada/123456/3561
-#EXTINF:-1,MLB SEASSON 10
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 10
 http://cdn.miip.tv:8080/canada/123456/3562
-#EXTINF:-1,MLB SEASSON 11
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 11
 http://cdn.miip.tv:8080/canada/123456/3563
-#EXTINF:-1,MLB SEASSON 12
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 12
 http://cdn.miip.tv:8080/canada/123456/3564
-#EXTINF:-1,MLB SEASSON 13
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 13
 http://cdn.miip.tv:8080/canada/123456/3565
-#EXTINF:-1,MLB SEASSON 14
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 14
 http://cdn.miip.tv:8080/canada/123456/3566
-#EXTINF:-1,MLB SEASSON 15
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MLB SEASSON 15
 http://cdn.miip.tv:8080/canada/123456/3567
-#EXTINF:-1,RCN | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RCN | COL
 http://cdn.miip.tv:8080/canada/123456/3569
-#EXTINF:-1,RCN 2 | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",RCN 2 | COL
 http://cdn.miip.tv:8080/canada/123456/3570
-#EXTINF:-1,WINSPORT | COL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",WINSPORT | COL
 http://cdn.miip.tv:8080/canada/123456/3571
-#EXTINF:-1,XUTV: POCKET WATCH
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: POCKET WATCH
 http://cdn.miip.tv:8080/canada/123456/6462
-#EXTINF:-1,XUTV: HOOPLA KIDZ
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: HOOPLA KIDZ
 http://cdn.miip.tv:8080/canada/123456/6461
-#EXTINF:-1,XUTV:MASHABLE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:MASHABLE
 http://cdn.miip.tv:8080/canada/123456/6414
-#EXTINF:-1,XUTV:FUTURISM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:FUTURISM
 http://cdn.miip.tv:8080/canada/123456/6413
-#EXTINF:-1,XUTV:POPULAR SCIENCE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:POPULAR SCIENCE
 http://cdn.miip.tv:8080/canada/123456/6412
-#EXTINF:-1,XUTV:COMBAT WAR CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:COMBAT WAR CHANNEL
 http://cdn.miip.tv:8080/canada/123456/6411
-#EXTINF:-1,XUTV:CNET
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:CNET
 http://cdn.miip.tv:8080/canada/123456/6410
-#EXTINF:-1,XUTV: WIRED
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: WIRED
 http://cdn.miip.tv:8080/canada/123456/6409
-#EXTINF:-1,XUTV:CRIME TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:CRIME TV
 http://cdn.miip.tv:8080/canada/123456/6408
-#EXTINF:-1,XUTV:DIVORCE DOURT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:DIVORCE DOURT
 http://cdn.miip.tv:8080/canada/123456/6407
-#EXTINF:-1,XUTV:OMG NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:OMG NETWORK
 http://cdn.miip.tv:8080/canada/123456/6406
-#EXTINF:-1,XUTV:NOSEY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:NOSEY
 http://cdn.miip.tv:8080/canada/123456/6405
-#EXTINF:-1,XUTV: REAL NOSEY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: REAL NOSEY
 http://cdn.miip.tv:8080/canada/123456/6404
-#EXTINF:-1,XUTV: THE NEW YORKER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE NEW YORKER
 http://cdn.miip.tv:8080/canada/123456/6403
-#EXTINF:-1,XUTV: BROADWAY CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: BROADWAY CHANNEL
 http://cdn.miip.tv:8080/canada/123456/6402
-#EXTINF:-1,XUTV:YOUNG HOLLYWOOD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:YOUNG HOLLYWOOD
 http://cdn.miip.tv:8080/canada/123456/6401
-#EXTINF:-1,XUTV: VANITY FAIR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: VANITY FAIR
 http://cdn.miip.tv:8080/canada/123456/6400
-#EXTINF:-1,XUTV: FBE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FBE
 http://cdn.miip.tv:8080/canada/123456/6399
-#EXTINF:-1,XUTV: 101 FACTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: 101 FACTS
 http://cdn.miip.tv:8080/canada/123456/6397
-#EXTINF:-1,XUTV:TMZ
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:TMZ
 http://cdn.miip.tv:8080/canada/123456/6396
-#EXTINF:-1,XUTV:PEOPLE TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:PEOPLE TV
 http://cdn.miip.tv:8080/canada/123456/6394
-#EXTINF:-1,XUTV: THE HOLLYWOOD REPORTED
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE HOLLYWOOD REPORTED
 http://cdn.miip.tv:8080/canada/123456/6393
-#EXTINF:-1,XUTV: DUST
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: DUST
 http://cdn.miip.tv:8080/canada/123456/6392
-#EXTINF:-1,XUTV:SYFY WIRE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:SYFY WIRE
 http://cdn.miip.tv:8080/canada/123456/6391
-#EXTINF:-1,XUTV:PEOPLE MAGAZINE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:PEOPLE MAGAZINE
 http://cdn.miip.tv:8080/canada/123456/6395
-#EXTINF:-1,XUTV: COMIC BOOKS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COMIC BOOKS
 http://cdn.miip.tv:8080/canada/123456/6390
-#EXTINF:-1,XUTV: ELECTRIC NOW
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ELECTRIC NOW
 http://cdn.miip.tv:8080/canada/123456/6389
-#EXTINF:-1,XUTV: FAMILY FEUD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FAMILY FEUD
 http://cdn.miip.tv:8080/canada/123456/6388
-#EXTINF:-1,XUTV:ARCADE CLOUD TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:ARCADE CLOUD TV
 http://cdn.miip.tv:8080/canada/123456/6387
-#EXTINF:-1,XUTV: MOBCRUSH TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: MOBCRUSH TV
 http://cdn.miip.tv:8080/canada/123456/6386
-#EXTINF:-1,XUTV: GAMESPOT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: GAMESPOT
 http://cdn.miip.tv:8080/canada/123456/6385
-#EXTINF:-1,XUTV: CHIVE TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: CHIVE TV
 http://cdn.miip.tv:8080/canada/123456/6384
-#EXTINF:-1,XUTV: PEOPLE ARE AWESOME
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: PEOPLE ARE AWESOME
 http://cdn.miip.tv:8080/canada/123456/6383
-#EXTINF:-1,XUTV: LATIDO MUSIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: LATIDO MUSIC
 http://cdn.miip.tv:8080/canada/123456/6381
-#EXTINF:-1,XUTV: MUSIC BAEBLE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: MUSIC BAEBLE
 http://cdn.miip.tv:8080/canada/123456/6380
-#EXTINF:-1,XUTV: AUSTIN MUSIC LIVE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: AUSTIN MUSIC LIVE
 http://cdn.miip.tv:8080/canada/123456/6379
-#EXTINF:-1,XUTV: REEL CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: REEL CHANNEL
 http://cdn.miip.tv:8080/canada/123456/6378
-#EXTINF:-1,XUTV: COMPLEX
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COMPLEX
 http://cdn.miip.tv:8080/canada/123456/6382
-#EXTINF:-1,XUTV: FORENSIC FILES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FORENSIC FILES
 http://cdn.miip.tv:8080/canada/123456/6377
-#EXTINF:-1,XUTV: REEL TRUTH DOCUMENTARIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: REEL TRUTH DOCUMENTARIES
 http://cdn.miip.tv:8080/canada/123456/6376
-#EXTINF:-1,XUTV: HISTORY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: HISTORY
 http://cdn.miip.tv:8080/canada/123456/6375
-#EXTINF:-1,XUTV: TITANIC CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: TITANIC CHANNEL
 http://cdn.miip.tv:8080/canada/123456/6374
-#EXTINF:-1,XUTV : FUSE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : FUSE
 http://cdn.miip.tv:8080/canada/123456/6373
-#EXTINF:-1,XUTV: BILLBOARD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: BILLBOARD
 http://cdn.miip.tv:8080/canada/123456/6372
-#EXTINF:-1,XUTV: QELLO STINGRAY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: QELLO STINGRAY
 http://cdn.miip.tv:8080/canada/123456/6371
-#EXTINF:-1,XUTV : GOT TALENT GLOBAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : GOT TALENT GLOBAL
 http://cdn.miip.tv:8080/canada/123456/6370
-#EXTINF:-1,XUTV : SAMUEL GOLDWYN FILM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : SAMUEL GOLDWYN FILM
 http://cdn.miip.tv:8080/canada/123456/6369
-#EXTINF:-1,XUTV: THE ASYLUM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE ASYLUM
 http://cdn.miip.tv:8080/canada/123456/6368
-#EXTINF:-1,XUTV : HI YAH
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : HI YAH
 http://cdn.miip.tv:8080/canada/123456/6367
-#EXTINF:-1,XUTV : FILMHUB
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : FILMHUB
 http://cdn.miip.tv:8080/canada/123456/6366
-#EXTINF:-1,XUTV :AMERICAN CLASSIC
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV :AMERICAN CLASSIC
 http://cdn.miip.tv:8080/canada/123456/6365
-#EXTINF:-1,XUTV: THE GRAPEVINE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE GRAPEVINE
 http://cdn.miip.tv:8080/canada/123456/6364
-#EXTINF:-1,XUTV: SHOUT FACTORY TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: SHOUT FACTORY TV
 http://cdn.miip.tv:8080/canada/123456/6363
-#EXTINF:-1,XUTV: THE ARCHIVE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE ARCHIVE
 http://cdn.miip.tv:8080/canada/123456/6362
-#EXTINF:-1,XUTV: CON TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: CON TV
 http://cdn.miip.tv:8080/canada/123456/6361
-#EXTINF:-1,XUTV: DOCURAMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: DOCURAMA
 http://cdn.miip.tv:8080/canada/123456/6360
-#EXTINF:-1,XUTV :STERLING DRAMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV :STERLING DRAMA
 http://cdn.miip.tv:8080/canada/123456/6359
-#EXTINF:-1,XUTV: FILM RISE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FILM RISE
 http://cdn.miip.tv:8080/canada/123456/6358
-#EXTINF:-1,XUTV: AMMO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: AMMO
 http://cdn.miip.tv:8080/canada/123456/6357
-#EXTINF:-1,XUTV: BINGE TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: BINGE TV
 http://cdn.miip.tv:8080/canada/123456/6356
-#EXTINF:-1,XUTV :REALITY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV :REALITY
 http://cdn.miip.tv:8080/canada/123456/6355
-#EXTINF:-1,XUTV : DOCUMENTARIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : DOCUMENTARIES
 http://cdn.miip.tv:8080/canada/123456/6354
-#EXTINF:-1,XUTV : GRAVITAS MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV : GRAVITAS MOVIES
 http://cdn.miip.tv:8080/canada/123456/6353
-#EXTINF:-1,XUTV :KILLER MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV :KILLER MOVIES
 http://cdn.miip.tv:8080/canada/123456/6352
-#EXTINF:-1,XUTV :HORROR MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV :HORROR MOVIES
 http://cdn.miip.tv:8080/canada/123456/6351
-#EXTINF:-1,XUTV: FAMILY MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FAMILY MOVIES
 http://cdn.miip.tv:8080/canada/123456/6350
-#EXTINF:-1,XUTV: FREEMOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FREEMOVIES
 http://cdn.miip.tv:8080/canada/123456/6349
-#EXTINF:-1,XUTV: COMEDY MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COMEDY MOVIES
 http://cdn.miip.tv:8080/canada/123456/6347
-#EXTINF:-1,XUTV: ACTION MOVIES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ACTION MOVIES
 http://cdn.miip.tv:8080/canada/123456/6346
-#EXTINF:-1,XUTV:SCIFI  FANTASY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:SCIFI  FANTASY
 http://cdn.miip.tv:8080/canada/123456/6344
-#EXTINF:-1,XUTV: ZOO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ZOO
 http://cdn.miip.tv:8080/canada/123456/6343
-#EXTINF:-1,XUTV: COMEDY DYNAMICS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COMEDY DYNAMICS
 http://cdn.miip.tv:8080/canada/123456/5443
-#EXTINF:-1,XUTV: MAVERICK BLACK CINEMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: MAVERICK BLACK CINEMA
 http://cdn.miip.tv:8080/canada/123456/6348
-#EXTINF:-1,XUTV: BLACK CINEMA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: BLACK CINEMA
 http://cdn.miip.tv:8080/canada/123456/6345
-#EXTINF:-1,XUTV: ABOVE AVERAGE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ABOVE AVERAGE
 http://cdn.miip.tv:8080/canada/123456/5441
-#EXTINF:-1,XUTV:JUST FOR LAUGHS GAGS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:JUST FOR LAUGHS GAGS
 http://cdn.miip.tv:8080/canada/123456/5440
-#EXTINF:-1,XUTV: COLLEGE HUMOR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COLLEGE HUMOR
 http://cdn.miip.tv:8080/canada/123456/5442
-#EXTINF:-1,XUTV: JUST FOR LAUGHS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: JUST FOR LAUGHS
 http://cdn.miip.tv:8080/canada/123456/5439
-#EXTINF:-1,XUTV:FUNNY OR DIE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:FUNNY OR DIE
 http://cdn.miip.tv:8080/canada/123456/5438
-#EXTINF:-1,XUTV: FAIL ARMY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FAIL ARMY
 http://cdn.miip.tv:8080/canada/123456/5437
-#EXTINF:-1,XUTV: REAL VISION
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: REAL VISION
 http://cdn.miip.tv:8080/canada/123456/5436
-#EXTINF:-1,XUTV: USA TODAY NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: USA TODAY NEWS
 http://cdn.miip.tv:8080/canada/123456/5435
-#EXTINF:-1,XUTV:CHEDDAR NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:CHEDDAR NEWS
 http://cdn.miip.tv:8080/canada/123456/5434
-#EXTINF:-1,XUTV: WOCHIT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: WOCHIT
 http://cdn.miip.tv:8080/canada/123456/5433
-#EXTINF:-1,XUTV: CBC NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: CBC NEWS
 http://cdn.miip.tv:8080/canada/123456/5431
-#EXTINF:-1,XUTV:LAW CRIME
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:LAW CRIME
 http://cdn.miip.tv:8080/canada/123456/5430
-#EXTINF:-1,XUTV:NEWSY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:NEWSY
 http://cdn.miip.tv:8080/canada/123456/5429
-#EXTINF:-1,XUTV: NEWSMAX TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: NEWSMAX TV
 http://cdn.miip.tv:8080/canada/123456/5428
-#EXTINF:-1,XUTV: TIME
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: TIME
 http://cdn.miip.tv:8080/canada/123456/5427
-#EXTINF:-1,XUTV: GREAT BIG  STORY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: GREAT BIG  STORY
 http://cdn.miip.tv:8080/canada/123456/5426
-#EXTINF:-1,XUTV: TODAY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: TODAY
 http://cdn.miip.tv:8080/canada/123456/5425
-#EXTINF:-1,XUTV: TYT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: TYT
 http://cdn.miip.tv:8080/canada/123456/5432
-#EXTINF:-1,XUTV: NOW THIS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: NOW THIS
 http://cdn.miip.tv:8080/canada/123456/5424
-#EXTINF:-1,XUTV: BLOOMBERG TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: BLOOMBERG TV
 http://cdn.miip.tv:8080/canada/123456/5423
-#EXTINF:-1,XUTV: CBS NEWS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: CBS NEWS
 http://cdn.miip.tv:8080/canada/123456/5422
-#EXTINF:-1,XUTV: NBC NEWS NOW
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: NBC NEWS NOW
 http://cdn.miip.tv:8080/canada/123456/5420
-#EXTINF:-1,XUTV: AMERICAS FUNNIEST HOME
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: AMERICAS FUNNIEST HOME
 http://cdn.miip.tv:8080/canada/123456/5025
-#EXTINF:-1,XUTV: ABC NEWS LIVE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ABC NEWS LIVE
 http://cdn.miip.tv:8080/canada/123456/5421
-#EXTINF:-1,ADULT:BISEXUAL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",ADULT:BISEXUAL
 http://cdn.miip.tv:8080/canada/123456/4158
-#EXTINF:-1,XUTV: FUBO SPORT NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FUBO SPORT NETWORK
 http://cdn.miip.tv:8080/canada/123456/6500
-#EXTINF:-1,XUTV:BEINS SPORT XTRA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:BEINS SPORT XTRA
 http://cdn.miip.tv:8080/canada/123456/6499
-#EXTINF:-1,XUTV:COMBAT GO
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:COMBAT GO
 http://cdn.miip.tv:8080/canada/123456/6498
-#EXTINF:-1,XUTV: EDGE SPORT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: EDGE SPORT
 http://cdn.miip.tv:8080/canada/123456/6497
-#EXTINF:-1,XUTV: THE INERTIA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: THE INERTIA
 http://cdn.miip.tv:8080/canada/123456/6496
-#EXTINF:-1,XUTV: FTF NEXT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FTF NEXT
 http://cdn.miip.tv:8080/canada/123456/6495
-#EXTINF:-1,XUTV: WORLD TOUR POKER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: WORLD TOUR POKER
 http://cdn.miip.tv:8080/canada/123456/6494
-#EXTINF:-1,XUTV: COPA 90
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COPA 90
 http://cdn.miip.tv:8080/canada/123456/6493
-#EXTINF:-1,XUTV: SPORTSGRID
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: SPORTSGRID
 http://cdn.miip.tv:8080/canada/123456/6492
-#EXTINF:-1,XUTV:GLORY KICKBOXING
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:GLORY KICKBOXING
 http://cdn.miip.tv:8080/canada/123456/6491
-#EXTINF:-1,XUTV:FOOTBALL DAILY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:FOOTBALL DAILY
 http://cdn.miip.tv:8080/canada/123456/6490
-#EXTINF:-1,XUTV:USGA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:USGA
 http://cdn.miip.tv:8080/canada/123456/6489
-#EXTINF:-1,XUTV: WORLD SURF LEAGUE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: WORLD SURF LEAGUE
 http://cdn.miip.tv:8080/canada/123456/6488
-#EXTINF:-1,XUTV:STADIUM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:STADIUM
 http://cdn.miip.tv:8080/canada/123456/6487
-#EXTINF:-1,XUTV: USA TODAY SPORT WIRE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: USA TODAY SPORT WIRE
 http://cdn.miip.tv:8080/canada/123456/6486
-#EXTINF:-1,XUTV: MMA JUNKIE
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: MMA JUNKIE
 http://cdn.miip.tv:8080/canada/123456/6485
-#EXTINF:-1,XUTV: ADVENTURE SPORT
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ADVENTURE SPORT
 http://cdn.miip.tv:8080/canada/123456/6484
-#EXTINF:-1,XUTV: HARD KNOCKS FIGHTING CHAMPIONSHIP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: HARD KNOCKS FIGHTING CHAMPIONSHIP
 http://cdn.miip.tv:8080/canada/123456/6483
-#EXTINF:-1,XUTV:OUTSIDE TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:OUTSIDE TV
 http://cdn.miip.tv:8080/canada/123456/6482
-#EXTINF:-1,XUTV:NITRO CIRCUS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:NITRO CIRCUS
 http://cdn.miip.tv:8080/canada/123456/6481
-#EXTINF:-1,XUTV: WAYPOIN TV
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: WAYPOIN TV
 http://cdn.miip.tv:8080/canada/123456/6479
-#EXTINF:-1,XUTV: PGA TOUR
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: PGA TOUR
 http://cdn.miip.tv:8080/canada/123456/6478
-#EXTINF:-1,XUTV: OUTDOOR AMERICA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: OUTDOOR AMERICA
 http://cdn.miip.tv:8080/canada/123456/6477
-#EXTINF:-1,XUTV: CYCLE WORLD
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: CYCLE WORLD
 http://cdn.miip.tv:8080/canada/123456/6476
-#EXTINF:-1,XUTV: FIELD STREAM
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FIELD STREAM
 http://cdn.miip.tv:8080/canada/123456/6475
-#EXTINF:-1,XUTV:FOX DEPORTES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:FOX DEPORTES
 http://cdn.miip.tv:8080/canada/123456/6473
-#EXTINF:-1,XUTV: FOX SPORTS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: FOX SPORTS
 http://cdn.miip.tv:8080/canada/123456/6472
-#EXTINF:-1,XUTV: ACC DIGITAL NETWORK
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: ACC DIGITAL NETWORK
 http://cdn.miip.tv:8080/canada/123456/6480
-#EXTINF:-1,XUTV:DOVE CHANNEL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:DOVE CHANNEL
 http://cdn.miip.tv:8080/canada/123456/6471
-#EXTINF:-1,XUTV: SPORT ILUSTRATED
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: SPORT ILUSTRATED
 http://cdn.miip.tv:8080/canada/123456/6474
-#EXTINF:-1,XUTV:PUDDLE JUMPER
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:PUDDLE JUMPER
 http://cdn.miip.tv:8080/canada/123456/6470
-#EXTINF:-1,XUTV: KIDS GENIUS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: KIDS GENIUS
 http://cdn.miip.tv:8080/canada/123456/6469
-#EXTINF:-1,XUTV:MR BEAN FRIENDS
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:MR BEAN FRIENDS
 http://cdn.miip.tv:8080/canada/123456/6468
-#EXTINF:-1,XUTV:BATTERY POP
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV:BATTERY POP
 http://cdn.miip.tv:8080/canada/123456/6467
-#EXTINF:-1,XUTV: AMEBA
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: AMEBA
 http://cdn.miip.tv:8080/canada/123456/6466
-#EXTINF:-1,XUTV: KABILLION
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: KABILLION
 http://cdn.miip.tv:8080/canada/123456/6465
-#EXTINF:-1,XUTV: COOL SCHOOL
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: COOL SCHOOL
 http://cdn.miip.tv:8080/canada/123456/6464
-#EXTINF:-1,XUTV: TOON GOGGLES
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",XUTV: TOON GOGGLES
 http://cdn.miip.tv:8080/canada/123456/6463
-#EXTINF:-1,CINEMA HAPPY MADISON 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMA HAPPY MADISON 24/7
 http://cdn.miip.tv:8080/canada/123456/6944
-#EXTINF:-1,CINEMA PIXARS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMA PIXARS 24/7
 http://cdn.miip.tv:8080/canada/123456/6942
-#EXTINF:-1,CINEMA DREAMWORKS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMA DREAMWORKS 24/7
 http://cdn.miip.tv:8080/canada/123456/6941
-#EXTINF:-1,MOVIE CENTER KIDS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",MOVIE CENTER KIDS 24/7
 http://cdn.miip.tv:8080/canada/123456/6931
-#EXTINF:-1,CINEMA FAMILIAS 24/7
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",CINEMA FAMILIAS 24/7
 http://cdn.miip.tv:8080/canada/123456/6940
-#EXTINF:-1,FOX NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",FOX NY
 http://cdn.miip.tv:8080/canada/123456/3581
-#EXTINF:-1,NBC NY
+#EXTINF:-1, tvg-id="" tvg-logo="" tvg-name=""  group-title="",NBC NY
 http://cdn.miip.tv:8080/canada/123456/3580

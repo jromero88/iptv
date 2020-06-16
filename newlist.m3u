@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:000, tvg-id="WESTWORLDTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/Old-school-westworld-logo-in-chestnut_copy.png/revision/latest/scale-to-width-down/340?cb=20161215111252" tvg-name="24/7: Westworld"  group-title="24/7",24/7: Westworld
-http://thenew.tv:8000/live/Dante/Dante1/168786.m3u8
-
 #EXTINF:002, tvg-id="KCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2"  group-title="Local",CBS 2
 http://doubleagechanmain.com:80/123456/123456/1505
 

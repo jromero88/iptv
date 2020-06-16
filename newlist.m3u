@@ -1,0 +1,326 @@
+#EXTM3U
+
+#EXTINF:000, tvg-id="WESTWORLDTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/Old-school-westworld-logo-in-chestnut_copy.png/revision/latest/scale-to-width-down/340?cb=20161215111252" tvg-name="24/7: Westworld"  group-title="24/7",24/7: Westworld
+http://thenew.tv:8000/live/Dante/Dante1/168786.m3u8
+
+#EXTINF:002, tvg-id="KCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" tvg-name="CBS 2"  group-title="Local",CBS 2
+http://doubleagechanmain.com:80/123456/123456/1505
+
+#EXTINF:004, tvg-id="KNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/KNBC_NBC_4_logo.png" tvg-name="NBC 4"  group-title="Local",NBC 4
+http://doubleagechanmain.com:80/123456/123456/1579
+
+#EXTINF:005, tvg-id="KTLA" tvg-logo="https://gxchat.content.disney.io/freeform/themes/freeform/images/avatar.png" tvg-name="Freeform"  group-title="Local",Freeform
+http://doubleagechanmain.com:80/123456/123456/1538
+
+#EXTINF:007, tvg-id="KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" tvg-name="ABC 7"  group-title="Local",ABC 7
+http://doubleagechanmain.com:80/123456/123456/1483
+
+#EXTINF:011, tvg-id="KTTV" tvg-logo="https://pbs.twimg.com/profile_images/185888803/foxLAnews_400x400.png" tvg-name="FOX 11"  group-title="Local",FOX 11
+http://doubleagechanmain.com:80/123456/123456/1532
+
+#EXTINF:034, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" tvg-name="Univision"  group-title="Local",Univision
+http://207.38.89.242:8080/live/17299/17299/14583.m3u8
+
+#EXTINF:035, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" tvg-name="Unimas"  group-title="Entertainment",Unimas
+http://plus-tv.us:8080/live/10099/10099/14576.ts
+
+#EXTINF:052, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/a/a7/Telemundo_52_2018.png/revision/latest?cb=20190613015335" tvg-name="Telemundo"  group-title="Local",Telemundo
+http://207.38.89.242:8080/live/17299/17299/14580.m3u8
+
+#EXTINF:202, tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN"  group-title="News",CNN
+http://plus-tv.us:8080/live/1899/1899/14637.m3u8
+
+#EXTINF:203, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_de_CNN_en_Espa%C3%B1ol.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol.svg.png" tvg-name="CNN N"  group-title="News",CNN N
+http://thenew.tv:8000/live/Dante/Dante1/2080.m3u8
+
+#EXTINF:206, tvg-id="ESPN" tvg-logo="https://lh3.googleusercontent.com/proxy/vw7IM9UtmCApvvZZNK1Pkgo1XNzFJ28bVdNVhBOeVG91uPc8LLkugLFE7gMWsjdACQIzkHVTW6V6LdcmjJRYIi0374VRcUPfOWQ1UuPOrlA" tvg-name="ESPN"  group-title="Sport",ESPN
+http://plus-tv.us:8080/live/1899/1899/14649.m3u8
+
+#EXTINF:207, tvg-id="ESPNEWS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/espnews.png" tvg-name="ESPN News"  group-title="Sport",ESPN News
+http://207.38.89.242:8080/live/17299/17299/14650.m3u8
+
+#EXTINF:208, tvg-id="ESPNU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" tvg-name="ESPN U"  group-title="Sport",ESPN U
+http://207.38.89.242:8080/live/80706/80706/14651.ts
+
+#EXTINF:209, tvg-id="ESPN2" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" tvg-name="ESPN 2"  group-title="Sport",ESPN 2
+http://thenew.tv:8000/live/Dante/Dante1/235.m3u8
+
+#EXTINF:214, tvg-id="EPG N/A" tvg-logo="https://static.www.nfl.com/image/private/f_auto/league/d5k9hui3mrncxoveow9d" tvg-name="NFL Network"  group-title="Sport",NFL Network
+http://207.38.89.242:8080/live/17299/17299/14663.m3u8
+
+#EXTINF:215, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-owuDiJmYRKo/TvPXuWzB45I/AAAAAAAADXY/qAOckKR7qJo/w1200-h630-p-k-no-nu/NHL+Network+logo+2011.png" tvg-name="NHL Network"  group-title="Sport",NHL Network
+http://thenew.tv:8000/live/Dante/Dante1/299.m3u8
+
+#EXTINF:216, tvg-id="EPG N/A" tvg-logo="https://sc.dish.com/shared/images/station-logos/NBATV.png" tvg-name="NBA TV"  group-title="Sport",NBA TV
+http://thenew.tv:8000/live/Dante/Dante1/288.m3u8
+
+#EXTINF:219, tvg-id="FOXSPORTS1" tvg-logo="https://vignette.wikia.nocookie.net/ex515/images/0/07/FoxSports1.png/revision/latest/scale-to-width-down/340?cb=20150827221448" tvg-name="FOX Sports 1"  group-title="Sport",FOX Sports 1
+http://207.38.89.242:8080/live/17299/17299/14653.m3u8
+
+#EXTINF:220, tvg-id="FOXSPORTS2" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/04/fs2logo.png" tvg-name="FOX Sports 2"  group-title="Sport",FOX Sports 2
+http://thenew.tv:8000/live/Dante/Dante1/256.m3u8
+
+#EXTINF:221, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" tvg-name="NBC Sports Network"  group-title="Sport",NBC Sports Network
+http://cdn.miip.tv:8080/canada/123456/50
+
+#EXTINF:231, tvg-id="FOODNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-name="Food Network"  group-title="Education",Food Network
+http://doubleagechanmain.com:80/123456/123456/1530
+
+#EXTINF:232, tvg-id="FOODNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-name="Food Network"  group-title="Education",Food Network
+http://cdn.miip.tv:8080/canada/123456/110
+
+#EXTINF:237, tvg-id="BRAVO" tvg-logo="https://www.bravotv.com/sites/bravo/themes/custom/reality/logo.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
+http://doubleagechanmain.com:80/123456/123456/1502
+
+#EXTINF:238, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" tvg-name="ReelzChannel"  group-title="Entertainment",ReelzChannel
+http://cdn.miip.tv:8080/canada/123456/3813
+
+#EXTINF:241, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-name="Paramount Network"  group-title="Entertainment",Paramount Network
+http://thenew.tv:8000/live/Dante/Dante1/104561.m3u8
+
+#EXTINF:242, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network"  group-title="Entertainment",USA Network
+http://doubleagechanmain.com:80/123456/123456/1618
+
+#EXTINF:244, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png" tvg-name="Syfy Channel"  group-title="Entertainment",Syfy Channel
+http://thenew.tv:8000/live/Dante/Dante1/104576.m3u8
+
+#EXTINF:245, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" tvg-name="TNT"  group-title="Entertainment",TNT
+http://doubleagechanmain.com:80/123456/123456/1606
+
+#EXTINF:246, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" tvg-name="TruTV"  group-title="Entertainment",TruTV
+http://doubleagechanmain.com:80/123456/123456/1611
+
+#EXTINF:247, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" tvg-name="TBS"  group-title="Entertainment",TBS
+http://thenew.tv:8000/live/Dante/Dante1/104577.m3u8
+
+#EXTINF:248, tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" tvg-name="FX"  group-title="Entertainment",FX
+http://doubleagechanmain.com:80/123456/123456/1541
+
+#EXTINF:249, tvg-id="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central"  group-title="Entertainment",Comedy Central
+http://cdn.miip.tv:8080/canada/123456/1
+
+#EXTINF:251, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest/scale-to-width-down/340?cb=20170801131103" tvg-name="Oxygen"  group-title="Entertainment",Oxygen
+http://doubleagechanmain.com:80/123456/123456/1586
+
+#EXTINF:252, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_2017.svg/revision/latest/scale-to-width-down/340?cb=20170718213910" tvg-name="Lifetime"  group-title="Movies",Lifetime
+http://doubleagechanmain.com:80/123456/123456/1563
+
+#EXTINF:254, tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" tvg-name="AMC"  group-title="Entertainment",AMC
+http://207.38.89.242:8080/live/17299/17299/3681.m3u8
+
+#EXTINF:255, tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" tvg-name="AMC"  group-title="Entertainment",AMC
+http://doubleagechanmain.com:80/123456/123456/1485
+
+#EXTINF:256, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" tvg-name="TCM"  group-title="Movies",TCM
+http://doubleagechanmain.com:80/123456/123456/1612
+
+#EXTINF:258, tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" tvg-name="FX Movie Channel"  group-title="Entertainment",FX Movie Channel
+http://doubleagechanmain.com:80/123456/123456/1543
+
+#EXTINF:259, tvg-id="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="FXX"  group-title="Entertainment",FXX
+http://thenew.tv:8000/live/Dante/Dante1/104529.m3u8
+
+#EXTINF:260, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/340?cb=20181209164308" tvg-name="WE tv"  group-title="Entertainment",WE tv
+http://doubleagechanmain.com:80/123456/123456/1621
+
+#EXTINF:261, tvg-id="DISCOVERYLIFE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Discovery_Life_2016_logo.svg/revision/latest/scale-to-width-down/340?cb=20170826004537" tvg-name="Discovery Life"  group-title="Education",Discovery Life
+http://thenew.tv:8000/live/Dante/Dante1/104602.m3u8
+
+#EXTINF:264, tvg-id="BBCAMERICA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/BBCAmericasquare.png/revision/latest?cb=20160109225206" tvg-name="BBC America"  group-title="Entertainment",BBC America
+http://doubleagechanmain.com:80/123456/123456/1493
+
+#EXTINF:269, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" tvg-name="History Channel"  group-title="Education",History Channel
+http://doubleagechanmain.com:80/123456/123456/1554
+
+#EXTINF:271, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vice_on_TV_logo.svg/1200px-Vice_on_TV_logo.svg.png" tvg-name="Viceland"  group-title="Entertainment",Viceland
+http://cdn.miip.tv:8080/canada/123456/3800
+
+#EXTINF:272, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" tvg-name="Logo"  group-title="Entertainment",Logo
+http://thenew.tv:8000/live/Dante/Dante1/104633.m3u8
+
+#EXTINF:273, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" tvg-name="POP"  group-title="Entertainment",POP
+http://doubleagechanmain.com:80/123456/123456/1590
+
+#EXTINF:276, tvg-id="EPG N/A" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" tvg-name="National Geographic"  group-title="Education",National Geographic
+http://doubleagechanmain.com:80/123456/123456/1578
+
+#EXTINF:278, tvg-id="DISCOVERY" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" tvg-name="Discovery"  group-title="Education",Discovery
+http://plus-tv.us:8080/live/1899/1899/14586.m3u8
+
+#EXTINF:279, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Oprah_Winfrey_Network.svg/revision/latest/scale-to-width-down/340?cb=20170420010759" tvg-name="OWN"  group-title="Entertainment",OWN
+http://doubleagechanmain.com:80/123456/123456/1585
+
+#EXTINF:280, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" tvg-name="TLC"  group-title="Entertainment",TLC
+http://doubleagechanmain.com:80/123456/123456/10935
+
+#EXTINF:282, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png" tvg-name="Animal Planet"  group-title="Education",Animal Planet
+http://doubleagechanmain.com:80/123456/123456/1489
+
+#EXTINF:283, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo WILD"  group-title="Education",Nat Geo WILD
+http://doubleagechanmain.com:80/123456/123456/1577
+
+#EXTINF:284, tvg-id="DISCOVERYSCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" tvg-name="Science"  group-title="Education",Science
+http://thenew.tv:8000/live/Dante/Dante1/104603.m3u8
+
+#EXTINF:285, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" tvg-name="Investigation Discovery"  group-title="Entertainment",Investigation Discovery
+http://thenew.tv:8000/live/Dante/Dante1/104607.m3u8
+
+#EXTINF:289, tvg-id="DISNEYJUNIOR" tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" tvg-name="Disney Junior"  group-title="Kids",Disney Junior
+http://thenew.tv:8000/live/Dante/Dante1/2059.m3u8
+
+#EXTINF:292, tvg-id="DISNEYXD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/340?cb=20171202144958" tvg-name="Disney XD"  group-title="Kids",Disney XD
+http://207.38.89.242:8080/live/17299/17299/14590.m3u8
+
+#EXTINF:294, tvg-id="DISCOVERYFAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1280px-Discovery_Family_logo.svg.png" tvg-name="Discovery Family"  group-title="Education",Discovery Family
+http://plus-tv.us:8080/live/1899/1899/14556.ts
+
+#EXTINF:296, tvg-id="CARTOONNETWORK" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo.png" tvg-name="Cartoon Network East"  group-title="Kids",Cartoon Network East
+http://thenew.tv:8000/live/Dante/Dante1/156.m3u8
+
+#EXTINF:297, tvg-id="CARTOONNETWORK" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-Logo.png" tvg-name="Cartoon Network West"  group-title="Kids",Cartoon Network West
+http://thenew.tv:8000/live/Dante/Dante1/2056.m3u8
+
+#EXTINF:298, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/340?cb=20190430185347" tvg-name="Boomerang"  group-title="Kids",Boomerang
+http://plus-tv.us:8080/live/10099/10099/14626.ts
+
+#EXTINF:299, tvg-id="EPG N/A" tvg-logo="https://1000logos.net/wp-content/uploads/2017/03/Nickelodeon-Logo.png" tvg-name="Nickelodeon"  group-title="Kids",Nickelodeon
+http://thenew.tv:8000/live/Dante/Dante1/93353.m3u8
+
+#EXTINF:301, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" tvg-name="Nick Jr"  group-title="Kids",Nick Jr
+http://thenew.tv:8000/live/Dante/Dante1/212.m3u8
+
+#EXTINF:302, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" tvg-name="Nicktoons"  group-title="Kids",Nicktoons
+http://thenew.tv:8000/live/Dante/Dante1/93358.m3u8
+
+#EXTINF:304, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" tvg-name="TV Land"  group-title="Entertainment",TV Land
+http://thenew.tv:8000/live/Dante/Dante1/104587.m3u8
+
+#EXTINF:312, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png" tvg-name="Hallmark Channel"  group-title="Movies",Hallmark Channel
+http://thenew.tv:8000/live/Dante/Dante1/104536.m3u8
+
+#EXTINF:313, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" tvg-name="Hallmark Drama"  group-title="Movies",Hallmark Drama
+http://plus-tv.us:8080/live/1899/1899/14563.ts
+
+#EXTINF:314, tvg-id="HALLMARKMOVIESMYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" tvg-name="Hallmark Movies & Mysteries"  group-title="Movies",Hallmark Movies & Mysteries
+http://doubleagechanmain.com:80/123456/123456/1552
+
+#EXTINF:328, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png" tvg-name="TV One"  group-title="Entertainment",TV One
+http://doubleagechanmain.com:80/123456/123456/1614
+
+#EXTINF:331, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/7d/a4/67/7da46762ed70634026d066add705e59c.png" tvg-name="MTV"  group-title="Entertainment",MTV
+http://cdn.miip.tv:8080/canada/123456/504
+
+#EXTINF:332, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/MTV2_logo_2005.svg/revision/latest/scale-to-width-down/340?cb=20180304162808" tvg-name="MTV2"  group-title="Entertainment",MTV2
+http://doubleagechanmain.com:80/123456/123456/3862
+
+#EXTINF:333, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/IFC_Logo.svg/revision/latest/scale-to-width-down/340?cb=20161112182354" tvg-name="IFC"  group-title="Movies",IFC
+http://doubleagechanmain.com:80/123456/123456/1556
+
+#EXTINF:335, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-C3Az6AUz4No/TlEDuxQBFqI/AAAAAAAAB90/xJELUfsCEEQ/s325/VH1+logo+2003.png" tvg-name="VH1"  group-title="Music",VH1
+http://doubleagechanmain.com:80/123456/123456/10936
+
+#EXTINF:337, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/a/ab/LOGO_VH1_CLASSIC.svg/revision/latest/scale-to-width-down/340?cb=20180322130330" tvg-name="VH1 Classic"  group-title="Music",VH1 Classic
+http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30969
+
+#EXTINF:340, tvg-id="AXSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" tvg-name="AXS TV"  group-title="Music",AXS TV
+http://cdn.miip.tv:8080/canada/123456/3815
+
+#EXTINF:342, tvg-id="FUSION" tvg-logo="https://4.bp.blogspot.com/-YZc2Bs4CuOg/UY1nNVcTDGI/AAAAAAAAZno/_7nUWeqJNfY/s1600/Fusion+logo+2013.png" tvg-name="Fusion"  group-title="Entertainment",Fusion
+http://doubleagechanmain.com:80/123456/123456/1540
+
+#EXTINF:346, tvg-id="BBCWORLDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/240px-BBC_World_News_2019.svg.png" tvg-name="BBC World News"  group-title="News",BBC World News
+http://doubleagechanmain.com:80/123456/123456/1494
+
+#EXTINF:347, tvg-id="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" tvg-name="Al Jazeera"  group-title="News",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+
+#EXTINF:350, tvg-id="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1200px-Logo_of_C-SPAN.svg.png" tvg-name="C-SPAN"  group-title="News",C-SPAN
+http://doubleagechanmain.com:80/123456/123456/10855
+
+#EXTINF:351, tvg-id="CSPAN2" tvg-logo="https://images.squarespace-cdn.com/content/v1/576425aebe6594afef4c9028/1482456945956-MDZYNDNNZTGZZV82XUHL/ke17ZwdGBToddI8pDm48kFogQcwqahR2CFTvPCvZ1W5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIyBPPlAFQxAPDm_5P1Gmu37QqqMAKweDyLrMJgfI3Z_c/C-SPAN2.png?format=2500w" tvg-name="C-SPAN 2"  group-title="News",C-SPAN 2
+http://doubleagechanmain.com:80/123456/123456/10856
+
+#EXTINF:353, tvg-id="BLOOMBERGTV" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-name="Bloomberg TV"  group-title="Business",Bloomberg TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:355, tvg-id="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-name="CNBC"  group-title="News",CNBC
+http://doubleagechanmain.com:80/123456/123456/1511
+
+#EXTINF:356, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/MSNBC_logo.png" tvg-name="MSNBC"  group-title="News",MSNBC
+http://doubleagechanmain.com:80/123456/123456/1570
+
+#EXTINF:357, tvg-id="CNBCWORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-name="CNBC World"  group-title="News",CNBC World
+http://thenew.tv:8000/live/Dante/Dante1/2079.m3u8
+
+#EXTINF:359, tvg-id="FOXBUSINESSNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" tvg-name="FOX Business Network"  group-title="Business",FOX Business Network
+http://doubleagechanmain.com:80/123456/123456/3864
+
+#EXTINF:360, tvg-id="FOXNEWSCHANNEL" tvg-logo="https://d12jofbmgge65s.cloudfront.net/blog/wp-content/uploads/2019/04/Fox-news-logo.png" tvg-name="FOX News Channel"  group-title="News",FOX News Channel
+http://207.38.89.242:8080/live/17299/17299/14620.m3u8
+
+#EXTINF:361, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-name="Weather Nation"  group-title="Weather",Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+
+#EXTINF:362, tvg-id="EPG N/A" tvg-logo="https://s.w-x.co/240x180_twc_default.png" tvg-name="The Weather Channel"  group-title="Weather",The Weather Channel
+http://plus-tv.us:8080/live/1899/1899/14572.m3u8
+
+#EXTINF:402, tvg-id="EPG N/A" tvg-logo="https://pmcdeadline2.files.wordpress.com/2020/02/uci_vt_pos_r_lrg_flt_4c.png?w=681&h=383&crop=1" tvg-name="Univision East"  group-title="Entertainment",Univision East
+http://cdn.miip.tv:8080/canada/123456/317
+
+#EXTINF:404, tvg-id="GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" tvg-name="Galavision"  group-title="Entertainment",Galavision
+http://cdn.miip.tv:8080/canada/123456/481
+
+#EXTINF:410, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/NBC_Universo_logo.svg/1200px-NBC_Universo_logo.svg.png" tvg-name="NBC Universo"  group-title="Entertainment",NBC Universo
+http://207.38.89.242:8080/live/17299/17299/14584.m3u8
+
+#EXTINF:501, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" tvg-name="HBO"  group-title="Movies",HBO
+http://207.38.89.242:8080/live/17299/17299/14635.m3u8
+
+#EXTINF:502, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" tvg-name="HBO 2"  group-title="Movies",HBO 2
+http://207.38.89.242:8080/live/17299/17299/5111.m3u8
+
+#EXTINF:506, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" tvg-name="HBO Comedy"  group-title="Movies",HBO Comedy
+http://plus-tv.us:8080/live/1899/1899/14624.m3u8
+
+#EXTINF:507, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/HBO_Family.svg/revision/latest/scale-to-width-down/340?cb=20100321192403" tvg-name="HBO Family"  group-title="Movies",HBO Family
+http://cdn.miip.tv:8080/canada/123456/135
+
+#EXTINF:511, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/HBO_Latino.svg/revision/latest/scale-to-width-down/340?cb=20100622205529" tvg-name="HBO Latino"  group-title="Movies",HBO Latino
+http://cdn.miip.tv:8080/canada/123456/3519
+
+#EXTINF:523, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
+http://cdn.miip.tv:8080/canada/123456/3716
+
+#EXTINF:557, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" tvg-name="SundanceTV"  group-title="Entertainment",SundanceTV
+http://thenew.tv:8000/live/Dante/Dante1/104574.m3u8
+
+#EXTINF:695, tvg-id="ARIRANGTV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" tvg-name="Arirang TV"  group-title="Entertainment",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+
+#EXTINF:701, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" tvg-name="La 1"  group-title="Spain",La 1
+http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/183482
+
+#EXTINF:702, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ea/TVE-2.svg/revision/latest/scale-to-width-down/340?cb=20171031195158" tvg-name="La 2"  group-title="Spain",La 2
+http://mitv.me:8000/borja/123456/6
+
+#EXTINF:703, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Antena3_Atresmedia.png/275px-Antena3_Atresmedia.png" tvg-name="Antena 3"  group-title="Spain",Antena 3
+http://mitv.me:8000/borja/123456/10
+
+#EXTINF:704, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" tvg-name="Cuatro"  group-title="Spain",Cuatro
+http://plus-tv.us:8080/live/1899/1899/16353.ts
+
+#EXTINF:705, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Telecinco_2012.svg/1200px-Telecinco_2012.svg.png" tvg-name="Telecinco"  group-title="Spain",Telecinco
+http://mitv.me:8000/borja/123456/15
+
+#EXTINF:706, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1200px-La_Sexta_%28A3M%29.svg.png" tvg-name="La Sexta"  group-title="Spain",La Sexta
+http://mitv.me:8000/borja/123456/19
+
+#EXTINF:810, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" tvg-name="TEN Canal 10"  group-title="Honduras",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
+
+#EXTINF:840, tvg-id="ADN40" tvg-logo="https://www.adn40.mx/images/adn40.png" tvg-name="ADN 40"  group-title="Mexico",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
+#EXTINF:847, tvg-id="CANALONCE" tvg-logo="https://seeklogo.com/images/O/once-mexico-logo-395EEFB8F0-seeklogo.com.png" tvg-name="Canal Once"  group-title="News",Canal Once
+http://207.38.89.242:8080/live/17299/17299/16441.m3u8
+

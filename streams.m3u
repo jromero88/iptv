@@ -1,124 +1,28 @@
 #EXTM3U
 
 
-#####CARTOONS#####
 
-#EXTINF:-1,247-ANIMANIACS
-http://ok2.se:8000/Mackenzie/Mackenzie/67832
-#EXTINF:-1,247-BATMAN
-http://ok2.se:8000/Mackenzie/Mackenzie/67835
-#EXTINF:-1,247-BEAVIS AND BUTTHEAD
-http://ok2.se:8000/Mackenzie/Mackenzie/67831
-#EXTINF:-1,247-DARK WING DUCK
-http://ok2.se:8000/Mackenzie/Mackenzie/67830
-#EXTINF:-1,247-DEXTERS LABORATORY
-http://ok2.se:8000/Mackenzie/Mackenzie/67828
-#EXTINF:-1,247-DISNEY SHORTS
-http://ok2.se:8000/Mackenzie/Mackenzie/67841
-#EXTINF:-1,247-DRAGON BALL Z (1)
-http://ok2.se:8000/Mackenzie/Mackenzie/67843
-#EXTINF:-1,247-DRAGON BALL Z (2)
-http://ok2.se:8000/Mackenzie/Mackenzie/67834
-#EXTINF:-1,247-DUCK TALES
-http://ok2.se:8000/Mackenzie/Mackenzie/67829
-#EXTINF:-1,247-FLINTSTONES
-http://ok2.se:8000/Mackenzie/Mackenzie/67844
-#EXTINF:-1,247-HE MAN
-http://ok2.se:8000/Mackenzie/Mackenzie/67845
-#EXTINF:-1,247-JEFFERSONS
-http://ok2.se:8000/Mackenzie/Mackenzie/67822
-#EXTINF:-1,247-LOONEY TUNES
-http://ok2.se:8000/Mackenzie/Mackenzie/67846
-#EXTINF:-1,247-PAW PATROL
-http://ok2.se:8000/Mackenzie/Mackenzie/67849
-#EXTINF:-1,247-PEPPA PIG
-http://ok2.se:8000/Mackenzie/Mackenzie/67848
-#EXTINF:-1,247-POKEMON
-http://ok2.se:8000/Mackenzie/Mackenzie/67840
-#EXTINF:-1,247-POPEYE
-http://ok2.se:8000/Mackenzie/Mackenzie/67838
-#EXTINF:-1,247-RICK&MORTY
+#EXTINF:-1,tvg-name="Rick & Morty" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png",24/7 - Rick & Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-#EXTINF:-1,247-ROCKY AND BULLWINKLE
-http://ok2.se:8000/Mackenzie/Mackenzie/68270
-#EXTINF:-1,247-RUGRATS
-http://ok2.se:8000/Mackenzie/Mackenzie/67836
-#EXTINF:-1,247-SCOOBY DOO
-http://ok2.se:8000/Mackenzie/Mackenzie/67847
-#EXTINF:-1,247-SPIDERMAN
-http://ok2.se:8000/Mackenzie/Mackenzie/67839
-#EXTINF:-1,247-TMNT
-http://ok2.se:8000/Mackenzie/Mackenzie/72959
 
-#####RETRO TV SHOWS#####
+#EXTINF:-1,tvg-name="Robot Chicken" tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg",24/7 - Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
 
-#EXTINF:-1,247-21 JUMP STREET
-http://ok2.se:8000/Mackenzie/Mackenzie/67801
-#EXTINF:-1,247-70'S SHOW
-http://ok2.se:8000/Mackenzie/Mackenzie/67794
-#EXTINF:-1,247-ALL IN THE FAMILY
-http://ok2.se:8000/Mackenzie/Mackenzie/67799
-#EXTINF:-1,247-BEVERLY HILLBILLIES
-http://ok2.se:8000/Mackenzie/Mackenzie/67820
-#EXTINF:-1,247-BEVERLY HILLS 90210
-http://ok2.se:8000/Mackenzie/Mackenzie/67821
-#EXTINF:-1,247-BEWITCHED
-http://ok2.se:8000/Mackenzie/Mackenzie/67810
-#EXTINF:-1,247-CHEERS
-http://ok2.se:8000/Mackenzie/Mackenzie/67819
-#EXTINF:-1,247-DEADLIEST CATCH
-http://ok2.se:8000/Mackenzie/Mackenzie/67798
-#EXTINF:-1,247-DUKES OF HAZARD
-http://ok2.se:8000/Mackenzie/Mackenzie/67826
-#EXTINF:-1,247-FAMILY MATTERS
-http://ok2.se:8000/Mackenzie/Mackenzie/67808
-#EXTINF:-1,247-FAMILY TIES
-http://ok2.se:8000/Mackenzie/Mackenzie/67809
-#EXTINF:-1,247-FRASIER
-http://ok2.se:8000/Mackenzie/Mackenzie/67796
-#EXTINF:-1,247-FRESH PRINCE
-http://ok2.se:8000/Mackenzie/Mackenzie/68271
-#EXTINF:-1,247-FRIENDS
-http://ok2.se:8000/Mackenzie/Mackenzie/67818
-#EXTINF:-1,247-GET SMART
-http://ok2.se:8000/Mackenzie/Mackenzie/67805
-#EXTINF:-1,247-GILLIGAN'S ISLAND
-http://ok2.se:8000/Mackenzie/Mackenzie/67793
-#EXTINF:-1,247-GOLDEN GIRLS
-http://ok2.se:8000/Mackenzie/Mackenzie/67804
-#EXTINF:-1,247-HAPPY DAYS
-http://ok2.se:8000/Mackenzie/Mackenzie/67813
-#EXTINF:-1,247-HOME IMPROVEMENT
-http://ok2.se:8000/Mackenzie/Mackenzie/67823
-#EXTINF:-1,247-I DREAM OF JEANNIE
-http://ok2.se:8000/Mackenzie/Mackenzie/67817
-#EXTINF:-1,247-I LOVE LUCY
-http://ok2.se:8000/Mackenzie/Mackenzie/67824
-#EXTINF:-1,247-KNIGHTRIDER
-http://ok2.se:8000/Mackenzie/Mackenzie/67814
-#EXTINF:-1,247-MASH
-http://ok2.se:8000/Mackenzie/Mackenzie/67811
-#EXTINF:-1,247-MELROSE PLACE
-http://ok2.se:8000/Mackenzie/Mackenzie/67803
-#EXTINF:-1,247-MORK AND MINDY
-http://ok2.se:8000/Mackenzie/Mackenzie/67807
-#EXTINF:-1,247-MURPHY BROWN
-http://ok2.se:8000/Mackenzie/Mackenzie/67812
-#EXTINF:-1,247-NIGHT COURT
-http://ok2.se:8000/Mackenzie/Mackenzie/67825
-#EXTINF:-1,247-SCRUBS
-http://ok2.se:8000/Mackenzie/Mackenzie/67795
-#EXTINF:-1,247-SEINFELD
-http://ok2.se:8000/Mackenzie/Mackenzie/67816
-#EXTINF:-1,247-SPONGEBOB
-http://ok2.se:8000/Mackenzie/Mackenzie/67842
-#EXTINF:-1,247-STAND UP COMEDY
-http://ok2.se:8000/Mackenzie/Mackenzie/67797
-#EXTINF:-1,247-THE JETSONS
-http://ok2.se:8000/Mackenzie/Mackenzie/67833
-#EXTINF:-1,247-THE SIX MILLION DOLLAR MAN
-http://ok2.se:8000/Mackenzie/Mackenzie/72961
-#EXTINF:-1,247-WKRP
-http://ok2.se:8000/Mackenzie/Mackenzie/72962
-#EXTINF:-1,247-WONDER WOMAN
-http://ok2.se:8000/Mackenzie/Mackenzie/72960
+#EXTINF:-1,tvg-name="Squidbillies" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg",24/7 - Squidbillies
+https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="Superjail" tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg",24/7 - Superjail!
+https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="The Eric Andre Show" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png",24/7 - The Eric Andre Show
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="The Venture Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/The_Venture_Bros_logo.svg/1200px-The_Venture_Bros_logo.svg.png",24/7 - The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="Tim and Eric" tvg-logo="http://channelpear.com/images/media/4874.png",24/7 - Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png",24/7 - Williams Stream
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
+

@@ -354,6 +354,12 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848
 #EXTINF:840, tvg-id="ADN40" tvg-logo="https://www.adn40.mx/images/adn40.png" tvg-name="ADN 40"  group-title="Mexico",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 
+#EXTINF:840, tvg-id="azteca7.mx" tvg-logo="" tvg-name="Azteca 7"  group-title="Mexico",Azteca 7
+http://cdn.miip.tv:8080/canada/123456/49
+
+
+#EXTINF:840, tvg-id="EPG123.28440.XMLTV.CO" tvg-logo="" tvg-name="Mexiquese"  group-title="Mexico",Mexiquese
+http://cdn.miip.tv:8080/canada/123456/51
+
 #EXTINF:847, tvg-id="CANALONCE" tvg-logo="https://seeklogo.com/images/O/once-mexico-logo-395EEFB8F0-seeklogo.com.png" tvg-name="Canal Once"  group-title="News",Canal Once
 http://207.38.89.242:8080/live/17299/17299/16441.m3u8
-

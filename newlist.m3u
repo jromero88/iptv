@@ -73,6 +73,15 @@ http://cdn.miip.tv:8080/canada/123456/43
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="KLCS-TV"  group-title="Local",KLCS
 https://d1mxoeplf1ak5a.cloudfront.net/indexKLCS_720.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Comet"  group-title="Local",COMET TV Sci-fi Network
+https://content-ause2.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/e.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=33e063fe023041cea25d182ca0075964
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Buzzr"  group-title="Local",BUZZR
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Charge"  group-title="Local",Charge
+https://content-ause1-up-5.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=33206e11cfe54208bd27c61caa6ed0d4
+
 #EXTINF:202, tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN"  group-title="News",CNN
 http://plus-tv.us:8080/live/1899/1899/14637.m3u8
 

@@ -8,7 +8,7 @@ http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/132.m3u8
 http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/133.m3u8
 
 #EXTINF:002, tvg-id="KCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS 2"  group-title="Local",CBS 2
-#http://doubleagechanmain.com:80/123456/123456/1505
+https://usb.bozztv.com/ssh101/cbsss/index.m3u8
 
 #EXTINF:002, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS Miami"  group-title="Local",CBS Miami
 http://plus-tv.us:8080/live/10099/10099/14636.ts
@@ -32,7 +32,10 @@ http://cdn.miip.tv:8080/canada/123456/3580
 https://content-ause1-up-5.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c/g.m3u8?ad=newktla&rays=gdbcef&ad.description_url=https://www.ktla.com&ad.tfcd=0&ad.pp=livestream-verizon&pbs=c8d331edc3ee40b4b395bb6277671d56
 
 #EXTINF:007, tvg-id="KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" tvg-name="ABC 7"  group-title="Local",ABC 7
-#http://doubleagechanmain.com:80/123456/123456/1483
+https://ul.cdn946.net:8443/hls/d75fu9l.m3u8?s=CJDLTmm_2vXd6I3eFpkt9A&e=1592515821
+
+#EXTINF:007, tvg-id="KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" tvg-name="ABC 10"  group-title="Local",ABC 10
+http://nginx.cestrm.xyz:8080/hls/streama117998/index.m3u8
 
 #EXTINF:007, tvg-id="KABC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/ABC_logo.svg/revision/latest/scale-to-width-down/340?cb=20190623200049" tvg-name="ABC NY"  group-title="Local",ABC NY
 http://cdn.miip.tv:8080/canada/123456/3782

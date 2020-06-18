@@ -23,6 +23,8 @@ https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
 #EXTINF:-1,tvg-name="Tim and Eric" tvg-logo="http://channelpear.com/images/media/4874.png",24/7 - Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_7.m3u8
 
-#EXTINF:-1,tvg-name="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png",24/7 - Williams Stream
+#EXTINF:-1,tvg-name="Williams Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png",24/7 - Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 
+#EXTINF:-1,tvg-name="Mr Bean" tvg-logo="",24/7 - Mr Bean
+https://youtu.be/Ue0xaq1Q-B4

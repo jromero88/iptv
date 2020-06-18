@@ -47,7 +47,7 @@ http://plus-tv.us:8080/live/10099/10099/14621.ts
 http://cdn.miip.tv:8080/canada/123456/3581
 
 #EXTINF:034, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" tvg-name="Univision"  group-title="Local",Univision
-#http://207.38.89.242:8080/live/17299/17299/14583.m3u8
+https://usapr-i.akamaihd.net/hls/live/702697/kmex/826k/master.m3u8
 
 #EXTINF:034, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" tvg-name="Univision"  group-title="Local",Univision West
 http://cdn.miip.tv:8080/canada/123456/4217

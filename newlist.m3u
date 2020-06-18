@@ -1,11 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO LA
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/132
 
-#EXTINF:-1, tvg-id="HBO" tvg-logo="" tvg-name="HBO" group-title="Latino",HBO
-http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/132.m3u8
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO 2
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/133
 
-#EXTINF:-1, tvg-id="HBO2" tvg-logo="" tvg-name="HBO2" group-title="Latino",HBO2
-http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/133.m3u8
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO Plus
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/134
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO Family
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/135
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO Signature
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/136
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO Xtreme
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/137
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO Mundi
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/138
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",HBO POP
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/139
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",FOX Cinema
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/140
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",FOX Comedy
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/141
+
+#EXTINF:-1, tvg-logo=""group-title="Movies",FOX Family
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/142
 
 #EXTINF:002, tvg-id="KCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS 2"  group-title="Local",CBS 2
 https://usb.bozztv.com/ssh101/cbsss/index.m3u8

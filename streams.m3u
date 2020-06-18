@@ -28,3 +28,6 @@ http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_7.m3u8
 
 #EXTINF:-1,tvg-name="Mr Bean" tvg-logo="",24/7 - Mr Bean
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592506799/ei/T2XrXqjNKZLjkgbO5r_ADA/ip/172.90.186.218/id/Ue0xaq1Q-B4.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIlLEUR_rkatT06FcINd5KIl5IFQuYL97S24Td5zYzrmAiEAmhhZZbLPfX-LNyagsQYth0J-ukrqlqD9g0WKQe1t6Vc%3D/file/index.m3u8
+
+#EXTINF:-1,tvg-name="Tom & Jerry" tvg-logo="",24/7 - Tom & Jerry
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592507094/ei/dmbrXsWKF-iHsfIPwcS00AE/ip/172.90.186.218/id/BRkQ-ZGiNbc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLEQBACJ5RiW6UqNBxa_HQvAnANksGSHWMWhi5cBamzACIEaavgFquXcnLAx6WvyvSdkEuvuqWb0LXYMLIvDl66uz/file/index.m3u8

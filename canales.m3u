@@ -367,6 +367,9 @@ http://156.96.44.13:25461/mitv2020/tGJI1xufdr/108
 http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/10
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",MEXIQUENSE
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w327294768.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",MEXIQUENSE
 http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/7
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",TVC MX
@@ -374,6 +377,9 @@ http://156.96.44.13:25461/mitv2020/tGJI1xufdr/29
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",FORO TV
 http://156.96.44.13:25461/mitv2020/tGJI1xufdr/31
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",Canal Once
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w2118510085_b1000000_slesp.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",ONCE TV
 http://156.96.44.13:25461/mitv2020/tGJI1xufdr/25

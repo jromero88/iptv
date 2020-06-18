@@ -82,103 +82,133 @@ http://156.96.44.13:25461/mitv2020/tGJI1xufdr/141
 http://156.96.44.13:25461/mitv2020/tGJI1xufdr/142
 
 
-#---Locales---#
+#---Network Local---#
 
-#EXTINF:002, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS 2"  group-title="Local",CBS 2
-https://usb.bozztv.com/ssh101/cbsss/index.m3u8
 
-#EXTINF:005, tvg-logo="" group-title="Local",KTLA5
-https://content-ause1-up-5.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c/g.m3u8?ad=newktla&rays=gdbcef&ad.description_url=https://www.ktla.com&ad.tfcd=0&ad.pp=livestream-verizon&pbs=c8d331edc3ee40b4b395bb6277671d56
-
-#EXTINF:007, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 7
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 5
 https://ul.cdn946.net:8443/hls/d75fu9l.m3u8?s=CJDLTmm_2vXd6I3eFpkt9A&e=1592515821
 
-#EXTINF:007, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 10
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 10
 http://nginx.cestrm.xyz:8080/hls/streama117998/index.m3u8
 
-#EXTINF:011, tvg-logo="https://pbs.twimg.com/profile_images/185888803/foxLAnews_400x400.png" group-title="Local",FOX 11
-https://dcs-live.apis.anvato.net/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-2&anvsid=i178782526-n1a626dc2-931d-4a8b-88de-ce541aaa3faf&ts=1592488002&anvtrid=wf4e21943b8bc43c2950865c576cc5e7
-
-#EXTINF:034, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" group-title="Local",Univision
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" group-title="Local",Univision
 https://usapr-i.akamaihd.net/hls/live/702697/kmex/826k/master.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Local",KLCS
 https://d1mxoeplf1ak5a.cloudfront.net/indexKLCS_720.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="Local",COMET TV Sci-fi Network
-https://content-ause2.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/e.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=33e063fe023041cea25d182ca0075964
-
 #EXTINF:-1, tvg-logo="" group-title="Local",BUZZR
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="Local",Charge
-https://content-ause1-up-5.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=33206e11cfe54208bd27c61caa6ed0d4
 
 
 #---Niños---#
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",CARTOON NETWORK
+#EXTINF:-1, tvg-logo="" group-title="Kids",Cartoon Network
 http://89.105.194.59:25461/1toonqql/1toonqql/58
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",TOONCAST
+#EXTINF:-1, tvg-logo="" group-title="Kids",Tooncast
 http://89.105.194.59:25461/1toonqql/1toonqql/64
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",BOOMERANG
+#EXTINF:-1, tvg-logo="" group-title="Kids",Boomerang
 http://89.105.194.59:25461/2toonp74/2toonp74/62
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",DISNEY XD
+#EXTINF:-1, tvg-logo="" group-title="Kids",Disney XD
 http://89.105.194.59:25461/1toonqql/1toonqql/59
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",DISNEY JUNIOR
+#EXTINF:-1, tvg-logo="" group-title="Kids",Disney Junior
 http://89.105.194.59:25461/2toonp74/2toonp74/60
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",NICK
+#EXTINF:-1, tvg-logo="" group-title="Kids",Nickelodeon
 http://89.105.194.59:25461/1toonqql/1toonqql/61
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",NICK 2
+#EXTINF:-1, tvg-logo="" group-title="Kids",Nickelodeon 2
 http://89.105.194.59:25461/2toonp74/2toonp74/67
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",NICKTOONS
+#EXTINF:-1, tvg-logo="" group-title="Kids",Nicktoons
 http://89.105.194.59:25461/2toonp74/2toonp74/66
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",DISCOVERY KIDS
+#EXTINF:-1, tvg-logo="" group-title="Kids",Discovery Kids
 http://89.105.194.59:25461/1toonqql/1toonqql/63
 
-#EXTINF:-1, tvg-logo="" group-title="Kids",NATGEO KIDS
+#EXTINF:-1, tvg-logo="" group-title="Kids",Nat Geo Kids
 http://89.105.194.59:25461/2toonp74/2toonp74/65
 
 
 #---Noticias---#
 
-#EXTINF:347, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="News",Al Jazeera
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="News",Al Jazeera
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 
 
 #---Negocios---#
 
-#EXTINF:353, tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
+#EXTINF:-1, tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
 
 #---Entretenimiento---#
 
-#EXTINF:695, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
 
 #---España---#
 
-#EXTINF:701, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="Spain",La 1
-http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/183482
 
 
 #---Honduras---#
 
-#EXTINF:810, tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Honduras",TEN Canal 10
+#EXTINF:-1, tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Honduras",TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
 
 
 #---Mexico---#
 
-#EXTINF:840, tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="Mexico",ADN 40
+#EXTINF:-1, tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="Mexico",ADN 40
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",ADN4 0 (Opt-2)
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/30
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",TVC MX
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/29
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",FORO TV
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/31
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",ONCE TV
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/25
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",DISTRITO COMEDIA
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/33
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CORAZON
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/34
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CINEMA
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/73
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ MUNDO
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/76
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CLIC
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/108
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AXN
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/35
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",TLNovelas
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/40
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",MORBIDO
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/53
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",DE PELICULA
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/54
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",DE PELICULA Plus
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/68
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",CINECANAL
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/72
+

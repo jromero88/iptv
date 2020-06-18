@@ -1,0 +1,184 @@
+#EXTM3U
+
+
+#---24-7 Series---#
+
+#EXTINF:-1,tvg-name="Rick & Morty" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/11/29/RAM_PORTAL_LOCK_UP.png" group-title="24/7",Series - Rick & Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+
+#EXTINF:-1,tvg-name="Los Simpsons" tvg-logo="https://i.ya-webdesign.com/images/simpsons-png.png" group-title="24/7",Series - Los Simpsons
+http://89.105.194.59:25461/3toomyt/3toomyt/68
+
+#EXTINF:-1,tvg-name="Dragon Ball" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/db_goldenwarrior.png" group-title="24/7",Series - Dragon Ball
+http://89.105.194.59:25461/3toomyt/3toomyt/69
+
+#EXTINF:-1,tvg-name="Mr Bean" tvg-logo="https://pbs.twimg.com/profile_images/537867024920113152/ENatnQMa_400x400.png" group-title="24/7",Series - Mr Bean
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592519551/ei/H5frXpaNLLGKsfIPz9GEqAo/ip/172.90.186.218/id/mVH3pAQrBDI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXaGohHKJtOEnM2SRK0vDIeLgDpERnaDuzhJdaUAtzMMCIDNNDSAUiUAma9Vfrw8R_kMZoGWtztiT7tb4T-O7z77T/file/index.m3u8
+
+#EXTINF:-1,tvg-name="Tom & Jerry" tvg-logo="https://wordbite.com/images/books/coverpage/1832.png" group-title="24/7",Series - Tom & Jerry
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592507094/ei/dmbrXsWKF-iHsfIPwcS00AE/ip/172.90.186.218/id/BRkQ-ZGiNbc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLEQBACJ5RiW6UqNBxa_HQvAnANksGSHWMWhi5cBamzACIEaavgFquXcnLAx6WvyvSdkEuvuqWb0LXYMLIvDl66uz/file/index.m3u8
+
+#EXTINF:-1,tvg-name="The Fairly OddParents" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/f6/The_Fairly_OddParents_logo_with_the_main_characters.png" group-title="24/7",Series - The Fairly OddParents
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592519711/ei/v5frXvBu05STBvuuo-gG/ip/172.90.186.218/id/n-7Okof_3DE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCtL4zrzbVEhIXcOwzl1sCZlQI6itUaG3_gPXWLzZ3TUCIEqKYCwB2QJeplZsQrRwyD5Yvpv-sQvUU_dQ2Yye1mi8/file/index.m3u8
+
+
+#---24-7 Peliculas---#
+
+#EXTINF:-1, tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="24/7",Peliculas - Retro TV
+http://hlsdpi-chqtx03.totalstream.net/hlslive/247retro/ret/dai/7484807815/0/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/tracks-v1a1/index-1592497682-now.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Drive-in Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/tracks-v1a1/index-1592497850-now.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/index-1592497943-now.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/tracks-v1a1/index-1592498010-now.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Nostalgia Movie Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/tracks-v1a1/index-1592498129-now.m3u8
+
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Western Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/tracks-v1a1/index-1592498208-now.m3u8
+
+
+#---Peliculas---#
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO LA
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/132
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO 2
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/133
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Plus
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/134
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Family
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/135
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Signature
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/136
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Xtreme
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/137
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Mundi
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/138
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO POP
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/139
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",FOX Cinema
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/140
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",FOX Comedy
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/141
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",FOX Family
+http://156.96.44.13:25461/mitv2020/tGJI1xufdr/142
+
+
+#---Locales---#
+
+#EXTINF:002, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS 2"  group-title="Local",CBS 2
+https://usb.bozztv.com/ssh101/cbsss/index.m3u8
+
+#EXTINF:005, tvg-logo="" group-title="Local",KTLA5
+https://content-ause1-up-5.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c/g.m3u8?ad=newktla&rays=gdbcef&ad.description_url=https://www.ktla.com&ad.tfcd=0&ad.pp=livestream-verizon&pbs=c8d331edc3ee40b4b395bb6277671d56
+
+#EXTINF:007, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 7
+https://ul.cdn946.net:8443/hls/d75fu9l.m3u8?s=CJDLTmm_2vXd6I3eFpkt9A&e=1592515821
+
+#EXTINF:007, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 10
+http://nginx.cestrm.xyz:8080/hls/streama117998/index.m3u8
+
+#EXTINF:011, tvg-logo="https://pbs.twimg.com/profile_images/185888803/foxLAnews_400x400.png" group-title="Local",FOX 11
+https://dcs-live.apis.anvato.net/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-2&anvsid=i178782526-n1a626dc2-931d-4a8b-88de-ce541aaa3faf&ts=1592488002&anvtrid=wf4e21943b8bc43c2950865c576cc5e7
+
+#EXTINF:034, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Univision_34_2019.png/revision/latest?cb=20190610050810" group-title="Local",Univision
+https://usapr-i.akamaihd.net/hls/live/702697/kmex/826k/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Local",KLCS
+https://d1mxoeplf1ak5a.cloudfront.net/indexKLCS_720.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Local",COMET TV Sci-fi Network
+https://content-ause2.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a/e.m3u8?tc=1&exp=1614631202&rn=1156942286&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5ddba8e8016ce06ed1c5f4b24b948705f771a12d3008729bdee3c3cedd8c8f19&pbs=33e063fe023041cea25d182ca0075964
+
+#EXTINF:-1, tvg-logo="" group-title="Local",BUZZR
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Local",Charge
+https://content-ause1-up-5.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=33206e11cfe54208bd27c61caa6ed0d4
+
+
+#---Niños---#
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",CARTOON NETWORK
+http://89.105.194.59:25461/1toonqql/1toonqql/58
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",TOONCAST
+http://89.105.194.59:25461/1toonqql/1toonqql/64
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",BOOMERANG
+http://89.105.194.59:25461/2toonp74/2toonp74/62
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",DISNEY XD
+http://89.105.194.59:25461/1toonqql/1toonqql/59
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",DISNEY JUNIOR
+http://89.105.194.59:25461/2toonp74/2toonp74/60
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",NICK
+http://89.105.194.59:25461/1toonqql/1toonqql/61
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",NICK 2
+http://89.105.194.59:25461/2toonp74/2toonp74/67
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",NICKTOONS
+http://89.105.194.59:25461/2toonp74/2toonp74/66
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",DISCOVERY KIDS
+http://89.105.194.59:25461/1toonqql/1toonqql/63
+
+#EXTINF:-1, tvg-logo="" group-title="Kids",NATGEO KIDS
+http://89.105.194.59:25461/2toonp74/2toonp74/65
+
+
+#---Noticias---#
+
+#EXTINF:347, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" group-title="News",Al Jazeera
+https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
+
+
+#---Negocios---#
+
+#EXTINF:353, tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+
+#---Entretenimiento---#
+
+#EXTINF:695, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
+
+
+#---España---#
+
+#EXTINF:701, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png" group-title="Spain",La 1
+http://s1.mekon.in:8880/bktsiptvcom/w1ELI8YccV/183482
+
+
+#---Honduras---#
+
+#EXTINF:810, tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="Honduras",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1969563977_b1848000.m3u8
+
+
+#---Mexico---#
+
+#EXTINF:840, tvg-logo="https://www.adn40.mx/images/adn40.png" group-title="Mexico",ADN 40
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8

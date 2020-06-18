@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:-1,tvg-name="Retro TV" tvg-logo="",24/7 - Retro TV
+http://hlsdpi-chqtx03.totalstream.net/hlslive/247retro/ret/dai/7484807815/0/chunklist.m3u8
 
 #EXTINF:-1,tvg-name="Rick & Morty" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png",24/7 - Rick & Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8

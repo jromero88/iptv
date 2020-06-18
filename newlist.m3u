@@ -82,6 +82,36 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Charge"  group-title="Local",Charge
 https://content-ause1-up-5.uplynk.com/channel/37eb732888614810b512fdd82604244e/g.m3u8?tc=1&exp=1614631202&rn=528705889&ct=c&cid=37eb732888614810b512fdd82604244e&ad=charge&repl=aboi&ad.adUnit=%2FCHARGE%2FLivestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=596abbe61f64d7aee834b410de6f14788c26ccd05d2fc7962d0b51f1bd507828&pbs=33206e11cfe54208bd27c61caa6ed0d4
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Cartoon Network"  group-title="Kids",CARTOON NETWORK
+http://89.105.194.59:25461/1toonqql/1toonqql/58
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Tooncast"  group-title="Kids",TOONCAST
+http://89.105.194.59:25461/1toonqql/1toonqql/64
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Boomerang"  group-title="Kids",BOOMERANG
+http://89.105.194.59:25461/2toonp74/2toonp74/62
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Disney XD"  group-title="Kids",DISNEY XD
+http://89.105.194.59:25461/1toonqql/1toonqql/59
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Disney Junior"  group-title="Kids",DISNEY JUNIOR
+http://89.105.194.59:25461/2toonp74/2toonp74/60
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Nick"  group-title="Kids",NICK
+http://89.105.194.59:25461/1toonqql/1toonqql/61
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Nick 2"  group-title="Kids",NICK 2
+http://89.105.194.59:25461/2toonp74/2toonp74/67
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Nicktoons"  group-title="Kids",NICKTOONS
+http://89.105.194.59:25461/2toonp74/2toonp74/66
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="Discovery Kids"  group-title="Kids",DISCOVERY KIDS
+http://89.105.194.59:25461/1toonqql/1toonqql/63
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="NATGEO KIDS"  group-title="Kids",NATGEO KIDS
+http://89.105.194.59:25461/2toonp74/2toonp74/65
+
 #EXTINF:202, tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN"  group-title="News",CNN
 http://plus-tv.us:8080/live/1899/1899/14637.m3u8
 
@@ -118,14 +148,8 @@ http://thenew.tv:8000/live/Dante/Dante1/256.m3u8
 #EXTINF:221, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/1200px-NBC_Sports_2012.svg.png" tvg-name="NBC Sports Network"  group-title="Sport",NBC Sports Network
 http://cdn.miip.tv:8080/canada/123456/50
 
-#EXTINF:231, tvg-id="FOODNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-name="Food Network"  group-title="Education",Food Network
-#http://doubleagechanmain.com:80/123456/123456/1530
-
 #EXTINF:232, tvg-id="FOODNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" tvg-name="Food Network"  group-title="Education",Food Network
 http://cdn.miip.tv:8080/canada/123456/110
-
-#EXTINF:237, tvg-id="BRAVO" tvg-logo="https://www.bravotv.com/sites/bravo/themes/custom/reality/logo.png" tvg-name="Bravo"  group-title="Entertainment",Bravo
-http://doubleagechanmain.com:80/123456/123456/1502
 
 #EXTINF:238, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" tvg-name="ReelzChannel"  group-title="Entertainment",ReelzChannel
 http://cdn.miip.tv:8080/canada/123456/3813
@@ -133,59 +157,23 @@ http://cdn.miip.tv:8080/canada/123456/3813
 #EXTINF:241, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" tvg-name="Paramount Network"  group-title="Entertainment",Paramount Network
 http://thenew.tv:8000/live/Dante/Dante1/104561.m3u8
 
-#EXTINF:242, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network"  group-title="Entertainment",USA Network
-http://doubleagechanmain.com:80/123456/123456/1618
-
 #EXTINF:244, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Syfy_Universal.svg/1200px-Syfy_Universal.svg.png" tvg-name="Syfy Channel"  group-title="Entertainment",Syfy Channel
 http://thenew.tv:8000/live/Dante/Dante1/104576.m3u8
-
-#EXTINF:245, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png" tvg-name="TNT"  group-title="Entertainment",TNT
-http://doubleagechanmain.com:80/123456/123456/1606
-
-#EXTINF:246, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/1200px-TruTV_2014.svg.png" tvg-name="TruTV"  group-title="Entertainment",TruTV
-http://doubleagechanmain.com:80/123456/123456/1611
 
 #EXTINF:247, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" tvg-name="TBS"  group-title="Entertainment",TBS
 http://thenew.tv:8000/live/Dante/Dante1/104577.m3u8
 
-#EXTINF:248, tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" tvg-name="FX"  group-title="Entertainment",FX
-http://doubleagechanmain.com:80/123456/123456/1541
-
 #EXTINF:249, tvg-id="COMEDYCENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1200px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central"  group-title="Entertainment",Comedy Central
 http://cdn.miip.tv:8080/canada/123456/1
-
-#EXTINF:251, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg/revision/latest/scale-to-width-down/340?cb=20170801131103" tvg-name="Oxygen"  group-title="Entertainment",Oxygen
-http://doubleagechanmain.com:80/123456/123456/1586
-
-#EXTINF:252, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_2017.svg/revision/latest/scale-to-width-down/340?cb=20170718213910" tvg-name="Lifetime"  group-title="Movies",Lifetime
-http://doubleagechanmain.com:80/123456/123456/1563
 
 #EXTINF:254, tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" tvg-name="AMC"  group-title="Entertainment",AMC
 http://207.38.89.242:8080/live/17299/17299/3681.m3u8
 
-#EXTINF:255, tvg-id="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" tvg-name="AMC"  group-title="Entertainment",AMC
-http://doubleagechanmain.com:80/123456/123456/1485
-
-#EXTINF:256, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1280px-TCM_logo.svg.png" tvg-name="TCM"  group-title="Movies",TCM
-http://doubleagechanmain.com:80/123456/123456/1612
-
-#EXTINF:258, tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" tvg-name="FX Movie Channel"  group-title="Entertainment",FX Movie Channel
-http://doubleagechanmain.com:80/123456/123456/1543
-
 #EXTINF:259, tvg-id="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="FXX"  group-title="Entertainment",FXX
 http://thenew.tv:8000/live/Dante/Dante1/104529.m3u8
 
-#EXTINF:260, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/340?cb=20181209164308" tvg-name="WE tv"  group-title="Entertainment",WE tv
-http://doubleagechanmain.com:80/123456/123456/1621
-
 #EXTINF:261, tvg-id="DISCOVERYLIFE" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/Discovery_Life_2016_logo.svg/revision/latest/scale-to-width-down/340?cb=20170826004537" tvg-name="Discovery Life"  group-title="Education",Discovery Life
 http://thenew.tv:8000/live/Dante/Dante1/104602.m3u8
-
-#EXTINF:264, tvg-id="BBCAMERICA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/BBCAmericasquare.png/revision/latest?cb=20160109225206" tvg-name="BBC America"  group-title="Entertainment",BBC America
-http://doubleagechanmain.com:80/123456/123456/1493
-
-#EXTINF:269, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" tvg-name="History Channel"  group-title="Education",History Channel
-http://doubleagechanmain.com:80/123456/123456/1554
 
 #EXTINF:271, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Vice_on_TV_logo.svg/1200px-Vice_on_TV_logo.svg.png" tvg-name="Viceland"  group-title="Entertainment",Viceland
 http://cdn.miip.tv:8080/canada/123456/3800
@@ -193,26 +181,8 @@ http://cdn.miip.tv:8080/canada/123456/3800
 #EXTINF:272, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" tvg-name="Logo"  group-title="Entertainment",Logo
 http://thenew.tv:8000/live/Dante/Dante1/104633.m3u8
 
-#EXTINF:273, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" tvg-name="POP"  group-title="Entertainment",POP
-http://doubleagechanmain.com:80/123456/123456/1590
-
-#EXTINF:276, tvg-id="EPG N/A" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" tvg-name="National Geographic"  group-title="Education",National Geographic
-http://doubleagechanmain.com:80/123456/123456/1578
-
 #EXTINF:278, tvg-id="DISCOVERY" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" tvg-name="Discovery"  group-title="Education",Discovery
 http://plus-tv.us:8080/live/1899/1899/14586.m3u8
-
-#EXTINF:279, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Oprah_Winfrey_Network.svg/revision/latest/scale-to-width-down/340?cb=20170420010759" tvg-name="OWN"  group-title="Entertainment",OWN
-http://doubleagechanmain.com:80/123456/123456/1585
-
-#EXTINF:280, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" tvg-name="TLC"  group-title="Entertainment",TLC
-http://doubleagechanmain.com:80/123456/123456/10935
-
-#EXTINF:282, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/1200px-Animal_Planet_logo_%28black_and_green%29.svg.png" tvg-name="Animal Planet"  group-title="Education",Animal Planet
-http://doubleagechanmain.com:80/123456/123456/1489
-
-#EXTINF:283, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-name="Nat Geo WILD"  group-title="Education",Nat Geo WILD
-http://doubleagechanmain.com:80/123456/123456/1577
 
 #EXTINF:284, tvg-id="DISCOVERYSCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png" tvg-name="Science"  group-title="Education",Science
 http://thenew.tv:8000/live/Dante/Dante1/104603.m3u8
@@ -256,23 +226,8 @@ http://thenew.tv:8000/live/Dante/Dante1/104536.m3u8
 #EXTINF:313, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" tvg-name="Hallmark Drama"  group-title="Movies",Hallmark Drama
 http://plus-tv.us:8080/live/1899/1899/14563.ts
 
-#EXTINF:314, tvg-id="HALLMARKMOVIESMYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" tvg-name="Hallmark Movies & Mysteries"  group-title="Movies",Hallmark Movies & Mysteries
-http://doubleagechanmain.com:80/123456/123456/1552
-
-#EXTINF:328, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/TVOne_2016.png" tvg-name="TV One"  group-title="Entertainment",TV One
-http://doubleagechanmain.com:80/123456/123456/1614
-
 #EXTINF:331, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/7d/a4/67/7da46762ed70634026d066add705e59c.png" tvg-name="MTV"  group-title="Entertainment",MTV
 http://cdn.miip.tv:8080/canada/123456/504
-
-#EXTINF:332, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/MTV2_logo_2005.svg/revision/latest/scale-to-width-down/340?cb=20180304162808" tvg-name="MTV2"  group-title="Entertainment",MTV2
-http://doubleagechanmain.com:80/123456/123456/3862
-
-#EXTINF:333, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f3/IFC_Logo.svg/revision/latest/scale-to-width-down/340?cb=20161112182354" tvg-name="IFC"  group-title="Movies",IFC
-http://doubleagechanmain.com:80/123456/123456/1556
-
-#EXTINF:335, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-C3Az6AUz4No/TlEDuxQBFqI/AAAAAAAAB90/xJELUfsCEEQ/s325/VH1+logo+2003.png" tvg-name="VH1"  group-title="Music",VH1
-http://doubleagechanmain.com:80/123456/123456/10936
 
 #EXTINF:337, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/logo-timeline/images/a/ab/LOGO_VH1_CLASSIC.svg/revision/latest/scale-to-width-down/340?cb=20180322130330" tvg-name="VH1 Classic"  group-title="Music",VH1 Classic
 http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30969
@@ -280,35 +235,14 @@ http://tvpro.millenium-ott.com:25443/00:1A:79:07:F1:26/DZA028JOCJESJZ/30969
 #EXTINF:340, tvg-id="AXSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/1200px-AXS_TV_logo.svg.png" tvg-name="AXS TV"  group-title="Music",AXS TV
 http://cdn.miip.tv:8080/canada/123456/3815
 
-#EXTINF:342, tvg-id="FUSION" tvg-logo="https://4.bp.blogspot.com/-YZc2Bs4CuOg/UY1nNVcTDGI/AAAAAAAAZno/_7nUWeqJNfY/s1600/Fusion+logo+2013.png" tvg-name="Fusion"  group-title="Entertainment",Fusion
-http://doubleagechanmain.com:80/123456/123456/1540
-
-#EXTINF:346, tvg-id="BBCWORLDNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/240px-BBC_World_News_2019.svg.png" tvg-name="BBC World News"  group-title="News",BBC World News
-http://doubleagechanmain.com:80/123456/123456/1494
-
 #EXTINF:347, tvg-id="ALJAZEERA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Al_Jazeera_America_Logo.png" tvg-name="Al Jazeera"  group-title="News",Al Jazeera
 https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
-
-#EXTINF:350, tvg-id="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_of_C-SPAN.svg/1200px-Logo_of_C-SPAN.svg.png" tvg-name="C-SPAN"  group-title="News",C-SPAN
-http://doubleagechanmain.com:80/123456/123456/10855
-
-#EXTINF:351, tvg-id="CSPAN2" tvg-logo="https://images.squarespace-cdn.com/content/v1/576425aebe6594afef4c9028/1482456945956-MDZYNDNNZTGZZV82XUHL/ke17ZwdGBToddI8pDm48kFogQcwqahR2CFTvPCvZ1W5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIyBPPlAFQxAPDm_5P1Gmu37QqqMAKweDyLrMJgfI3Z_c/C-SPAN2.png?format=2500w" tvg-name="C-SPAN 2"  group-title="News",C-SPAN 2
-http://doubleagechanmain.com:80/123456/123456/10856
 
 #EXTINF:353, tvg-id="BLOOMBERGTV" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" tvg-name="Bloomberg TV"  group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:355, tvg-id="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-name="CNBC"  group-title="News",CNBC
-http://doubleagechanmain.com:80/123456/123456/1511
-
-#EXTINF:356, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/MSNBC_logo.png" tvg-name="MSNBC"  group-title="News",MSNBC
-http://doubleagechanmain.com:80/123456/123456/1570
-
 #EXTINF:357, tvg-id="CNBCWORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" tvg-name="CNBC World"  group-title="News",CNBC World
 http://thenew.tv:8000/live/Dante/Dante1/2079.m3u8
-
-#EXTINF:359, tvg-id="FOXBUSINESSNETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png" tvg-name="FOX Business Network"  group-title="Business",FOX Business Network
-http://doubleagechanmain.com:80/123456/123456/3864
 
 #EXTINF:360, tvg-id="FOXNEWSCHANNEL" tvg-logo="https://d12jofbmgge65s.cloudfront.net/blog/wp-content/uploads/2019/04/Fox-news-logo.png" tvg-name="FOX News Channel"  group-title="News",FOX News Channel
 http://207.38.89.242:8080/live/17299/17299/14620.m3u8
@@ -381,6 +315,3 @@ http://cdn.miip.tv:8080/canada/123456/49
 
 #EXTINF:842, tvg-id="EPG123.28440.XMLTV.CO" tvg-logo="" tvg-name="Mexiquese" group-title="Mexico",Mexiquese
 http://cdn.miip.tv:8080/canada/123456/52
-
-#EXTINF:847, tvg-id="CANALONCE" tvg-logo="https://seeklogo.com/images/O/once-mexico-logo-395EEFB8F0-seeklogo.com.png" tvg-name="Canal Once" group-title="News",Canal Once
-http://207.38.89.242:8080/live/17299/17299/16441.m3u8

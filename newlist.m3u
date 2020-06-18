@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1, tvg-id="HBO" tvg-logo="" tvg-name="HBO" group-title="Latino",HBO
+http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/132.m3u8
+
+#EXTINF:-1, tvg-id="HBO2" tvg-logo="" tvg-name="HBO2" group-title="Latino",HBO2
+http://156.96.44.13:25461/live/mitv2020/tGJI1xufdr/133.m3u8
+
 #EXTINF:002, tvg-id="KCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/1176px-CBS_logo.svg.png" tvg-name="CBS 2"  group-title="Local",CBS 2
 #http://doubleagechanmain.com:80/123456/123456/1505
 
@@ -31,7 +38,7 @@ http://cdn.miip.tv:8080/canada/123456/3580
 http://cdn.miip.tv:8080/canada/123456/3782
 
 #EXTINF:011, tvg-id="KTTV" tvg-logo="https://pbs.twimg.com/profile_images/185888803/foxLAnews_400x400.png" tvg-name="FOX 11"  group-title="Local",FOX 11
-#http://doubleagechanmain.com:80/123456/123456/1532
+https://dcs-live.apis.anvato.net/server/play/vAQozBaC9R1Luz7b/rendition.m3u8?track=video-2&anvsid=i178782526-n1a626dc2-931d-4a8b-88de-ce541aaa3faf&ts=1592488002&anvtrid=wf4e21943b8bc43c2950865c576cc5e7
 
 #EXTINF:011, tvg-id="KTTV" tvg-logo="https://www.festivalclaca.cat/imgfv/b/38-385805_fox-tv-logo-png-fox-tv-logo.png" tvg-name="FOX NY"  group-title="Local",FOX NY
 http://plus-tv.us:8080/live/10099/10099/14621.ts

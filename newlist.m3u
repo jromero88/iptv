@@ -28,8 +28,8 @@ http://plus-tv.us:8080/live/10099/10099/14640.ts
 #EXTINF:004, tvg-id="KNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" tvg-name="NBC NY"  group-title="Local",NBC NY
 http://cdn.miip.tv:8080/canada/123456/3580
 
-#EXTINF:005, tvg-id="KTLA" tvg-logo="https://gxchat.content.disney.io/freeform/themes/freeform/images/avatar.png" tvg-name="Freeform"  group-title="Local",Freeform
-#http://doubleagechanmain.com:80/123456/123456/1538
+#EXTINF:005, tvg-id="KTLA" tvg-logo="" tvg-name="KTLA"  group-title="Local",KTLA5
+https://content-ause1-up-5.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c/g.m3u8?ad=newktla&rays=gdbcef&ad.description_url=https://www.ktla.com&ad.tfcd=0&ad.pp=livestream-verizon&pbs=c8d331edc3ee40b4b395bb6277671d56
 
 #EXTINF:007, tvg-id="KABC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" tvg-name="ABC 7"  group-title="Local",ABC 7
 #http://doubleagechanmain.com:80/123456/123456/1483
@@ -66,6 +66,9 @@ http://207.38.89.242:8080/live/17299/17299/14580.m3u8
 
 #EXTINF:052, tvg-id="EPG N/A" tvg-logo="https://vignette.wikia.nocookie.net/tvstations/images/a/a7/Telemundo_52_2018.png/revision/latest?cb=20190613015335" tvg-name="Telemundo"  group-title="Local",Telemundo Dallas
 http://cdn.miip.tv:8080/canada/123456/43
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="" tvg-name="KLCS-TV"  group-title="Local",KLCS
+https://d1mxoeplf1ak5a.cloudfront.net/indexKLCS_720.m3u8
 
 #EXTINF:202, tvg-id="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-name="CNN"  group-title="News",CNN
 http://plus-tv.us:8080/live/1899/1899/14637.m3u8

@@ -1,32 +1,46 @@
 #EXTM3U
 
 
-#EXTINF:-1,tvg-name="Retro TV" tvg-logo="",24/7 - Retro TV
-http://hlsdpi-chqtx03.totalstream.net/hlslive/247retro/ret/dai/7484807815/0/chunklist.m3u8
+###SHOWS###
 
-#EXTINF:-1,tvg-name="Rick & Morty" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png",24/7 - Rick & Morty
+#EXTINF:-1,tvg-name="Rick & Morty" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/11/29/RAM_PORTAL_LOCK_UP.png",24/7 - Rick & Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
-#EXTINF:-1,tvg-name="Robot Chicken" tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg",24/7 - Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream_7.m3u8
+#EXTINF:-1,tvg-name="Los Simpsons" tvg-logo="https://i.ya-webdesign.com/images/simpsons-png.png",24/7 - Los Simpsons
+http://89.105.194.59:25461/3toomyt/3toomyt/68
 
-#EXTINF:-1,tvg-name="Squidbillies" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg",24/7 - Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
+#EXTINF:-1,tvg-name="Dragon Ball" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/db_goldenwarrior.png",24/7 - Dragon Ball
+http://89.105.194.59:25461/3toomyt/3toomyt/69
 
-#EXTINF:-1,tvg-name="Superjail" tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg",24/7 - Superjail!
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_7.m3u8
-
-#EXTINF:-1,tvg-name="The Eric Andre Show" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png",24/7 - The Eric Andre Show
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream_7.m3u8
-
-#EXTINF:-1,tvg-name="The Venture Bros" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/The_Venture_Bros_logo.svg/1200px-The_Venture_Bros_logo.svg.png",24/7 - The Venture Bros.
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream_7.m3u8
-
-#EXTINF:-1,tvg-name="Mr Bean" tvg-logo="",24/7 - Mr Bean
+#EXTINF:-1,tvg-name="Mr Bean" tvg-logo="https://pbs.twimg.com/profile_images/537867024920113152/ENatnQMa_400x400.png",24/7 - Mr Bean
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592519551/ei/H5frXpaNLLGKsfIPz9GEqAo/ip/172.90.186.218/id/mVH3pAQrBDI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXaGohHKJtOEnM2SRK0vDIeLgDpERnaDuzhJdaUAtzMMCIDNNDSAUiUAma9Vfrw8R_kMZoGWtztiT7tb4T-O7z77T/file/index.m3u8
 
-#EXTINF:-1,tvg-name="Tom & Jerry" tvg-logo="",24/7 - Tom & Jerry
+#EXTINF:-1,tvg-name="Tom & Jerry" tvg-logo="https://wordbite.com/images/books/coverpage/1832.png",24/7 - Tom & Jerry
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592507094/ei/dmbrXsWKF-iHsfIPwcS00AE/ip/172.90.186.218/id/BRkQ-ZGiNbc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLEQBACJ5RiW6UqNBxa_HQvAnANksGSHWMWhi5cBamzACIEaavgFquXcnLAx6WvyvSdkEuvuqWb0LXYMLIvDl66uz/file/index.m3u8
 
-#EXTINF:-1,tvg-name="The Fairly OddParents" tvg-logo="",24/7 - The Fairly OddParents
+#EXTINF:-1,tvg-name="The Fairly OddParents" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/f6/The_Fairly_OddParents_logo_with_the_main_characters.png",24/7 - The Fairly OddParents
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1592519711/ei/v5frXvBu05STBvuuo-gG/ip/172.90.186.218/id/n-7Okof_3DE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCtL4zrzbVEhIXcOwzl1sCZlQI6itUaG3_gPXWLzZ3TUCIEqKYCwB2QJeplZsQrRwyD5Yvpv-sQvUU_dQ2Yye1mi8/file/index.m3u8
+
+
+###CHANNELS###
+
+#EXTINF:-1,tvg-name="Retro TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png",24/7 - Retro TV
+http://hlsdpi-chqtx03.totalstream.net/hlslive/247retro/ret/dai/7484807815/0/chunklist.m3u8
+
+#EXTINF:-1,tvg-name="Classic Movies" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/tracks-v1a1/index-1592497682-now.m3u8
+
+#EXTINF:-1,tvg-name="Drive-in Movie" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Drive-in Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/tracks-v1a1/index-1592497850-now.m3u8
+
+#EXTINF:-1,tvg-name="Hollywood History" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Hollywood History
+https://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/tracks-v1a1/index-1592497943-now.m3u8
+
+#EXTINF:-1,tvg-name="Horror" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/tracks-v1a1/index-1592498010-now.m3u8
+
+#EXTINF:-1,tvg-name="Nostalgia Movie Network" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Nostalgia Movie Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/tracks-v1a1/index-1592498129-now.m3u8
+
+#EXTINF:-1,tvg-name="Western Movies" tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png",24/7 - TVS Western Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/tracks-v1a1/index-1592498208-now.m3u8

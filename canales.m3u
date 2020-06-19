@@ -93,15 +93,9 @@ http://89.105.194.59:25461/3spnn41/3spnn41/9
 #EXTINF:-1, tvg-logo="" group-title="Movies",FOX Action
 http://89.105.194.59:25461/5spkssi/5spkssi/19
 
-#EXTINF:-1, tvg-logo="" group-title="Entertainment",Golden
-http://89.105.194.59:25461/5spkssi/5spkssi/7
-
 
 #---Network Local---#
 
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 5
-https://ul.cdn946.net:8443/hls/d75fu9l.m3u8?s=CJDLTmm_2vXd6I3eFpkt9A&e=1592515821
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="Local",ABC 10
 http://nginx.cestrm.xyz:8080/hls/streama117998/index.m3u8

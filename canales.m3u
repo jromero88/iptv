@@ -6,9 +6,6 @@
 #EXTINF:-1, tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/11/29/RAM_PORTAL_LOCK_UP.png" group-title="24/7",Series - Rick & Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="24/7",Series - Best of Adult Animation
-https://bk7l2w4nlx53-hls-live.5centscdn.com/Animation/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
 #EXTINF:-1, tvg-logo="https://i.ya-webdesign.com/images/simpsons-png.png" group-title="24/7",Series - Los Simpsons
 http://89.105.194.59:25461/3toomyt/3toomyt/68
 
@@ -26,15 +23,6 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592568342/ei/
 
 
 #---24-7 Peliculas---#
-
-#EXTINF:-1, tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="24/7",Peliculas - Retro TV
-http://hlsdpi-chqtx03.totalstream.net/hlslive/247retro/ret/dai/7484807815/0/chunklist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="24/7",Peliculas - Americana Classics
-https://bk7l2w4nlx53-hls-live.5centscdn.com/Americana/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="" group-title="24/7",Peliculas - Wild West Network
-https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/520348703328968704/gTNFYdE9_400x400.png" group-title="24/7",Peliculas - TVS Classic Movies
 https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/tracks-v1a1/index-1592497682-now.m3u8
@@ -63,6 +51,9 @@ http://89.105.194.59:25461/1spy78/1spy78/24
 #EXTINF:-1, tvg-logo="" group-title="Movies",HBO 2
 http://89.105.194.59:25461/1spy78/1spy78/22
 
+#EXTINF:-1, tvg-logo="" group-title="Movies",HBO Plus
+http://89.105.194.59:25461/2spv00/2spv00/21
+
 #EXTINF:-1, tvg-logo="" group-title="Movies",HBO Family
 ##http://156.96.44.13:25461/mitv2020/tGJI1xufdr/135
 
@@ -70,13 +61,19 @@ http://89.105.194.59:25461/1spy78/1spy78/22
 ##http://156.96.44.13:25461/mitv2020/tGJI1xufdr/136
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",HBO Xtreme
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/137
+http://89.105.194.59:25461/3spnn41/3spnn41/25
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",HBO Mundi
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/138
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",HBO POP
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/139
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",Cinemax
+http://89.105.194.59:25461/3spnn41/3spnn41/5
+
+#EXTINF:-1, tvg-logo="" group-title="Movies",Cinecanal
+http://89.105.194.59:25461/3spnn41/3spnn41/9
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",FOX Cinema
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/140
@@ -94,7 +91,10 @@ http://89.105.194.59:25461/1spy78/1spy78/22
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/57
 
 #EXTINF:-1, tvg-logo="" group-title="Movies",FOX Action
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/60
+http://89.105.194.59:25461/5spkssi/5spkssi/19
+
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Golden
+http://89.105.194.59:25461/5spkssi/5spkssi/7
 
 
 #---Network Local---#
@@ -119,7 +119,7 @@ https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
 #---Niños---#
 
 #EXTINF:-1, tvg-logo="" group-title="Kids",Cartoon Network
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/99
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CscEjU9gR2iCu96FdoZtO2oqr3bRwgaEY3WfRcC3g0rtHAsuUbdV9ynagbittC7Tadvy68SVxmdoeGP1_kX3tCjIDt9iVlOltFnsCefsdahDXIcHv53qomll3hxepYBqU-V-vuuvy8SzCt-PNXLkacPq_2ZS-hLHF9isc73gsEfsFc24iB5EELkYgpgZtNBck6t1WLNt94aw081KMStqy-YFIPYWY1KdN265y62RmbacT2PopDP4ek1OCmmsEm_1OVrXfvp2jA00Om4x0MuxoXE50i28UzzlWoYqUHn8YYgNfTZXo3AZu85fVQu4x5GXXpS4FzQNJcE7SEXQ63qKhOBkm7sxQJujhaFp3uvV9l2RfQg5_1uzfxf-4hcSMHSG1SMEGUNe4S7GEFbjRmNADHT38WUWQsXPP9hnXF4J8GMjUidUIHTIsDRjViO7MVZFl-ky9EvWrabFzSjB370myOTVp-gM8Q3Sjobxk5OmHjrqRkV_Vm7ndmgq5GUwOMFsnuwiZYPmRywy2dnYGUKWadV7auhzFQDLvffXT6XLPtLGvXjByWhvK5BHUFORC8job7Ss42h07hdMqB8P9BS0mky0wljfgoeBXscyjudzoNdUFZmwVGUvrDeSNDcnia2VGTnyyTye7EeV1nUromqQbCeQvIf2hD4aaXI49v_E-qRXlws2WulyPYKh8jvVLKpTq7Ik7VZVzldQ2gcabLvVxq3UigkFEdaOeLwDorE0Y9v2c27kgojBYy15NT6eM4TA9zDY2IAbbSTeoRIQ1_Zw9GMJKEYAPxuZJfD5uhoMGz04luBJx_zVuMWY.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Kids",Tooncast
 http://89.105.194.59:25461/1toonqql/1toonqql/64
@@ -172,7 +172,7 @@ https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/26
 
 #EXTINF:-1, tvg-logo="" group-title="News",CNN LA
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/28
+http://89.105.194.59:25461/usrrly5/usrrly5/48
 
 #EXTINF:-1, tvg-logo="" group-title="News",FRANCE 24
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/27
@@ -219,6 +219,15 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Telemundo 51
+http://89.105.194.59:25461/usrrly5/usrrly5/49
+
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Univision Miami
+http://89.105.194.59:25461/usrrly5/usrrly5/50
+
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Unimas
+http://89.105.194.59:25461/usrrly5/usrrly5/51
+
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",A&E
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/42
 
@@ -258,8 +267,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",COMEDY CENTRAL
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/45
 
-#EXTINF:-1, tvg-logo="" group-title="Entertainment",FOX SERIES
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/46
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",FOX Series
+http://89.105.194.59:25461/2spv00/2spv00/18
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",TCM
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/51
@@ -269,9 +278,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",GOLDEN Plus
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/55
-
-#EXTINF:-1, tvg-logo="" group-title="Entertainment",GOLDEN
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/56
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Golden EDGE
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/59
@@ -291,14 +297,11 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",FXM
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/67
 
-#EXTINF:-1, tvg-logo="" group-title="Entertainment",SPACE
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/69
+#EXTINF:-1, tvg-logo="" group-title="Entertainment",Space
+http://89.105.194.59:25461/2spv00/2spv00/6
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",TNT
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/70
-
-#EXTINF:-1, tvg-logo="" group-title="Entertainment",CINEMAX
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/71
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",THEATER
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/74
@@ -314,7 +317,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/6
 
 #EXTINF:-1, tvg-logo="" group-title="Spain",ANTENA 3
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/5
+https://livestartover.atresmedia.com/a3internacional/bitrate_4.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Spain",A3SERIES TV
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/4
@@ -349,34 +352,43 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/30
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZTECA 7
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/15
+http://89.105.194.59:25461/1mxnt01/1mxnt01/33
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",CANAL 5
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/16
+http://89.105.194.59:25461/1mxnt01/1mxnt01/35
 
-#EXTINF:-1, tvg-logo="" group-title="Mexico",LAS ESTRELLAS
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/17
+#EXTINF:-1, tvg-logo="" group-title="Mexico",Canal de las Estrellas
+http://89.105.194.59:25461/1mxnt01/1mxnt01/36
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZTECA UNO
-#http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/18
-
-#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CORAZON
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/34
+http://89.105.194.59:25461/1mxnt01/1mxnt01/34
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CINEMA
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/73
 
-#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ MUNDO
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/76
-
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CLIC
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/108
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ Mundo
+http://89.105.194.59:25461/2mxtt12/2mxtt12/38
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",AZ Corazon
+http://89.105.194.59:25461/2mxtt12/2mxtt12/41
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",TLNovelas
+http://89.105.194.59:25461/2mxtt12/2mxtt12/39
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",Pasiones
+http://89.105.194.59:25461/2mxtt12/2mxtt12/40
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",MULTIMEDIOS
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/10
 
-#EXTINF:-1, tvg-logo="" group-title="Mexico",MEXIQUENSE
+#EXTINF:-1, tvg-logo="" group-title="Mexico",Mexiquense
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w327294768.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Mexico",Imagen TV
+http://89.105.194.59:25461/1mxnt01/1mxnt01/37
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",MEXIQUENSE
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/7
@@ -399,9 +411,6 @@ https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w2118
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AXN
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/35
 
-#EXTINF:-1, tvg-logo="" group-title="Mexico",TLNovelas
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/40
-
 #EXTINF:-1, tvg-logo="" group-title="Mexico",MORBIDO
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/53
 
@@ -410,9 +419,6 @@ https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w2118
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",DE PELICULA Plus
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/68
-
-#EXTINF:-1, tvg-logo="" group-title="Mexico",CINECANAL
-#http://156.96.44.13:25461/mitv2020/tGJI1xufdr/72
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",UNICABLE
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/13

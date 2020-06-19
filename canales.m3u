@@ -159,6 +159,9 @@ https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #EXTINF:-1, tvg-logo="" group-title="News",RT News
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/23
 
+#EXTINF:-1, tvg-logo="" group-title="News",RT America
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592573949/ei/nWvsXqH8LIaPkgaGh47gDQ/ip/172.90.186.218/id/NvCSr7qzAAM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5m7lnlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/17090/mh/HH/mm/44/mn/sn-a5m7lnlz/ms/lva/mv/m/mvi/3/pl/14/dover/11/keepalive/yes/mt/1592552293/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAIcoZS7j28jX0q8JAx8jZ7G59dvdoLhaxMgGeNJTiHu9AiBcetvI5ZCkrN7MNnNtruYlvtLpI-ePIAXb9yt2whAiyg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIga6pDpzSyg-0Y34fAPatCfkSBmP9TTtZdOA1RuOKNArkCIFZ9S4J5HTS1U35XNG16itfoDhPTnMdnSqwsn2WIGJXs/playlist/index.m3u8
+
 #EXTINF:-1, tvg-logo="" group-title="News",FOX News
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/24
 

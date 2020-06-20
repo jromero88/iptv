@@ -12,14 +12,6 @@ http://89.105.194.59:25461/3toomyt/3toomyt/68
 #EXTINF:-1, tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/db_goldenwarrior.png" group-title="24/7",Series - Dragon Ball
 http://89.105.194.59:25461/3toomyt/3toomyt/69
 
-#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/537867024920113152/ENatnQMa_400x400.png" group-title="24/7",Series - Mr Bean
-https://www.youtube.com/embed/live_stream?channel=UCkAGrHCLFmlK3H2kd6isipg
-
-#EXTINF:-1, tvg-logo="https://wordbite.com/images/books/coverpage/1832.png" group-title="24/7",Series - Tom & Jerry
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592568251/ei/W1XsXrolhf2SBu3XqYgL/ip/172.90.186.218/id/Ulji9eaDYcM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r5---sn-a5meknzs.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16610/mh/vt/mm/44/mn/sn-a5meknzs/ms/lva/mv/m/mvi/4/pl/14/dover/11/keepalive/yes/mt/1592546537/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgVF1aUwpzXk_Y_2JH7kTKRorYU_m4Vn6DY9BCN2fD5KECIQCVyeTHbYK2in3A2Aci6ESxmexpIFj8-PzEP4m35hV-kQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAI94Zmsq4oA_7qlzLmsq7M5zv0NNojfjB9nB-AN_cYPrAiA922sW_yMT1lX9stBHnrwMvf9KTv-4VvbAHsLWHhCyWg%3D%3D/playlist/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/f/f6/The_Fairly_OddParents_logo_with_the_main_characters.png" group-title="24/7",Series - The Fairly OddParents
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592568342/ei/tlXsXqiXIruCsfIP-LqmmA4/ip/172.90.186.218/id/dfuIZy21htc.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5mlrn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/16540/mh/-W/mm/44/mn/sn-a5mlrn7z/ms/lva/mv/m/mvi/0/pl/14/dover/11/keepalive/yes/beids/9466585/mt/1592546655/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAKYDhM4Gbj5kIN6yWSR8mMaUoayagoxUJsR2B0oCwsTpAiEAjF_K27TFkmt8FGmogJGMg3ojACHcskr9oL07UO2JxSc%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMvL4Y93nE-FBRyvHUcEhF-2hvhRV0gvb3yZuGjnasnNAiEA-1quQsAjzCb60-BVE1bM2BE54N7SzJvK9WAGIFuwAjU%3D/playlist/index.m3u8
 
 
 #---24-7 Peliculas---#

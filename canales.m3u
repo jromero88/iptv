@@ -153,7 +153,7 @@ https://itpolly.iptv.digijadoo.net/live/al_jazeera/playlist.m3u8
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/23
 
 #EXTINF:-1, tvg-logo="" group-title="News",RT America
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592573949/ei/nWvsXqH8LIaPkgaGh47gDQ/ip/172.90.186.218/id/NvCSr7qzAAM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5m7lnlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/17090/mh/HH/mm/44/mn/sn-a5m7lnlz/ms/lva/mv/m/mvi/3/pl/14/dover/11/keepalive/yes/mt/1592552293/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAIcoZS7j28jX0q8JAx8jZ7G59dvdoLhaxMgGeNJTiHu9AiBcetvI5ZCkrN7MNnNtruYlvtLpI-ePIAXb9yt2whAiyg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIga6pDpzSyg-0Y34fAPatCfkSBmP9TTtZdOA1RuOKNArkCIFZ9S4J5HTS1U35XNG16itfoDhPTnMdnSqwsn2WIGJXs/playlist/index.m3u8
+#https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592573949/ei/nWvsXqH8LIaPkgaGh47gDQ/ip/172.90.186.218/id/NvCSr7qzAAM.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r4---sn-a5m7lnlz.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/17090/mh/HH/mm/44/mn/sn-a5m7lnlz/ms/lva/mv/m/mvi/3/pl/14/dover/11/keepalive/yes/mt/1592552293/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIhAIcoZS7j28jX0q8JAx8jZ7G59dvdoLhaxMgGeNJTiHu9AiBcetvI5ZCkrN7MNnNtruYlvtLpI-ePIAXb9yt2whAiyg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIga6pDpzSyg-0Y34fAPatCfkSBmP9TTtZdOA1RuOKNArkCIFZ9S4J5HTS1U35XNG16itfoDhPTnMdnSqwsn2WIGJXs/playlist/index.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="News",FOX News
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/24
@@ -162,7 +162,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1592573949/ei/
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/26
 
 #EXTINF:-1, tvg-logo="" group-title="News",CNN LA
-http://89.105.194.59:25461/usrrly5/usrrly5/48
+#http://89.105.194.59:25461/usrrly5/usrrly5/48
 
 #EXTINF:-1, tvg-logo="" group-title="News",FRANCE 24
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/27
@@ -206,7 +206,7 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 
 #---Entretenimiento---#
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang TV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png" group-title="Entertainment",Arirang Radio
 http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",Telemundo 51
@@ -231,7 +231,7 @@ http://89.105.194.59:25461/4movtt55/4movtt55/15
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/49
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",TNT Series
-http://89.105.194.59:25461/3movtt47/3movtt47/13
+#http://89.105.194.59:25461/3movtt47/3movtt47/13
 
 #EXTINF:-1, tvg-logo="" group-title="Entertainment",FOX Ch
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/36
@@ -348,16 +348,16 @@ https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master03.m3u8
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/30
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZTECA 7
-http://89.105.194.59:25461/1mxnt01/1mxnt01/33
+#http://89.105.194.59:25461/1mxnt01/1mxnt01/33
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",CANAL 5
-http://89.105.194.59:25461/1mxnt01/1mxnt01/35
+#http://89.105.194.59:25461/1mxnt01/1mxnt01/35
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",Canal de las Estrellas
-http://89.105.194.59:25461/1mxnt01/1mxnt01/36
+#http://89.105.194.59:25461/1mxnt01/1mxnt01/36
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZTECA UNO
-http://89.105.194.59:25461/1mxnt01/1mxnt01/34
+#http://89.105.194.59:25461/1mxnt01/1mxnt01/34
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZ CINEMA
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/73
@@ -366,13 +366,13 @@ http://89.105.194.59:25461/1mxnt01/1mxnt01/34
 #http://156.96.44.13:25461/mitv2020/tGJI1xufdr/108
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZ Mundo
-http://89.105.194.59:25461/2mxtt12/2mxtt12/38
+#http://89.105.194.59:25461/2mxtt12/2mxtt12/38
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",AZ Corazon
-http://89.105.194.59:25461/2mxtt12/2mxtt12/41
+#http://89.105.194.59:25461/2mxtt12/2mxtt12/41
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",TLNovelas
-http://89.105.194.59:25461/2mxtt12/2mxtt12/39
+#http://89.105.194.59:25461/2mxtt12/2mxtt12/39
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",Pasiones
 http://89.105.194.59:25461/2mxtt12/2mxtt12/40
@@ -384,7 +384,7 @@ http://89.105.194.59:25461/2mxtt12/2mxtt12/40
 https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/chunklist_w327294768.m3u8
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",Imagen TV
-http://89.105.194.59:25461/1mxnt01/1mxnt01/37
+#http://89.105.194.59:25461/1mxnt01/1mxnt01/37
 
 #EXTINF:-1, tvg-logo="" group-title="Mexico",MEXIQUENSE
 #http://156.96.44.13:25461/televall2020/CTr2mAw2KQ/7

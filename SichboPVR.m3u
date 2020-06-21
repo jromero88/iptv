@@ -54,7 +54,7 @@ http://192.168.0.37:50960/channels/580.ts
 http://192.168.0.37:50960/channels/592.ts
 
 #EXTINF:-1 channel-id="11.3" epg-id="I11.3.68615.zap2it.com" tvg-name="KTTVDT3", Light TV
-http://192.168.0.37:50960/channels/593.ts
+#http://192.168.0.37:50960/channels/593.ts
 
 #EXTINF:-1 channel-id="11.4" epg-id="I11.4.112522.zap2it.com" tvg-name="KTTVDT4", Decades
 http://192.168.0.37:50960/channels/581.ts
@@ -81,10 +81,10 @@ http://192.168.0.37:50960/channels/599.ts
 http://192.168.0.37:50960/channels/600.ts
 
 #EXTINF:-1 channel-id="18.4" epg-id="I18.4.65028.zap2it.com" tvg-name="KSCIDT4", CGN TV
-http://192.168.0.37:50960/channels/601.ts
+#http://192.168.0.37:50960/channels/601.ts
 
 #EXTINF:-1 channel-id="18.5" epg-id="I18.5.59741.zap2it.com" tvg-name="KSCIDT5", YTV
-http://192.168.0.37:50960/channels/603.ts
+#http://192.168.0.37:50960/channels/603.ts
 
 #EXTINF:-1 channel-id="20.1" epg-id="" tvg-name="", SonLife
 #http://192.168.0.37:50960/channels/602.ts
@@ -102,7 +102,7 @@ http://192.168.0.37:50960/channels/638.ts
 http://192.168.0.37:50960/channels/639.ts
 
 #EXTINF:-1 channel-id="34.5" epg-id="I34.5.108256.zap2it.com" tvg-name="KMEXDT5", Super TV
-http://192.168.0.37:50960/channels/640.ts
+#http://192.168.0.37:50960/channels/640.ts
 
 #EXTINF:-1 channel-id="40.1" epg-id="" tvg-name="", TBN
 #http://192.168.0.37:50960/channels/631.ts
@@ -147,7 +147,7 @@ http://192.168.0.37:50960/channels/604.ts
 http://192.168.0.37:50960/channels/605.ts
 
 #EXTINF:-1 channel-id="50.3" epg-id="I50.3.53201.zap2it.com" tvg-name="KOCEDT3", Daystar
-http://192.168.0.37:50960/channels/606.ts
+#http://192.168.0.37:50960/channels/606.ts
 
 #EXTINF:-1 channel-id="50.4" epg-id="I50.4.58716.zap2it.com" tvg-name="KOCEDT4", PBS World
 http://192.168.0.37:50960/channels/607.ts
@@ -165,7 +165,7 @@ http://192.168.0.37:50960/channels/610.ts
 http://192.168.0.37:50960/channels/587.ts
 
 #EXTINF:-1 channel-id="56.2" epg-id="I56.2.60651.zap2it.com" tvg-name="KDOCDT2", ESNE TV
-http://192.168.0.37:50960/channels/586.ts
+#http://192.168.0.37:50960/channels/586.ts
 
 #EXTINF:-1 channel-id="56.3" epg-id="I56.3.60864.zap2it.com" tvg-name="KDOCDT3", MeTV
 http://192.168.0.37:50960/channels/590.ts
@@ -174,13 +174,13 @@ http://192.168.0.37:50960/channels/590.ts
 http://192.168.0.37:50960/channels/582.ts
 
 #EXTINF:-1 channel-id="56.5" epg-id="I56.5.83053.zap2it.com" tvg-name="KDOCDT5", SET TV
-http://192.168.0.37:50960/channels/584.ts
+#http://192.168.0.37:50960/channels/584.ts
 
 #EXTINF:-1 channel-id="56.6" epg-id="I56.6.99692.zap2it.com" tvg-name="KDOCDT6", ThisTV
 http://192.168.0.37:50960/channels/588.ts
 
 #EXTINF:-1 channel-id="56.7" epg-id="I56.7.100092.zap2it.com" tvg-name="KDOCDT7", Little Saigon TV
-http://192.168.0.37:50960/channels/585.ts
+#http://192.168.0.37:50960/channels/585.ts
 
 #EXTINF:-1 channel-id="56.8" epg-id="I56.8.97556.zap2it.com" tvg-name="KDOCDT8", Charge!
 http://192.168.0.37:50960/channels/591.ts

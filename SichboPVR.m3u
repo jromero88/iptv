@@ -1,0 +1,221 @@
+#EXTM3U
+
+
+#EXTINF:-1 channel-id="2.1" epg-id="I2.1.19567.zap2it.com" tvg-name="KCBSDT", CBS Los Angeles
+http://192.168.0.37:50960/channels/628.ts
+
+#EXTINF:-1 channel-id="2.2" epg-id="I2.2.88571.zap2it.com" tvg-name="KCBSDT2", Start TV
+http://192.168.0.37:50960/channels/629.ts
+
+#EXTINF:-1 channel-id="2.3" epg-id="I2.3.112431.zap2it.com" tvg-name="KCBSDT3", Dabl
+http://192.168.0.37:50960/channels/630.ts
+
+#EXTINF:-1 channel-id="4.1" epg-id="I4.1.19568.zap2it.com" tvg-name="KNBCDT", NBC4
+http://192.168.0.37:50960/channels/645.ts
+
+#EXTINF:-1 channel-id="4.2" epg-id="I4.2.45764.zap2it.com" tvg-name="KNBCDT2", Cozi TV
+http://192.168.0.37:50960/channels/646.ts
+
+#EXTINF:-1 channel-id="4.3" epg-id="" tvg-name="KNBCDT3", LX
+http://192.168.0.37:50960/channels/647.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KABC-DT
+http://192.168.0.37:50960/channels/575.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", LOCLish
+http://192.168.0.37:50960/channels/576.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", LAFF
+http://192.168.0.37:50960/channels/577.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KTTV-DT
+http://192.168.0.37:50960/channels/580.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Decades
+http://192.168.0.37:50960/channels/581.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Comet
+http://192.168.0.37:50960/channels/582.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", DT-9
+http://192.168.0.37:50960/channels/583.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", MAJ-TV
+http://192.168.0.37:50960/channels/584.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", CANAAN
+http://192.168.0.37:50960/channels/585.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", ESNE
+http://192.168.0.37:50960/channels/586.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KDOC
+http://192.168.0.37:50960/channels/587.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", ThisTV
+http://192.168.0.37:50960/channels/588.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", LSTV
+http://192.168.0.37:50960/channels/589.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Me-TV
+http://192.168.0.37:50960/channels/590.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", CHARGE
+http://192.168.0.37:50960/channels/591.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KTTV-SD
+http://192.168.0.37:50960/channels/592.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", LIGHTtv
+http://192.168.0.37:50960/channels/593.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KCOP-DT
+http://192.168.0.37:50960/channels/594.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", BUZZR
+http://192.168.0.37:50960/channels/595.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", !MOVIES
+http://192.168.0.37:50960/channels/596.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", HEROES
+http://192.168.0.37:50960/channels/597.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", LA18
+http://192.168.0.37:50960/channels/598.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", SBS
+http://192.168.0.37:50960/channels/599.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", MBCD
+http://192.168.0.37:50960/channels/600.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", CGNTV
+http://192.168.0.37:50960/channels/601.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", SonLife
+http://192.168.0.37:50960/channels/602.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", YTV
+http://192.168.0.37:50960/channels/603.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", PBS-HD
+http://192.168.0.37:50960/channels/604.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", PBS-2
+http://192.168.0.37:50960/channels/605.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Daystar
+http://192.168.0.37:50960/channels/606.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", PBSwrld
+http://192.168.0.37:50960/channels/607.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", PBSkids
+http://192.168.0.37:50960/channels/608.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KVEA-HD
+http://192.168.0.37:50960/channels/609.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", TelXtos
+http://192.168.0.37:50960/channels/610.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KXLA-DT
+http://192.168.0.37:50960/channels/611.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Sino TV
+http://192.168.0.37:50960/channels/612.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", SKYLINK
+http://192.168.0.37:50960/channels/613.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", SKY-CAN
+http://192.168.0.37:50960/channels/614.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", AVA
+http://192.168.0.37:50960/channels/615.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", VietSky
+http://192.168.0.37:50960/channels/616.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", NTDTV
+http://192.168.0.37:50960/channels/617.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KBS 24
+http://192.168.0.37:50960/channels/618.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", CRTV
+http://192.168.0.37:50960/channels/619.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", VGMT
+http://192.168.0.37:50960/channels/620.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", XemTV
+http://192.168.0.37:50960/channels/621.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KJLA
+http://192.168.0.37:50960/channels/622.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", VFACE
+http://192.168.0.37:50960/channels/623.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", VNA
+http://192.168.0.37:50960/channels/624.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", STV
+http://192.168.0.37:50960/channels/625.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", VBS
+http://192.168.0.37:50960/channels/626.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", ZWTV
+http://192.168.0.37:50960/channels/627.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", TBN
+http://192.168.0.37:50960/channels/631.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Hillsng
+http://192.168.0.37:50960/channels/632.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", SMILE
+http://192.168.0.37:50960/channels/633.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Enlace
+http://192.168.0.37:50960/channels/634.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", PosiTiV
+http://192.168.0.37:50960/channels/635.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KMEX-DT
+http://192.168.0.37:50960/channels/636.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", UNIMAS
+http://192.168.0.37:50960/channels/637.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", BOUNCE
+http://192.168.0.37:50960/channels/638.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Justice
+http://192.168.0.37:50960/channels/639.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", STVUSA
+http://192.168.0.37:50960/channels/640.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KTLA-DT
+http://192.168.0.37:50960/channels/641.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", Antenna
+http://192.168.0.37:50960/channels/642.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", CourtTV
+http://192.168.0.37:50960/channels/643.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", TBD
+http://192.168.0.37:50960/channels/644.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KRCA-DT
+http://192.168.0.37:50960/channels/678.ts
+
+#EXTINF:-1 channel-id="" epg-id="" tvg-name="", KRCA-2
+http://192.168.0.37:50960/channels/679.ts

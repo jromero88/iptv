@@ -2,228 +2,159 @@
 
 
 #EXTINF:-1 channel-id="2.1" epg-id="I2.1.19567.zap2it.com" tvg-name="KCBSDT", CBS Los Angeles
-http://192.168.0.37:50960/channels/628.ts
+http://192.168.0.37:50960/channels/1281.ts
 
 #EXTINF:-1 channel-id="2.2" epg-id="I2.2.88571.zap2it.com" tvg-name="KCBSDT2", Start TV
-http://192.168.0.37:50960/channels/629.ts
+http://192.168.0.37:50960/channels/1282.ts
 
 #EXTINF:-1 channel-id="2.3" epg-id="I2.3.112431.zap2it.com" tvg-name="KCBSDT3", Dabl
-http://192.168.0.37:50960/channels/630.ts
+http://192.168.0.37:50960/channels/1283.ts
 
 #EXTINF:-1 channel-id="4.1" epg-id="I4.1.19568.zap2it.com" tvg-name="KNBCDT", NBC4
-http://192.168.0.37:50960/channels/645.ts
+http://192.168.0.37:50960/channels/1293.ts
 
 #EXTINF:-1 channel-id="4.2" epg-id="I4.2.45764.zap2it.com" tvg-name="KNBCDT2", Cozi TV
-http://192.168.0.37:50960/channels/646.ts
+http://192.168.0.37:50960/channels/1294.ts
 
 #EXTINF:-1 channel-id="4.3" epg-id="I4.3.114892.zap2it.com" tvg-name="KNBCDT3", LX
-http://192.168.0.37:50960/channels/647.ts
+http://192.168.0.37:50960/channels/1295.ts
 
 #EXTINF:-1 channel-id="5.1" epg-id="I5.1.19515.zap2it.com" tvg-name="KTLADT", KTLA
-http://192.168.0.37:50960/channels/641.ts
+http://192.168.0.37:50960/channels/1289.ts
 
 #EXTINF:-1 channel-id="5.2" epg-id="I5.2.63335.zap2it.com" tvg-name="KTLADT2", Antenna
-http://192.168.0.37:50960/channels/642.ts
+http://192.168.0.37:50960/channels/1290.ts
 
 #EXTINF:-1 channel-id="5.3" epg-id="I5.3.70319.zap2it.com" tvg-name="KTLADT3", Court TV
-http://192.168.0.37:50960/channels/643.ts
+http://192.168.0.37:50960/channels/1291.ts
 
 #EXTINF:-1 channel-id="5.4" epg-id="I5.4.106857.zap2it.com" tvg-name="KTLADT4", TBD TV
-http://192.168.0.37:50960/channels/644.ts
+http://192.168.0.37:50960/channels/1292.ts
 
 #EXTINF:-1 channel-id="7.1" epg-id="I7.1.19570.zap2it.com" tvg-name="KABCDT", ABC7
-http://192.168.0.37:50960/channels/575.ts
+http://192.168.0.37:50960/channels/1258.ts
 
 #EXTINF:-1 channel-id="7.2" epg-id="I7.2.42615.zap2it.com" tvg-name="KABCDT2", Localish
-http://192.168.0.37:50960/channels/576.ts
+http://192.168.0.37:50960/channels/1259.ts
 
 #EXTINF:-1 channel-id="7.3" epg-id="I7.3.42616.zap2it.com" tvg-name="KABCDT3", Laff
-http://192.168.0.37:50960/channels/577.ts
+http://192.168.0.37:50960/channels/1260.ts
 
 #EXTINF:-1 channel-id="9.1" epg-id="" tvg-name="KCALDT", KCAL 9
+http://192.168.0.37:50960/channels/1263.ts
 
 #EXTINF:-1 channel-id="9.2" epg-id="" tvg-name="KCALDT2", Stadium
+http://192.168.0.37:50960/channels/1264.ts
 
 #EXTINF:-1 channel-id="9.3" epg-id="" tvg-name="KCALDT3", Circle
+http://192.168.0.37:50960/channels/1265.ts
 
+#EXTINF:-1 channel-id="9.4" epg-id="" tvg-name="KCALDT4", HSN
+http://192.168.0.37:50960/channels/1266.ts
+
+#EXTINF:-1 channel-id="9.5" epg-id="" tvg-name="KCALDT5", QVC
+http://192.168.0.37:50960/channels/1267.ts
 
 #EXTINF:-1 channel-id="11.1" epg-id="I11.1.20450.zap2it.com" tvg-name="KTTVDT", FOX 11 HD
-http://192.168.0.37:50960/channels/580.ts
-
 #EXTINF:-1 channel-id="11.2" epg-id="I11.2.66342.zap2it.com" tvg-name="KTTVDT2", FOX 11
-http://192.168.0.37:50960/channels/592.ts
-
 #EXTINF:-1 channel-id="11.3" epg-id="I11.3.68615.zap2it.com" tvg-name="KTTVDT3", Light TV
-#http://192.168.0.37:50960/channels/593.ts
-
 #EXTINF:-1 channel-id="11.4" epg-id="I11.4.112522.zap2it.com" tvg-name="KTTVDT4", Decades
-http://192.168.0.37:50960/channels/581.ts
-
 #EXTINF:-1 channel-id="13.1" epg-id="I13.1.19653.zap2it.com" tvg-name="KCOPDT", My13
-http://192.168.0.37:50960/channels/594.ts
-
 #EXTINF:-1 channel-id="13.2" epg-id="I13.2.66849.zap2it.com" tvg-name="KCOPDT2", Buzzr
-http://192.168.0.37:50960/channels/595.ts
-
 #EXTINF:-1 channel-id="13.3" epg-id="I13.3.81337.zap2it.com" tvg-name="KCOPDT3", Movies!
-http://192.168.0.37:50960/channels/596.ts
-
 #EXTINF:-1 channel-id="13.4" epg-id="I13.4.97062.zap2it.com" tvg-name="KCOPDT4", Heroes & Icons
-http://192.168.0.37:50960/channels/597.ts
 
 #EXTINF:-1 channel-id="18.1" epg-id="I18.1.29035.zap2it.com" tvg-name="KSCIDT", LA18
-http://192.168.0.37:50960/channels/598.ts
+http://192.168.0.37:50960/channels/1268.ts
 
 #EXTINF:-1 channel-id="18.2" epg-id="I18.2.37213.zap2it.com" tvg-name="KSCIDT2", SBS
-http://192.168.0.37:50960/channels/599.ts
+http://192.168.0.37:50960/channels/1269.ts
 
 #EXTINF:-1 channel-id="18.3" epg-id="I18.3.50920.zap2it.com" tvg-name="KSCIDT3", MBC America
-http://192.168.0.37:50960/channels/600.ts
+http://192.168.0.37:50960/channels/1270.ts
 
 #EXTINF:-1 channel-id="18.4" epg-id="I18.4.65028.zap2it.com" tvg-name="KSCIDT4", CGN TV
-#http://192.168.0.37:50960/channels/601.ts
+http://192.168.0.37:50960/channels/1271.ts
 
 #EXTINF:-1 channel-id="18.5" epg-id="I18.5.59741.zap2it.com" tvg-name="KSCIDT5", YTV
-#http://192.168.0.37:50960/channels/603.ts
+http://192.168.0.37:50960/channels/1273.ts
 
 #EXTINF:-1 channel-id="20.1" epg-id="" tvg-name="", SonLife
-#http://192.168.0.37:50960/channels/602.ts
+http://192.168.0.37:50960/channels/1272.ts
 
 #EXTINF:-1 channel-id="34.1" epg-id="I34.1.43048.zap2it.com" tvg-name="KMEXDT", Univision 34
-http://192.168.0.37:50960/channels/636.ts
+http://192.168.0.37:50960/channels/1284.ts
 
 #EXTINF:-1 channel-id="34.2" epg-id="I34.2.44017.zap2it.com" tvg-name="KMEXDT2", Unimás
-http://192.168.0.37:50960/channels/637.ts
+http://192.168.0.37:50960/channels/1285.ts
 
 #EXTINF:-1 channel-id="34.3" epg-id="I34.3.92056.zap2it.com" tvg-name="KMEXDT3", Bounce
-http://192.168.0.37:50960/channels/638.ts
+http://192.168.0.37:50960/channels/1286.ts
 
 #EXTINF:-1 channel-id="34.4" epg-id="I34.4.100352.zap2it.com" tvg-name="KMEXDT4", Justice Network
-http://192.168.0.37:50960/channels/639.ts
+http://192.168.0.37:50960/channels/1287.ts
 
 #EXTINF:-1 channel-id="34.5" epg-id="I34.5.108256.zap2it.com" tvg-name="KMEXDT5", Super TV
-#http://192.168.0.37:50960/channels/640.ts
+http://192.168.0.37:50960/channels/1288.ts
 
 #EXTINF:-1 channel-id="40.1" epg-id="" tvg-name="", TBN
-#http://192.168.0.37:50960/channels/631.ts
-
 #EXTINF:-1 channel-id="40.2" epg-id="" tvg-name="", Hillsng
-#http://192.168.0.37:50960/channels/632.ts
-
 #EXTINF:-1 channel-id="40.3" epg-id="" tvg-name="", SMILE
-#http://192.168.0.37:50960/channels/633.ts
-
 #EXTINF:-1 channel-id="40.4" epg-id="" tvg-name="", Enlace
-#http://192.168.0.37:50960/channels/634.ts
-
 #EXTINF:-1 channel-id="40.5" epg-id="" tvg-name="", PosiTiV
-#http://192.168.0.37:50960/channels/635.ts
-
 #EXTINF:-1 channel-id="44.1" epg-id="" tvg-name="", KXLA-DT
-#http://192.168.0.37:50960/channels/611.ts
-
 #EXTINF:-1 channel-id="44.2" epg-id="" tvg-name="", Sino TV
-#http://192.168.0.37:50960/channels/612.ts
-
 #EXTINF:-1 channel-id="44.3" epg-id="" tvg-name="", SKYLINK
-#http://192.168.0.37:50960/channels/613.ts
-
 #EXTINF:-1 channel-id="44.4" epg-id="" tvg-name="", SKY-CAN
-#http://192.168.0.37:50960/channels/614.ts
-
 #EXTINF:-1 channel-id="44.6" epg-id="" tvg-name="", CRTV
-#http://192.168.0.37:50960/channels/619.ts
-
 #EXTINF:-1 channel-id="44.7" epg-id="" tvg-name="", NTDTV
-#http://192.168.0.37:50960/channels/617.ts
-
 #EXTINF:-1 channel-id="44.8" epg-id="I44.8.67721.zap2it.com" tvg-name="KXLADT8", KBS 24
-http://192.168.0.37:50960/channels/618.ts
 
 #EXTINF:-1 channel-id="50.1" epg-id="I50.1.34544.zap2it.com" tvg-name="KOCEDT", PBS HD
-http://192.168.0.37:50960/channels/604.ts
+http://192.168.0.37:50960/channels/1274.ts
 
 #EXTINF:-1 channel-id="50.2" epg-id="I50.2.46525.zap2it.com" tvg-name="KOCEDT2", PBS
-http://192.168.0.37:50960/channels/605.ts
+http://192.168.0.37:50960/channels/1275.ts
 
 #EXTINF:-1 channel-id="50.3" epg-id="I50.3.53201.zap2it.com" tvg-name="KOCEDT3", Daystar
-#http://192.168.0.37:50960/channels/606.ts
+http://192.168.0.37:50960/channels/1276.ts
 
 #EXTINF:-1 channel-id="50.4" epg-id="I50.4.58716.zap2it.com" tvg-name="KOCEDT4", PBS World
-http://192.168.0.37:50960/channels/607.ts
+http://192.168.0.37:50960/channels/1277.ts
 
 #EXTINF:-1 channel-id="50.5" epg-id="I50.5.102014.zap2it.com" tvg-name="KOCEDT5", PBS SoCal Kids
-http://192.168.0.37:50960/channels/608.ts
+http://192.168.0.37:50960/channels/1278.ts
 
 #EXTINF:-1 channel-id="52.1" epg-id="I52.1.42678.zap2it.com" tvg-name="KVEADT", Telemundo
-http://192.168.0.37:50960/channels/609.ts
+http://192.168.0.37:50960/channels/1279.ts
 
 #EXTINF:-1 channel-id="52.2" epg-id="I52.2.64573.zap2it.com" tvg-name="KVEADT2", TelXtos
-http://192.168.0.37:50960/channels/610.ts
+http://192.168.0.37:50960/channels/1280.ts
 
 #EXTINF:-1 channel-id="56.1" epg-id="I56.1.43284.zap2it.com" tvg-name="KDOCDT", KDOC
-http://192.168.0.37:50960/channels/587.ts
-
 #EXTINF:-1 channel-id="56.2" epg-id="I56.2.60651.zap2it.com" tvg-name="KDOCDT2", ESNE TV
-#http://192.168.0.37:50960/channels/586.ts
-
 #EXTINF:-1 channel-id="56.3" epg-id="I56.3.60864.zap2it.com" tvg-name="KDOCDT3", MeTV
-http://192.168.0.37:50960/channels/590.ts
-
 #EXTINF:-1 channel-id="56.4" epg-id="I56.4.72461.zap2it.com" tvg-name="KDOCDT4", Comet
-http://192.168.0.37:50960/channels/718.ts
-
 #EXTINF:-1 channel-id="56.5" epg-id="I56.5.83053.zap2it.com" tvg-name="KDOCDT5", SET TV
-#http://192.168.0.37:50960/channels/584.ts
-
 #EXTINF:-1 channel-id="56.6" epg-id="I56.6.99692.zap2it.com" tvg-name="KDOCDT6", ThisTV
-http://192.168.0.37:50960/channels/588.ts
-
 #EXTINF:-1 channel-id="56.7" epg-id="I56.7.100092.zap2it.com" tvg-name="KDOCDT7", Little Saigon TV
-#http://192.168.0.37:50960/channels/585.ts
-
 #EXTINF:-1 channel-id="56.8" epg-id="I56.8.97556.zap2it.com" tvg-name="KDOCDT8", Charge!
-http://192.168.0.37:50960/channels/591.ts
-
 #EXTINF:-1 channel-id="56.9" epg-id="" tvg-name="KDOCDT9", KDHL TV
-#http://192.168.0.37:50960/channels/583.ts
-
 #EXTINF:-1 channel-id="56.10" epg-id="" tvg-name="KDOCDT10", Little Saigon TV
-#http://192.168.0.37:50960/channels/589.ts
-
 #EXTINF:-1 channel-id="57.1" epg-id="I57.1.50395.zap2it.com" tvg-name="KJLADT", Azteca
-http://192.168.0.37:50960/channels/622.ts
-
 #EXTINF:-1 channel-id="57.2" epg-id="" tvg-name="", VFACE
-#http://192.168.0.37:50960/channels/623.ts
-
 #EXTINF:-1 channel-id="57.3" epg-id="" tvg-name="", VNA
-#http://192.168.0.37:50960/channels/624.ts
-
 #EXTINF:-1 channel-id="57.4" epg-id="" tvg-name="", VietSky
-#http://192.168.0.37:50960/channels/616.ts
-
 #EXTINF:-1 channel-id="57.5" epg-id="" tvg-name="", STV
-#http://192.168.0.37:50960/channels/625.ts
-
 #EXTINF:-1 channel-id="57.6" epg-id="" tvg-name="", VBS
-#http://192.168.0.37:50960/channels/626.ts
-
 #EXTINF:-1 channel-id="57.7" epg-id="" tvg-name="", AVA
-#http://192.168.0.37:50960/channels/615.ts
-
 #EXTINF:-1 channel-id="57.8" epg-id="I57.8.64840.zap2it.com" tvg-name="KJLADT8", XemTV
-http://192.168.0.37:50960/channels/621.ts
-
 #EXTINF:-1 channel-id="57.9" epg-id="" tvg-name="", ZWTV
-#http://192.168.0.37:50960/channels/627.ts
-
 #EXTINF:-1 channel-id="57.12" epg-id="" tvg-name="", VGMT
-#http://192.168.0.37:50960/channels/620.ts
 
 #EXTINF:-1 channel-id="62.1" epg-id="I62.1.35352.zap2it.com" tvg-name="KRCADT", Estrella TV
-http://192.168.0.37:50960/channels/678.ts
+http://192.168.0.37:50960/channels/1261.ts
 
 #EXTINF:-1 channel-id="62.2" epg-id="I62.2.83320.zap2it.com" tvg-name="KRCADT2", Estrella Dos
-http://192.168.0.37:50960/channels/679.ts
+http://192.168.0.37:50960/channels/1262.ts
 

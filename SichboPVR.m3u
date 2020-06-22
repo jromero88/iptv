@@ -31,28 +31,28 @@ http://192.168.0.37:50960/channels/2367.ts
 #EXTINF:-1 channel-id="5.4" epg-id="I5.4.106857.zap2it.com" group-title="CH35 RF" tvg-name="KTLADT4", TBD TV
 http://192.168.0.37:50960/channels/2368.ts
 
-#EXTINF:-1 channel-id="7.1" epg-id="I7.1.19570.zap2it.com" group-title="CH7 RF" tvg-name="KABCDT", ABC7
+#EXTINF:-1 channel-id="7.1" epg-id="I7.1.19570.zap2it.com" group-title="CH07 RF" tvg-name="KABCDT", ABC7
 http://192.168.0.37:50960/channels/2293.ts
 
-#EXTINF:-1 channel-id="7.2" epg-id="I7.2.42615.zap2it.com" group-title="CH7 RF" tvg-name="KABCDT2", Localish
+#EXTINF:-1 channel-id="7.2" epg-id="I7.2.42615.zap2it.com" group-title="CH07 RF" tvg-name="KABCDT2", Localish
 http://192.168.0.37:50960/channels/2294.ts
 
-#EXTINF:-1 channel-id="7.3" epg-id="I7.3.42616.zap2it.com" group-title="CH7 RF" tvg-name="KABCDT3", Laff
+#EXTINF:-1 channel-id="7.3" epg-id="I7.3.42616.zap2it.com" group-title="CH07 RF" tvg-name="KABCDT3", Laff
 http://192.168.0.37:50960/channels/2295.ts
 
-#EXTINF:-1 channel-id="9.1" epg-id="I9.1.20364.zap2it.com" group-title="CH9 RF" tvg-name="KCALDT", KCAL 9
+#EXTINF:-1 channel-id="9.1" epg-id="I9.1.20364.zap2it.com" group-title="CH09 RF" tvg-name="KCALDT", KCAL 9
 http://192.168.0.37:50960/channels/2298.ts
 
-#EXTINF:-1 channel-id="9.2" epg-id="I9.2.111306.zap2it.com" group-title="CH9 RF" tvg-name="KCALDT2", Stadium
+#EXTINF:-1 channel-id="9.2" epg-id="I9.2.111306.zap2it.com" group-title="CH09 RF" tvg-name="KCALDT2", Stadium
 http://192.168.0.37:50960/channels/2299.ts
 
-#EXTINF:-1 channel-id="9.3" epg-id="I9.3.113639.zap2it.com" group-title="CH9 RF" tvg-name="KCALDT3", Circle
+#EXTINF:-1 channel-id="9.3" epg-id="I9.3.113639.zap2it.com" group-title="CH09 RF" tvg-name="KCALDT3", Circle
 http://192.168.0.37:50960/channels/2300.ts
 
-#EXTINF:-1 channel-id="9.4" epg-id="I9.4.114792.zap2it.com" group-title="CH9 RF" tvg-name="KCALDT4", HSN
+#EXTINF:-1 channel-id="9.4" epg-id="I9.4.114792.zap2it.com" group-title="CH09 RF" tvg-name="KCALDT4", HSN
 #http://192.168.0.37:50960/channels/2301.ts
 
-#EXTINF:-1 channel-id="9.5" epg-id="I9.5..zap2it.com" group-title="CH9 RF" tvg-name="KCALDT5", QVC
+#EXTINF:-1 channel-id="9.5" epg-id="I9.5..zap2it.com" group-title="CH09 RF" tvg-name="KCALDT5", QVC
 #http://192.168.0.37:50960/channels/2302.ts
 
 #EXTINF:-1 channel-id="11.1" epg-id="I11.1.20450.zap2it.com" group-title="CH11 RF" tvg-name="KTTVDT", FOX 11 HD
@@ -246,10 +246,10 @@ http://192.168.0.37:50960/channels/2328.ts
 #EXTINF:-1 channel-id="58.3" epg-id="I58.3.43780.zap2it.com" group-title="CH28 RF" tvg-name="KLCSDT3", Create
 ttp://192.168.0.37:50960/channels/2329.ts
 
-#EXTINF:-1 channel-id="62.1" epg-id="I62.1.35352.zap2it.com" group-title="CH7 RF" tvg-name="KRCADT", Estrella TV
+#EXTINF:-1 channel-id="62.1" epg-id="I62.1.35352.zap2it.com" group-title="CH07 RF" tvg-name="KRCADT", Estrella TV
 http://192.168.0.37:50960/channels/2296.ts
 
-#EXTINF:-1 channel-id="62.2" epg-id="I62.2.83320.zap2it.com" group-title="CH7 RF" tvg-name="KRCADT2", Estrella Dos
+#EXTINF:-1 channel-id="62.2" epg-id="I62.2.83320.zap2it.com" group-title="CH07 RF" tvg-name="KRCADT2", Estrella Dos
 http://192.168.0.37:50960/channels/2297.ts
 
 #EXTINF:-1 channel-id="64.1" epg-id="I64.1.54495.zap2it.com" group-title="CH24 RF" tvg-name="KILMDT", ION

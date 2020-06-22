@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/zap2it-xmltv.xml"
 
 
 #EXTINF:-1 channel-id="2.1" epg-id="I2.1.19567.zap2it.com" tvg-name="KCBSDT", CBS Los Angeles

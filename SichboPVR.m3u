@@ -40,20 +40,20 @@ http://192.168.0.37:50960/channels/1259.ts
 #EXTINF:-1 channel-id="7.3" epg-id="I7.3.42616.zap2it.com" tvg-name="KABCDT3", Laff
 http://192.168.0.37:50960/channels/1260.ts
 
-#EXTINF:-1 channel-id="9.1" epg-id="" tvg-name="KCALDT", KCAL 9
+#EXTINF:-1 channel-id="9.1" epg-id="I9.1.20364.zap2it.com" tvg-name="KCALDT", KCAL 9
 http://192.168.0.37:50960/channels/1263.ts
 
-#EXTINF:-1 channel-id="9.2" epg-id="" tvg-name="KCALDT2", Stadium
+#EXTINF:-1 channel-id="9.2" epg-id="I9.2.111306.zap2it.com" tvg-name="KCALDT2", Stadium
 http://192.168.0.37:50960/channels/1264.ts
 
-#EXTINF:-1 channel-id="9.3" epg-id="" tvg-name="KCALDT3", Circle
+#EXTINF:-1 channel-id="9.3" epg-id="I9.3.113639.zap2it.com" tvg-name="KCALDT3", Circle
 http://192.168.0.37:50960/channels/1265.ts
 
-#EXTINF:-1 channel-id="9.4" epg-id="" tvg-name="KCALDT4", HSN
+#EXTINF:-1 channel-id="9.4" epg-id="I9.4.114792.zap2it.com" tvg-name="KCALDT4", HSN
 http://192.168.0.37:50960/channels/1266.ts
 
 #EXTINF:-1 channel-id="9.5" epg-id="" tvg-name="KCALDT5", QVC
-http://192.168.0.37:50960/channels/1267.ts
+#http://192.168.0.37:50960/channels/1267.ts
 
 #EXTINF:-1 channel-id="11.1" epg-id="I11.1.20450.zap2it.com" tvg-name="KTTVDT", FOX 11 HD
 #EXTINF:-1 channel-id="11.2" epg-id="I11.2.66342.zap2it.com" tvg-name="KTTVDT2", FOX 11
@@ -79,7 +79,7 @@ http://192.168.0.37:50960/channels/1271.ts
 #EXTINF:-1 channel-id="18.5" epg-id="I18.5.59741.zap2it.com" tvg-name="KSCIDT5", YTV
 http://192.168.0.37:50960/channels/1273.ts
 
-#EXTINF:-1 channel-id="20.1" epg-id="" tvg-name="", SonLife
+#EXTINF:-1 channel-id="20.1" epg-id="I20.1.70614.zap2it.com" tvg-name="", SonLife
 http://192.168.0.37:50960/channels/1272.ts
 
 #EXTINF:-1 channel-id="34.1" epg-id="I34.1.43048.zap2it.com" tvg-name="KMEXDT", Univision 34

@@ -2,22 +2,22 @@
 
 
 #EXTINF:-1 channel-id="2.1" epg-id="I2.1.19567.zap2it.com" tvg-name="KCBSDT", CBS Los Angeles
-http://192.168.0.37:50960/channels/1281.ts
+http://192.168.0.37:50960/channels/2352.ts
 
 #EXTINF:-1 channel-id="2.2" epg-id="I2.2.88571.zap2it.com" tvg-name="KCBSDT2", Start TV
-http://192.168.0.37:50960/channels/1282.ts
+http://192.168.0.37:50960/channels/2353.ts
 
 #EXTINF:-1 channel-id="2.3" epg-id="I2.3.112431.zap2it.com" tvg-name="KCBSDT3", Dabl
-http://192.168.0.37:50960/channels/1283.ts
+http://192.168.0.37:50960/channels/2354.ts
 
 #EXTINF:-1 channel-id="4.1" epg-id="I4.1.19568.zap2it.com" tvg-name="KNBCDT", NBC4
-http://192.168.0.37:50960/channels/1293.ts
+http://192.168.0.37:50960/channels/2369.ts
 
 #EXTINF:-1 channel-id="4.2" epg-id="I4.2.45764.zap2it.com" tvg-name="KNBCDT2", Cozi TV
-http://192.168.0.37:50960/channels/1294.ts
+http://192.168.0.37:50960/channels/2370.ts
 
 #EXTINF:-1 channel-id="4.3" epg-id="I4.3.114892.zap2it.com" tvg-name="KNBCDT3", LX
-http://192.168.0.37:50960/channels/1295.ts
+http://192.168.0.37:50960/channels/2371.ts
 
 #EXTINF:-1 channel-id="5.1" epg-id="I5.1.19515.zap2it.com" tvg-name="KTLADT", KTLA
 http://192.168.0.37:50960/channels/1289.ts

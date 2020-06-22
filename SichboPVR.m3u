@@ -171,7 +171,7 @@ http://192.168.0.37:50960/channels/587.ts
 http://192.168.0.37:50960/channels/590.ts
 
 #EXTINF:-1 channel-id="56.4" epg-id="I56.4.72461.zap2it.com" tvg-name="KDOCDT4", Comet
-http://192.168.0.37:50960/channels/582.ts
+http://192.168.0.37:50960/channels/718.ts
 
 #EXTINF:-1 channel-id="56.5" epg-id="I56.5.83053.zap2it.com" tvg-name="KDOCDT5", SET TV
 #http://192.168.0.37:50960/channels/584.ts

@@ -123,7 +123,7 @@ http://192.168.0.37:50960/channels/2362.ts
 http://192.168.0.37:50960/channels/2363.ts
 
 #EXTINF:-1 channel-id="34.5" tvg-id="I34.5.108256.zap2it.com" group-title="CH-34 RF" tvg-name="KMEXDT5", Super TV
-http://192.168.0.37:50960/channels/2364.ts
+#http://192.168.0.37:50960/channels/2364.ts
 
 #EXTINF:-1 channel-id="40.1" tvg-id="I40.1.52307.zap2it.com" group-title="CH-33 RF" tvg-name="KTBNDT", TBN
 #http://192.168.0.37:50960/channels/2355.ts
@@ -141,7 +141,7 @@ http://192.168.0.37:50960/channels/2364.ts
 #http://192.168.0.37:50960/channels/2359.ts
 
 #EXTINF:-1 channel-id="44.1" tvg-id="I44.1.42829.zap2it.com" group-title="CH-30 RF" tvg-name="KXLADT", KXLA
-http://192.168.0.37:50960/channels/2335.ts
+#http://192.168.0.37:50960/channels/2335.ts
 
 #EXTINF:-1 channel-id="44.2" tvg-id="I44.2.42832.zap2it.com" group-title="CH-30 RF" tvg-name="KXLADT2", Sino TV
 #http://192.168.0.37:50960/channels/2336.ts
@@ -229,12 +229,12 @@ http://192.168.0.37:50960/channels/2346.ts
 #http://192.168.0.37:50960/channels/2339.ts
 
 #EXTINF:-1 channel-id="57.8" tvg-id="I57.8.64840.zap2it.com" group-title="CH-30 RF" tvg-name="KJLADT8", XemTV
-http://192.168.0.37:50960/channels/2345.ts
+#http://192.168.0.37:50960/channels/2345.ts
 
 #EXTINF:-1 channel-id="57.9" tvg-id="I57.9.65628.zap2it.com" group-title="CH-30 RF" tvg-name="KJLADT9", ZWTV
 #http://192.168.0.37:50960/channels/2351.ts
 
-#EXTINF:-1 channel-id="57.12" tvg-id="I57.12..zap2it.com" group-title="CH-30 RF" tvg-name="KJLADT12", VGMT
+#EXTINF:-1 channel-id="57.12" tvg-id="I57.12.64882.tvguide.com" group-title="CH-30 RF" tvg-name="KJLA12", VGMT
 #http://192.168.0.37:50960/channels/2344.ts
 
 #EXTINF:-1 channel-id="58.1" tvg-id="I58.1.43777.zap2it.com" group-title="CH-28 RF" tvg-name="KLCSDT", PBS

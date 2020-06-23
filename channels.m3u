@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/tvguide-xmltv.xml"
+#EXTM3U
+x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/tvguide-xmltv.xml"
+x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/guide.xml"
 
 
 #EXTINF:-1 channel-id="2.1" tvg-id="I2.1.19567.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT", CBS Los Angeles
@@ -235,7 +237,7 @@ http://192.168.0.37:50960/channels/2346.ts
 #http://192.168.0.37:50960/channels/2351.ts
 
 #EXTINF:-1 channel-id="57.12" tvg-id="I57.12.64882.tvguide.com" group-title="CH-30 RF" tvg-name="KJLA12", VGMT
-http://192.168.0.37:50960/channels/2344.ts
+#http://192.168.0.37:50960/channels/2344.ts
 
 #EXTINF:-1 channel-id="58.1" tvg-id="I58.1.43777.zap2it.com" group-title="CH-28 RF" tvg-name="KLCSDT", PBS
 http://192.168.0.37:50960/channels/2327.ts

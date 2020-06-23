@@ -1,6 +1,6 @@
 #EXTM3U
-x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/tvguide-xmltv.xml"
-x-tvg-url="https:raw.githubusercontent.com/jromero88/iptv/master/guide.xml"
+x-tvg-url="https://raw.githubusercontent.com/jromero88/iptv/master/tvguide-xmltv.xml"
+x-tvg-url="https://raw.githubusercontent.com/jromero88/iptv/master/guide.xml"
 
 
 #EXTINF:-1 channel-id="2.1" tvg-id="I2.1.19567.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT", CBS Los Angeles

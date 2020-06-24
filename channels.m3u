@@ -200,7 +200,7 @@ http://192.168.0.37:50960/channels/3833.ts
 #EXTINF:-1 channel-id="52.2" tvg-id="I52.2.64573.zap2it.com" group-title="CH-25 RF" tvg-name="KVEADT2", TelXtos
 http://192.168.0.37:50960/channels/3834.ts
 
-#EXTINF:-1 channel-id="54.1" tvg-id="I54.1.43286.zap2it.com" group-title="CH-22 RF" tvg-name="KAZADT", MeTV
+#EXTINF:-1 channel-id="54.1" tvg-id="I54.1.43286.zap2it.com" group-title="CH-22 RF" tvg-name="KAZADT", MeTV HD
 http://192.168.0.37:50960/channels/2724.ts
 
 #EXTINF:-1 channel-id="54.2" tvg-id="I54.2.66282.zap2it.com" group-title="CH-22 RF" tvg-name="KAZADT", Decades

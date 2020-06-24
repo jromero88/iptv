@@ -11,13 +11,13 @@ http://192.168.0.37:50960/channels/2353.ts
 http://192.168.0.37:50960/channels/2354.ts
 
 #EXTINF:-1 channel-id="4.1" tvg-id="I4.1.19568.zap2it.com" group-title="CH-36 RF" tvg-name="KNBCDT", NBC4
-http://192.168.0.37:50960/channels/2369.ts
+http://192.168.0.37:50960/channels/3813.ts
 
 #EXTINF:-1 channel-id="4.2" tvg-id="I4.2.45764.zap2it.com" group-title="CH-36 RF" tvg-name="KNBCDT2", Cozi TV
-http://192.168.0.37:50960/channels/2370.ts
+http://192.168.0.37:50960/channels/3814.ts
 
 #EXTINF:-1 channel-id="4.3" tvg-id="I4.3.114892.zap2it.com" group-title="CH-36 RF" tvg-name="KNBCDT3", LX
-#http://192.168.0.37:50960/channels/2371.ts
+http://192.168.0.37:50960/channels/3815.ts
 
 #EXTINF:-1 channel-id="5.1" tvg-id="I5.1.19515.zap2it.com" group-title="CH-35 RF" tvg-name="KTLADT", KTLA
 http://192.168.0.37:50960/channels/2365.ts
@@ -59,22 +59,33 @@ http://192.168.0.37:50960/channels/2300.ts
 http://192.168.0.37:50960/channels/2303.ts
 
 #EXTINF:-1 channel-id="11.2" tvg-id="I11.2.66342.zap2it.com" group-title="CH-11 RF" tvg-name="KTTVDT2", FOX 11
+http://192.168.0.37:50960/channels/3649.ts
+
 #EXTINF:-1 channel-id="11.3" tvg-id="I11.3.68615.zap2it.com" group-title="CH-11 RF" tvg-name="KTTVDT3", Light TV
+#http://192.168.0.37:50960/channels/3650.ts
+
 #EXTINF:-1 channel-id="11.4" tvg-id="I11.4.112522.zap2it.com" group-title="CH-11 RF" tvg-name="KTTVDT4", Decades
 http://192.168.0.37:50960/channels/2304.ts
 
 #EXTINF:-1 channel-id="13.1" tvg-id="I13.1.19653.zap2it.com" group-title="" tvg-name="KCOPDT", My13
-#EXTINF:-1 channel-id="13.2" tvg-id="I13.2.66849.zap2it.com" group-title="" tvg-name="KCOPDT2", Buzzr
-#EXTINF:-1 channel-id="13.3" tvg-id="I13.3.81337.zap2it.com" group-title="" tvg-name="KCOPDT3", Movies!
-#EXTINF:-1 channel-id="13.4" tvg-id="I13.4.97062.zap2it.com" group-title="" tvg-name="KCOPDT4", Heroes & Icons
+http://192.168.0.37:50960/channels/3651.ts
 
-#EXTINF:-1 channel-id="18.1" tvg-id="I18.1.29035.zap2it.com" group-title="CH-18 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-la18.png" tvg-name="KSCIDT", LA18
+#EXTINF:-1 channel-id="13.2" tvg-id="I13.2.66849.zap2it.com" group-title="" tvg-name="KCOPDT2", Buzzr
+http://192.168.0.37:50960/channels/3652.ts
+
+#EXTINF:-1 channel-id="13.3" tvg-id="I13.3.81337.zap2it.com" group-title="" tvg-name="KCOPDT3", Movies!
+http://192.168.0.37:50960/channels/3653.ts
+
+#EXTINF:-1 channel-id="13.4" tvg-id="I13.4.97062.zap2it.com" group-title="" tvg-name="KCOPDT4", Heroes & Icons
+http://192.168.0.37:50960/channels/3654.ts
+
+#EXTINF:-1 channel-id="18.1" tvg-id="I18.1.29035.zap2it.com" group-title="CH-18 RF" tvg-name="KSCIDT", LA18
 http://192.168.0.37:50960/channels/2305.ts
 
-#EXTINF:-1 channel-id="18.2" tvg-id="I18.2.37213.zap2it.com" group-title="CH-18 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-sbs.png" tvg-name="KSCIDT2", SBS
+#EXTINF:-1 channel-id="18.2" tvg-id="I18.2.37213.zap2it.com" group-title="CH-18 RF" tvg-name="KSCIDT2", SBS
 http://192.168.0.37:50960/channels/2306.ts
 
-#EXTINF:-1 channel-id="18.3" tvg-id="I18.3.50920.zap2it.com" group-title="CH-18 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-mbc.png" tvg-name="KSCIDT3", MBC
+#EXTINF:-1 channel-id="18.3" tvg-id="I18.3.50920.zap2it.com" group-title="CH-18 RF" tvg-name="KSCIDT3", MBC
 http://192.168.0.37:50960/channels/2307.ts
 
 #EXTINF:-1 channel-id="18.4" tvg-id="I18.4.65028.zap2it.com" group-title="CH-18 RF" tvg-name="KSCIDT4", CGN TV
@@ -86,29 +97,29 @@ http://192.168.0.37:50960/channels/2307.ts
 #EXTINF:-1 channel-id="20.1" tvg-id="I20.1.67967.zap2it.com" group-title="CH-18 RF" tvg-name="KNLACD", SonLife
 #http://192.168.0.37:50960/channels/2309.ts
 
-#EXTINF:-1 channel-id="28.1" tvg-id="I28.1.24020.zap2it.com" group-title="CH-28 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-kcethd.png" tvg-name="KCETDT", KCET HD
-http://192.168.0.37:50960/channels/2324.ts
+#EXTINF:-1 channel-id="28.1" tvg-id="I28.1.24020.zap2it.com" group-title="CH-28 RF" tvg-name="KCETDT", KCET HD
+http://192.168.0.37:50960/channels/3779.ts
 
-#EXTINF:-1 channel-id="28.2" tvg-id="I28.2.35413.zap2it.com" group-title="CH-28 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-kcetlnk.png" tvg-name="KCETDT2", KCETLnk
-http://192.168.0.37:50960/channels/2325.ts
+#EXTINF:-1 channel-id="28.2" tvg-id="I28.2.35413.zap2it.com" group-title="CH-28 RF" tvg-name="KCETDT2", KCETLnk
+http://192.168.0.37:50960/channels/3780.ts
 
-#EXTINF:-1 channel-id="28.3" tvg-id="I28.3.55374.zap2it.com" group-title="CH-28 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-nhk.png" tvg-name="KCETDT3", NHK
-http://192.168.0.37:50960/channels/2326.ts
+#EXTINF:-1 channel-id="28.3" tvg-id="I28.3.55374.zap2it.com" group-title="CH-28 RF" tvg-name="KCETDT3", NHK
+http://192.168.0.37:50960/channels/3781.ts
 
 #EXTINF:-1 channel-id="30.1" tvg-id="I30.1.49814.zap2it.com" group-title="CH-24 RF" tvg-name="KPXNDT", ION
-http://192.168.0.37:50960/channels/2316.ts
+http://192.168.0.37:50960/channels/3818.ts
 
 #EXTINF:-1 channel-id="30.2" tvg-id="I30.2.50512.zap2it.com" group-title="CH-24 RF" tvg-name="KPXNDT2", qubo
-http://192.168.0.37:50960/channels/2317.ts
+http://192.168.0.37:50960/channels/3819.ts
 
 #EXTINF:-1 channel-id="30.3" tvg-id="I30.3.49817.zap2it.com" group-title="CH-24 RF" tvg-name="KPXNDT3", Shop
-#http://192.168.0.37:50960/channels/2318.ts
+#http://192.168.0.37:50960/channels/3820.ts
 
 #EXTINF:-1 channel-id="30.5" tvg-id="I30.5.84433.zap2it.com" group-title="CH-24 RF" tvg-name="KPXNDT5", QVC
-#http://192.168.0.37:50960/channels/2319.ts
+#http://192.168.0.37:50960/channels/3821.ts
 
 #EXTINF:-1 channel-id="30.6" tvg-id="I30.6.83481.zap2it.com" group-title="CH-24 RF" tvg-name="KPXNDT6", HSN
-#http://192.168.0.37:50960/channels/2320.ts
+#http://192.168.0.37:50960/channels/3822.ts
 
 #EXTINF:-1 channel-id="34.1" tvg-id="I34.1.43048.zap2it.com" group-title="CH-34 RF" tvg-name="KMEXDT", Univision 34
 http://192.168.0.37:50960/channels/2360.ts
@@ -129,17 +140,9 @@ http://192.168.0.37:50960/channels/2363.ts
 #http://192.168.0.37:50960/channels/2355.ts
 
 #EXTINF:-1 channel-id="40.2" tvg-id="I40.2.53385.zap2it.com" group-title="CH-33 RF" tvg-name="KTBNDT2", Hillsng
-#http://192.168.0.37:50960/channels/2356.ts
-
 #EXTINF:-1 channel-id="40.3" tvg-id="I40.3.53389.zap2it.com" group-title="CH-33 RF" tvg-name="KTBNDT3", SMILE
-#http://192.168.0.37:50960/channels/2357.ts
-
 #EXTINF:-1 channel-id="40.4" tvg-id="I40.4.53397.zap2it.com" group-title="CH-33 RF" tvg-name="KTBNDT4", Enlace
-#http://192.168.0.37:50960/channels/2358.ts
-
 #EXTINF:-1 channel-id="40.5" tvg-id="I40.5.53399.zap2it.com" group-title="CH-33 RF" tvg-name="KTBNDT5", PosiTiV
-#http://192.168.0.37:50960/channels/2359.ts
-
 #EXTINF:-1 channel-id="44.1" tvg-id="I44.1.42829.zap2it.com" group-title="CH-30 RF" tvg-name="KXLADT", KXLA
 #http://192.168.0.37:50960/channels/2335.ts
 
@@ -158,23 +161,23 @@ http://192.168.0.37:50960/channels/2363.ts
 #EXTINF:-1 channel-id="44.7" tvg-id="I44.7.64829.zap2it.com" group-title="CH-30 RF" tvg-name="KXLADT7", NTDTV
 #http://192.168.0.37:50960/channels/2341.ts
 
-#EXTINF:-1 channel-id="44.8" tvg-id="I44.8.67721.zap2it.com" group-title="CH-30 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-kbs24.png" tvg-name="KXLADT8", KBS 24
+#EXTINF:-1 channel-id="44.8" tvg-id="I44.8.67721.zap2it.com" group-title="CH-30 RF" tvg-name="KXLADT8", KBS 24
 http://192.168.0.37:50960/channels/2342.ts
 
 #EXTINF:-1 channel-id="46.1" tvg-id="I46.1.53123.zap2it.com" group-title="CH-29 RF" tvg-name="KFTRDT", UniMas
-http://192.168.0.37:50960/channels/2330.ts
+http://192.168.0.37:50960/channels/3826.ts
 
 #EXTINF:-1 channel-id="46.2" tvg-id="I46.2.67461.zap2it.com" group-title="CH-29 RF" tvg-name="KFTRDT2", GetTV
-http://192.168.0.37:50960/channels/2331.ts
+http://192.168.0.37:50960/channels/3827.ts
 
 #EXTINF:-1 channel-id="46.3" tvg-id="I46.3.90181.zap2it.com" group-title="CH-29 RF" tvg-name="KFTRDT3", ESCAPE
-http://192.168.0.37:50960/channels/2332.ts
+http://192.168.0.37:50960/channels/3828.ts
 
 #EXTINF:-1 channel-id="46.4" tvg-id="I46.4.90182.zap2it.com" group-title="CH-29 RF" tvg-name="KFTRDT4", GRIT
-http://192.168.0.37:50960/channels/2333.ts
+http://192.168.0.37:50960/channels/3829.ts
 
 #EXTINF:-1 channel-id="46.5" tvg-id="I46.5.107681.zap2it.com" group-title="CH-29 RF" tvg-name="KFTRDT5", Quest
-http://192.168.0.37:50960/channels/2334.ts
+http://192.168.0.37:50960/channels/3830.ts
 
 #EXTINF:-1 channel-id="50.1" tvg-id="I50.1.34544.zap2it.com" group-title="CH-18 RF" tvg-name="KOCEDT", PBS HD
 http://192.168.0.37:50960/channels/2311.ts
@@ -192,21 +195,47 @@ http://192.168.0.37:50960/channels/2314.ts
 http://192.168.0.37:50960/channels/2315.ts
 
 #EXTINF:-1 channel-id="52.1" tvg-id="I52.1.42678.zap2it.com" group-title="CH-25 RF" tvg-name="KVEADT", Telemundo
-http://192.168.0.37:50960/channels/2322.ts
+http://192.168.0.37:50960/channels/3833.ts
 
 #EXTINF:-1 channel-id="52.2" tvg-id="I52.2.64573.zap2it.com" group-title="CH-25 RF" tvg-name="KVEADT2", TelXtos
-http://192.168.0.37:50960/channels/2323.ts
+http://192.168.0.37:50960/channels/3834.ts
+
+#EXTINF:-1 channel-id="54.1" tvg-id="I54.1..zap2it.com" group-title="" tvg-name="", MeTV
+http://192.168.0.37:50960/channels/2724.ts
+
+#EXTINF:-1 channel-id="54.2" tvg-id="I54.2..zap2it.com" group-title="" tvg-name="", Decades
+http://192.168.0.37:50960/channels/2725.ts
 
 #EXTINF:-1 channel-id="56.1" tvg-id="I56.1.43284.zap2it.com" group-title="" tvg-name="KDOCDT", KDOC
+http://192.168.0.37:50960/channels/3662.ts
+
 #EXTINF:-1 channel-id="56.2" tvg-id="I56.2.60651.zap2it.com" group-title="" tvg-name="KDOCDT2", ESNE TV
+#http://192.168.0.37:50960/channels/3661.ts
+
 #EXTINF:-1 channel-id="56.3" tvg-id="I56.3.60864.zap2it.com" group-title="" tvg-name="KDOCDT3", MeTV
+http://192.168.0.37:50960/channels/3665.ts
+
 #EXTINF:-1 channel-id="56.4" tvg-id="I56.4.72461.zap2it.com" group-title="" tvg-name="KDOCDT4", Comet
-#EXTINF:-1 channel-id="56.5" tvg-id="I56.5.83053.zap2it.com" group-title="" tvg-name="KDOCDT5", SET TV
+http://192.168.0.37:50960/channels/3657.ts
+
+#EXTINF:-1 channel-id="56.5" tvg-id="I56.5.83053.zap2it.com" group-title="" tvg-name="KDOCDT5", MAJ TV
+#http://192.168.0.37:50960/channels/3659.ts
+
 #EXTINF:-1 channel-id="56.6" tvg-id="I56.6.99692.zap2it.com" group-title="" tvg-name="KDOCDT6", ThisTV
-#EXTINF:-1 channel-id="56.7" tvg-id="I56.7.100092.zap2it.com" group-title="" tvg-name="KDOCDT7", Little Saigon TV
+http://192.168.0.37:50960/channels/3663.ts
+
+#EXTINF:-1 channel-id="56.7" tvg-id="I56.7.100092.zap2it.com" group-title="" tvg-name="KDOCDT7", CANAAN
+#http://192.168.0.37:50960/channels/3660.ts
+
 #EXTINF:-1 channel-id="56.8" tvg-id="I56.8.97556.zap2it.com" group-title="" tvg-name="KDOCDT8", Charge!
+http://192.168.0.37:50960/channels/3666.ts
+
 #EXTINF:-1 channel-id="56.9" tvg-id="I56.9..zap2it.com" group-title="" tvg-name="KDOCDT9", KDHL TV
+#http://192.168.0.37:50960/channels/3658.ts
+
 #EXTINF:-1 channel-id="56.10" tvg-id="I58.10..zap2it.com" group-title="" tvg-name="KDOCDT10", Little Saigon TV
+#http://192.168.0.37:50960/channels/3664.ts
+
 #EXTINF:-1 channel-id="57.1" tvg-id="I57.1.50395.zap2it.com" group-title="CH-30 RF" tvg-name="KJLADT", Azteca
 http://192.168.0.37:50960/channels/2346.ts
 
@@ -237,21 +266,21 @@ http://192.168.0.37:50960/channels/2346.ts
 #EXTINF:-1 channel-id="57.12" tvg-id="I57.12..zap2it.com" group-title="CH-30 RF" tvg-name="KJLADT12", VGMT
 #http://192.168.0.37:50960/channels/2344.ts
 
-#EXTINF:-1 channel-id="58.1" tvg-id="I58.1.43777.zap2it.com" group-title="CH-28 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-pbsklcs.png" tvg-name="KLCSDT", PBS
-http://192.168.0.37:50960/channels/2327.ts
+#EXTINF:-1 channel-id="58.1" tvg-id="I58.1.43777.zap2it.com" group-title="CH-28 RF" tvg-name="KLCSDT", PBS KLCS
+http://192.168.0.37:50960/channels/3782.ts
 
-#EXTINF:-1 channel-id="58.2" tvg-id="I58.2.43779.zap2it.com" group-title="CH-28 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-kidsklcs.png" tvg-name="KLCSDT2", PBS Kids
-http://192.168.0.37:50960/channels/2328.ts
+#EXTINF:-1 channel-id="58.2" tvg-id="I58.2.43779.zap2it.com" group-title="CH-28 RF" tvg-name="KLCSDT2", Kids KLCS
+http://192.168.0.37:50960/channels/3783.ts
 
 #EXTINF:-1 channel-id="58.3" tvg-id="I58.3.43780.zap2it.com" group-title="CH-28 RF" tvg-name="KLCSDT3", Create
-ttp://192.168.0.37:50960/channels/2329.ts
+http://192.168.0.37:50960/channels/3784.ts
 
 #EXTINF:-1 channel-id="62.1" tvg-id="I62.1.35352.zap2it.com" group-title="CH-07 RF" tvg-name="KRCADT", Estrella TV
 http://192.168.0.37:50960/channels/2296.ts
 
-#EXTINF:-1 channel-id="62.2" tvg-id="I62.2.83320.zap2it.com" group-title="CH-07 RF" tvg-logo="https://raw.githubusercontent.com/jromero88/iptv/master/missing-logos/logo-estrellatv.png" tvg-name="KRCADT2", Estrella Dos
+#EXTINF:-1 channel-id="62.2" tvg-id="I62.2.83320.zap2it.com" group-title="CH-07 RF" tvg-name="KRCADT2", Estrella Dos
 http://192.168.0.37:50960/channels/2297.ts
 
 #EXTINF:-1 channel-id="64.1" tvg-id="I64.1.54495.zap2it.com" group-title="CH-24 RF" tvg-name="KILMDT", ION
-http://192.168.0.37:50960/channels/2321.ts
+http://192.168.0.37:50960/channels/3823.ts
 

@@ -6,7 +6,7 @@ http://192.168.0.37:50960/channels/3932.ts
 #EXTINF:-1 channel-id="2.2" tvg-id="I2.2.88571.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT2", Start TV
 http://192.168.0.37:50960/channels/3933.ts
 
-EXTINF:-1 channel-id="2.3" tvg-id="I2.3.112431.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT3", Dabl
+#EXTINF:-1 channel-id="2.3" tvg-id="I2.3.112431.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT3", Dabl
 http://192.168.0.37:50960/channels/3934.ts
 
 #EXTINF:-1 channel-id="4.1" tvg-id="I4.1.19568.zap2it.com" group-title="CH-36 RF" tvg-name="KNBCDT", NBC 4

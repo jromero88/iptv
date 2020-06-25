@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="2.1" tvg-id="I2.1.19567.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT", CBS LA
+#EXTINF:-1 channel-id="2.1" tvg-id="I2.1.19567.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT", CBS 2
 http://192.168.0.37:50960/channels/3932.ts
 
 #EXTINF:-1 channel-id="2.2" tvg-id="I2.2.88571.zap2it.com" group-title="CH-31 RF" tvg-name="KCBSDT2", Start TV

@@ -7,4 +7,49 @@
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras", HCH
-https://5d597bfcee285.streamlock.net/hch/hch/chunklist_w1207106026.m3u8
+https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
+
+
+##Spain##
+#EXTINF:-1 tvg-logo="" group-title="Spain", Antena3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Spain", LaSexta
+https://livestartover.atresmedia.com/lasexta/master.m3u8
+
+##Mexico##
+#EXTINF:-1 tvg-logo="" group-title="Mexico", Canal 11
+https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
+
+##News##
+#EXTINF:-1 tvg-logo="" group-title="News", France 24 ES
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", France 24 EN
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", RT News ES
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", RT News EN
+https://rt-usa-gd.secure2.footprint.net/1105.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="News", Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+##Entertainment##
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", BUZZR TV
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", Dabl
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8

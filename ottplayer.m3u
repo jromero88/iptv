@@ -1,5 +1,34 @@
 #EXTM3U
 
+##Local##
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Telemundo
+http://192.168.0.37:50960/channels/4952.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Univision
+http://192.168.0.37:50960/channels/4990.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", PBS HD
+http://192.168.0.37:50960/channels/4934.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", CBS 2
+http://192.168.0.37:50960/channels/4987.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", NBC 4
+http://192.168.0.37:50960/channels/4999.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", KTLA 5
+http://192.168.0.37:50960/channels/4995.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Antenna
+http://192.168.0.37:50960/channels/4996.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", ABC 7
+http://192.168.0.37:50960/channels/4918.ts
+
+#EXTINF:-1 tvg-logo="" group-title="Local", Decades
+http://192.168.0.37:50960/channels/4940.ts
+
 
 ##Honduras##
 
@@ -43,6 +72,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="News", Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="News", ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
 ##Entertainment##
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", BUZZR TV
@@ -50,6 +82,3 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Entertainment", Dabl
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Entertainment", ABC Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8

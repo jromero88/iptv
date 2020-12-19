@@ -6,28 +6,29 @@
 http://192.168.0.37:50960/channels/4952.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Univision
-http://192.168.0.37:50960/channels/4990.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", PBS HD
-http://192.168.0.37:50960/channels/4934.m3u8
+http://192.168.0.37:50960/channels/5287.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Local", PBS 2
+http://192.168.0.37:50960/channels/5208.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", CBS 2
-http://192.168.0.37:50960/channels/4987.m3u8
+http://192.168.0.37:50960/channels/5278.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", NBC 4
-http://192.168.0.37:50960/channels/4999.m3u8
+http://192.168.0.37:50960/channels/5296.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", KTLA 5
-http://192.168.0.37:50960/channels/4995.m3u8
+#http://192.168.0.37:50960/channels/4995.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", Antenna
-http://192.168.0.37:50960/channels/4996.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local", MeTV
+http://192.168.0.37:50960/channels/5212.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Local", ABC 7
-http://192.168.0.37:50960/channels/4918.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Local",Telemundo
+http://192.168.0.37:50960/channels/5243.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Local", Decades
-http://192.168.0.37:50960/channels/4940.m3u8
+http://192.168.0.37:50960/channels/5213.m3u8
 
 
 ##Honduras##

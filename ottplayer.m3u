@@ -36,6 +36,9 @@ http://192.168.0.37:50960/channels/5213.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Honduras", Televicentro
 http://200.115.190.213:8000/play/z2Whc6dVUvW6c9BE/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Honduras", Teleceiba
+http://200.115.190.213:8000/play/wTUasRcEn9wz7AcM/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Honduras", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
 

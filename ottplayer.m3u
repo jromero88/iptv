@@ -34,7 +34,7 @@ http://192.168.0.37:50960/channels/5213.m3u8
 ##Honduras##
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras", Televicentro
-https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/playlist.m3u8
+http://200.115.190.213:8000/play/z2Whc6dVUvW6c9BE/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras", TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8

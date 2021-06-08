@@ -43,7 +43,7 @@ http://200.115.190.213:8000/play/wTUasRcEn9wz7AcM/index.m3u8
 http://200.115.190.213:8000/play/vkt28E8zEREKhuyv/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras", TSi
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Honduras", TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8

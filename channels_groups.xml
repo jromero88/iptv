@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels_groups>
 	<language id="en" lang="English Web TV and Radio">
-		<channels_group uri="https://raw.githubusercontent.com/jromero88/iptv/master/channels/us.m3u" name="Web TV (US)"></channels_group>
-		<channels_group uri="https://raw.githubusercontent.com/jromero88/iptv/master/channels/uk.m3u" name="Web TV (UK)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/ca.m3u" name="Web TV (Canada)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/us.m3u" name="Web TV (US)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u" name="Web TV (UK)"></channels_group>
 	</language>
 	<language id="la" lang="Latin Web TV and Radio">
-		<channels_group uri="https://raw.githubusercontent.com/jromero88/iptv/master/channels/hn.m3u" name="Web TV (Honduras)"></channels_group>
-		<channels_group uri="https://raw.githubusercontent.com/jromero88/iptv/master/channels/mx.m3u" name="Web TV (Mexico)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hn.m3u" name="Web TV (Honduras)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/mx.m3u" name="Web TV (Mexico)"></channels_group>
 	</language>
 	<language id="es" lang="Spanish Web TV and Radio">
-		<channels_group uri="https://raw.githubusercontent.com/jromero88/iptv/master/channels/es.m3u" name="Web TV (Spain)"></channels_group>
+		<channels_group uri="https://raw.githubusercontent.com/iptv-org/iptv/master/channels/es.m3u" name="Web TV (Spain)"></channels_group>
 	</language>
 </channels_groups>

@@ -1,15 +1,15 @@
 #EXTM3U
-EXTINF:0,Televicentro
+EXTINF:0, Televicentro
 http://200.115.190.213:8000/play/z2Whc6dVUvW6c9BE/index.m3u8
-EXTINF:0,Teleceiba
+EXTINF:0, Teleceiba
 http://200.115.190.213:8000/play/wTUasRcEn9wz7AcM/index.m3u8
-EXTINF:0,Teleprogreso
+EXTINF:0, Teleprogreso
 http://200.115.190.213:8000/play/vkt28E8zEREKhuyv/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TSi
+EXTINF:0, TSi
 https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TEN
+EXTINF:0, TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Honduras", TEN
+EXTINF:0, TEN (opt-2)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Honduras", HCH
+EXTINF:0, HCH
 https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8

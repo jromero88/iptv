@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/5_el_lider_honduras.png" group-title="", Canal 5 El Lider
-https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qRHwhND.png" group-title="", Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tzqCSrl.png" group-title="", Hondured Canal 13
-http://stream.innovandote.com:1935/hondured/hondured/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/afXNqMb.png" group-title="", Maya TV
-https://5d00db0e0fcd5.streamlock.net/7202/7202/chunklist_w1126895649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ImxGqTN.jpg" group-title="", Q'hubo
-http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mIMat1y.jpg" group-title="", Sercano TV
-http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/trzcUdT.png" group-title="", Si TV
-http://st2.worldkast.com/8030/8030/Sitv-Honduras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wIcvdMQ.jpg" group-title="", Teleceiba Canal 7
-http://190.11.224.14:8134/liveevent.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="", TEN Canal 10 (Opt-1)
+#EXTINF:-1 tvg-logo="" group-title="Honduras", Televicentro
+http://200.115.190.213:8000/play/z2Whc6dVUvW6c9BE/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", Teleceiba
+http://200.115.190.213:8000/play/wTUasRcEn9wz7AcM/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", Teleprogreso
+http://200.115.190.213:8000/play/vkt28E8zEREKhuyv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", TSi
+https://bcovlive-a.akamaihd.net/5a4db02a43d645729f273b91c5ba9238/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", TEN
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="", TEN Canal 10 (Opt-2)
-http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w517207077_b1848000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="", TSi
-https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", TEN
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Honduras", HCH
+https://5d597bfcee285.streamlock.net/hch/hch/master.m3u8
